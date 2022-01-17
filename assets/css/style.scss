@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+#target a:hover .area, #target a:active .area {
+  fill:#BBBBBB;
+}
+#target a:hover .st3, #target a:active .st3,
+#target a:hover .st4, #target a:active .st4 {
+  fill: blue;
+}
+
+.st3 {
+  fill: #C1272D;
+}
+
+.st4 {
+  fill: #333333;
+}
