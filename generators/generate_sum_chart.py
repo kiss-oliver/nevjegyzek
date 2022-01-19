@@ -156,7 +156,7 @@ labelLimit= 0,
     orient='bottom'
 ) 
 
-with open('../_includes/nemzetisegi.html', 'w') as f:
+with open('../_includes/osszesitett.html', 'w') as f:
     f.write(two_charts_template.format(
         vega_version=alt.VEGA_VERSION,
         vegalite_version=alt.VEGALITE_VERSION,
