@@ -57,5 +57,5 @@ labelLimit= 0,
     orient='bottom'
 ) 
 
-print(chart)
+print(chart.data)
 save(chart, '../_includes/chart.html')
