@@ -6,10 +6,6 @@ defaults:
 
 # Controls when the workflow will run
 on:
-  schedule:
-    - cron: '0 * * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -23,6 +19,7 @@ jobs:
       - name: Checkout Data objects and setup
         run: |
           git clone https://github.com/kiss-oliver/106.git
+          ls
           cd 106
           git lfs checkout
           cat data/summary.csv
