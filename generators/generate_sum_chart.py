@@ -3,6 +3,27 @@ import altair as alt
 from altair_saver import save
 alt.renderers.enable('default')
 
+two_charts_template = """
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@{vega_version}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@{vegalite_version}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@{vegaembed_version}"></script>
+</head>
+<body>
+
+<div id="vis1"></div>
+<div id="vis2"></div>
+
+<script type="text/javascript">
+  vegaEmbed('#vis1', {spec1}).catch(console.error);
+  vegaEmbed('#vis2', {spec2}).catch(console.error);
+</script>
+</body>
+</html>
+"""
+
 df = pd.read_csv('../106/data/summary.csv')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
@@ -52,12 +73,12 @@ chart = alt.layer(
     width=600, height=180
 )
 
-chart = chart.configure_legend(
+chart1 = chart.configure_legend(
 labelLimit= 0,
     orient='bottom'
 ) 
 
-save(chart, '../_includes/osszesitett.html')
+
 
 sumdata = pd.melt(df, id_vars=['Datum'], value_vars=['bolgar',
  'gorog',
@@ -130,10 +151,16 @@ chart = alt.layer(
     width=600, height=180
 )
 
-chart = chart.configure_legend(
+chart2 = chart.configure_legend(
 labelLimit= 0,
     orient='bottom'
 ) 
 
-
-save(chart, '../_includes/nemzetisegi.html')
+with open('../_includes/nemzetisegi.html', 'w') as f:
+    f.write(two_charts_template.format(
+        vega_version=alt.VEGA_VERSION,
+        vegalite_version=alt.VEGALITE_VERSION,
+        vegaembed_version=alt.VEGAEMBED_VERSION,
+        spec1=chart1.to_json(indent=None),
+        spec2=chart2.to_json(indent=None),
+    ))
