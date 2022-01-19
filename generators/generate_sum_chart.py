@@ -2,6 +2,7 @@ import pandas as pd
 import altair as alt
 
 df = pd.read_csv('../106/data/summary.csv')
+print(df)
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
 sumdata = pd.melt(df, id_vars=['Datum'], value_vars=['lakcSzavkorSzavaz','magyarLakc','levelben','partlistara','nemzreSzavaz']).rename(columns={'Datum':"Dátum",'value':'Fő','variable':'Szavazás módja'})
@@ -55,4 +56,5 @@ labelLimit= 0,
     orient='bottom'
 ) 
 
+print(chart)
 chart.save('../_includes/chart.html')
