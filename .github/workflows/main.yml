@@ -25,6 +25,7 @@ jobs:
           cat data/summary.csv
           pip3 install pandas
           pip3 install altair
+          pip3 install altair_saver
       - name: Generate graphs
         run: |
           ls
