@@ -1,0 +1,28 @@
+name: Update data
+
+defaults:
+  run:
+    shell: /usr/bin/bash {0}
+
+# Controls when the workflow will run
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          lfs: true
+      - name: Checkout Data objects
+        run: |
+          git clone https://github.com/kiss-oliver/106.git
+          cd 106
+          git lfs checkout
+          cat data/summary.csv
