@@ -20,9 +20,16 @@ jobs:
         uses: actions/checkout@v2
         with:
           lfs: true
-      - name: Checkout Data objects
+      - name: Checkout Data objects and setup
         run: |
           git clone https://github.com/kiss-oliver/106.git
           cd 106
           git lfs checkout
           cat data/summary.csv
+          pip3 install pandas
+          pip3 install altair
+      - name: Generate graphs
+        run: |
+          cd ../generators
+          python3 generate_sum_chart.py
+          
