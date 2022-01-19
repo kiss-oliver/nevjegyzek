@@ -19,21 +19,19 @@ jobs:
       - name: Checkout Data objects and setup
         run: |
           git clone https://github.com/kiss-oliver/106.git
-          ls
           cd 106
           git lfs checkout
-          cat data/summary.csv
           pip3 install pandas
           pip3 install altair
           pip3 install altair_saver
       - name: Generate graphs
         run: |
-          ls
           cd generators
           python3 generate_sum_chart.py
           cd ../_includes
           git config --global user.name 'Automated workflow - Update data'
           git config --global user.email 'kiss-oliver@users.noreply.github.com'
           git add chart.html
+          sed -i '1d' chart.html
           git commit -m "Update main summary chart using update data workflow."
           git push
