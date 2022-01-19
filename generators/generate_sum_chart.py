@@ -1,6 +1,7 @@
 import pandas as pd
 import altair as alt
 from altair_saver import save
+alt.renderers.enable('default')
 
 df = pd.read_csv('../106/data/summary.csv')
 print(df)
