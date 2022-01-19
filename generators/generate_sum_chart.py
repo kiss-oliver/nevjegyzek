@@ -59,8 +59,6 @@ labelLimit= 0,
 
 save(chart, '../_includes/osszesitett.html')
 
-df = pd.read_csv('summary.csv')
-df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 sumdata = pd.melt(df, id_vars=['Datum'], value_vars=['bolgar',
  'gorog',
  'horvat',
