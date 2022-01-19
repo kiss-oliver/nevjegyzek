@@ -4,7 +4,6 @@ from altair_saver import save
 alt.renderers.enable('default')
 
 df = pd.read_csv('../106/data/summary.csv')
-print(df)
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
 sumdata = pd.melt(df, id_vars=['Datum'], value_vars=['lakcSzavkorSzavaz','magyarLakc','levelben','partlistara','nemzreSzavaz']).rename(columns={'Datum':"Dátum",'value':'Fő','variable':'Szavazás módja'})
@@ -58,5 +57,4 @@ labelLimit= 0,
     orient='bottom'
 ) 
 
-print(chart.data)
 save(chart, '../_includes/chart.html')
