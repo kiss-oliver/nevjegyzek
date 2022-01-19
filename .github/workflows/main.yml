@@ -27,7 +27,8 @@ jobs:
           pip3 install altair
       - name: Generate graphs
         run: |
-          cd ../generators
+          ls
+          cd generators
           python3 generate_sum_chart.py
           cd ../_includes
           tail -n +2 chart.html > chart.html
