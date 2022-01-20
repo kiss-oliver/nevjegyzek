@@ -1,5 +1,6 @@
 import pandas as pd
 import altair as alt
+import unidecode
 
 df = pd.read_csv('../106/data/oevk.csv')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
@@ -49,4 +50,4 @@ for m in set(df.maz.tolist()):
         width=400, height=50
     ).facet(row=alt.Row('evk_nev', header=alt.Header(labelAngle=0, labelAlign='left'), title="")).resolve_scale(x='independent')
     
-    ch.save('../_includes/{}.json'.format(source.maz_nev.unique()[0]))
+    ch.save('../_includes/{}.json'.format(unidecode.unidecode(source.maz_nev.unique()[0].replace("-",""))))
