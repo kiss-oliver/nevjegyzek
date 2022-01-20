@@ -1,7 +1,18 @@
 <!-- Tab content -->
+
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+
+
+  
 <div id="Budapest" class="tabcontent">
   <h3>Budapest</h3>
-  <p>Adatok.</p>
+  <div id="vis1"></div>
 </div>
 
 <div id="Baranya" class="tabcontent">
@@ -98,3 +109,9 @@
   <h3>Borsod-Abaúj-Zemplén</h3>
   <p>Adatok.</p>
 </div>
+
+<script type="text/javascript">
+  vegaEmbed('#vis1', {% include BUDAPEST.json %}).catch(console.error);
+</script>
+</body>
+</html>
