@@ -24,6 +24,7 @@ jobs:
           pip3 install pandas
           pip3 install altair
           pip3 install altair_saver
+          pip3 install unidecode
       - name: Generate graphs
         run: |
           cd generators
