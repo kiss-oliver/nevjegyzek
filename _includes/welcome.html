@@ -1,11 +1,14 @@
 <center>
 <div class="tab">
-  <button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')" style="font-size:35px;height:50px;width:250px">OEVK adatok</button>
-  <button class="Typetablinks" onclick="openType(event, 'Orszagos')" style="font-size:35px;height:50px;width:250px">Országos adatok</button>
+  <button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')" style="font-size:20px;height:50px;width:250px">OEVK adatok</button>
+  <button class="Typetablinks" onclick="openType(event, 'Orszagos')" style="font-size:20px;height:50px;width:250px">Országos adatok</button>
 </div>
+
+  {% include selector.html %}
+  
 </center>
 
-{% include selector.html %}
+
 
 <div id="Orszagos" class="Typetabcontent">
 
