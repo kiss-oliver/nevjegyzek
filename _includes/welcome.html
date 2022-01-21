@@ -1,7 +1,11 @@
+<center>
 <div class="tab">
   <button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')">OEVK adatok</button>
   <button class="Typetablinks" onclick="openType(event, 'Orszagos')">Országos adatok</button>
 </div>
+</center>
+
+<div id="Orszagos" class="tabcontent">
 
 <center> <h1> Országos adatok </h1>
 </center>
@@ -12,6 +16,10 @@
 
 </div>
 
+</div>
+  
+<div id="OEVK" class="tabcontent">
+  
 <center> <h1> OEVK adatok </h1>
   <h2> Válaszd ki a megyét a térképről </h2>
 </center>
@@ -25,3 +33,5 @@
 {% include county_graphs.html %}
 
 {% include initial_tab.html %}
+
+</div>
