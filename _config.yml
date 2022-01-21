@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Választási névjegyzék 2022
-description: A 2022-es Magyar Országgyűlési Választások névjegyzékében szereplők számának idősorai
+description: A 2022-es Magyar Országgyűlési Választások névjegyzékében szereplők számának alakulása
+github:
+  is_project_page: false
