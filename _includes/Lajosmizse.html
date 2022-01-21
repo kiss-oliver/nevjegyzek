@@ -1,0 +1,33 @@
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+
+<div style="text-align:center">
+
+<div id="vv1"></div>
+<div id="vv2"></div>
+<div id="vv3"></div>
+<div id="vv4"></div>
+<div id="vv5"></div>
+<div id="vv6"></div>
+<div id="vv7"></div>
+<div id="vv8"></div>
+<div id="vv9"></div>
+</div>
+<script type="text/javascript">
+
+vegaEmbed('#vv1', {% include 3X78X1.json %}).catch(console.error);
+vegaEmbed('#vv2', {% include 3X78X2.json %}).catch(console.error);
+vegaEmbed('#vv3', {% include 3X78X3.json %}).catch(console.error);
+vegaEmbed('#vv4', {% include 3X78X4.json %}).catch(console.error);
+vegaEmbed('#vv5', {% include 3X78X5.json %}).catch(console.error);
+vegaEmbed('#vv6', {% include 3X78X6.json %}).catch(console.error);
+vegaEmbed('#vv7', {% include 3X78X7.json %}).catch(console.error);
+vegaEmbed('#vv8', {% include 3X78X8.json %}).catch(console.error);
+vegaEmbed('#vv9', {% include 3X78X9.json %}).catch(console.error);</script>
+</body>
+</html>

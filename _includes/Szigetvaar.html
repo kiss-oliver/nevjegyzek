@@ -1,0 +1,37 @@
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+
+<div style="text-align:center">
+
+<div id="vv1"></div>
+<div id="vv2"></div>
+<div id="vv3"></div>
+<div id="vv4"></div>
+<div id="vv5"></div>
+<div id="vv6"></div>
+<div id="vv7"></div>
+<div id="vv8"></div>
+<div id="vv9"></div>
+<div id="vv10"></div>
+<div id="vv11"></div>
+</div>
+<script type="text/javascript">
+
+vegaEmbed('#vv1', {% include 2X263X1.json %}).catch(console.error);
+vegaEmbed('#vv2', {% include 2X263X2.json %}).catch(console.error);
+vegaEmbed('#vv3', {% include 2X263X3.json %}).catch(console.error);
+vegaEmbed('#vv4', {% include 2X263X4.json %}).catch(console.error);
+vegaEmbed('#vv5', {% include 2X263X5.json %}).catch(console.error);
+vegaEmbed('#vv6', {% include 2X263X6.json %}).catch(console.error);
+vegaEmbed('#vv7', {% include 2X263X7.json %}).catch(console.error);
+vegaEmbed('#vv8', {% include 2X263X8.json %}).catch(console.error);
+vegaEmbed('#vv9', {% include 2X263X9.json %}).catch(console.error);
+vegaEmbed('#vv10', {% include 2X263X10.json %}).catch(console.error);
+vegaEmbed('#vv11', {% include 2X263X11.json %}).catch(console.error);</script>
+</body>
+</html>
