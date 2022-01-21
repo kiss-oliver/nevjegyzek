@@ -5,8 +5,8 @@ import unidecode
 df = pd.read_csv('../106/data/oevk.csv')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
-for m in set(df.maz.tolist()):
-    source = df[df.maz==m]
+for m in set(df.evk_nev.tolist()):
+    source = df[df.evk_nev==m]
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='single', nearest=True, on='mouseover',
                             fields=['Datum'], empty='none')
@@ -14,7 +14,7 @@ for m in set(df.maz.tolist()):
     # The basic line
     line = alt.Chart(source).mark_line(interpolate='basis').encode(
         x=alt.X('Datum:T', title="Dátum"),
-        y=alt.Y('honos:Q', title="Fő", scale=alt.Scale(domainMin=source.honos.min()-1000, domainMax=source.honos.max()+1000)),
+        y=alt.Y('honos:Q', title="Fő", scale=alt.Scale(domainMin=source.honos.min()-50, domainMax=source.honos.max()+50)),
     )
     
     # Transparent selectors across the chart. This is what tells us
@@ -47,7 +47,7 @@ for m in set(df.maz.tolist()):
     ch = alt.layer(
         line, selectors, points, rules, text
     ).properties(
-        width=400, height=50
-    ).facet(row=alt.Row('evk_nev', header=alt.Header(labelAngle=0, labelAlign='left'), title="")).resolve_scale(x='independent')
+        width=600, height=50, title=m, padding={"left": 5, "top": 5, "right": 50, "bottom": 5}
+    )
     
-    ch.save('../_includes/{}.json'.format(unidecode.unidecode(source.maz_nev.unique()[0].replace("-",""))))
+    ch.save('../_includes/{}.json'.format(unidecode.unidecode(m.replace("-","").replace(" ",""))))
