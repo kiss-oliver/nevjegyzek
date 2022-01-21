@@ -1,4 +1,4 @@
-<input list="europe-countries" id="SettlementInput" placeholder="Kezdj gépelni egy települést..." style="width:500"> 
+<input list="europe-countries" id="SettlementInput" placeholder="Kezdj gépelni..." style="width:500"> 
 <br/>
 <button class="GetData" id="SettlementGetter" onclick="getInputSettlement();" style="font-size:10px;height:30px;width:100px">Mutasd!</button>
 <datalist id="europe-countries">
@@ -53,6 +53,8 @@
       function getInputSettlement() {
         // Selecting the input element and get its value 
         let inputVal = document.getElementById("SettlementInput").value;
+        inputVal.replace(/[^\x00-\x7F]/g, "AAAAAA");
+        inputVal.replace(" ", "AAAAAA");
         // Displaying the value
         alert(inputVal);
       }
