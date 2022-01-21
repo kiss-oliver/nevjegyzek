@@ -1,6 +1,6 @@
-<input list="europe-countries" placeholder="Kezdj gépelni egy települést..." style="width:500"> 
+<input list="europe-countries" id="SettlementInput" placeholder="Kezdj gépelni egy települést..." style="width:500"> 
 <br/>
-<button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')" style="font-size:10px;height:30px;width:100px">Mutasd!</button>
+<button class="GetData" id="SettlementGetter" onclick="getInputSettlement();" style="font-size:10px;height:30px;width:100px">Mutasd!</button>
 <datalist id="europe-countries">
   <option>Russia</option>
   <option>Germany</option>
@@ -47,3 +47,13 @@
   <option>San Marino</option>
   <option>Holy See</option>
 </datalist>
+
+
+    <script>
+      function getInputSettlement() {
+        // Selecting the input element and get its value 
+        let inputVal = document.getElementById("SettlementInput").value;
+        // Displaying the value
+        alert(inputVal);
+      }
+    </script>
