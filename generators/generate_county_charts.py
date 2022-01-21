@@ -15,6 +15,7 @@ for m in set(df.evk_nev.tolist()):
     line = alt.Chart(source).mark_line(interpolate='basis').encode(
         x=alt.X('Datum:T', title="Dátum"),
         y=alt.Y('honos:Q', title="Fő", scale=alt.Scale(domainMin=source.honos.min()-50, domainMax=source.honos.max()+50)),
+        color=alt.value('#1F955C')
     )
     
     # Transparent selectors across the chart. This is what tells us
