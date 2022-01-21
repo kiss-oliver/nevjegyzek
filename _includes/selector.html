@@ -52,10 +52,10 @@
     <script>
       function getInputSettlement() {
         // Selecting the input element and get its value 
-        let inputVal = document.getElementById("SettlementInput").value;
-        inputVal.replace(/[^\x00-\x7F]/g, "AAAAAA");
-        inputVal.replace(" ", "AAAAAA");
+        let telepul = document.getElementById("SettlementInput").value;
+        telepul=telepul.replace(/[^\x00-\x7F]/g, "AAAAAA");
+        telepul=telepul.replace(" ", "AAAAAA");
         // Displaying the value
-        alert(inputVal);
+        alert(telepul);
       }
     </script>
