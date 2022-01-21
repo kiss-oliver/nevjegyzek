@@ -3187,6 +3187,24 @@
         // Selecting the input element and get its value 
         let telepul = document.getElementById("SettlementInput").value;
         telepul=telepul.replace(/é/g, "ee");
+        telepul=telepul.replace(/É/g, "EE");
+        telepul=telepul.replace(/á/g, "aa");
+        telepul=telepul.replace(/Á/g, "AA");
+        telepul=telepul.replace(/é/g, "ee");
+        telepul=telepul.replace(/í/g, "ii");
+        telepul=telepul.replace(/Í/g, "II");
+        telepul=telepul.replace(/ó/g, "oo");
+        telepul=telepul.replace(/Ó/g, "OO");
+        telepul=telepul.replace(/ö/g, "oox");
+        telepul=telepul.replace(/Ö/g, "OOX");
+        telepul=telepul.replace(/ő/g, "ooXX");
+        telepul=telepul.replace(/Ő/g, "OOXX");
+        telepul=telepul.replace(/ú/g, "uu");
+        telepul=telepul.replace(/Ú/g, "UU");
+        telepul=telepul.replace(/ü/g, "uux");
+        telepul=telepul.replace(/Ü/g, "UUX");
+        telepul=telepul.replace(/ű/g, "uuXX");
+        telepul=telepul.replace(/Ű/g, "UUXX");
         telepul=telepul.replace(/\s/g, "");
         telepul=telepul.replace(".", "");
         // Displaying the value
