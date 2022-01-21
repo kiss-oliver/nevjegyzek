@@ -1,6 +1,7 @@
 import pandas as pd
 import altair as alt
 import unidecode
+from tqdm import tqdm
 
 tnev = pd.read_csv('../106/data/telepules.csv')
 
@@ -28,7 +29,7 @@ tnev['filename'] = tnev.megnev.map(lambda x: ''.join([i if ord(i) < 128 else tr[
 df = pd.read_csv('../106/data/szavazokor.csv').merge(tnev[['maz','taz','megnev','filename']].drop_duplicates(), on=['maz','taz'], how='left')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
-for szk in list(set(df.szk_nev.tolist())):
+for szk in tqdm(list(set(df.szk_nev.tolist()))):
     source = df[df.szk_nev==szk]
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='single', nearest=True, on='mouseover',

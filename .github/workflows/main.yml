@@ -25,6 +25,7 @@ jobs:
           pip3 install altair
           pip3 install altair_saver
           pip3 install unidecode
+          pip3 install tqdm
       - name: Generate graphs
         run: |
           cd generators
