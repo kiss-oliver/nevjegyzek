@@ -2,14 +2,19 @@
 <div class="tab">
   <button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')" style="font-size:20px;height:50px;width:250px">OEVK adatok</button>
   <button class="Typetablinks" onclick="openType(event, 'Orszagos')" style="font-size:20px;height:50px;width:250px">Országos adatok</button>
-</div>
-<br/>
-  
-  {% include selector.html %}
-  
+  <button class="Typetablinks" onclick="openType(event, 'Telepules')" style="font-size:20px;height:50px;width:250px">Települési adatok</button>
+  </div>
+
 </center>
 
 <br/>
+
+<div id="Telepules" class="Typetabcontent">
+  <div style="text-align:center">
+    
+  {% include selector.html %}
+  </div>
+</div>
 
 <div id="Orszagos" class="Typetabcontent">
 
