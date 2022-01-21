@@ -13,7 +13,10 @@
   animation: fadeEffect 1s; /* Fading effect takes 1 second */
 }
 
-button:Typeactive{
+.Typeactive{
+    background:olive;
+}
+button.Typetablinks:active{
     background:olive;
 }
 
