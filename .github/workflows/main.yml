@@ -30,6 +30,7 @@ jobs:
           cd generators
           python3 generate_sum_chart.py
           python3 generate_county_charts.py
+          python3 generate_szk_charts.py
           cd ../_includes
           sed -i '2d' osszesitett.html
           git config --global user.name 'Automated workflow - Update data'
