@@ -1,0 +1,9 @@
+---
+layout: default
+title: Választási névjegyzék 2022
+description: Kiskőrös
+---
+
+{% include Kiskooxxrooxs.html %}
+
+[Vissza](./)

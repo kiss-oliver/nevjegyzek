@@ -1,0 +1,9 @@
+---
+layout: default
+title: Választási névjegyzék 2022
+description: Telekgerendás
+---
+
+{% include Telekgerendaas.html %}
+
+[Vissza](./)

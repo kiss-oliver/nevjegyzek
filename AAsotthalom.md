@@ -1,0 +1,9 @@
+---
+layout: default
+title: Választási névjegyzék 2022
+description: Ásotthalom
+---
+
+{% include AAsotthalom.html %}
+
+[Vissza](./)

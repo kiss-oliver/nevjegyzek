@@ -1,0 +1,9 @@
+---
+layout: default
+title: Választási névjegyzék 2022
+description: Farmos
+---
+
+{% include Farmos.html %}
+
+[Vissza](./)
