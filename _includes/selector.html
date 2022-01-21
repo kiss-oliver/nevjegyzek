@@ -3207,7 +3207,8 @@
         telepul=telepul.replace(/Ű/g, "UUXX");
         telepul=telepul.replace(/\s/g, "");
         telepul=telepul.replace(".", "");
+        telepul += '.html'
         // Displaying the value
-        alert(telepul);
+        window.location.href = url;
       }
     </script>
