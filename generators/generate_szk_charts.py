@@ -23,7 +23,7 @@ tr = {'á':'aa',
       'ű':'uuxx',
       'Ű':'UUXX',
      }
-tnev['filename'] = df.megnev.map(lambda x: ''.join([i if ord(i) < 128 else tr[i] for i in x.replace(" ","").replace(".","")]))
+tnev['filename'] = tnev.megnev.map(lambda x: ''.join([i if ord(i) < 128 else tr[i] for i in x.replace(" ","").replace(".","")]))
 
 df = pd.read_csv('../106/data/szavazokor.csv').merge(tnev[['maz','taz','megnev','filename']].drop_duplicates(), on=['maz','taz'], how='left')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
