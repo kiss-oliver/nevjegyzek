@@ -3186,7 +3186,7 @@
       function getInputSettlement() {
         // Selecting the input element and get its value 
         let telepul = document.getElementById("SettlementInput").value;
-        telepul=telepul.replace(/[^\x00-\x7F]/g, "X");
+        telepul=telepul.replace(/é/g, "ee");
         telepul=telepul.replace(/\s/g, "");
         telepul=telepul.replace(".", "");
         // Displaying the value
