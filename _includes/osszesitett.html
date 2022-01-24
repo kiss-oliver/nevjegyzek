@@ -48,3 +48,17 @@ vegaEmbed('#vis17', {% include szloven.json %}).catch(console.error);
 vegaEmbed('#vis18', {% include ukran.json %}).catch(console.error);
 </script>
 
+<!-- (A) HTML CONTAINER -->
+<div id="container"></div>
+<input type="button" value="AJAX Load" onclick="aload();"/>
+ 
+<!-- (B) AJAX LOAD -->
+<script>
+function aload () {
+  fetch("https://raw.githubusercontent.com/kiss-oliver/nevjegyzek/gh-pages/_includes/Veszpreem.html")
+  .then(res=>res.text())
+  .then((txt) => {
+    document.getElementById("container").innerHTML = txt;
+  })
+}
+</script>
