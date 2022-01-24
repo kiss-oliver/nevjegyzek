@@ -55,7 +55,7 @@ vegaEmbed('#vis18', {% include ukran.json %}).catch(console.error);
 <!-- (B) AJAX LOAD -->
 <script>
 function aload () {
-  fetch("https://raw.githubusercontent.com/kiss-oliver/nevjegyzek/gh-pages/_includes/Veszpreem.html")
+  fetch("Veszpreem.html")
   .then(res=>res.text())
   .then((txt) => {
     document.getElementById("container").innerHTML = txt;
