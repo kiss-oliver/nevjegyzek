@@ -51,4 +51,4 @@ for m in set(df.evk_nev.tolist()):
         width=600, height=50, title=m, padding={"left": 5, "top": 5, "right": 50, "bottom": 5}
     )
     
-    ch.save('../_includes/{}.json'.format(unidecode.unidecode(m.replace("-","").replace(" ","").replace(",","").replace(".",""))))
+    ch.save('../_includes/OEVKfigures/{}.json'.format(unidecode.unidecode(m.replace("-","").replace(" ","").replace(",","").replace(".",""))))
