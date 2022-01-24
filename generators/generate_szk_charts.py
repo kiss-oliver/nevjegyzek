@@ -75,4 +75,4 @@ for szk in tqdm(list(set(df.szk_nev.tolist()))):
         width=600, height=50, title=[szk, source.cim.unique()[0], source.evk_nev.unique()[0]], padding={"left": 5, "top": 5, "right": 50, "bottom": 5}
     )
     
-    ch.save('../_includes/{}X{}X{}.json'.format(source.maz.unique()[0],source.taz.unique()[0],source.sorszam.unique()[0]))
+    ch.save('../_includes/SZKfigures/{}X{}X{}.json'.format(source.maz.unique()[0],source.taz.unique()[0],source.sorszam.unique()[0]))
