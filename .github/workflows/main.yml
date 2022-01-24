@@ -6,6 +6,8 @@ defaults:
 
 # Controls when the workflow will run
 on:
+  schedule:
+    - cron: '30 10,15,21,0 * * *'
   workflow_dispatch:
 
 jobs:
