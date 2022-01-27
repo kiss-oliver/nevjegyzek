@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztahencse
 ---
 
-{% include Pusztahencse.html %}
+{% include settlementHTMLs/Pusztahencse.html %}
 
 [Vissza](./)

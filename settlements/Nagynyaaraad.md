@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagynyárád
 ---
 
-{% include Nagynyaaraad.html %}
+{% include settlementHTMLs/Nagynyaaraad.html %}
 
 [Vissza](./)

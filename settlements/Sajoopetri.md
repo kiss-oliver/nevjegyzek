@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajópetri
 ---
 
-{% include Sajoopetri.html %}
+{% include settlementHTMLs/Sajoopetri.html %}
 
 [Vissza](./)

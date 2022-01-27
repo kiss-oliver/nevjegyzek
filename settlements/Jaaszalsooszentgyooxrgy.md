@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászalsószentgyörgy
 ---
 
-{% include Jaaszalsooszentgyooxrgy.html %}
+{% include settlementHTMLs/Jaaszalsooszentgyooxrgy.html %}
 
 [Vissza](./)

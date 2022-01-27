@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Porpác
 ---
 
-{% include Porpaac.html %}
+{% include settlementHTMLs/Porpaac.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bő
 ---
 
-{% include Booxx.html %}
+{% include settlementHTMLs/Booxx.html %}
 
 [Vissza](./)

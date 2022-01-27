@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajópálfala
 ---
 
-{% include Sajoopaalfala.html %}
+{% include settlementHTMLs/Sajoopaalfala.html %}
 
 [Vissza](./)

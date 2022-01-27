@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vát
 ---
 
-{% include Vaat.html %}
+{% include settlementHTMLs/Vaat.html %}
 
 [Vissza](./)

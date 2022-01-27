@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pócspetri
 ---
 
-{% include Poocspetri.html %}
+{% include settlementHTMLs/Poocspetri.html %}
 
 [Vissza](./)

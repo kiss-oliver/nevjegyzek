@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bókaháza
 ---
 
-{% include Bookahaaza.html %}
+{% include settlementHTMLs/Bookahaaza.html %}
 
 [Vissza](./)

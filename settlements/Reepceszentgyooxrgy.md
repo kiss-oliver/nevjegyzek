@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Répceszentgyörgy
 ---
 
-{% include Reepceszentgyooxrgy.html %}
+{% include settlementHTMLs/Reepceszentgyooxrgy.html %}
 
 [Vissza](./)

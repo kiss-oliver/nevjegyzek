@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Romhány
 ---
 
-{% include Romhaany.html %}
+{% include settlementHTMLs/Romhaany.html %}
 
 [Vissza](./)

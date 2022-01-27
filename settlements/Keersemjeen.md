@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kérsemjén
 ---
 
-{% include Keersemjeen.html %}
+{% include settlementHTMLs/Keersemjeen.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Litér
 ---
 
-{% include Liteer.html %}
+{% include settlementHTMLs/Liteer.html %}
 
 [Vissza](./)

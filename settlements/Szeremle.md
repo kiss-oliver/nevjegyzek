@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szeremle
 ---
 
-{% include Szeremle.html %}
+{% include settlementHTMLs/Szeremle.html %}
 
 [Vissza](./)

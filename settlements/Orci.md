@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orci
 ---
 
-{% include Orci.html %}
+{% include settlementHTMLs/Orci.html %}
 
 [Vissza](./)

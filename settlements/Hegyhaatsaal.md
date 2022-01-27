@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegyhátsál
 ---
 
-{% include Hegyhaatsaal.html %}
+{% include settlementHTMLs/Hegyhaatsaal.html %}
 
 [Vissza](./)

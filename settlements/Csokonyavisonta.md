@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csokonyavisonta
 ---
 
-{% include Csokonyavisonta.html %}
+{% include settlementHTMLs/Csokonyavisonta.html %}
 
 [Vissza](./)

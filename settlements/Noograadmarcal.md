@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádmarcal
 ---
 
-{% include Noograadmarcal.html %}
+{% include settlementHTMLs/Noograadmarcal.html %}
 
 [Vissza](./)

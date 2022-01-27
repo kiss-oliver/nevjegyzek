@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somlóvecse
 ---
 
-{% include Somloovecse.html %}
+{% include settlementHTMLs/Somloovecse.html %}
 
 [Vissza](./)

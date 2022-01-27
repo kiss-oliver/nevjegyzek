@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ferencszállás
 ---
 
-{% include Ferencszaallaas.html %}
+{% include settlementHTMLs/Ferencszaallaas.html %}
 
 [Vissza](./)

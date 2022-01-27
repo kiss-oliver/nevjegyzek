@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vanyarc
 ---
 
-{% include Vanyarc.html %}
+{% include settlementHTMLs/Vanyarc.html %}
 
 [Vissza](./)

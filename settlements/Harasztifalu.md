@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Harasztifalu
 ---
 
-{% include Harasztifalu.html %}
+{% include settlementHTMLs/Harasztifalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hugyag
 ---
 
-{% include Hugyag.html %}
+{% include settlementHTMLs/Hugyag.html %}
 
 [Vissza](./)

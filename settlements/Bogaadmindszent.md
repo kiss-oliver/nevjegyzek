@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bogádmindszent
 ---
 
-{% include Bogaadmindszent.html %}
+{% include settlementHTMLs/Bogaadmindszent.html %}
 
 [Vissza](./)

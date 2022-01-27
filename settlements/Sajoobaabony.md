@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajóbábony
 ---
 
-{% include Sajoobaabony.html %}
+{% include settlementHTMLs/Sajoobaabony.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ete
 ---
 
-{% include Ete.html %}
+{% include settlementHTMLs/Ete.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsórajk
 ---
 
-{% include Alsoorajk.html %}
+{% include settlementHTMLs/Alsoorajk.html %}
 
 [Vissza](./)

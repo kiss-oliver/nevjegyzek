@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Biatorbágy
 ---
 
-{% include Biatorbaagy.html %}
+{% include settlementHTMLs/Biatorbaagy.html %}
 
 [Vissza](./)

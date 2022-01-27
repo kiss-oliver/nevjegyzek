@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budakeszi
 ---
 
-{% include Budakeszi.html %}
+{% include settlementHTMLs/Budakeszi.html %}
 
 [Vissza](./)

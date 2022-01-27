@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petőmihályfa
 ---
 
-{% include Petooxxmihaalyfa.html %}
+{% include settlementHTMLs/Petooxxmihaalyfa.html %}
 
 [Vissza](./)

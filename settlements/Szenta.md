@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szenta
 ---
 
-{% include Szenta.html %}
+{% include settlementHTMLs/Szenta.html %}
 
 [Vissza](./)

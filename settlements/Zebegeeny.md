@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zebegény
 ---
 
-{% include Zebegeeny.html %}
+{% include settlementHTMLs/Zebegeeny.html %}
 
 [Vissza](./)

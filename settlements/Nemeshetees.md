@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeshetés
 ---
 
-{% include Nemeshetees.html %}
+{% include settlementHTMLs/Nemeshetees.html %}
 
 [Vissza](./)

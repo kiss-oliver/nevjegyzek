@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mindszentkálla
 ---
 
-{% include Mindszentkaalla.html %}
+{% include settlementHTMLs/Mindszentkaalla.html %}
 
 [Vissza](./)

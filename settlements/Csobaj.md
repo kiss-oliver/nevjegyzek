@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csobaj
 ---
 
-{% include Csobaj.html %}
+{% include settlementHTMLs/Csobaj.html %}
 
 [Vissza](./)

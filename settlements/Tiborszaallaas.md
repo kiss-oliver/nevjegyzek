@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiborszállás
 ---
 
-{% include Tiborszaallaas.html %}
+{% include settlementHTMLs/Tiborszaallaas.html %}
 
 [Vissza](./)

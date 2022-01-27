@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Madaras
 ---
 
-{% include Madaras.html %}
+{% include settlementHTMLs/Madaras.html %}
 
 [Vissza](./)

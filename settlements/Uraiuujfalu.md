@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Uraiújfalu
 ---
 
-{% include Uraiuujfalu.html %}
+{% include settlementHTMLs/Uraiuujfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sáránd
 ---
 
-{% include Saaraand.html %}
+{% include settlementHTMLs/Saaraand.html %}
 
 [Vissza](./)

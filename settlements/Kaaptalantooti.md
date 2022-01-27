@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Káptalantóti
 ---
 
-{% include Kaaptalantooti.html %}
+{% include settlementHTMLs/Kaaptalantooti.html %}
 
 [Vissza](./)

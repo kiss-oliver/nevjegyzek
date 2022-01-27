@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagygörbő
 ---
 
-{% include Nagygooxrbooxx.html %}
+{% include settlementHTMLs/Nagygooxrbooxx.html %}
 
 [Vissza](./)

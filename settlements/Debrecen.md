@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Debrecen
 ---
 
-{% include Debrecen.html %}
+{% include settlementHTMLs/Debrecen.html %}
 
 [Vissza](./)

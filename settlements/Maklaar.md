@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Maklár
 ---
 
-{% include Maklaar.html %}
+{% include settlementHTMLs/Maklaar.html %}
 
 [Vissza](./)

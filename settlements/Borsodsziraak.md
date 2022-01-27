@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsodszirák
 ---
 
-{% include Borsodsziraak.html %}
+{% include settlementHTMLs/Borsodsziraak.html %}
 
 [Vissza](./)

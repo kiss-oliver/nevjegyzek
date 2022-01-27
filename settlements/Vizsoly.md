@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vizsoly
 ---
 
-{% include Vizsoly.html %}
+{% include settlementHTMLs/Vizsoly.html %}
 
 [Vissza](./)

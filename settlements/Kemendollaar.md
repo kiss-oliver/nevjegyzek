@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemendollár
 ---
 
-{% include Kemendollaar.html %}
+{% include settlementHTMLs/Kemendollaar.html %}
 
 [Vissza](./)

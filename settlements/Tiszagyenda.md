@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszagyenda
 ---
 
-{% include Tiszagyenda.html %}
+{% include settlementHTMLs/Tiszagyenda.html %}
 
 [Vissza](./)

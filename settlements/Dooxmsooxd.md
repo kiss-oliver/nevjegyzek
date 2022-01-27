@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dömsöd
 ---
 
-{% include Dooxmsooxd.html %}
+{% include settlementHTMLs/Dooxmsooxd.html %}
 
 [Vissza](./)

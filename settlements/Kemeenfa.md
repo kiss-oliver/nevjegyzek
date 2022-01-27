@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Keménfa
 ---
 
-{% include Kemeenfa.html %}
+{% include settlementHTMLs/Kemeenfa.html %}
 
 [Vissza](./)

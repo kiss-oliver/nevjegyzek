@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sorkifalud
 ---
 
-{% include Sorkifalud.html %}
+{% include settlementHTMLs/Sorkifalud.html %}
 
 [Vissza](./)

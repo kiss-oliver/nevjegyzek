@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalamerenye
 ---
 
-{% include Zalamerenye.html %}
+{% include settlementHTMLs/Zalamerenye.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagypáli
 ---
 
-{% include Nagypaali.html %}
+{% include settlementHTMLs/Nagypaali.html %}
 
 [Vissza](./)

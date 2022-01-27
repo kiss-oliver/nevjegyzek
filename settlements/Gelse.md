@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gelse
 ---
 
-{% include Gelse.html %}
+{% include settlementHTMLs/Gelse.html %}
 
 [Vissza](./)

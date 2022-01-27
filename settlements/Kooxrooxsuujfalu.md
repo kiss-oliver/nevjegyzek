@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Körösújfalu
 ---
 
-{% include Kooxrooxsuujfalu.html %}
+{% include settlementHTMLs/Kooxrooxsuujfalu.html %}
 
 [Vissza](./)

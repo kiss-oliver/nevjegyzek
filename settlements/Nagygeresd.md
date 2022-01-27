@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagygeresd
 ---
 
-{% include Nagygeresd.html %}
+{% include settlementHTMLs/Nagygeresd.html %}
 
 [Vissza](./)

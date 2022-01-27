@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Répcevis
 ---
 
-{% include Reepcevis.html %}
+{% include settlementHTMLs/Reepcevis.html %}
 
 [Vissza](./)

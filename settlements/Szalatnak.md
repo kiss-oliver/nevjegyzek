@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szalatnak
 ---
 
-{% include Szalatnak.html %}
+{% include settlementHTMLs/Szalatnak.html %}
 
 [Vissza](./)

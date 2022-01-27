@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fürged
 ---
 
-{% include Fuuxrged.html %}
+{% include settlementHTMLs/Fuuxrged.html %}
 
 [Vissza](./)

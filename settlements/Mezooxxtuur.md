@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőtúr
 ---
 
-{% include Mezooxxtuur.html %}
+{% include settlementHTMLs/Mezooxxtuur.html %}
 
 [Vissza](./)

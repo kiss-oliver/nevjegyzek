@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilisvörösvár
 ---
 
-{% include Pilisvooxrooxsvaar.html %}
+{% include settlementHTMLs/Pilisvooxrooxsvaar.html %}
 
 [Vissza](./)

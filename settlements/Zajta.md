@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zajta
 ---
 
-{% include Zajta.html %}
+{% include settlementHTMLs/Zajta.html %}
 
 [Vissza](./)

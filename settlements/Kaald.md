@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Káld
 ---
 
-{% include Kaald.html %}
+{% include settlementHTMLs/Kaald.html %}
 
 [Vissza](./)

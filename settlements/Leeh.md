@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Léh
 ---
 
-{% include Leeh.html %}
+{% include settlementHTMLs/Leeh.html %}
 
 [Vissza](./)

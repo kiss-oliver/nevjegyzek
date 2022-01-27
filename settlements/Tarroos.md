@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarrós
 ---
 
-{% include Tarroos.html %}
+{% include settlementHTMLs/Tarroos.html %}
 
 [Vissza](./)

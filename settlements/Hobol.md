@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hobol
 ---
 
-{% include Hobol.html %}
+{% include settlementHTMLs/Hobol.html %}
 
 [Vissza](./)

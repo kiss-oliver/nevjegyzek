@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zebecke
 ---
 
-{% include Zebecke.html %}
+{% include settlementHTMLs/Zebecke.html %}
 
 [Vissza](./)

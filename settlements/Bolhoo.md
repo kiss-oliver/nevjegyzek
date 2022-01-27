@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bolhó
 ---
 
-{% include Bolhoo.html %}
+{% include settlementHTMLs/Bolhoo.html %}
 
 [Vissza](./)

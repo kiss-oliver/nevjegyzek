@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hajdúdorog
 ---
 
-{% include Hajduudorog.html %}
+{% include settlementHTMLs/Hajduudorog.html %}
 
 [Vissza](./)

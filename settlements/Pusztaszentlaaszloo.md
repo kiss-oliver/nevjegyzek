@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaszentlászló
 ---
 
-{% include Pusztaszentlaaszloo.html %}
+{% include settlementHTMLs/Pusztaszentlaaszloo.html %}
 
 [Vissza](./)

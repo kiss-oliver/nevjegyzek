@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyáregyháza
 ---
 
-{% include Nyaaregyhaaza.html %}
+{% include settlementHTMLs/Nyaaregyhaaza.html %}
 
 [Vissza](./)

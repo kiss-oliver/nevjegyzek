@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Geszteréd
 ---
 
-{% include Gesztereed.html %}
+{% include settlementHTMLs/Gesztereed.html %}
 
 [Vissza](./)

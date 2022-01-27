@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pátka
 ---
 
-{% include Paatka.html %}
+{% include settlementHTMLs/Paatka.html %}
 
 [Vissza](./)

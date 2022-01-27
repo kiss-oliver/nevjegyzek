@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Komádi
 ---
 
-{% include Komaadi.html %}
+{% include settlementHTMLs/Komaadi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tagyon
 ---
 
-{% include Tagyon.html %}
+{% include settlementHTMLs/Tagyon.html %}
 
 [Vissza](./)

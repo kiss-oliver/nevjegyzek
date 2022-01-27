@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Badacsonytördemic
 ---
 
-{% include Badacsonytooxrdemic.html %}
+{% include settlementHTMLs/Badacsonytooxrdemic.html %}
 
 [Vissza](./)

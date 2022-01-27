@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőkeresztes
 ---
 
-{% include Mezooxxkeresztes.html %}
+{% include settlementHTMLs/Mezooxxkeresztes.html %}
 
 [Vissza](./)

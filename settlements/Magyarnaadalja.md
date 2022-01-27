@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarnádalja
 ---
 
-{% include Magyarnaadalja.html %}
+{% include settlementHTMLs/Magyarnaadalja.html %}
 
 [Vissza](./)

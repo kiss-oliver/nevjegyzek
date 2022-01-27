@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Oroszló
 ---
 
-{% include Oroszloo.html %}
+{% include settlementHTMLs/Oroszloo.html %}
 
 [Vissza](./)

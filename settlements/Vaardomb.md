@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várdomb
 ---
 
-{% include Vaardomb.html %}
+{% include settlementHTMLs/Vaardomb.html %}
 
 [Vissza](./)

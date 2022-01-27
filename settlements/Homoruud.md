@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Homorúd
 ---
 
-{% include Homoruud.html %}
+{% include settlementHTMLs/Homoruud.html %}
 
 [Vissza](./)

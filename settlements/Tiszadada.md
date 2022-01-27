@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszadada
 ---
 
-{% include Tiszadada.html %}
+{% include settlementHTMLs/Tiszadada.html %}
 
 [Vissza](./)

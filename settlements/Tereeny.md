@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Terény
 ---
 
-{% include Tereeny.html %}
+{% include settlementHTMLs/Tereeny.html %}
 
 [Vissza](./)

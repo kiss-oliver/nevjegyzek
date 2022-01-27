@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Péterhida
 ---
 
-{% include Peeterhida.html %}
+{% include settlementHTMLs/Peeterhida.html %}
 
 [Vissza](./)

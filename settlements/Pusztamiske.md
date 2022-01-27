@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztamiske
 ---
 
-{% include Pusztamiske.html %}
+{% include settlementHTMLs/Pusztamiske.html %}
 
 [Vissza](./)

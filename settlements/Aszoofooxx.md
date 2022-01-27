@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aszófő
 ---
 
-{% include Aszoofooxx.html %}
+{% include settlementHTMLs/Aszoofooxx.html %}
 
 [Vissza](./)

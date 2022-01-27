@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lendvajakabfa
 ---
 
-{% include Lendvajakabfa.html %}
+{% include settlementHTMLs/Lendvajakabfa.html %}
 
 [Vissza](./)

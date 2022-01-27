@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ercsi
 ---
 
-{% include Ercsi.html %}
+{% include settlementHTMLs/Ercsi.html %}
 
 [Vissza](./)

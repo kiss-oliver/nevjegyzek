@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tolmács
 ---
 
-{% include Tolmaacs.html %}
+{% include settlementHTMLs/Tolmaacs.html %}
 
 [Vissza](./)

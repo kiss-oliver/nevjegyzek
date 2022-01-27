@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházasharaszti
 ---
 
-{% include Egyhaazasharaszti.html %}
+{% include settlementHTMLs/Egyhaazasharaszti.html %}
 
 [Vissza](./)

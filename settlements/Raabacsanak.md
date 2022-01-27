@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábacsanak
 ---
 
-{% include Raabacsanak.html %}
+{% include settlementHTMLs/Raabacsanak.html %}
 
 [Vissza](./)

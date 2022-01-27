@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Siklósbodony
 ---
 
-{% include Sikloosbodony.html %}
+{% include settlementHTMLs/Sikloosbodony.html %}
 
 [Vissza](./)

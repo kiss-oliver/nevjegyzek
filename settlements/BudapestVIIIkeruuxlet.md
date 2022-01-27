@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest VIII. kerület
 ---
 
-{% include BudapestVIIIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestVIIIkeruuxlet.html %}
 
 [Vissza](./)

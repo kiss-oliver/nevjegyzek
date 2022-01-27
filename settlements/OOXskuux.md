@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Öskü
 ---
 
-{% include OOXskuux.html %}
+{% include settlementHTMLs/OOXskuux.html %}
 
 [Vissza](./)

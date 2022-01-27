@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tét
 ---
 
-{% include Teet.html %}
+{% include settlementHTMLs/Teet.html %}
 
 [Vissza](./)

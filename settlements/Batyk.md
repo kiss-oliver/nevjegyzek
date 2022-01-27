@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Batyk
 ---
 
-{% include Batyk.html %}
+{% include settlementHTMLs/Batyk.html %}
 
 [Vissza](./)

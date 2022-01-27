@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykozár
 ---
 
-{% include Nagykozaar.html %}
+{% include settlementHTMLs/Nagykozaar.html %}
 
 [Vissza](./)

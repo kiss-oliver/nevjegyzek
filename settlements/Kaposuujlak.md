@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaposújlak
 ---
 
-{% include Kaposuujlak.html %}
+{% include settlementHTMLs/Kaposuujlak.html %}
 
 [Vissza](./)

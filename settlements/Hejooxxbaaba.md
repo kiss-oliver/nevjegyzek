@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejőbába
 ---
 
-{% include Hejooxxbaaba.html %}
+{% include settlementHTMLs/Hejooxxbaaba.html %}
 
 [Vissza](./)

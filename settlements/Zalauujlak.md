@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaújlak
 ---
 
-{% include Zalauujlak.html %}
+{% include settlementHTMLs/Zalauujlak.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beregdaróc
 ---
 
-{% include Beregdarooc.html %}
+{% include settlementHTMLs/Beregdarooc.html %}
 
 [Vissza](./)

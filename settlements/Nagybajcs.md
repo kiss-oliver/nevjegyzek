@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagybajcs
 ---
 
-{% include Nagybajcs.html %}
+{% include settlementHTMLs/Nagybajcs.html %}
 
 [Vissza](./)

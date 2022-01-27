@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogysimonyi
 ---
 
-{% include Somogysimonyi.html %}
+{% include settlementHTMLs/Somogysimonyi.html %}
 
 [Vissza](./)

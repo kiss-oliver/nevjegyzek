@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírmártonfalva
 ---
 
-{% include Nyiirmaartonfalva.html %}
+{% include settlementHTMLs/Nyiirmaartonfalva.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fülöp
 ---
 
-{% include Fuuxlooxp.html %}
+{% include settlementHTMLs/Fuuxlooxp.html %}
 
 [Vissza](./)

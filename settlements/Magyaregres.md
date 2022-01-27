@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyaregres
 ---
 
-{% include Magyaregres.html %}
+{% include settlementHTMLs/Magyaregres.html %}
 
 [Vissza](./)

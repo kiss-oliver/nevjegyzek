@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fülesd
 ---
 
-{% include Fuuxlesd.html %}
+{% include settlementHTMLs/Fuuxlesd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Putnok
 ---
 
-{% include Putnok.html %}
+{% include settlementHTMLs/Putnok.html %}
 
 [Vissza](./)

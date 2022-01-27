@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőcsát
 ---
 
-{% include Mezooxxcsaat.html %}
+{% include settlementHTMLs/Mezooxxcsaat.html %}
 
 [Vissza](./)

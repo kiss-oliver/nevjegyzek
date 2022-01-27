@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentendre
 ---
 
-{% include Szentendre.html %}
+{% include settlementHTMLs/Szentendre.html %}
 
 [Vissza](./)

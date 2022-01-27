@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárszentmihály
 ---
 
-{% include Saarszentmihaaly.html %}
+{% include settlementHTMLs/Saarszentmihaaly.html %}
 
 [Vissza](./)

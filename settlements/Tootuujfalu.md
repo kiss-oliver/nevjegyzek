@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tótújfalu
 ---
 
-{% include Tootuujfalu.html %}
+{% include settlementHTMLs/Tootuujfalu.html %}
 
 [Vissza](./)

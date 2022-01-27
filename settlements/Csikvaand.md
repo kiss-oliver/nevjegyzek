@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csikvánd
 ---
 
-{% include Csikvaand.html %}
+{% include settlementHTMLs/Csikvaand.html %}
 
 [Vissza](./)

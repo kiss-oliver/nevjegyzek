@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egerág
 ---
 
-{% include Egeraag.html %}
+{% include settlementHTMLs/Egeraag.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Őrtilos
 ---
 
-{% include ooXXrtilos.html %}
+{% include settlementHTMLs/ooXXrtilos.html %}
 
 [Vissza](./)

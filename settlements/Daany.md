@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dány
 ---
 
-{% include Daany.html %}
+{% include settlementHTMLs/Daany.html %}
 
 [Vissza](./)

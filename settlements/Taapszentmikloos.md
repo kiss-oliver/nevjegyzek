@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tápszentmiklós
 ---
 
-{% include Taapszentmikloos.html %}
+{% include settlementHTMLs/Taapszentmikloos.html %}
 
 [Vissza](./)

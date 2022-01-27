@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Liszó
 ---
 
-{% include Liszoo.html %}
+{% include settlementHTMLs/Liszoo.html %}
 
 [Vissza](./)

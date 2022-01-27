@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Romonya
 ---
 
-{% include Romonya.html %}
+{% include settlementHTMLs/Romonya.html %}
 
 [Vissza](./)

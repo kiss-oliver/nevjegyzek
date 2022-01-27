@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyrécse
 ---
 
-{% include Nagyreecse.html %}
+{% include settlementHTMLs/Nagyreecse.html %}
 
 [Vissza](./)

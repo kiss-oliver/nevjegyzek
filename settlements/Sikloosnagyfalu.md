@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Siklósnagyfalu
 ---
 
-{% include Sikloosnagyfalu.html %}
+{% include settlementHTMLs/Sikloosnagyfalu.html %}
 
 [Vissza](./)

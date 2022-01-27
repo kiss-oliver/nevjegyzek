@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dabronc
 ---
 
-{% include Dabronc.html %}
+{% include settlementHTMLs/Dabronc.html %}
 
 [Vissza](./)

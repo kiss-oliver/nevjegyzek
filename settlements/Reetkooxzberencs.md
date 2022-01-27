@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rétközberencs
 ---
 
-{% include Reetkooxzberencs.html %}
+{% include settlementHTMLs/Reetkooxzberencs.html %}
 
 [Vissza](./)

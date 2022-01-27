@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Halimba
 ---
 
-{% include Halimba.html %}
+{% include settlementHTMLs/Halimba.html %}
 
 [Vissza](./)

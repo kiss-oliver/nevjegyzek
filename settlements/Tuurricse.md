@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Túrricse
 ---
 
-{% include Tuurricse.html %}
+{% include settlementHTMLs/Tuurricse.html %}
 
 [Vissza](./)

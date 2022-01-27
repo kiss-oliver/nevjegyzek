@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsana
 ---
 
-{% include Zsana.html %}
+{% include settlementHTMLs/Zsana.html %}
 
 [Vissza](./)

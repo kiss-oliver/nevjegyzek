@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vereb
 ---
 
-{% include Vereb.html %}
+{% include settlementHTMLs/Vereb.html %}
 
 [Vissza](./)

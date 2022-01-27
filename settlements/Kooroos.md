@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kórós
 ---
 
-{% include Kooroos.html %}
+{% include settlementHTMLs/Kooroos.html %}
 
 [Vissza](./)

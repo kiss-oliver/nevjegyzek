@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tác
 ---
 
-{% include Taac.html %}
+{% include settlementHTMLs/Taac.html %}
 
 [Vissza](./)

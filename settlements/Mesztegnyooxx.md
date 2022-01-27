@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mesztegnyő
 ---
 
-{% include Mesztegnyooxx.html %}
+{% include settlementHTMLs/Mesztegnyooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Celldömölk
 ---
 
-{% include Celldooxmooxlk.html %}
+{% include settlementHTMLs/Celldooxmooxlk.html %}
 
 [Vissza](./)

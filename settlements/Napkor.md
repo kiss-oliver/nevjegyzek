@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Napkor
 ---
 
-{% include Napkor.html %}
+{% include settlementHTMLs/Napkor.html %}
 
 [Vissza](./)

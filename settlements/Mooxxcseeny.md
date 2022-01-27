@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mőcsény
 ---
 
-{% include Mooxxcseeny.html %}
+{% include settlementHTMLs/Mooxxcseeny.html %}
 
 [Vissza](./)

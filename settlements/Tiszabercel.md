@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszabercel
 ---
 
-{% include Tiszabercel.html %}
+{% include settlementHTMLs/Tiszabercel.html %}
 
 [Vissza](./)

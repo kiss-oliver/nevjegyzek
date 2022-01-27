@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újpetre
 ---
 
-{% include UUjpetre.html %}
+{% include settlementHTMLs/UUjpetre.html %}
 
 [Vissza](./)

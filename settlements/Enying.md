@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Enying
 ---
 
-{% include Enying.html %}
+{% include settlementHTMLs/Enying.html %}
 
 [Vissza](./)

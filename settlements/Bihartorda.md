@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bihartorda
 ---
 
-{% include Bihartorda.html %}
+{% include settlementHTMLs/Bihartorda.html %}
 
 [Vissza](./)

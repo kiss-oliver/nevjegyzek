@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigetszentmárton
 ---
 
-{% include Szigetszentmaarton.html %}
+{% include settlementHTMLs/Szigetszentmaarton.html %}
 
 [Vissza](./)

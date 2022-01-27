@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petneháza
 ---
 
-{% include Petnehaaza.html %}
+{% include settlementHTMLs/Petnehaaza.html %}
 
 [Vissza](./)

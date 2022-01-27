@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lőkösháza
 ---
 
-{% include Looxxkooxshaaza.html %}
+{% include settlementHTMLs/Looxxkooxshaaza.html %}
 
 [Vissza](./)

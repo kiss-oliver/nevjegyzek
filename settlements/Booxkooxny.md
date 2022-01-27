@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bököny
 ---
 
-{% include Booxkooxny.html %}
+{% include settlementHTMLs/Booxkooxny.html %}
 
 [Vissza](./)

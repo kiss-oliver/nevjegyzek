@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hévízgyörk
 ---
 
-{% include Heeviizgyooxrk.html %}
+{% include settlementHTMLs/Heeviizgyooxrk.html %}
 
 [Vissza](./)

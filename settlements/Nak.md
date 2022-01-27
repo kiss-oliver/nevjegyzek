@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nak
 ---
 
-{% include Nak.html %}
+{% include settlementHTMLs/Nak.html %}
 
 [Vissza](./)

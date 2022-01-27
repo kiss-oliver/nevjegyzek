@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rásonysápberencs
 ---
 
-{% include Raasonysaapberencs.html %}
+{% include settlementHTMLs/Raasonysaapberencs.html %}
 
 [Vissza](./)

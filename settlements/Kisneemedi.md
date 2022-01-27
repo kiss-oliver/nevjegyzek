@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisnémedi
 ---
 
-{% include Kisneemedi.html %}
+{% include settlementHTMLs/Kisneemedi.html %}
 
 [Vissza](./)

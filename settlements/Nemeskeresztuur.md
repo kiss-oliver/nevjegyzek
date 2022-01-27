@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeskeresztúr
 ---
 
-{% include Nemeskeresztuur.html %}
+{% include settlementHTMLs/Nemeskeresztuur.html %}
 
 [Vissza](./)

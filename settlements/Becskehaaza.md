@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Becskeháza
 ---
 
-{% include Becskehaaza.html %}
+{% include settlementHTMLs/Becskehaaza.html %}
 
 [Vissza](./)

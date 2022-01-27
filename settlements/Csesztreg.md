@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csesztreg
 ---
 
-{% include Csesztreg.html %}
+{% include settlementHTMLs/Csesztreg.html %}
 
 [Vissza](./)

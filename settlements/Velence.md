@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Velence
 ---
 
-{% include Velence.html %}
+{% include settlementHTMLs/Velence.html %}
 
 [Vissza](./)

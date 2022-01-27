@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vaspör
 ---
 
-{% include Vaspooxr.html %}
+{% include settlementHTMLs/Vaspooxr.html %}
 
 [Vissza](./)

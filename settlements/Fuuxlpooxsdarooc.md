@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fülpösdaróc
 ---
 
-{% include Fuuxlpooxsdarooc.html %}
+{% include settlementHTMLs/Fuuxlpooxsdarooc.html %}
 
 [Vissza](./)

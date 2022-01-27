@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Biharugra
 ---
 
-{% include Biharugra.html %}
+{% include settlementHTMLs/Biharugra.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jakabszállás
 ---
 
-{% include Jakabszaallaas.html %}
+{% include settlementHTMLs/Jakabszaallaas.html %}
 
 [Vissza](./)

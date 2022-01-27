@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonkenese
 ---
 
-{% include Balatonkenese.html %}
+{% include settlementHTMLs/Balatonkenese.html %}
 
 [Vissza](./)

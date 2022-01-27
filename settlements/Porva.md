@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Porva
 ---
 
-{% include Porva.html %}
+{% include settlementHTMLs/Porva.html %}
 
 [Vissza](./)

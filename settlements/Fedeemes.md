@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fedémes
 ---
 
-{% include Fedeemes.html %}
+{% include settlementHTMLs/Fedeemes.html %}
 
 [Vissza](./)

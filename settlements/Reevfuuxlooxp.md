@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Révfülöp
 ---
 
-{% include Reevfuuxlooxp.html %}
+{% include settlementHTMLs/Reevfuuxlooxp.html %}
 
 [Vissza](./)

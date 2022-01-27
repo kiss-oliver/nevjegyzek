@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábapaty
 ---
 
-{% include Raabapaty.html %}
+{% include settlementHTMLs/Raabapaty.html %}
 
 [Vissza](./)

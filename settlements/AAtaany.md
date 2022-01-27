@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Átány
 ---
 
-{% include AAtaany.html %}
+{% include settlementHTMLs/AAtaany.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ják
 ---
 
-{% include Jaak.html %}
+{% include settlementHTMLs/Jaak.html %}
 
 [Vissza](./)

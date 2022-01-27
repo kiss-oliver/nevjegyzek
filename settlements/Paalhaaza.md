@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pálháza
 ---
 
-{% include Paalhaaza.html %}
+{% include settlementHTMLs/Paalhaaza.html %}
 
 [Vissza](./)

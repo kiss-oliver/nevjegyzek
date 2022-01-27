@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Adorjánháza
 ---
 
-{% include Adorjaanhaaza.html %}
+{% include settlementHTMLs/Adorjaanhaaza.html %}
 
 [Vissza](./)

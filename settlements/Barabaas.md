@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Barabás
 ---
 
-{% include Barabaas.html %}
+{% include settlementHTMLs/Barabaas.html %}
 
 [Vissza](./)

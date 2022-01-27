@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Körösnagyharsány
 ---
 
-{% include Kooxrooxsnagyharsaany.html %}
+{% include settlementHTMLs/Kooxrooxsnagyharsaany.html %}
 
 [Vissza](./)

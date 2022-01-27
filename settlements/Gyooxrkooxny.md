@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Györköny
 ---
 
-{% include Gyooxrkooxny.html %}
+{% include settlementHTMLs/Gyooxrkooxny.html %}
 
 [Vissza](./)

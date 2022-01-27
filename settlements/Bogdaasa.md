@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bogdása
 ---
 
-{% include Bogdaasa.html %}
+{% include settlementHTMLs/Bogdaasa.html %}
 
 [Vissza](./)

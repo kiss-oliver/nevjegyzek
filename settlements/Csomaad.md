@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csomád
 ---
 
-{% include Csomaad.html %}
+{% include settlementHTMLs/Csomaad.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pocsaj
 ---
 
-{% include Pocsaj.html %}
+{% include settlementHTMLs/Pocsaj.html %}
 
 [Vissza](./)

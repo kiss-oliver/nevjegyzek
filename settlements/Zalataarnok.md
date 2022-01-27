@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalatárnok
 ---
 
-{% include Zalataarnok.html %}
+{% include settlementHTMLs/Zalataarnok.html %}
 
 [Vissza](./)

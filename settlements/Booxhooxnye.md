@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Böhönye
 ---
 
-{% include Booxhooxnye.html %}
+{% include settlementHTMLs/Booxhooxnye.html %}
 
 [Vissza](./)

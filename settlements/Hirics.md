@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hirics
 ---
 
-{% include Hirics.html %}
+{% include settlementHTMLs/Hirics.html %}
 
 [Vissza](./)

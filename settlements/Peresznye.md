@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Peresznye
 ---
 
-{% include Peresznye.html %}
+{% include settlementHTMLs/Peresznye.html %}
 
 [Vissza](./)

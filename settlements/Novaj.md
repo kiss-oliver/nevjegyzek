@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Novaj
 ---
 
-{% include Novaj.html %}
+{% include settlementHTMLs/Novaj.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyíradony
 ---
 
-{% include Nyiiradony.html %}
+{% include settlementHTMLs/Nyiiradony.html %}
 
 [Vissza](./)

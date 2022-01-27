@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ipolytarnóc
 ---
 
-{% include Ipolytarnooc.html %}
+{% include settlementHTMLs/Ipolytarnooc.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bojt
 ---
 
-{% include Bojt.html %}
+{% include settlementHTMLs/Bojt.html %}
 
 [Vissza](./)

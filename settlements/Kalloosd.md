@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kallósd
 ---
 
-{% include Kalloosd.html %}
+{% include settlementHTMLs/Kalloosd.html %}
 
 [Vissza](./)

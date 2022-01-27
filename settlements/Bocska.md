@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bocska
 ---
 
-{% include Bocska.html %}
+{% include settlementHTMLs/Bocska.html %}
 
 [Vissza](./)

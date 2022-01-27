@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pitvaros
 ---
 
-{% include Pitvaros.html %}
+{% include settlementHTMLs/Pitvaros.html %}
 
 [Vissza](./)

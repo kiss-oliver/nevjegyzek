@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csernely
 ---
 
-{% include Csernely.html %}
+{% include settlementHTMLs/Csernely.html %}
 
 [Vissza](./)

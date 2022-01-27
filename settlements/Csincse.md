@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csincse
 ---
 
-{% include Csincse.html %}
+{% include settlementHTMLs/Csincse.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bag
 ---
 
-{% include Bag.html %}
+{% include settlementHTMLs/Bag.html %}
 
 [Vissza](./)

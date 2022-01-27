@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szőke
 ---
 
-{% include Szooxxke.html %}
+{% include settlementHTMLs/Szooxxke.html %}
 
 [Vissza](./)

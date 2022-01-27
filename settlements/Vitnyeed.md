@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vitnyéd
 ---
 
-{% include Vitnyeed.html %}
+{% include settlementHTMLs/Vitnyeed.html %}
 
 [Vissza](./)

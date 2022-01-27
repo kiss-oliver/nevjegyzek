@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsadány
 ---
 
-{% include Zsadaany.html %}
+{% include settlementHTMLs/Zsadaany.html %}
 
 [Vissza](./)

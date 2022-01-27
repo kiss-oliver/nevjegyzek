@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentdénes
 ---
 
-{% include Szentdeenes.html %}
+{% include settlementHTMLs/Szentdeenes.html %}
 
 [Vissza](./)

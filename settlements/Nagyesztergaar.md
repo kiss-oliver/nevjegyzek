@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyesztergár
 ---
 
-{% include Nagyesztergaar.html %}
+{% include settlementHTMLs/Nagyesztergaar.html %}
 
 [Vissza](./)

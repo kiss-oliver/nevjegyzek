@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Komárom
 ---
 
-{% include Komaarom.html %}
+{% include settlementHTMLs/Komaarom.html %}
 
 [Vissza](./)

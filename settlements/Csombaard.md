@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csombárd
 ---
 
-{% include Csombaard.html %}
+{% include settlementHTMLs/Csombaard.html %}
 
 [Vissza](./)

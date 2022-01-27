@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Keszeg
 ---
 
-{% include Keszeg.html %}
+{% include settlementHTMLs/Keszeg.html %}
 
 [Vissza](./)

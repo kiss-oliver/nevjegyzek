@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kozmadombja
 ---
 
-{% include Kozmadombja.html %}
+{% include settlementHTMLs/Kozmadombja.html %}
 
 [Vissza](./)

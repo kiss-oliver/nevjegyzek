@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Méhtelek
 ---
 
-{% include Meehtelek.html %}
+{% include settlementHTMLs/Meehtelek.html %}
 
 [Vissza](./)

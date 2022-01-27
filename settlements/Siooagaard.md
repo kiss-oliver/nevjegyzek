@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sióagárd
 ---
 
-{% include Siooagaard.html %}
+{% include settlementHTMLs/Siooagaard.html %}
 
 [Vissza](./)

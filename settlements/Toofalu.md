@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tófalu
 ---
 
-{% include Toofalu.html %}
+{% include settlementHTMLs/Toofalu.html %}
 
 [Vissza](./)

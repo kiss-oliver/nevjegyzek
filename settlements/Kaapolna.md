@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kápolna
 ---
 
-{% include Kaapolna.html %}
+{% include settlementHTMLs/Kaapolna.html %}
 
 [Vissza](./)

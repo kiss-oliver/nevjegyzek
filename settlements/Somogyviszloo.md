@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyviszló
 ---
 
-{% include Somogyviszloo.html %}
+{% include settlementHTMLs/Somogyviszloo.html %}
 
 [Vissza](./)

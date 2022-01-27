@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarpolány
 ---
 
-{% include Magyarpolaany.html %}
+{% include settlementHTMLs/Magyarpolaany.html %}
 
 [Vissza](./)

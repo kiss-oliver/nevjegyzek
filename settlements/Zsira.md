@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsira
 ---
 
-{% include Zsira.html %}
+{% include settlementHTMLs/Zsira.html %}
 
 [Vissza](./)

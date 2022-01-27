@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nádudvar
 ---
 
-{% include Naadudvar.html %}
+{% include settlementHTMLs/Naadudvar.html %}
 
 [Vissza](./)

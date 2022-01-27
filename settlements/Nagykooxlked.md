@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykölked
 ---
 
-{% include Nagykooxlked.html %}
+{% include settlementHTMLs/Nagykooxlked.html %}
 
 [Vissza](./)

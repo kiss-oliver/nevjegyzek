@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fényeslitke
 ---
 
-{% include Feenyeslitke.html %}
+{% include settlementHTMLs/Feenyeslitke.html %}
 
 [Vissza](./)

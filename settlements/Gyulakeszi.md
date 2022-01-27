@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyulakeszi
 ---
 
-{% include Gyulakeszi.html %}
+{% include settlementHTMLs/Gyulakeszi.html %}
 
 [Vissza](./)

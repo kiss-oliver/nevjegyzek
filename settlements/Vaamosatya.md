@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vámosatya
 ---
 
-{% include Vaamosatya.html %}
+{% include settlementHTMLs/Vaamosatya.html %}
 
 [Vissza](./)

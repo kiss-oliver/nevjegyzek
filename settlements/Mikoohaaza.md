@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mikóháza
 ---
 
-{% include Mikoohaaza.html %}
+{% include settlementHTMLs/Mikoohaaza.html %}
 
 [Vissza](./)

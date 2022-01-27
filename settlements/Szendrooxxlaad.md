@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szendrőlád
 ---
 
-{% include Szendrooxxlaad.html %}
+{% include settlementHTMLs/Szendrooxxlaad.html %}
 
 [Vissza](./)

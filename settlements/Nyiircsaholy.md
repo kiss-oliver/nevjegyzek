@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírcsaholy
 ---
 
-{% include Nyiircsaholy.html %}
+{% include settlementHTMLs/Nyiircsaholy.html %}
 
 [Vissza](./)

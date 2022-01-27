@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőberecki
 ---
 
-{% include Felsooxxberecki.html %}
+{% include settlementHTMLs/Felsooxxberecki.html %}
 
 [Vissza](./)

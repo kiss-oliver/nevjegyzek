@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lakócsa
 ---
 
-{% include Lakoocsa.html %}
+{% include settlementHTMLs/Lakoocsa.html %}
 
 [Vissza](./)

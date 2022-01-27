@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petőfibánya
 ---
 
-{% include Petooxxfibaanya.html %}
+{% include settlementHTMLs/Petooxxfibaanya.html %}
 
 [Vissza](./)

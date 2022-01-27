@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dusnok
 ---
 
-{% include Dusnok.html %}
+{% include settlementHTMLs/Dusnok.html %}
 
 [Vissza](./)

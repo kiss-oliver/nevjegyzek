@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeskolta
 ---
 
-{% include Nemeskolta.html %}
+{% include settlementHTMLs/Nemeskolta.html %}
 
 [Vissza](./)

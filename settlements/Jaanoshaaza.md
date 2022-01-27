@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánosháza
 ---
 
-{% include Jaanoshaaza.html %}
+{% include settlementHTMLs/Jaanoshaaza.html %}
 
 [Vissza](./)

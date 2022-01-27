@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaszentpál
 ---
 
-{% include Dunaszentpaal.html %}
+{% include settlementHTMLs/Dunaszentpaal.html %}
 
 [Vissza](./)

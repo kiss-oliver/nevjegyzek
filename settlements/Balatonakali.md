@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonakali
 ---
 
-{% include Balatonakali.html %}
+{% include settlementHTMLs/Balatonakali.html %}
 
 [Vissza](./)

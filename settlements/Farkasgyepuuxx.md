@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Farkasgyepű
 ---
 
-{% include Farkasgyepuuxx.html %}
+{% include settlementHTMLs/Farkasgyepuuxx.html %}
 
 [Vissza](./)

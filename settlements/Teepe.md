@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tépe
 ---
 
-{% include Teepe.html %}
+{% include settlementHTMLs/Teepe.html %}
 
 [Vissza](./)

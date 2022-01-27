@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ásványráró
 ---
 
-{% include AAsvaanyraaroo.html %}
+{% include settlementHTMLs/AAsvaanyraaroo.html %}
 
 [Vissza](./)

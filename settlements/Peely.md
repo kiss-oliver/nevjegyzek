@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pély
 ---
 
-{% include Peely.html %}
+{% include settlementHTMLs/Peely.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Móricgát
 ---
 
-{% include Mooricgaat.html %}
+{% include settlementHTMLs/Mooricgaat.html %}
 
 [Vissza](./)

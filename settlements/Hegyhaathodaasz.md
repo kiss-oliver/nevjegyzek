@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegyháthodász
 ---
 
-{% include Hegyhaathodaasz.html %}
+{% include settlementHTMLs/Hegyhaathodaasz.html %}
 
 [Vissza](./)

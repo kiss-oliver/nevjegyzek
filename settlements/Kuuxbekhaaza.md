@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kübekháza
 ---
 
-{% include Kuuxbekhaaza.html %}
+{% include settlementHTMLs/Kuuxbekhaaza.html %}
 
 [Vissza](./)

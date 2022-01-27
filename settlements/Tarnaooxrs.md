@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnaörs
 ---
 
-{% include Tarnaooxrs.html %}
+{% include settlementHTMLs/Tarnaooxrs.html %}
 
 [Vissza](./)

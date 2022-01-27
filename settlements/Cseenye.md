@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csénye
 ---
 
-{% include Cseenye.html %}
+{% include settlementHTMLs/Cseenye.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cák
 ---
 
-{% include Caak.html %}
+{% include settlementHTMLs/Caak.html %}
 
 [Vissza](./)

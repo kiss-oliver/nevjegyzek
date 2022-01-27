@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Téseny
 ---
 
-{% include Teeseny.html %}
+{% include settlementHTMLs/Teeseny.html %}
 
 [Vissza](./)

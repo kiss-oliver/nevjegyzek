@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szendrő
 ---
 
-{% include Szendrooxx.html %}
+{% include settlementHTMLs/Szendrooxx.html %}
 
 [Vissza](./)

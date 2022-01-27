@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Maráza
 ---
 
-{% include Maraaza.html %}
+{% include settlementHTMLs/Maraaza.html %}
 
 [Vissza](./)

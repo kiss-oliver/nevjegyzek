@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bugacpusztaháza
 ---
 
-{% include Bugacpusztahaaza.html %}
+{% include settlementHTMLs/Bugacpusztahaaza.html %}
 
 [Vissza](./)

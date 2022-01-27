@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somlójenő
 ---
 
-{% include Somloojenooxx.html %}
+{% include settlementHTMLs/Somloojenooxx.html %}
 
 [Vissza](./)

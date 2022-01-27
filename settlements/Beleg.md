@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beleg
 ---
 
-{% include Beleg.html %}
+{% include settlementHTMLs/Beleg.html %}
 
 [Vissza](./)

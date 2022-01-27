@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vácduka
 ---
 
-{% include Vaacduka.html %}
+{% include settlementHTMLs/Vaacduka.html %}
 
 [Vissza](./)

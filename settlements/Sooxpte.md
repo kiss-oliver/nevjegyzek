@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Söpte
 ---
 
-{% include Sooxpte.html %}
+{% include settlementHTMLs/Sooxpte.html %}
 
 [Vissza](./)

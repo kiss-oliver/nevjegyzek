@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berkenye
 ---
 
-{% include Berkenye.html %}
+{% include settlementHTMLs/Berkenye.html %}
 
 [Vissza](./)

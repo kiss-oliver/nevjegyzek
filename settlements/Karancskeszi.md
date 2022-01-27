@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karancskeszi
 ---
 
-{% include Karancskeszi.html %}
+{% include settlementHTMLs/Karancskeszi.html %}
 
 [Vissza](./)

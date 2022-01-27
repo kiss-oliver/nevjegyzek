@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jákó
 ---
 
-{% include Jaakoo.html %}
+{% include settlementHTMLs/Jaakoo.html %}
 
 [Vissza](./)

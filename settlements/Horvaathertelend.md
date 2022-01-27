@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Horváthertelend
 ---
 
-{% include Horvaathertelend.html %}
+{% include settlementHTMLs/Horvaathertelend.html %}
 
 [Vissza](./)

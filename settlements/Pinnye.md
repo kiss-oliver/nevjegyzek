@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pinnye
 ---
 
-{% include Pinnye.html %}
+{% include settlementHTMLs/Pinnye.html %}
 
 [Vissza](./)

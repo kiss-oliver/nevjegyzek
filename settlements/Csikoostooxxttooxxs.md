@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csikóstőttős
 ---
 
-{% include Csikoostooxxttooxxs.html %}
+{% include settlementHTMLs/Csikoostooxxttooxxs.html %}
 
 [Vissza](./)

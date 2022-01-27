@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Palé
 ---
 
-{% include Palee.html %}
+{% include settlementHTMLs/Palee.html %}
 
 [Vissza](./)

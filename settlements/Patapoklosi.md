@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Patapoklosi
 ---
 
-{% include Patapoklosi.html %}
+{% include settlementHTMLs/Patapoklosi.html %}
 
 [Vissza](./)

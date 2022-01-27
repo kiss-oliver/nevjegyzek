@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Encs
 ---
 
-{% include Encs.html %}
+{% include settlementHTMLs/Encs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dáka
 ---
 
-{% include Daaka.html %}
+{% include settlementHTMLs/Daaka.html %}
 
 [Vissza](./)

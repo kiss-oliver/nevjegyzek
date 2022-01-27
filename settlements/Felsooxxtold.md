@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőtold
 ---
 
-{% include Felsooxxtold.html %}
+{% include settlementHTMLs/Felsooxxtold.html %}
 
 [Vissza](./)

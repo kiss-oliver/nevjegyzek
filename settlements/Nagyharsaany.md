@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyharsány
 ---
 
-{% include Nagyharsaany.html %}
+{% include settlementHTMLs/Nagyharsaany.html %}
 
 [Vissza](./)

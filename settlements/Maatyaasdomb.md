@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátyásdomb
 ---
 
-{% include Maatyaasdomb.html %}
+{% include settlementHTMLs/Maatyaasdomb.html %}
 
 [Vissza](./)

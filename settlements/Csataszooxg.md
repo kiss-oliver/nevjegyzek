@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csataszög
 ---
 
-{% include Csataszooxg.html %}
+{% include settlementHTMLs/Csataszooxg.html %}
 
 [Vissza](./)

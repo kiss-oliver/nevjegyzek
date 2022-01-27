@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Főnyed
 ---
 
-{% include Fooxxnyed.html %}
+{% include settlementHTMLs/Fooxxnyed.html %}
 
 [Vissza](./)

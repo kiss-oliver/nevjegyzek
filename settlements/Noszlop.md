@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Noszlop
 ---
 
-{% include Noszlop.html %}
+{% include settlementHTMLs/Noszlop.html %}
 
 [Vissza](./)

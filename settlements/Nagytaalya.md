@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagytálya
 ---
 
-{% include Nagytaalya.html %}
+{% include settlementHTMLs/Nagytaalya.html %}
 
 [Vissza](./)

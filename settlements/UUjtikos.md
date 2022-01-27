@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újtikos
 ---
 
-{% include UUjtikos.html %}
+{% include settlementHTMLs/UUjtikos.html %}
 
 [Vissza](./)

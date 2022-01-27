@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Murony
 ---
 
-{% include Murony.html %}
+{% include settlementHTMLs/Murony.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Váralja
 ---
 
-{% include Vaaralja.html %}
+{% include settlementHTMLs/Vaaralja.html %}
 
 [Vissza](./)

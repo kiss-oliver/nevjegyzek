@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beret
 ---
 
-{% include Beret.html %}
+{% include settlementHTMLs/Beret.html %}
 
 [Vissza](./)

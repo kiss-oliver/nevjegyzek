@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádkövesd
 ---
 
-{% include Noograadkooxvesd.html %}
+{% include settlementHTMLs/Noograadkooxvesd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisláng
 ---
 
-{% include Kislaang.html %}
+{% include settlementHTMLs/Kislaang.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Domaháza
 ---
 
-{% include Domahaaza.html %}
+{% include settlementHTMLs/Domahaaza.html %}
 
 [Vissza](./)

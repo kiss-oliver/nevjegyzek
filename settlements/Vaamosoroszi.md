@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vámosoroszi
 ---
 
-{% include Vaamosoroszi.html %}
+{% include settlementHTMLs/Vaamosoroszi.html %}
 
 [Vissza](./)

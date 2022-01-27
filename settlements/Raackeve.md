@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ráckeve
 ---
 
-{% include Raackeve.html %}
+{% include settlementHTMLs/Raackeve.html %}
 
 [Vissza](./)

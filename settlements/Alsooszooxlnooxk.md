@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsószölnök
 ---
 
-{% include Alsooszooxlnooxk.html %}
+{% include settlementHTMLs/Alsooszooxlnooxk.html %}
 
 [Vissza](./)

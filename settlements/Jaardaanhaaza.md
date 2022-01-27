@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Járdánháza
 ---
 
-{% include Jaardaanhaaza.html %}
+{% include settlementHTMLs/Jaardaanhaaza.html %}
 
 [Vissza](./)

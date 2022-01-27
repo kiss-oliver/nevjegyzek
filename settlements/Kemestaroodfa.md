@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemestaródfa
 ---
 
-{% include Kemestaroodfa.html %}
+{% include settlementHTMLs/Kemestaroodfa.html %}
 
 [Vissza](./)

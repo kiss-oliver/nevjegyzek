@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőszegdoroszló
 ---
 
-{% include Kooxxszegdoroszloo.html %}
+{% include settlementHTMLs/Kooxxszegdoroszloo.html %}
 
 [Vissza](./)

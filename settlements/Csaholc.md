@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csaholc
 ---
 
-{% include Csaholc.html %}
+{% include settlementHTMLs/Csaholc.html %}
 
 [Vissza](./)

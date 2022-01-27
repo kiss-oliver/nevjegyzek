@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jákfalva
 ---
 
-{% include Jaakfalva.html %}
+{% include settlementHTMLs/Jaakfalva.html %}
 
 [Vissza](./)

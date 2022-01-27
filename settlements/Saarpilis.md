@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárpilis
 ---
 
-{% include Saarpilis.html %}
+{% include settlementHTMLs/Saarpilis.html %}
 
 [Vissza](./)

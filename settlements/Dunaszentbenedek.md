@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaszentbenedek
 ---
 
-{% include Dunaszentbenedek.html %}
+{% include settlementHTMLs/Dunaszentbenedek.html %}
 
 [Vissza](./)

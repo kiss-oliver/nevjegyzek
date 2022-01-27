@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykeresztúr
 ---
 
-{% include Nagykeresztuur.html %}
+{% include settlementHTMLs/Nagykeresztuur.html %}
 
 [Vissza](./)

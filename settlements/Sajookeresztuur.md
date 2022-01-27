@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajókeresztúr
 ---
 
-{% include Sajookeresztuur.html %}
+{% include settlementHTMLs/Sajookeresztuur.html %}
 
 [Vissza](./)

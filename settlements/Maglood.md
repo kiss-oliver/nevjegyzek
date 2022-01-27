@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Maglód
 ---
 
-{% include Maglood.html %}
+{% include settlementHTMLs/Maglood.html %}
 
 [Vissza](./)

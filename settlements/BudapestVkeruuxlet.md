@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest V. kerület
 ---
 
-{% include BudapestVkeruuxlet.html %}
+{% include settlementHTMLs/BudapestVkeruuxlet.html %}
 
 [Vissza](./)

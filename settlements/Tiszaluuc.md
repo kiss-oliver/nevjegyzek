@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszalúc
 ---
 
-{% include Tiszaluuc.html %}
+{% include settlementHTMLs/Tiszaluuc.html %}
 
 [Vissza](./)

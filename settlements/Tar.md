@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tar
 ---
 
-{% include Tar.html %}
+{% include settlementHTMLs/Tar.html %}
 
 [Vissza](./)

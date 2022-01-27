@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírjákó
 ---
 
-{% include Nyiirjaakoo.html %}
+{% include settlementHTMLs/Nyiirjaakoo.html %}
 
 [Vissza](./)

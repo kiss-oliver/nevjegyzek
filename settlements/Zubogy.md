@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zubogy
 ---
 
-{% include Zubogy.html %}
+{% include settlementHTMLs/Zubogy.html %}
 
 [Vissza](./)

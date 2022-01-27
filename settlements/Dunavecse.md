@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunavecse
 ---
 
-{% include Dunavecse.html %}
+{% include settlementHTMLs/Dunavecse.html %}
 
 [Vissza](./)

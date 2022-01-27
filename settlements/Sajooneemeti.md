@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajónémeti
 ---
 
-{% include Sajooneemeti.html %}
+{% include settlementHTMLs/Sajooneemeti.html %}
 
 [Vissza](./)

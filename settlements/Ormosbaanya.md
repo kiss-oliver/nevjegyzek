@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ormosbánya
 ---
 
-{% include Ormosbaanya.html %}
+{% include settlementHTMLs/Ormosbaanya.html %}
 
 [Vissza](./)

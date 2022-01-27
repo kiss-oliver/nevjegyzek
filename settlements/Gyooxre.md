@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Györe
 ---
 
-{% include Gyooxre.html %}
+{% include settlementHTMLs/Gyooxre.html %}
 
 [Vissza](./)

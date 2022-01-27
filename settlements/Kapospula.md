@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kapospula
 ---
 
-{% include Kapospula.html %}
+{% include settlementHTMLs/Kapospula.html %}
 
 [Vissza](./)

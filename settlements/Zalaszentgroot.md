@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszentgrót
 ---
 
-{% include Zalaszentgroot.html %}
+{% include settlementHTMLs/Zalaszentgroot.html %}
 
 [Vissza](./)

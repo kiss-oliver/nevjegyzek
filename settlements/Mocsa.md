@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mocsa
 ---
 
-{% include Mocsa.html %}
+{% include settlementHTMLs/Mocsa.html %}
 
 [Vissza](./)

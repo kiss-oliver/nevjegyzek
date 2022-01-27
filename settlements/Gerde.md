@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gerde
 ---
 
-{% include Gerde.html %}
+{% include settlementHTMLs/Gerde.html %}
 
 [Vissza](./)

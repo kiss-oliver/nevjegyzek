@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaremete
 ---
 
-{% include Dunaremete.html %}
+{% include settlementHTMLs/Dunaremete.html %}
 
 [Vissza](./)

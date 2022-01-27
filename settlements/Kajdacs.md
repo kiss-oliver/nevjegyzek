@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kajdacs
 ---
 
-{% include Kajdacs.html %}
+{% include settlementHTMLs/Kajdacs.html %}
 
 [Vissza](./)

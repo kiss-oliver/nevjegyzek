@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Poroszló
 ---
 
-{% include Poroszloo.html %}
+{% include settlementHTMLs/Poroszloo.html %}
 
 [Vissza](./)

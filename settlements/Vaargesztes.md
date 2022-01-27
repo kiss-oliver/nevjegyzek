@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várgesztes
 ---
 
-{% include Vaargesztes.html %}
+{% include settlementHTMLs/Vaargesztes.html %}
 
 [Vissza](./)

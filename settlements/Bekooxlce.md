@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bekölce
 ---
 
-{% include Bekooxlce.html %}
+{% include settlementHTMLs/Bekooxlce.html %}
 
 [Vissza](./)

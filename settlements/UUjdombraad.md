@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újdombrád
 ---
 
-{% include UUjdombraad.html %}
+{% include settlementHTMLs/UUjdombraad.html %}
 
 [Vissza](./)

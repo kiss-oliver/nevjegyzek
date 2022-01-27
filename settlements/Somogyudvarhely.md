@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyudvarhely
 ---
 
-{% include Somogyudvarhely.html %}
+{% include settlementHTMLs/Somogyudvarhely.html %}
 
 [Vissza](./)

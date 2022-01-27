@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonszentgyörgy
 ---
 
-{% include Balatonszentgyooxrgy.html %}
+{% include settlementHTMLs/Balatonszentgyooxrgy.html %}
 
 [Vissza](./)

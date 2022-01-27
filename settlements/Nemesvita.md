@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesvita
 ---
 
-{% include Nemesvita.html %}
+{% include settlementHTMLs/Nemesvita.html %}
 
 [Vissza](./)

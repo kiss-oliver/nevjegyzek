@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szekszárd
 ---
 
-{% include Szekszaard.html %}
+{% include settlementHTMLs/Szekszaard.html %}
 
 [Vissza](./)

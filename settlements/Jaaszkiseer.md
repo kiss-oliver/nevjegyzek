@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászkisér
 ---
 
-{% include Jaaszkiseer.html %}
+{% include settlementHTMLs/Jaaszkiseer.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balaton
 ---
 
-{% include Balaton.html %}
+{% include settlementHTMLs/Balaton.html %}
 
 [Vissza](./)

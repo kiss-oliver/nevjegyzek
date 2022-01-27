@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somodor
 ---
 
-{% include Somodor.html %}
+{% include settlementHTMLs/Somodor.html %}
 
 [Vissza](./)

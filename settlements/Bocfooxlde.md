@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bocfölde
 ---
 
-{% include Bocfooxlde.html %}
+{% include settlementHTMLs/Bocfooxlde.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pócsmegyer
 ---
 
-{% include Poocsmegyer.html %}
+{% include settlementHTMLs/Poocsmegyer.html %}
 
 [Vissza](./)

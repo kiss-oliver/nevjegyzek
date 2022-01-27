@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőpeterd
 ---
 
-{% include Mezooxxpeterd.html %}
+{% include settlementHTMLs/Mezooxxpeterd.html %}
 
 [Vissza](./)

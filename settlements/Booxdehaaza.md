@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bödeháza
 ---
 
-{% include Booxdehaaza.html %}
+{% include settlementHTMLs/Booxdehaaza.html %}
 
 [Vissza](./)

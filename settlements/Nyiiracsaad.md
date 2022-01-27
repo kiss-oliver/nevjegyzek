@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyíracsád
 ---
 
-{% include Nyiiracsaad.html %}
+{% include settlementHTMLs/Nyiiracsaad.html %}
 
 [Vissza](./)

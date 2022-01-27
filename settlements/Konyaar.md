@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Konyár
 ---
 
-{% include Konyaar.html %}
+{% include settlementHTMLs/Konyaar.html %}
 
 [Vissza](./)

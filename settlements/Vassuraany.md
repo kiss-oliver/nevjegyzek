@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vassurány
 ---
 
-{% include Vassuraany.html %}
+{% include settlementHTMLs/Vassuraany.html %}
 
 [Vissza](./)

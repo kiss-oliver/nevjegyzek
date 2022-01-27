@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cered
 ---
 
-{% include Cered.html %}
+{% include settlementHTMLs/Cered.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bikal
 ---
 
-{% include Bikal.html %}
+{% include settlementHTMLs/Bikal.html %}
 
 [Vissza](./)

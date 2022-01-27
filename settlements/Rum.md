@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rum
 ---
 
-{% include Rum.html %}
+{% include settlementHTMLs/Rum.html %}
 
 [Vissza](./)

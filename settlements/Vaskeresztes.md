@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vaskeresztes
 ---
 
-{% include Vaskeresztes.html %}
+{% include settlementHTMLs/Vaskeresztes.html %}
 
 [Vissza](./)

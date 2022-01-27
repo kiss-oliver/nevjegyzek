@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baté
 ---
 
-{% include Batee.html %}
+{% include settlementHTMLs/Batee.html %}
 
 [Vissza](./)

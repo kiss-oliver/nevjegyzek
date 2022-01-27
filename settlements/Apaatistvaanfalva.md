@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Apátistvánfalva
 ---
 
-{% include Apaatistvaanfalva.html %}
+{% include settlementHTMLs/Apaatistvaanfalva.html %}
 
 [Vissza](./)

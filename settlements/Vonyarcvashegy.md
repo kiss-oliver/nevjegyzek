@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vonyarcvashegy
 ---
 
-{% include Vonyarcvashegy.html %}
+{% include settlementHTMLs/Vonyarcvashegy.html %}
 
 [Vissza](./)

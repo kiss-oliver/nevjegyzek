@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tömörkény
 ---
 
-{% include Tooxmooxrkeeny.html %}
+{% include settlementHTMLs/Tooxmooxrkeeny.html %}
 
 [Vissza](./)

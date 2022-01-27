@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Százhalombatta
 ---
 
-{% include Szaazhalombatta.html %}
+{% include settlementHTMLs/Szaazhalombatta.html %}
 
 [Vissza](./)

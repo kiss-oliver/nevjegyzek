@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentborbás
 ---
 
-{% include Szentborbaas.html %}
+{% include settlementHTMLs/Szentborbaas.html %}
 
 [Vissza](./)

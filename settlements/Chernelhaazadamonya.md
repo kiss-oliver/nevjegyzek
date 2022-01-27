@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Chernelházadamonya
 ---
 
-{% include Chernelhaazadamonya.html %}
+{% include settlementHTMLs/Chernelhaazadamonya.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyárlőrinc
 ---
 
-{% include Nyaarlooxxrinc.html %}
+{% include settlementHTMLs/Nyaarlooxxrinc.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyardombegyház
 ---
 
-{% include Magyardombegyhaaz.html %}
+{% include settlementHTMLs/Magyardombegyhaaz.html %}
 
 [Vissza](./)

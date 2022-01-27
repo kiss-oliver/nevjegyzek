@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszainoka
 ---
 
-{% include Tiszainoka.html %}
+{% include settlementHTMLs/Tiszainoka.html %}
 
 [Vissza](./)

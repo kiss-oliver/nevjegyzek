@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ököritófülpös
 ---
 
-{% include OOXkooxritoofuuxlpooxs.html %}
+{% include settlementHTMLs/OOXkooxritoofuuxlpooxs.html %}
 
 [Vissza](./)

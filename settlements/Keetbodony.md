@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kétbodony
 ---
 
-{% include Keetbodony.html %}
+{% include settlementHTMLs/Keetbodony.html %}
 
 [Vissza](./)

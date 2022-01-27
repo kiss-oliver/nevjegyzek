@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iklanberény
 ---
 
-{% include Iklanbereeny.html %}
+{% include settlementHTMLs/Iklanbereeny.html %}
 
 [Vissza](./)

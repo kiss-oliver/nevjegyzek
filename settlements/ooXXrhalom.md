@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Őrhalom
 ---
 
-{% include ooXXrhalom.html %}
+{% include settlementHTMLs/ooXXrhalom.html %}
 
 [Vissza](./)

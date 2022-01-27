@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vértesacsa
 ---
 
-{% include Veertesacsa.html %}
+{% include settlementHTMLs/Veertesacsa.html %}
 
 [Vissza](./)

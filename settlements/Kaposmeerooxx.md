@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaposmérő
 ---
 
-{% include Kaposmeerooxx.html %}
+{% include settlementHTMLs/Kaposmeerooxx.html %}
 
 [Vissza](./)

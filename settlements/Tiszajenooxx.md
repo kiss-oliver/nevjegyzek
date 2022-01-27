@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszajenő
 ---
 
-{% include Tiszajenooxx.html %}
+{% include settlementHTMLs/Tiszajenooxx.html %}
 
 [Vissza](./)

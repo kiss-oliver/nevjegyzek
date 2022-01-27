@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zádorfalva
 ---
 
-{% include Zaadorfalva.html %}
+{% include settlementHTMLs/Zaadorfalva.html %}
 
 [Vissza](./)

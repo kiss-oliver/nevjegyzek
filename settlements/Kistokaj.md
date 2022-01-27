@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kistokaj
 ---
 
-{% include Kistokaj.html %}
+{% include settlementHTMLs/Kistokaj.html %}
 
 [Vissza](./)

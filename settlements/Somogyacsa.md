@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyacsa
 ---
 
-{% include Somogyacsa.html %}
+{% include settlementHTMLs/Somogyacsa.html %}
 
 [Vissza](./)

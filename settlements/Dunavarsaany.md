@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunavarsány
 ---
 
-{% include Dunavarsaany.html %}
+{% include settlementHTMLs/Dunavarsaany.html %}
 
 [Vissza](./)

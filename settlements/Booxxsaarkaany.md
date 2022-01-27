@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bősárkány
 ---
 
-{% include Booxxsaarkaany.html %}
+{% include settlementHTMLs/Booxxsaarkaany.html %}
 
 [Vissza](./)

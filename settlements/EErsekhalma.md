@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Érsekhalma
 ---
 
-{% include EErsekhalma.html %}
+{% include settlementHTMLs/EErsekhalma.html %}
 
 [Vissza](./)

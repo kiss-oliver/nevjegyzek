@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Meggyeskovácsi
 ---
 
-{% include Meggyeskovaacsi.html %}
+{% include settlementHTMLs/Meggyeskovaacsi.html %}
 
 [Vissza](./)

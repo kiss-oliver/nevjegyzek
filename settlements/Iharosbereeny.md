@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iharosberény
 ---
 
-{% include Iharosbereeny.html %}
+{% include settlementHTMLs/Iharosbereeny.html %}
 
 [Vissza](./)

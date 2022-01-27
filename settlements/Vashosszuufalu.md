@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vashosszúfalu
 ---
 
-{% include Vashosszuufalu.html %}
+{% include settlementHTMLs/Vashosszuufalu.html %}
 
 [Vissza](./)

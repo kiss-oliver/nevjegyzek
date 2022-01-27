@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csengerújfalu
 ---
 
-{% include Csengeruujfalu.html %}
+{% include settlementHTMLs/Csengeruujfalu.html %}
 
 [Vissza](./)

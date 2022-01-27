@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkzsérc
 ---
 
-{% include Buuxkkzseerc.html %}
+{% include settlementHTMLs/Buuxkkzseerc.html %}
 
 [Vissza](./)

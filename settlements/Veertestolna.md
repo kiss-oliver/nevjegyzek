@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vértestolna
 ---
 
-{% include Veertestolna.html %}
+{% include settlementHTMLs/Veertestolna.html %}
 
 [Vissza](./)

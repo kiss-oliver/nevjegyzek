@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőtárkány
 ---
 
-{% include Mezooxxtaarkaany.html %}
+{% include settlementHTMLs/Mezooxxtaarkaany.html %}
 
 [Vissza](./)

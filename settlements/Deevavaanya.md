@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dévaványa
 ---
 
-{% include Deevavaanya.html %}
+{% include settlementHTMLs/Deevavaanya.html %}
 
 [Vissza](./)

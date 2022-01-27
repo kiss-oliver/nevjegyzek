@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mecsér
 ---
 
-{% include Mecseer.html %}
+{% include settlementHTMLs/Mecseer.html %}
 
 [Vissza](./)

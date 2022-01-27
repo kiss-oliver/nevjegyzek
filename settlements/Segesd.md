@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Segesd
 ---
 
-{% include Segesd.html %}
+{% include settlementHTMLs/Segesd.html %}
 
 [Vissza](./)

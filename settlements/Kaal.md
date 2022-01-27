@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kál
 ---
 
-{% include Kaal.html %}
+{% include settlementHTMLs/Kaal.html %}
 
 [Vissza](./)

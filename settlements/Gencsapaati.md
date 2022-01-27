@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gencsapáti
 ---
 
-{% include Gencsapaati.html %}
+{% include settlementHTMLs/Gencsapaati.html %}
 
 [Vissza](./)

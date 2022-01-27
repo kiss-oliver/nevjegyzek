@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászjákóhalma
 ---
 
-{% include Jaaszjaakoohalma.html %}
+{% include settlementHTMLs/Jaaszjaakoohalma.html %}
 
 [Vissza](./)

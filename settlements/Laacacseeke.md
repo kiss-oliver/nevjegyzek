@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lácacséke
 ---
 
-{% include Laacacseeke.html %}
+{% include settlementHTMLs/Laacacseeke.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Papkeszi
 ---
 
-{% include Papkeszi.html %}
+{% include settlementHTMLs/Papkeszi.html %}
 
 [Vissza](./)

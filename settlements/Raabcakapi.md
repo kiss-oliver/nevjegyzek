@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábcakapi
 ---
 
-{% include Raabcakapi.html %}
+{% include settlementHTMLs/Raabcakapi.html %}
 
 [Vissza](./)

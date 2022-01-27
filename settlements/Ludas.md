@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ludas
 ---
 
-{% include Ludas.html %}
+{% include settlementHTMLs/Ludas.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szilágy
 ---
 
-{% include Szilaagy.html %}
+{% include settlementHTMLs/Szilaagy.html %}
 
 [Vissza](./)

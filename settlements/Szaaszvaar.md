@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szászvár
 ---
 
-{% include Szaaszvaar.html %}
+{% include settlementHTMLs/Szaaszvaar.html %}
 
 [Vissza](./)

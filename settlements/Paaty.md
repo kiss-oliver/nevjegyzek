@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Páty
 ---
 
-{% include Paaty.html %}
+{% include settlementHTMLs/Paaty.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abasár
 ---
 
-{% include Abasaar.html %}
+{% include settlementHTMLs/Abasaar.html %}
 
 [Vissza](./)

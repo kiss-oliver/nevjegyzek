@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Akasztó
 ---
 
-{% include Akasztoo.html %}
+{% include settlementHTMLs/Akasztoo.html %}
 
 [Vissza](./)

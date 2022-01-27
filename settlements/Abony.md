@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abony
 ---
 
-{% include Abony.html %}
+{% include settlementHTMLs/Abony.html %}
 
 [Vissza](./)

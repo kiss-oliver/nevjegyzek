@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsámbok
 ---
 
-{% include Zsaambok.html %}
+{% include settlementHTMLs/Zsaambok.html %}
 
 [Vissza](./)

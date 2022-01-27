@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Galgamácsa
 ---
 
-{% include Galgamaacsa.html %}
+{% include settlementHTMLs/Galgamaacsa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bonyhádvarasd
 ---
 
-{% include Bonyhaadvarasd.html %}
+{% include settlementHTMLs/Bonyhaadvarasd.html %}
 
 [Vissza](./)

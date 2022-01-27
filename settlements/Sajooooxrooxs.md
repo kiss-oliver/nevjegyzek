@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajóörös
 ---
 
-{% include Sajooooxrooxs.html %}
+{% include settlementHTMLs/Sajooooxrooxs.html %}
 
 [Vissza](./)

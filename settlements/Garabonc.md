@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Garabonc
 ---
 
-{% include Garabonc.html %}
+{% include settlementHTMLs/Garabonc.html %}
 
 [Vissza](./)

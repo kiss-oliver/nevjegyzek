@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkszenterzsébet
 ---
 
-{% include Buuxkkszenterzseebet.html %}
+{% include settlementHTMLs/Buuxkkszenterzseebet.html %}
 
 [Vissza](./)

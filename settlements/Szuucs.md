@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szúcs
 ---
 
-{% include Szuucs.html %}
+{% include settlementHTMLs/Szuucs.html %}
 
 [Vissza](./)

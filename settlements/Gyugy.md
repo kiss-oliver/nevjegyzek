@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyugy
 ---
 
-{% include Gyugy.html %}
+{% include settlementHTMLs/Gyugy.html %}
 
 [Vissza](./)

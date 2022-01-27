@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szente
 ---
 
-{% include Szente.html %}
+{% include settlementHTMLs/Szente.html %}
 
 [Vissza](./)

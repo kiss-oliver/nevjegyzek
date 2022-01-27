@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátraszentimre
 ---
 
-{% include Maatraszentimre.html %}
+{% include settlementHTMLs/Maatraszentimre.html %}
 
 [Vissza](./)

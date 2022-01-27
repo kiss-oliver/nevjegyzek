@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ilk
 ---
 
-{% include Ilk.html %}
+{% include settlementHTMLs/Ilk.html %}
 
 [Vissza](./)

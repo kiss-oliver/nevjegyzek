@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Siófok
 ---
 
-{% include Sioofok.html %}
+{% include settlementHTMLs/Sioofok.html %}
 
 [Vissza](./)

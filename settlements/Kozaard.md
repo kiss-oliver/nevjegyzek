@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kozárd
 ---
 
-{% include Kozaard.html %}
+{% include settlementHTMLs/Kozaard.html %}
 
 [Vissza](./)

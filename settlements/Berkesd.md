@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berkesd
 ---
 
-{% include Berkesd.html %}
+{% include settlementHTMLs/Berkesd.html %}
 
 [Vissza](./)

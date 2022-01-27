@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarlukafa
 ---
 
-{% include Magyarlukafa.html %}
+{% include settlementHTMLs/Magyarlukafa.html %}
 
 [Vissza](./)

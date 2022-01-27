@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hort
 ---
 
-{% include Hort.html %}
+{% include settlementHTMLs/Hort.html %}
 
 [Vissza](./)

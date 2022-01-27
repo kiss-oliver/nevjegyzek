@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szurdokpüspöki
 ---
 
-{% include Szurdokpuuxspooxki.html %}
+{% include settlementHTMLs/Szurdokpuuxspooxki.html %}
 
 [Vissza](./)

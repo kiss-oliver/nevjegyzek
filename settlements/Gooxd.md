@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Göd
 ---
 
-{% include Gooxd.html %}
+{% include settlementHTMLs/Gooxd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bük
 ---
 
-{% include Buuxk.html %}
+{% include settlementHTMLs/Buuxk.html %}
 
 [Vissza](./)

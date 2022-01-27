@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszabábolna
 ---
 
-{% include Tiszabaabolna.html %}
+{% include settlementHTMLs/Tiszabaabolna.html %}
 
 [Vissza](./)

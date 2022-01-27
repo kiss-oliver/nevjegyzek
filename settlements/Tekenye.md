@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tekenye
 ---
 
-{% include Tekenye.html %}
+{% include settlementHTMLs/Tekenye.html %}
 
 [Vissza](./)

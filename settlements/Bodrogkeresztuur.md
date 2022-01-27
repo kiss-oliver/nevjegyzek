@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bodrogkeresztúr
 ---
 
-{% include Bodrogkeresztuur.html %}
+{% include settlementHTMLs/Bodrogkeresztuur.html %}
 
 [Vissza](./)

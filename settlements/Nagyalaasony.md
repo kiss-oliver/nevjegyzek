@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyalásony
 ---
 
-{% include Nagyalaasony.html %}
+{% include settlementHTMLs/Nagyalaasony.html %}
 
 [Vissza](./)

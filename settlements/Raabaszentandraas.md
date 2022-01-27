@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábaszentandrás
 ---
 
-{% include Raabaszentandraas.html %}
+{% include settlementHTMLs/Raabaszentandraas.html %}
 
 [Vissza](./)

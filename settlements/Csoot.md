@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csót
 ---
 
-{% include Csoot.html %}
+{% include settlementHTMLs/Csoot.html %}
 
 [Vissza](./)

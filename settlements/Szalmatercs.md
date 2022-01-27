@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szalmatercs
 ---
 
-{% include Szalmatercs.html %}
+{% include settlementHTMLs/Szalmatercs.html %}
 
 [Vissza](./)

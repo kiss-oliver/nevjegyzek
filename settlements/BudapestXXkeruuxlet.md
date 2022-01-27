@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest XX. kerület
 ---
 
-{% include BudapestXXkeruuxlet.html %}
+{% include settlementHTMLs/BudapestXXkeruuxlet.html %}
 
 [Vissza](./)

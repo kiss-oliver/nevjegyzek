@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cikó
 ---
 
-{% include Cikoo.html %}
+{% include settlementHTMLs/Cikoo.html %}
 
 [Vissza](./)

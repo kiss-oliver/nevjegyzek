@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vöckönd
 ---
 
-{% include Vooxckooxnd.html %}
+{% include settlementHTMLs/Vooxckooxnd.html %}
 
 [Vissza](./)

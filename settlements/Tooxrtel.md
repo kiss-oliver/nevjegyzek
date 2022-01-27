@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Törtel
 ---
 
-{% include Tooxrtel.html %}
+{% include settlementHTMLs/Tooxrtel.html %}
 
 [Vissza](./)

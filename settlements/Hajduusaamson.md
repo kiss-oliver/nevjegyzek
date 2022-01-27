@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hajdúsámson
 ---
 
-{% include Hajduusaamson.html %}
+{% include settlementHTMLs/Hajduusaamson.html %}
 
 [Vissza](./)

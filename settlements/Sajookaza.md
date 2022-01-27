@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajókaza
 ---
 
-{% include Sajookaza.html %}
+{% include settlementHTMLs/Sajookaza.html %}
 
 [Vissza](./)

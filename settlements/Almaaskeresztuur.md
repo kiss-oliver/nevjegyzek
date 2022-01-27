@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Almáskeresztúr
 ---
 
-{% include Almaaskeresztuur.html %}
+{% include settlementHTMLs/Almaaskeresztuur.html %}
 
 [Vissza](./)

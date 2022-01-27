@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vásárosmiske
 ---
 
-{% include Vaasaarosmiske.html %}
+{% include settlementHTMLs/Vaasaarosmiske.html %}
 
 [Vissza](./)

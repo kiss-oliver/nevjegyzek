@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csór
 ---
 
-{% include Csoor.html %}
+{% include settlementHTMLs/Csoor.html %}
 
 [Vissza](./)

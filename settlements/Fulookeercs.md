@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fulókércs
 ---
 
-{% include Fulookeercs.html %}
+{% include settlementHTMLs/Fulookeercs.html %}
 
 [Vissza](./)

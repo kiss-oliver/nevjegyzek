@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Farkaslyuk
 ---
 
-{% include Farkaslyuk.html %}
+{% include settlementHTMLs/Farkaslyuk.html %}
 
 [Vissza](./)

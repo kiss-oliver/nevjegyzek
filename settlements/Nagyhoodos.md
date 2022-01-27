@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyhódos
 ---
 
-{% include Nagyhoodos.html %}
+{% include settlementHTMLs/Nagyhoodos.html %}
 
 [Vissza](./)

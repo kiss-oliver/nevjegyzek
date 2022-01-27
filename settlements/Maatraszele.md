@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátraszele
 ---
 
-{% include Maatraszele.html %}
+{% include settlementHTMLs/Maatraszele.html %}
 
 [Vissza](./)

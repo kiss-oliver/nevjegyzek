@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Császló
 ---
 
-{% include Csaaszloo.html %}
+{% include settlementHTMLs/Csaaszloo.html %}
 
 [Vissza](./)

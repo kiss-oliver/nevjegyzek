@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gelénes
 ---
 
-{% include Geleenes.html %}
+{% include settlementHTMLs/Geleenes.html %}
 
 [Vissza](./)

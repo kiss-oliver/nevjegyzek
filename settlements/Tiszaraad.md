@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszarád
 ---
 
-{% include Tiszaraad.html %}
+{% include settlementHTMLs/Tiszaraad.html %}
 
 [Vissza](./)

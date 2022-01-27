@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gönyű
 ---
 
-{% include Gooxnyuuxx.html %}
+{% include settlementHTMLs/Gooxnyuuxx.html %}
 
 [Vissza](./)

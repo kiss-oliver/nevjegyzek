@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gadna
 ---
 
-{% include Gadna.html %}
+{% include settlementHTMLs/Gadna.html %}
 
 [Vissza](./)

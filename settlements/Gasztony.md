@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gasztony
 ---
 
-{% include Gasztony.html %}
+{% include settlementHTMLs/Gasztony.html %}
 
 [Vissza](./)

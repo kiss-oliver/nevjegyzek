@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Váraszó
 ---
 
-{% include Vaaraszoo.html %}
+{% include settlementHTMLs/Vaaraszoo.html %}
 
 [Vissza](./)

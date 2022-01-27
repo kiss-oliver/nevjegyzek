@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sand
 ---
 
-{% include Sand.html %}
+{% include settlementHTMLs/Sand.html %}
 
 [Vissza](./)

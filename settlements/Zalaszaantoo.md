@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszántó
 ---
 
-{% include Zalaszaantoo.html %}
+{% include settlementHTMLs/Zalaszaantoo.html %}
 
 [Vissza](./)

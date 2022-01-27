@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejőszalonta
 ---
 
-{% include Hejooxxszalonta.html %}
+{% include settlementHTMLs/Hejooxxszalonta.html %}
 
 [Vissza](./)

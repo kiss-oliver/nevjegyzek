@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentgál
 ---
 
-{% include Szentgaal.html %}
+{% include settlementHTMLs/Szentgaal.html %}
 
 [Vissza](./)

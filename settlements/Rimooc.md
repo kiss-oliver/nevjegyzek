@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rimóc
 ---
 
-{% include Rimooc.html %}
+{% include settlementHTMLs/Rimooc.html %}
 
 [Vissza](./)

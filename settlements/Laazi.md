@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lázi
 ---
 
-{% include Laazi.html %}
+{% include settlementHTMLs/Laazi.html %}
 
 [Vissza](./)

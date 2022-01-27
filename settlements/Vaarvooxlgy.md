@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várvölgy
 ---
 
-{% include Vaarvooxlgy.html %}
+{% include settlementHTMLs/Vaarvooxlgy.html %}
 
 [Vissza](./)

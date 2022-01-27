@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kállósemjén
 ---
 
-{% include Kaalloosemjeen.html %}
+{% include settlementHTMLs/Kaalloosemjeen.html %}
 
 [Vissza](./)

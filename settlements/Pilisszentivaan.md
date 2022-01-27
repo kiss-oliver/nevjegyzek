@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilisszentiván
 ---
 
-{% include Pilisszentivaan.html %}
+{% include settlementHTMLs/Pilisszentivaan.html %}
 
 [Vissza](./)

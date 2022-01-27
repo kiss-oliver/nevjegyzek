@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyód
 ---
 
-{% include Gyood.html %}
+{% include settlementHTMLs/Gyood.html %}
 
 [Vissza](./)

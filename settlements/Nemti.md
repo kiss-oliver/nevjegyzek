@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemti
 ---
 
-{% include Nemti.html %}
+{% include settlementHTMLs/Nemti.html %}
 
 [Vissza](./)

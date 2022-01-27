@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Folyás
 ---
 
-{% include Folyaas.html %}
+{% include settlementHTMLs/Folyaas.html %}
 
 [Vissza](./)

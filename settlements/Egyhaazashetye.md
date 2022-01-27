@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházashetye
 ---
 
-{% include Egyhaazashetye.html %}
+{% include settlementHTMLs/Egyhaazashetye.html %}
 
 [Vissza](./)

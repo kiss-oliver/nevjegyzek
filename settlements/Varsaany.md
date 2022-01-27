@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Varsány
 ---
 
-{% include Varsaany.html %}
+{% include settlementHTMLs/Varsaany.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarpa
 ---
 
-{% include Tarpa.html %}
+{% include settlementHTMLs/Tarpa.html %}
 
 [Vissza](./)

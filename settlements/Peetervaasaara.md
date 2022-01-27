@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pétervására
 ---
 
-{% include Peetervaasaara.html %}
+{% include settlementHTMLs/Peetervaasaara.html %}
 
 [Vissza](./)

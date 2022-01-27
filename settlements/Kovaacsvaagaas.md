@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kovácsvágás
 ---
 
-{% include Kovaacsvaagaas.html %}
+{% include settlementHTMLs/Kovaacsvaagaas.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kálmánháza
 ---
 
-{% include Kaalmaanhaaza.html %}
+{% include settlementHTMLs/Kaalmaanhaaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Páprád
 ---
 
-{% include Paapraad.html %}
+{% include settlementHTMLs/Paapraad.html %}
 
 [Vissza](./)

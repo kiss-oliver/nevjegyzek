@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztazámor
 ---
 
-{% include Pusztazaamor.html %}
+{% include settlementHTMLs/Pusztazaamor.html %}
 
 [Vissza](./)

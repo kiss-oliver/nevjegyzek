@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Markaz
 ---
 
-{% include Markaz.html %}
+{% include settlementHTMLs/Markaz.html %}
 
 [Vissza](./)

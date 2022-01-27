@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vámosgyörk
 ---
 
-{% include Vaamosgyooxrk.html %}
+{% include settlementHTMLs/Vaamosgyooxrk.html %}
 
 [Vissza](./)

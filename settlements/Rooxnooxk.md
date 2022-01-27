@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rönök
 ---
 
-{% include Rooxnooxk.html %}
+{% include settlementHTMLs/Rooxnooxk.html %}
 
 [Vissza](./)

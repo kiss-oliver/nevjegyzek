@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mecsekpölöske
 ---
 
-{% include Mecsekpooxlooxske.html %}
+{% include settlementHTMLs/Mecsekpooxlooxske.html %}
 
 [Vissza](./)

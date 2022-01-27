@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Murga
 ---
 
-{% include Murga.html %}
+{% include settlementHTMLs/Murga.html %}
 
 [Vissza](./)

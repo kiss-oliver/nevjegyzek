@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeshany
 ---
 
-{% include Nemeshany.html %}
+{% include settlementHTMLs/Nemeshany.html %}
 
 [Vissza](./)

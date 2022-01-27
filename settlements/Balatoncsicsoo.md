@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatoncsicsó
 ---
 
-{% include Balatoncsicsoo.html %}
+{% include settlementHTMLs/Balatoncsicsoo.html %}
 
 [Vissza](./)

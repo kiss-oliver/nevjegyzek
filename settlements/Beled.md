@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beled
 ---
 
-{% include Beled.html %}
+{% include settlementHTMLs/Beled.html %}
 
 [Vissza](./)

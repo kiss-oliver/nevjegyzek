@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarkeszi
 ---
 
-{% include Magyarkeszi.html %}
+{% include settlementHTMLs/Magyarkeszi.html %}
 
 [Vissza](./)

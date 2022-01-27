@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Belezna
 ---
 
-{% include Belezna.html %}
+{% include settlementHTMLs/Belezna.html %}
 
 [Vissza](./)

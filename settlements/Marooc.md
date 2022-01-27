@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Maróc
 ---
 
-{% include Marooc.html %}
+{% include settlementHTMLs/Marooc.html %}
 
 [Vissza](./)

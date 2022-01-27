@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hunya
 ---
 
-{% include Hunya.html %}
+{% include settlementHTMLs/Hunya.html %}
 
 [Vissza](./)

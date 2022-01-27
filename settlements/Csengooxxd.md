@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csengőd
 ---
 
-{% include Csengooxxd.html %}
+{% include settlementHTMLs/Csengooxxd.html %}
 
 [Vissza](./)

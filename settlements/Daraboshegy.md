@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Daraboshegy
 ---
 
-{% include Daraboshegy.html %}
+{% include settlementHTMLs/Daraboshegy.html %}
 
 [Vissza](./)

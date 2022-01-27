@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ádánd
 ---
 
-{% include AAdaand.html %}
+{% include settlementHTMLs/AAdaand.html %}
 
 [Vissza](./)

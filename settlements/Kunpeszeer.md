@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunpeszér
 ---
 
-{% include Kunpeszeer.html %}
+{% include settlementHTMLs/Kunpeszeer.html %}
 
 [Vissza](./)

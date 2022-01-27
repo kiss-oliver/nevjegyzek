@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szűcsi
 ---
 
-{% include Szuuxxcsi.html %}
+{% include settlementHTMLs/Szuuxxcsi.html %}
 
 [Vissza](./)

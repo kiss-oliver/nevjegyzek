@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunatetétlen
 ---
 
-{% include Dunateteetlen.html %}
+{% include settlementHTMLs/Dunateteetlen.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zaláta
 ---
 
-{% include Zalaata.html %}
+{% include settlementHTMLs/Zalaata.html %}
 
 [Vissza](./)

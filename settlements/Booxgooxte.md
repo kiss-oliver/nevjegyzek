@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bögöte
 ---
 
-{% include Booxgooxte.html %}
+{% include settlementHTMLs/Booxgooxte.html %}
 
 [Vissza](./)

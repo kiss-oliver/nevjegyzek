@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsópetény
 ---
 
-{% include Alsoopeteeny.html %}
+{% include settlementHTMLs/Alsoopeteeny.html %}
 
 [Vissza](./)

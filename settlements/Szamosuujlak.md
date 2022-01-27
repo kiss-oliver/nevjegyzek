@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szamosújlak
 ---
 
-{% include Szamosuujlak.html %}
+{% include settlementHTMLs/Szamosuujlak.html %}
 
 [Vissza](./)

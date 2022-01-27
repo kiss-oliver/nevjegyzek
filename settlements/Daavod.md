@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dávod
 ---
 
-{% include Daavod.html %}
+{% include settlementHTMLs/Daavod.html %}
 
 [Vissza](./)

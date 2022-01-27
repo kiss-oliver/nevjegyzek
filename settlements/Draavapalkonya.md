@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávapalkonya
 ---
 
-{% include Draavapalkonya.html %}
+{% include settlementHTMLs/Draavapalkonya.html %}
 
 [Vissza](./)

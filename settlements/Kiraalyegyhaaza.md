@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Királyegyháza
 ---
 
-{% include Kiraalyegyhaaza.html %}
+{% include settlementHTMLs/Kiraalyegyhaaza.html %}
 
 [Vissza](./)

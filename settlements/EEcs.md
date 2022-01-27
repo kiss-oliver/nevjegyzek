@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Écs
 ---
 
-{% include EEcs.html %}
+{% include settlementHTMLs/EEcs.html %}
 
 [Vissza](./)

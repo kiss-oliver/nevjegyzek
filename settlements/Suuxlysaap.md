@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sülysáp
 ---
 
-{% include Suuxlysaap.html %}
+{% include settlementHTMLs/Suuxlysaap.html %}
 
 [Vissza](./)

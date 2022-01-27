@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ecséd
 ---
 
-{% include Ecseed.html %}
+{% include settlementHTMLs/Ecseed.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boldog
 ---
 
-{% include Boldog.html %}
+{% include settlementHTMLs/Boldog.html %}
 
 [Vissza](./)

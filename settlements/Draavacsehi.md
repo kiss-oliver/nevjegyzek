@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávacsehi
 ---
 
-{% include Draavacsehi.html %}
+{% include settlementHTMLs/Draavacsehi.html %}
 
 [Vissza](./)

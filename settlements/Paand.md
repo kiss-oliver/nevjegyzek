@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pánd
 ---
 
-{% include Paand.html %}
+{% include settlementHTMLs/Paand.html %}
 
 [Vissza](./)

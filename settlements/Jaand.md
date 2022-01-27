@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánd
 ---
 
-{% include Jaand.html %}
+{% include settlementHTMLs/Jaand.html %}
 
 [Vissza](./)

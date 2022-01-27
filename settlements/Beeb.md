@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Béb
 ---
 
-{% include Beeb.html %}
+{% include settlementHTMLs/Beeb.html %}
 
 [Vissza](./)

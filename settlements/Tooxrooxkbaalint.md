@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Törökbálint
 ---
 
-{% include Tooxrooxkbaalint.html %}
+{% include settlementHTMLs/Tooxrooxkbaalint.html %}
 
 [Vissza](./)

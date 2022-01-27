@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bak
 ---
 
-{% include Bak.html %}
+{% include settlementHTMLs/Bak.html %}
 
 [Vissza](./)

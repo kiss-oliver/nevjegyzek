@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyóró
 ---
 
-{% include Gyooroo.html %}
+{% include settlementHTMLs/Gyooroo.html %}
 
 [Vissza](./)

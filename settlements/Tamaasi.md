@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tamási
 ---
 
-{% include Tamaasi.html %}
+{% include settlementHTMLs/Tamaasi.html %}
 
 [Vissza](./)

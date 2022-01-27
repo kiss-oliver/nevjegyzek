@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pátyod
 ---
 
-{% include Paatyod.html %}
+{% include settlementHTMLs/Paatyod.html %}
 
 [Vissza](./)

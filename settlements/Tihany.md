@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tihany
 ---
 
-{% include Tihany.html %}
+{% include settlementHTMLs/Tihany.html %}
 
 [Vissza](./)

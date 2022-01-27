@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaboldogfa
 ---
 
-{% include Zalaboldogfa.html %}
+{% include settlementHTMLs/Zalaboldogfa.html %}
 
 [Vissza](./)

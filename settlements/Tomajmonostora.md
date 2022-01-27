@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tomajmonostora
 ---
 
-{% include Tomajmonostora.html %}
+{% include settlementHTMLs/Tomajmonostora.html %}
 
 [Vissza](./)

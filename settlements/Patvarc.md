@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Patvarc
 ---
 
-{% include Patvarc.html %}
+{% include settlementHTMLs/Patvarc.html %}
 
 [Vissza](./)

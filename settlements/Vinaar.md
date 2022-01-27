@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vinár
 ---
 
-{% include Vinaar.html %}
+{% include settlementHTMLs/Vinaar.html %}
 
 [Vissza](./)

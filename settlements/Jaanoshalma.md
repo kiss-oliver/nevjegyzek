@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánoshalma
 ---
 
-{% include Jaanoshalma.html %}
+{% include settlementHTMLs/Jaanoshalma.html %}
 
 [Vissza](./)

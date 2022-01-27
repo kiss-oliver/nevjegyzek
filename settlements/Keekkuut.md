@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kékkút
 ---
 
-{% include Keekkuut.html %}
+{% include settlementHTMLs/Keekkuut.html %}
 
 [Vissza](./)

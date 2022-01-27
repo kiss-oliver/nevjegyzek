@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hetyefő
 ---
 
-{% include Hetyefooxx.html %}
+{% include settlementHTMLs/Hetyefooxx.html %}
 
 [Vissza](./)

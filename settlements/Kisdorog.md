@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisdorog
 ---
 
-{% include Kisdorog.html %}
+{% include settlementHTMLs/Kisdorog.html %}
 
 [Vissza](./)

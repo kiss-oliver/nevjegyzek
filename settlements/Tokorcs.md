@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tokorcs
 ---
 
-{% include Tokorcs.html %}
+{% include settlementHTMLs/Tokorcs.html %}
 
 [Vissza](./)

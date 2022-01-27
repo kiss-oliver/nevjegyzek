@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egerszalók
 ---
 
-{% include Egerszalook.html %}
+{% include settlementHTMLs/Egerszalook.html %}
 
 [Vissza](./)

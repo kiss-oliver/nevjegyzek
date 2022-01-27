@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasegerszeg
 ---
 
-{% include Vasegerszeg.html %}
+{% include settlementHTMLs/Vasegerszeg.html %}
 
 [Vissza](./)

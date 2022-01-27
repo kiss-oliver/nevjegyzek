@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dámóc
 ---
 
-{% include Daamooc.html %}
+{% include settlementHTMLs/Daamooc.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fácánkert
 ---
 
-{% include Faacaankert.html %}
+{% include settlementHTMLs/Faacaankert.html %}
 
 [Vissza](./)

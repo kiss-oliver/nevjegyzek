@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gecse
 ---
 
-{% include Gecse.html %}
+{% include settlementHTMLs/Gecse.html %}
 
 [Vissza](./)

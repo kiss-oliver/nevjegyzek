@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Izsák
 ---
 
-{% include Izsaak.html %}
+{% include settlementHTMLs/Izsaak.html %}
 
 [Vissza](./)

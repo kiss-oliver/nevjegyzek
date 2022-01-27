@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentgyörgyvár
 ---
 
-{% include Szentgyooxrgyvaar.html %}
+{% include settlementHTMLs/Szentgyooxrgyvaar.html %}
 
 [Vissza](./)

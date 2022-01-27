@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábaszentmihály
 ---
 
-{% include Raabaszentmihaaly.html %}
+{% include settlementHTMLs/Raabaszentmihaaly.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Juta
 ---
 
-{% include Juta.html %}
+{% include settlementHTMLs/Juta.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Medgyesegyháza
 ---
 
-{% include Medgyesegyhaaza.html %}
+{% include settlementHTMLs/Medgyesegyhaaza.html %}
 
 [Vissza](./)

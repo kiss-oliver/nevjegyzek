@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádsáp
 ---
 
-{% include Noograadsaap.html %}
+{% include settlementHTMLs/Noograadsaap.html %}
 
 [Vissza](./)

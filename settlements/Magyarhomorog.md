@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarhomorog
 ---
 
-{% include Magyarhomorog.html %}
+{% include settlementHTMLs/Magyarhomorog.html %}
 
 [Vissza](./)

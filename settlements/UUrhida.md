@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Úrhida
 ---
 
-{% include UUrhida.html %}
+{% include settlementHTMLs/UUrhida.html %}
 
 [Vissza](./)

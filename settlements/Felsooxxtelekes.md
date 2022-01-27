@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőtelekes
 ---
 
-{% include Felsooxxtelekes.html %}
+{% include settlementHTMLs/Felsooxxtelekes.html %}
 
 [Vissza](./)

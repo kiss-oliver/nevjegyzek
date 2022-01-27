@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyszénás
 ---
 
-{% include Nagyszeenaas.html %}
+{% include settlementHTMLs/Nagyszeenaas.html %}
 
 [Vissza](./)

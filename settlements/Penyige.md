@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Penyige
 ---
 
-{% include Penyige.html %}
+{% include settlementHTMLs/Penyige.html %}
 
 [Vissza](./)

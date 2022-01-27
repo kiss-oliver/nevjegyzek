@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Birján
 ---
 
-{% include Birjaan.html %}
+{% include settlementHTMLs/Birjaan.html %}
 
 [Vissza](./)

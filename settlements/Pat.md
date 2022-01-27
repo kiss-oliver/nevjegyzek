@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pat
 ---
 
-{% include Pat.html %}
+{% include settlementHTMLs/Pat.html %}
 
 [Vissza](./)

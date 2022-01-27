@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gesztely
 ---
 
-{% include Gesztely.html %}
+{% include settlementHTMLs/Gesztely.html %}
 
 [Vissza](./)

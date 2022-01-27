@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírvasvári
 ---
 
-{% include Nyiirvasvaari.html %}
+{% include settlementHTMLs/Nyiirvasvaari.html %}
 
 [Vissza](./)

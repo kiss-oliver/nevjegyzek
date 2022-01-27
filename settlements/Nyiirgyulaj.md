@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírgyulaj
 ---
 
-{% include Nyiirgyulaj.html %}
+{% include settlementHTMLs/Nyiirgyulaj.html %}
 
 [Vissza](./)

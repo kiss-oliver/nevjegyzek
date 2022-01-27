@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabolcsveresmart
 ---
 
-{% include Szabolcsveresmart.html %}
+{% include settlementHTMLs/Szabolcsveresmart.html %}
 
 [Vissza](./)

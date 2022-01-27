@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Recsk
 ---
 
-{% include Recsk.html %}
+{% include settlementHTMLs/Recsk.html %}
 
 [Vissza](./)

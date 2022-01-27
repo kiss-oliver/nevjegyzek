@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisvarsány
 ---
 
-{% include Kisvarsaany.html %}
+{% include settlementHTMLs/Kisvarsaany.html %}
 
 [Vissza](./)

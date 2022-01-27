@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mihálygerge
 ---
 
-{% include Mihaalygerge.html %}
+{% include settlementHTMLs/Mihaalygerge.html %}
 
 [Vissza](./)

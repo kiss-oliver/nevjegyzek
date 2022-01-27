@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rakaca
 ---
 
-{% include Rakaca.html %}
+{% include settlementHTMLs/Rakaca.html %}
 
 [Vissza](./)

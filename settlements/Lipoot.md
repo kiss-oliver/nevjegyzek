@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lipót
 ---
 
-{% include Lipoot.html %}
+{% include settlementHTMLs/Lipoot.html %}
 
 [Vissza](./)

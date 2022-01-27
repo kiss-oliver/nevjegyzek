@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Viss
 ---
 
-{% include Viss.html %}
+{% include settlementHTMLs/Viss.html %}
 
 [Vissza](./)

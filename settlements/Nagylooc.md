@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagylóc
 ---
 
-{% include Nagylooc.html %}
+{% include settlementHTMLs/Nagylooc.html %}
 
 [Vissza](./)

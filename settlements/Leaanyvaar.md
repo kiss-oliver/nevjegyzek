@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Leányvár
 ---
 
-{% include Leaanyvaar.html %}
+{% include settlementHTMLs/Leaanyvaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bátor
 ---
 
-{% include Baator.html %}
+{% include settlementHTMLs/Baator.html %}
 
 [Vissza](./)

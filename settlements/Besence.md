@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Besence
 ---
 
-{% include Besence.html %}
+{% include settlementHTMLs/Besence.html %}
 
 [Vissza](./)

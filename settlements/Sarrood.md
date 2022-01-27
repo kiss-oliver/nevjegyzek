@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sarród
 ---
 
-{% include Sarrood.html %}
+{% include settlementHTMLs/Sarrood.html %}
 
 [Vissza](./)

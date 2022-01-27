@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőhegyes
 ---
 
-{% include Mezooxxhegyes.html %}
+{% include settlementHTMLs/Mezooxxhegyes.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Udvari
 ---
 
-{% include Udvari.html %}
+{% include settlementHTMLs/Udvari.html %}
 
 [Vissza](./)

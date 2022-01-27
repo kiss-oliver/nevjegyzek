@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baranyahídvég
 ---
 
-{% include Baranyahiidveeg.html %}
+{% include settlementHTMLs/Baranyahiidveeg.html %}
 
 [Vissza](./)

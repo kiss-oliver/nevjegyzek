@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vácrátót
 ---
 
-{% include Vaacraatoot.html %}
+{% include settlementHTMLs/Vaacraatoot.html %}
 
 [Vissza](./)

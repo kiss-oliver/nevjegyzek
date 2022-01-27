@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Buj
 ---
 
-{% include Buj.html %}
+{% include settlementHTMLs/Buj.html %}
 
 [Vissza](./)

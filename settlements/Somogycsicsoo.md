@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogycsicsó
 ---
 
-{% include Somogycsicsoo.html %}
+{% include settlementHTMLs/Somogycsicsoo.html %}
 
 [Vissza](./)

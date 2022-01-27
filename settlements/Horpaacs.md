@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Horpács
 ---
 
-{% include Horpaacs.html %}
+{% include settlementHTMLs/Horpaacs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szeghalom
 ---
 
-{% include Szeghalom.html %}
+{% include settlementHTMLs/Szeghalom.html %}
 
 [Vissza](./)

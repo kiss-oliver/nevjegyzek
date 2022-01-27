@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cégénydányád
 ---
 
-{% include Ceegeenydaanyaad.html %}
+{% include settlementHTMLs/Ceegeenydaanyaad.html %}
 
 [Vissza](./)

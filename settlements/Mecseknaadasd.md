@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mecseknádasd
 ---
 
-{% include Mecseknaadasd.html %}
+{% include settlementHTMLs/Mecseknaadasd.html %}
 
 [Vissza](./)

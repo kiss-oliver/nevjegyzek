@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csatka
 ---
 
-{% include Csatka.html %}
+{% include settlementHTMLs/Csatka.html %}
 
 [Vissza](./)

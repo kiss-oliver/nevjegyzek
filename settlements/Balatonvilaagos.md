@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonvilágos
 ---
 
-{% include Balatonvilaagos.html %}
+{% include settlementHTMLs/Balatonvilaagos.html %}
 
 [Vissza](./)

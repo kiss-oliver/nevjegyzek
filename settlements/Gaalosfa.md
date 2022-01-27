@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gálosfa
 ---
 
-{% include Gaalosfa.html %}
+{% include settlementHTMLs/Gaalosfa.html %}
 
 [Vissza](./)

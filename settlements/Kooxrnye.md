@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Környe
 ---
 
-{% include Kooxrnye.html %}
+{% include settlementHTMLs/Kooxrnye.html %}
 
 [Vissza](./)

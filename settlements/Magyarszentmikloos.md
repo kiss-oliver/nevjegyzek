@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarszentmiklós
 ---
 
-{% include Magyarszentmikloos.html %}
+{% include settlementHTMLs/Magyarszentmikloos.html %}
 
 [Vissza](./)

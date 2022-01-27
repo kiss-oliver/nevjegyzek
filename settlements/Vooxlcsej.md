@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Völcsej
 ---
 
-{% include Vooxlcsej.html %}
+{% include settlementHTMLs/Vooxlcsej.html %}
 
 [Vissza](./)

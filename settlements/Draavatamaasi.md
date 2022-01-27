@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávatamási
 ---
 
-{% include Draavatamaasi.html %}
+{% include settlementHTMLs/Draavatamaasi.html %}
 
 [Vissza](./)

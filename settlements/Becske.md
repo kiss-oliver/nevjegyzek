@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Becske
 ---
 
-{% include Becske.html %}
+{% include settlementHTMLs/Becske.html %}
 
 [Vissza](./)

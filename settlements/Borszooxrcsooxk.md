@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borszörcsök
 ---
 
-{% include Borszooxrcsooxk.html %}
+{% include settlementHTMLs/Borszooxrcsooxk.html %}
 
 [Vissza](./)

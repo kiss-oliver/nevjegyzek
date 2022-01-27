@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kesztölc
 ---
 
-{% include Kesztooxlc.html %}
+{% include settlementHTMLs/Kesztooxlc.html %}
 
 [Vissza](./)

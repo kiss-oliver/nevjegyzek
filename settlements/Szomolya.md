@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szomolya
 ---
 
-{% include Szomolya.html %}
+{% include settlementHTMLs/Szomolya.html %}
 
 [Vissza](./)

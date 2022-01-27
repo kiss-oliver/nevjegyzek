@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Grábóc
 ---
 
-{% include Graabooc.html %}
+{% include settlementHTMLs/Graabooc.html %}
 
 [Vissza](./)

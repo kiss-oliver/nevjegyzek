@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Naszály
 ---
 
-{% include Naszaaly.html %}
+{% include settlementHTMLs/Naszaaly.html %}
 
 [Vissza](./)

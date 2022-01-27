@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kétvölgy
 ---
 
-{% include Keetvooxlgy.html %}
+{% include settlementHTMLs/Keetvooxlgy.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Feketeerdő
 ---
 
-{% include Feketeerdooxx.html %}
+{% include settlementHTMLs/Feketeerdooxx.html %}
 
 [Vissza](./)

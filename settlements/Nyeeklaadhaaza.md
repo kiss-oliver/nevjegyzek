@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyékládháza
 ---
 
-{% include Nyeeklaadhaaza.html %}
+{% include settlementHTMLs/Nyeeklaadhaaza.html %}
 
 [Vissza](./)

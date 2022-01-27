@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csákány
 ---
 
-{% include Csaakaany.html %}
+{% include settlementHTMLs/Csaakaany.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest II. kerület
 ---
 
-{% include BudapestIIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestIIkeruuxlet.html %}
 
 [Vissza](./)

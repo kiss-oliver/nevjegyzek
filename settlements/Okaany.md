@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Okány
 ---
 
-{% include Okaany.html %}
+{% include settlementHTMLs/Okaany.html %}
 
 [Vissza](./)

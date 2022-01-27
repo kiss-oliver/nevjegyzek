@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pápateszér
 ---
 
-{% include Paapateszeer.html %}
+{% include settlementHTMLs/Paapateszeer.html %}
 
 [Vissza](./)

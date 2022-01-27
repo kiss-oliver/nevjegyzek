@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zákányfalu
 ---
 
-{% include Zaakaanyfalu.html %}
+{% include settlementHTMLs/Zaakaanyfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagycenk
 ---
 
-{% include Nagycenk.html %}
+{% include settlementHTMLs/Nagycenk.html %}
 
 [Vissza](./)

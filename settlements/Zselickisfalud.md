@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zselickisfalud
 ---
 
-{% include Zselickisfalud.html %}
+{% include settlementHTMLs/Zselickisfalud.html %}
 
 [Vissza](./)

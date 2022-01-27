@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyatád
 ---
 
-{% include Nagyataad.html %}
+{% include settlementHTMLs/Nagyataad.html %}
 
 [Vissza](./)

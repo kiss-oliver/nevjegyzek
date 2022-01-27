@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajógalgóc
 ---
 
-{% include Sajoogalgooc.html %}
+{% include settlementHTMLs/Sajoogalgooc.html %}
 
 [Vissza](./)

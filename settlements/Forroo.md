@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Forró
 ---
 
-{% include Forroo.html %}
+{% include settlementHTMLs/Forroo.html %}
 
 [Vissza](./)

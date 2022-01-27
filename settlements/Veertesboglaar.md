@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vértesboglár
 ---
 
-{% include Veertesboglaar.html %}
+{% include settlementHTMLs/Veertesboglaar.html %}
 
 [Vissza](./)

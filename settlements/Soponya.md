@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Soponya
 ---
 
-{% include Soponya.html %}
+{% include settlementHTMLs/Soponya.html %}
 
 [Vissza](./)

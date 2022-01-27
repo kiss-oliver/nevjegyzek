@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aszód
 ---
 
-{% include Aszood.html %}
+{% include settlementHTMLs/Aszood.html %}
 
 [Vissza](./)

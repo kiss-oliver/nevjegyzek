@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaháshágy
 ---
 
-{% include Zalahaashaagy.html %}
+{% include settlementHTMLs/Zalahaashaagy.html %}
 
 [Vissza](./)

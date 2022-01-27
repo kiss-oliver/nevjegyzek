@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagybárkány
 ---
 
-{% include Nagybaarkaany.html %}
+{% include settlementHTMLs/Nagybaarkaany.html %}
 
 [Vissza](./)

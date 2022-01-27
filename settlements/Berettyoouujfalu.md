@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berettyóújfalu
 ---
 
-{% include Berettyoouujfalu.html %}
+{% include settlementHTMLs/Berettyoouujfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyügye
 ---
 
-{% include Gyuuxgye.html %}
+{% include settlementHTMLs/Gyuuxgye.html %}
 
 [Vissza](./)

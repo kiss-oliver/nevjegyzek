@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Méra
 ---
 
-{% include Meera.html %}
+{% include settlementHTMLs/Meera.html %}
 
 [Vissza](./)

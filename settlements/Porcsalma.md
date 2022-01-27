@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Porcsalma
 ---
 
-{% include Porcsalma.html %}
+{% include settlementHTMLs/Porcsalma.html %}
 
 [Vissza](./)

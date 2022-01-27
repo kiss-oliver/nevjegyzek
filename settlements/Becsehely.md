@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Becsehely
 ---
 
-{% include Becsehely.html %}
+{% include settlementHTMLs/Becsehely.html %}
 
 [Vissza](./)

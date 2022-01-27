@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Farmos
 ---
 
-{% include Farmos.html %}
+{% include settlementHTMLs/Farmos.html %}
 
 [Vissza](./)

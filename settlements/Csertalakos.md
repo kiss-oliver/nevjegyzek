@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csertalakos
 ---
 
-{% include Csertalakos.html %}
+{% include settlementHTMLs/Csertalakos.html %}
 
 [Vissza](./)

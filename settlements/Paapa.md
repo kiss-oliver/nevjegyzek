@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pápa
 ---
 
-{% include Paapa.html %}
+{% include settlementHTMLs/Paapa.html %}
 
 [Vissza](./)

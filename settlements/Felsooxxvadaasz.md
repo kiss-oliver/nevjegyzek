@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsővadász
 ---
 
-{% include Felsooxxvadaasz.html %}
+{% include settlementHTMLs/Felsooxxvadaasz.html %}
 
 [Vissza](./)

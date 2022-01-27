@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Táp
 ---
 
-{% include Taap.html %}
+{% include settlementHTMLs/Taap.html %}
 
 [Vissza](./)

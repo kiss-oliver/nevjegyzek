@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bisse
 ---
 
-{% include Bisse.html %}
+{% include settlementHTMLs/Bisse.html %}
 
 [Vissza](./)

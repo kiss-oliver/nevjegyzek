@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mór
 ---
 
-{% include Moor.html %}
+{% include settlementHTMLs/Moor.html %}
 
 [Vissza](./)

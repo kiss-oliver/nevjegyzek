@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szarvaskő
 ---
 
-{% include Szarvaskooxx.html %}
+{% include settlementHTMLs/Szarvaskooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisdér
 ---
 
-{% include Kisdeer.html %}
+{% include settlementHTMLs/Kisdeer.html %}
 
 [Vissza](./)

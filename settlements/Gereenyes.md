@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gerényes
 ---
 
-{% include Gereenyes.html %}
+{% include settlementHTMLs/Gereenyes.html %}
 
 [Vissza](./)

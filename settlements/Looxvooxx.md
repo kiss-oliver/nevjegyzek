@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lövő
 ---
 
-{% include Looxvooxx.html %}
+{% include settlementHTMLs/Looxvooxx.html %}
 
 [Vissza](./)

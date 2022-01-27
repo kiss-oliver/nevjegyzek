@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegyfalu
 ---
 
-{% include Hegyfalu.html %}
+{% include settlementHTMLs/Hegyfalu.html %}
 
 [Vissza](./)

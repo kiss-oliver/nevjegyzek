@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gulács
 ---
 
-{% include Gulaacs.html %}
+{% include settlementHTMLs/Gulaacs.html %}
 
 [Vissza](./)

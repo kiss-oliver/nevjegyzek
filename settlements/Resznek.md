@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Resznek
 ---
 
-{% include Resznek.html %}
+{% include settlementHTMLs/Resznek.html %}
 
 [Vissza](./)

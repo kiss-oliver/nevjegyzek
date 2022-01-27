@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felpéc
 ---
 
-{% include Felpeec.html %}
+{% include settlementHTMLs/Felpeec.html %}
 
 [Vissza](./)

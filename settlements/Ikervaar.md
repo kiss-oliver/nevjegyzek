@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ikervár
 ---
 
-{% include Ikervaar.html %}
+{% include settlementHTMLs/Ikervaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szuhafő
 ---
 
-{% include Szuhafooxx.html %}
+{% include settlementHTMLs/Szuhafooxx.html %}
 
 [Vissza](./)

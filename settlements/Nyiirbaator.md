@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírbátor
 ---
 
-{% include Nyiirbaator.html %}
+{% include settlementHTMLs/Nyiirbaator.html %}
 
 [Vissza](./)

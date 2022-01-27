@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Belvárdgyula
 ---
 
-{% include Belvaardgyula.html %}
+{% include settlementHTMLs/Belvaardgyula.html %}
 
 [Vissza](./)

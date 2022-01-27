@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrújbarát
 ---
 
-{% include Gyooxxruujbaraat.html %}
+{% include settlementHTMLs/Gyooxxruujbaraat.html %}
 
 [Vissza](./)

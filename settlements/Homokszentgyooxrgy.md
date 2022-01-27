@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Homokszentgyörgy
 ---
 
-{% include Homokszentgyooxrgy.html %}
+{% include settlementHTMLs/Homokszentgyooxrgy.html %}
 
 [Vissza](./)

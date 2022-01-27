@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaszentmárton
 ---
 
-{% include Tiszaszentmaarton.html %}
+{% include settlementHTMLs/Tiszaszentmaarton.html %}
 
 [Vissza](./)

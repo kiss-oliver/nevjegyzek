@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilisjászfalu
 ---
 
-{% include Pilisjaaszfalu.html %}
+{% include settlementHTMLs/Pilisjaaszfalu.html %}
 
 [Vissza](./)

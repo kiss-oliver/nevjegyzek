@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csókakő
 ---
 
-{% include Csookakooxx.html %}
+{% include settlementHTMLs/Csookakooxx.html %}
 
 [Vissza](./)

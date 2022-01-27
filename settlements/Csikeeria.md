@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csikéria
 ---
 
-{% include Csikeeria.html %}
+{% include settlementHTMLs/Csikeeria.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigetcsép
 ---
 
-{% include Szigetcseep.html %}
+{% include settlementHTMLs/Szigetcseep.html %}
 
 [Vissza](./)

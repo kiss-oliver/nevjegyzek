@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisfüzes
 ---
 
-{% include Kisfuuxzes.html %}
+{% include settlementHTMLs/Kisfuuxzes.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyőgér
 ---
 
-{% include Nyooxxgeer.html %}
+{% include settlementHTMLs/Nyooxxgeer.html %}
 
 [Vissza](./)

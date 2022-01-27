@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Olaszfa
 ---
 
-{% include Olaszfa.html %}
+{% include settlementHTMLs/Olaszfa.html %}
 
 [Vissza](./)

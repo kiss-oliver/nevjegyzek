@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesvámos
 ---
 
-{% include Nemesvaamos.html %}
+{% include settlementHTMLs/Nemesvaamos.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csányoszró
 ---
 
-{% include Csaanyoszroo.html %}
+{% include settlementHTMLs/Csaanyoszroo.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Végegyháza
 ---
 
-{% include Veegegyhaaza.html %}
+{% include settlementHTMLs/Veegegyhaaza.html %}
 
 [Vissza](./)

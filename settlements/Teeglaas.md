@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Téglás
 ---
 
-{% include Teeglaas.html %}
+{% include settlementHTMLs/Teeglaas.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Négyes
 ---
 
-{% include Neegyes.html %}
+{% include settlementHTMLs/Neegyes.html %}
 
 [Vissza](./)

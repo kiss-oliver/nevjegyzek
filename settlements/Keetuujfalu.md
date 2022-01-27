@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kétújfalu
 ---
 
-{% include Keetuujfalu.html %}
+{% include settlementHTMLs/Keetuujfalu.html %}
 
 [Vissza](./)

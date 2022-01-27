@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőgyán
 ---
 
-{% include Mezooxxgyaan.html %}
+{% include settlementHTMLs/Mezooxxgyaan.html %}
 
 [Vissza](./)

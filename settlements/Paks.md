@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Paks
 ---
 
-{% include Paks.html %}
+{% include settlementHTMLs/Paks.html %}
 
 [Vissza](./)

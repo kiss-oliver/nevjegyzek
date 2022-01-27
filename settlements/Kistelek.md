@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kistelek
 ---
 
-{% include Kistelek.html %}
+{% include settlementHTMLs/Kistelek.html %}
 
 [Vissza](./)

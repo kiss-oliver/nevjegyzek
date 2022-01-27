@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ősi
 ---
 
-{% include ooXXsi.html %}
+{% include settlementHTMLs/ooXXsi.html %}
 
 [Vissza](./)

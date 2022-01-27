@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ábrahámhegy
 ---
 
-{% include AAbrahaamhegy.html %}
+{% include settlementHTMLs/AAbrahaamhegy.html %}
 
 [Vissza](./)

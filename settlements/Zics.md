@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zics
 ---
 
-{% include Zics.html %}
+{% include settlementHTMLs/Zics.html %}
 
 [Vissza](./)

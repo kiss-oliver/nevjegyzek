@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykőrös
 ---
 
-{% include Nagykooxxrooxs.html %}
+{% include settlementHTMLs/Nagykooxxrooxs.html %}
 
 [Vissza](./)

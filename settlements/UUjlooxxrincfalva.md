@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újlőrincfalva
 ---
 
-{% include UUjlooxxrincfalva.html %}
+{% include settlementHTMLs/UUjlooxxrincfalva.html %}
 
 [Vissza](./)

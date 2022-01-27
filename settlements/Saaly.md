@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sály
 ---
 
-{% include Saaly.html %}
+{% include settlementHTMLs/Saaly.html %}
 
 [Vissza](./)

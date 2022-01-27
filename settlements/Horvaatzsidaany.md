@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Horvátzsidány
 ---
 
-{% include Horvaatzsidaany.html %}
+{% include settlementHTMLs/Horvaatzsidaany.html %}
 
 [Vissza](./)

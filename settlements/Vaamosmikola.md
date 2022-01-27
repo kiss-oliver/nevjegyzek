@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vámosmikola
 ---
 
-{% include Vaamosmikola.html %}
+{% include settlementHTMLs/Vaamosmikola.html %}
 
 [Vissza](./)

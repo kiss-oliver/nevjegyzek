@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szergény
 ---
 
-{% include Szergeeny.html %}
+{% include settlementHTMLs/Szergeeny.html %}
 
 [Vissza](./)

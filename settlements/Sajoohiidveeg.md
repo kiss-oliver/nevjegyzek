@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajóhídvég
 ---
 
-{% include Sajoohiidveeg.html %}
+{% include settlementHTMLs/Sajoohiidveeg.html %}
 
 [Vissza](./)

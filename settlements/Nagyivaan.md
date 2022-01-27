@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyiván
 ---
 
-{% include Nagyivaan.html %}
+{% include settlementHTMLs/Nagyivaan.html %}
 
 [Vissza](./)

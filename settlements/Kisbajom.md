@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbajom
 ---
 
-{% include Kisbajom.html %}
+{% include settlementHTMLs/Kisbajom.html %}
 
 [Vissza](./)

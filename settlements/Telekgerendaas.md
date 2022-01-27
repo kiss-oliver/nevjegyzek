@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Telekgerendás
 ---
 
-{% include Telekgerendaas.html %}
+{% include settlementHTMLs/Telekgerendaas.html %}
 
 [Vissza](./)

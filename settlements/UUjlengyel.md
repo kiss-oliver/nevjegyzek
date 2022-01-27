@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újlengyel
 ---
 
-{% include UUjlengyel.html %}
+{% include settlementHTMLs/UUjlengyel.html %}
 
 [Vissza](./)

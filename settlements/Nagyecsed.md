@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyecsed
 ---
 
-{% include Nagyecsed.html %}
+{% include settlementHTMLs/Nagyecsed.html %}
 
 [Vissza](./)

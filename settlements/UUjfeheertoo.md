@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újfehértó
 ---
 
-{% include UUjfeheertoo.html %}
+{% include settlementHTMLs/UUjfeheertoo.html %}
 
 [Vissza](./)

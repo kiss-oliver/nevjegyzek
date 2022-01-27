@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hollád
 ---
 
-{% include Hollaad.html %}
+{% include settlementHTMLs/Hollaad.html %}
 
 [Vissza](./)

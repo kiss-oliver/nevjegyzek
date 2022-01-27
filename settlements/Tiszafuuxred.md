@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszafüred
 ---
 
-{% include Tiszafuuxred.html %}
+{% include settlementHTMLs/Tiszafuuxred.html %}
 
 [Vissza](./)

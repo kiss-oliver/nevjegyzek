@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mikosszéplak
 ---
 
-{% include Mikosszeeplak.html %}
+{% include settlementHTMLs/Mikosszeeplak.html %}
 
 [Vissza](./)

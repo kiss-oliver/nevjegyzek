@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Teresztenye
 ---
 
-{% include Teresztenye.html %}
+{% include settlementHTMLs/Teresztenye.html %}
 
 [Vissza](./)

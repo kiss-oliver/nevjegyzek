@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Golop
 ---
 
-{% include Golop.html %}
+{% include settlementHTMLs/Golop.html %}
 
 [Vissza](./)

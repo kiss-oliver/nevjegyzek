@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiscsécs
 ---
 
-{% include Kiscseecs.html %}
+{% include settlementHTMLs/Kiscseecs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrzámoly
 ---
 
-{% include Gyooxxrzaamoly.html %}
+{% include settlementHTMLs/Gyooxxrzaamoly.html %}
 
 [Vissza](./)

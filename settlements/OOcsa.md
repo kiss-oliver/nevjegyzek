@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ócsa
 ---
 
-{% include OOcsa.html %}
+{% include settlementHTMLs/OOcsa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pósfa
 ---
 
-{% include Poosfa.html %}
+{% include settlementHTMLs/Poosfa.html %}
 
 [Vissza](./)

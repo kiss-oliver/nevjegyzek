@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csépa
 ---
 
-{% include Cseepa.html %}
+{% include settlementHTMLs/Cseepa.html %}
 
 [Vissza](./)

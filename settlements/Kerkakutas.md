@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kerkakutas
 ---
 
-{% include Kerkakutas.html %}
+{% include settlementHTMLs/Kerkakutas.html %}
 
 [Vissza](./)

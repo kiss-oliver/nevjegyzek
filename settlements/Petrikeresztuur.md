@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petrikeresztúr
 ---
 
-{% include Petrikeresztuur.html %}
+{% include settlementHTMLs/Petrikeresztuur.html %}
 
 [Vissza](./)

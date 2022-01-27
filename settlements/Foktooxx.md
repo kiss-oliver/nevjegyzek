@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Foktő
 ---
 
-{% include Foktooxx.html %}
+{% include settlementHTMLs/Foktooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kacsóta
 ---
 
-{% include Kacsoota.html %}
+{% include settlementHTMLs/Kacsoota.html %}
 
 [Vissza](./)

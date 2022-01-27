@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csabaszabadi
 ---
 
-{% include Csabaszabadi.html %}
+{% include settlementHTMLs/Csabaszabadi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bürüs
 ---
 
-{% include Buuxruuxs.html %}
+{% include settlementHTMLs/Buuxruuxs.html %}
 
 [Vissza](./)

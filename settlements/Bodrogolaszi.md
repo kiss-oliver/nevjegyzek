@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bodrogolaszi
 ---
 
-{% include Bodrogolaszi.html %}
+{% include settlementHTMLs/Bodrogolaszi.html %}
 
 [Vissza](./)

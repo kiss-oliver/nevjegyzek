@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Benk
 ---
 
-{% include Benk.html %}
+{% include settlementHTMLs/Benk.html %}
 
 [Vissza](./)

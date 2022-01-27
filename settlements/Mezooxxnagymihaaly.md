@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőnagymihály
 ---
 
-{% include Mezooxxnagymihaaly.html %}
+{% include settlementHTMLs/Mezooxxnagymihaaly.html %}
 
 [Vissza](./)

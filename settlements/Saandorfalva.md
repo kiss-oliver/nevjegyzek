@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sándorfalva
 ---
 
-{% include Saandorfalva.html %}
+{% include settlementHTMLs/Saandorfalva.html %}
 
 [Vissza](./)

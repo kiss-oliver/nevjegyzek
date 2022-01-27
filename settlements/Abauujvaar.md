@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abaújvár
 ---
 
-{% include Abauujvaar.html %}
+{% include settlementHTMLs/Abauujvaar.html %}
 
 [Vissza](./)

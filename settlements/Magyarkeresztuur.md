@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarkeresztúr
 ---
 
-{% include Magyarkeresztuur.html %}
+{% include settlementHTMLs/Magyarkeresztuur.html %}
 
 [Vissza](./)

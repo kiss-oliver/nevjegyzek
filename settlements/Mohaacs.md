@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mohács
 ---
 
-{% include Mohaacs.html %}
+{% include settlementHTMLs/Mohaacs.html %}
 
 [Vissza](./)

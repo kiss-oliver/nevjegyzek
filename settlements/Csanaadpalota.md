@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csanádpalota
 ---
 
-{% include Csanaadpalota.html %}
+{% include settlementHTMLs/Csanaadpalota.html %}
 
 [Vissza](./)

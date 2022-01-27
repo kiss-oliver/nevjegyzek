@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szany
 ---
 
-{% include Szany.html %}
+{% include settlementHTMLs/Szany.html %}
 
 [Vissza](./)

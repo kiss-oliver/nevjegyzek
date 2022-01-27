@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszasas
 ---
 
-{% include Tiszasas.html %}
+{% include settlementHTMLs/Tiszasas.html %}
 
 [Vissza](./)

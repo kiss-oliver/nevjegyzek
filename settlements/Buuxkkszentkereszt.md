@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkszentkereszt
 ---
 
-{% include Buuxkkszentkereszt.html %}
+{% include settlementHTMLs/Buuxkkszentkereszt.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyoroszi
 ---
 
-{% include Nagyoroszi.html %}
+{% include settlementHTMLs/Nagyoroszi.html %}
 
 [Vissza](./)

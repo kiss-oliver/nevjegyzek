@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kéty
 ---
 
-{% include Keety.html %}
+{% include settlementHTMLs/Keety.html %}
 
 [Vissza](./)

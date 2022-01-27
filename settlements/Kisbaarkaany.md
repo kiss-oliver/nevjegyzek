@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbárkány
 ---
 
-{% include Kisbaarkaany.html %}
+{% include settlementHTMLs/Kisbaarkaany.html %}
 
 [Vissza](./)

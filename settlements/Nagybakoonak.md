@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagybakónak
 ---
 
-{% include Nagybakoonak.html %}
+{% include settlementHTMLs/Nagybakoonak.html %}
 
 [Vissza](./)

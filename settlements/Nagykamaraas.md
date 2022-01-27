@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykamarás
 ---
 
-{% include Nagykamaraas.html %}
+{% include settlementHTMLs/Nagykamaraas.html %}
 
 [Vissza](./)

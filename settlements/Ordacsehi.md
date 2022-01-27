@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ordacsehi
 ---
 
-{% include Ordacsehi.html %}
+{% include settlementHTMLs/Ordacsehi.html %}
 
 [Vissza](./)

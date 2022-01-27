@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaadony
 ---
 
-{% include Tiszaadony.html %}
+{% include settlementHTMLs/Tiszaadony.html %}
 
 [Vissza](./)

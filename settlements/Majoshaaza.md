@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Majosháza
 ---
 
-{% include Majoshaaza.html %}
+{% include settlementHTMLs/Majoshaaza.html %}
 
 [Vissza](./)

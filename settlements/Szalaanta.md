@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szalánta
 ---
 
-{% include Szalaanta.html %}
+{% include settlementHTMLs/Szalaanta.html %}
 
 [Vissza](./)

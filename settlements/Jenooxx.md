@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jenő
 ---
 
-{% include Jenooxx.html %}
+{% include settlementHTMLs/Jenooxx.html %}
 
 [Vissza](./)

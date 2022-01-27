@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegymeg
 ---
 
-{% include Hegymeg.html %}
+{% include settlementHTMLs/Hegymeg.html %}
 
 [Vissza](./)

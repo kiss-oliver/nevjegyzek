@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaradvány
 ---
 
-{% include Pusztaradvaany.html %}
+{% include settlementHTMLs/Pusztaradvaany.html %}
 
 [Vissza](./)

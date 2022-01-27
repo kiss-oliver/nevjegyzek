@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drégelypalánk
 ---
 
-{% include Dreegelypalaank.html %}
+{% include settlementHTMLs/Dreegelypalaank.html %}
 
 [Vissza](./)

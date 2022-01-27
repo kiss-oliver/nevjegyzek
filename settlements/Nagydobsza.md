@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagydobsza
 ---
 
-{% include Nagydobsza.html %}
+{% include settlementHTMLs/Nagydobsza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pereked
 ---
 
-{% include Pereked.html %}
+{% include settlementHTMLs/Pereked.html %}
 
 [Vissza](./)

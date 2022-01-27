@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasszilvágy
 ---
 
-{% include Vasszilvaagy.html %}
+{% include settlementHTMLs/Vasszilvaagy.html %}
 
 [Vissza](./)

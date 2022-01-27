@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tevel
 ---
 
-{% include Tevel.html %}
+{% include settlementHTMLs/Tevel.html %}
 
 [Vissza](./)

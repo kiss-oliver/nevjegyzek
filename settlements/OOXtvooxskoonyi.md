@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ötvöskónyi
 ---
 
-{% include OOXtvooxskoonyi.html %}
+{% include settlementHTMLs/OOXtvooxskoonyi.html %}
 
 [Vissza](./)

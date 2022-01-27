@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserkeszőlő
 ---
 
-{% include Cserkeszooxxlooxx.html %}
+{% include settlementHTMLs/Cserkeszooxxlooxx.html %}
 
 [Vissza](./)

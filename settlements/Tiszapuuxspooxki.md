@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszapüspöki
 ---
 
-{% include Tiszapuuxspooxki.html %}
+{% include settlementHTMLs/Tiszapuuxspooxki.html %}
 
 [Vissza](./)

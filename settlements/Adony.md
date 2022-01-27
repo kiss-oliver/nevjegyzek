@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Adony
 ---
 
-{% include Adony.html %}
+{% include settlementHTMLs/Adony.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Edelény
 ---
 
-{% include Edeleeny.html %}
+{% include settlementHTMLs/Edeleeny.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentantalfa
 ---
 
-{% include Szentantalfa.html %}
+{% include settlementHTMLs/Szentantalfa.html %}
 
 [Vissza](./)

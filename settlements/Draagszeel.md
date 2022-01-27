@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drágszél
 ---
 
-{% include Draagszeel.html %}
+{% include settlementHTMLs/Draagszeel.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaposhomok
 ---
 
-{% include Kaposhomok.html %}
+{% include settlementHTMLs/Kaposhomok.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hajdúszovát
 ---
 
-{% include Hajduuszovaat.html %}
+{% include settlementHTMLs/Hajduuszovaat.html %}
 
 [Vissza](./)

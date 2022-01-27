@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztamérges
 ---
 
-{% include Pusztameerges.html %}
+{% include settlementHTMLs/Pusztameerges.html %}
 
 [Vissza](./)

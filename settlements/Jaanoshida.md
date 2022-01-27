@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánoshida
 ---
 
-{% include Jaanoshida.html %}
+{% include settlementHTMLs/Jaanoshida.html %}
 
 [Vissza](./)

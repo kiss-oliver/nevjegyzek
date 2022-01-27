@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisszállás
 ---
 
-{% include Kisszaallaas.html %}
+{% include settlementHTMLs/Kisszaallaas.html %}
 
 [Vissza](./)

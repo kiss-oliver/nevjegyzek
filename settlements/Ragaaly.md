@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ragály
 ---
 
-{% include Ragaaly.html %}
+{% include settlementHTMLs/Ragaaly.html %}
 
 [Vissza](./)

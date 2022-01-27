@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ócsárd
 ---
 
-{% include OOcsaard.html %}
+{% include settlementHTMLs/OOcsaard.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Olasz
 ---
 
-{% include Olasz.html %}
+{% include settlementHTMLs/Olasz.html %}
 
 [Vissza](./)

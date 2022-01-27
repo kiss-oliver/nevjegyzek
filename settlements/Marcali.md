@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Marcali
 ---
 
-{% include Marcali.html %}
+{% include settlementHTMLs/Marcali.html %}
 
 [Vissza](./)

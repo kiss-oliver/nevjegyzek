@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemenesszentpéter
 ---
 
-{% include Kemenesszentpeeter.html %}
+{% include settlementHTMLs/Kemenesszentpeeter.html %}
 
 [Vissza](./)

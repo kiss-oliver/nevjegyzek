@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nádasdladány
 ---
 
-{% include Naadasdladaany.html %}
+{% include settlementHTMLs/Naadasdladaany.html %}
 
 [Vissza](./)

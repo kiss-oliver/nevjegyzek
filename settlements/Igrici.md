@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Igrici
 ---
 
-{% include Igrici.html %}
+{% include settlementHTMLs/Igrici.html %}
 
 [Vissza](./)

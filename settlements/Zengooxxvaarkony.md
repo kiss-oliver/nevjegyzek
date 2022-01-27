@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zengővárkony
 ---
 
-{% include Zengooxxvaarkony.html %}
+{% include settlementHTMLs/Zengooxxvaarkony.html %}
 
 [Vissza](./)

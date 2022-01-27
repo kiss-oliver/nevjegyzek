@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarsarlós
 ---
 
-{% include Magyarsarloos.html %}
+{% include settlementHTMLs/Magyarsarloos.html %}
 
 [Vissza](./)

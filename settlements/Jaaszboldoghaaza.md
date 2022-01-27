@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászboldogháza
 ---
 
-{% include Jaaszboldoghaaza.html %}
+{% include settlementHTMLs/Jaaszboldoghaaza.html %}
 
 [Vissza](./)

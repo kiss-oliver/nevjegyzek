@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Debréte
 ---
 
-{% include Debreete.html %}
+{% include settlementHTMLs/Debreete.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ófehértó
 ---
 
-{% include OOfeheertoo.html %}
+{% include settlementHTMLs/OOfeheertoo.html %}
 
 [Vissza](./)

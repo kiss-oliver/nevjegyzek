@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest XIX. kerület
 ---
 
-{% include BudapestXIXkeruuxlet.html %}
+{% include settlementHTMLs/BudapestXIXkeruuxlet.html %}
 
 [Vissza](./)

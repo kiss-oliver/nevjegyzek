@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hangony
 ---
 
-{% include Hangony.html %}
+{% include settlementHTMLs/Hangony.html %}
 
 [Vissza](./)

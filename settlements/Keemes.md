@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kémes
 ---
 
-{% include Keemes.html %}
+{% include settlementHTMLs/Keemes.html %}
 
 [Vissza](./)

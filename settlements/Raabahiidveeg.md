@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábahídvég
 ---
 
-{% include Raabahiidveeg.html %}
+{% include settlementHTMLs/Raabahiidveeg.html %}
 
 [Vissza](./)

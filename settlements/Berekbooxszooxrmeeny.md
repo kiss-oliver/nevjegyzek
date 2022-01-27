@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berekböszörmény
 ---
 
-{% include Berekbooxszooxrmeeny.html %}
+{% include settlementHTMLs/Berekbooxszooxrmeeny.html %}
 
 [Vissza](./)

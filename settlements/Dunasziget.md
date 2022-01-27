@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunasziget
 ---
 
-{% include Dunasziget.html %}
+{% include settlementHTMLs/Dunasziget.html %}
 
 [Vissza](./)

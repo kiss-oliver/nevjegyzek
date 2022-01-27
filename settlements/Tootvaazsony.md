@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tótvázsony
 ---
 
-{% include Tootvaazsony.html %}
+{% include settlementHTMLs/Tootvaazsony.html %}
 
 [Vissza](./)

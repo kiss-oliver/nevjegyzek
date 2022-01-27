@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Márfa
 ---
 
-{% include Maarfa.html %}
+{% include settlementHTMLs/Maarfa.html %}
 
 [Vissza](./)

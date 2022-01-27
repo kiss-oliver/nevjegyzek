@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tát
 ---
 
-{% include Taat.html %}
+{% include settlementHTMLs/Taat.html %}
 
 [Vissza](./)

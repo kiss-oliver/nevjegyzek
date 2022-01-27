@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházaskesző
 ---
 
-{% include Egyhaazaskeszooxx.html %}
+{% include settlementHTMLs/Egyhaazaskeszooxx.html %}
 
 [Vissza](./)

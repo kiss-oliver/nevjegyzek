@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Acsád
 ---
 
-{% include Acsaad.html %}
+{% include settlementHTMLs/Acsaad.html %}
 
 [Vissza](./)

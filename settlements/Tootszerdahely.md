@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tótszerdahely
 ---
 
-{% include Tootszerdahely.html %}
+{% include settlementHTMLs/Tootszerdahely.html %}
 
 [Vissza](./)

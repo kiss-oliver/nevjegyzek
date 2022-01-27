@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyomár
 ---
 
-{% include Nyomaar.html %}
+{% include settlementHTMLs/Nyomaar.html %}
 
 [Vissza](./)

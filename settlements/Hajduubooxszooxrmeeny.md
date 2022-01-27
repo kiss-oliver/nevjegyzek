@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hajdúböszörmény
 ---
 
-{% include Hajduubooxszooxrmeeny.html %}
+{% include settlementHTMLs/Hajduubooxszooxrmeeny.html %}
 
 [Vissza](./)

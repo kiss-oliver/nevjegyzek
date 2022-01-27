@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsosberény
 ---
 
-{% include Borsosbereeny.html %}
+{% include settlementHTMLs/Borsosbereeny.html %}
 
 [Vissza](./)

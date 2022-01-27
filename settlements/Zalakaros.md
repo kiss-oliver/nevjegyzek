@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalakaros
 ---
 
-{% include Zalakaros.html %}
+{% include settlementHTMLs/Zalakaros.html %}
 
 [Vissza](./)

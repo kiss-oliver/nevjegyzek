@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csömend
 ---
 
-{% include Csooxmend.html %}
+{% include settlementHTMLs/Csooxmend.html %}
 
 [Vissza](./)

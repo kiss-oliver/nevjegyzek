@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentlőrinckáta
 ---
 
-{% include Szentlooxxrinckaata.html %}
+{% include settlementHTMLs/Szentlooxxrinckaata.html %}
 
 [Vissza](./)

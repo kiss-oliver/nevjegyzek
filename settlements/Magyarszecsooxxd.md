@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarszecsőd
 ---
 
-{% include Magyarszecsooxxd.html %}
+{% include settlementHTMLs/Magyarszecsooxxd.html %}
 
 [Vissza](./)

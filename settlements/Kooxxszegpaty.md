@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőszegpaty
 ---
 
-{% include Kooxxszegpaty.html %}
+{% include settlementHTMLs/Kooxxszegpaty.html %}
 
 [Vissza](./)

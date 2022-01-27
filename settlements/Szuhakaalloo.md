@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szuhakálló
 ---
 
-{% include Szuhakaalloo.html %}
+{% include settlementHTMLs/Szuhakaalloo.html %}
 
 [Vissza](./)

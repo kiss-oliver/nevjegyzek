@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Görbeháza
 ---
 
-{% include Gooxrbehaaza.html %}
+{% include settlementHTMLs/Gooxrbehaaza.html %}
 
 [Vissza](./)

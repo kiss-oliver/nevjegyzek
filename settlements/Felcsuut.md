@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felcsút
 ---
 
-{% include Felcsuut.html %}
+{% include settlementHTMLs/Felcsuut.html %}
 
 [Vissza](./)

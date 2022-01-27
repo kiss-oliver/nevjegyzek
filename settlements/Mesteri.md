@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mesteri
 ---
 
-{% include Mesteri.html %}
+{% include settlementHTMLs/Mesteri.html %}
 
 [Vissza](./)

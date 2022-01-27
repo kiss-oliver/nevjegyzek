@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Katafa
 ---
 
-{% include Katafa.html %}
+{% include settlementHTMLs/Katafa.html %}
 
 [Vissza](./)

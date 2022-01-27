@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyűrűs
 ---
 
-{% include Gyuuxxruuxxs.html %}
+{% include settlementHTMLs/Gyuuxxruuxxs.html %}
 
 [Vissza](./)

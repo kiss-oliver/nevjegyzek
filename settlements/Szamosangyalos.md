@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szamosangyalos
 ---
 
-{% include Szamosangyalos.html %}
+{% include settlementHTMLs/Szamosangyalos.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Galgaguta
 ---
 
-{% include Galgaguta.html %}
+{% include settlementHTMLs/Galgaguta.html %}
 
 [Vissza](./)

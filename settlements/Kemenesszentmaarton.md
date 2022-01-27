@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemenesszentmárton
 ---
 
-{% include Kemenesszentmaarton.html %}
+{% include settlementHTMLs/Kemenesszentmaarton.html %}
 
 [Vissza](./)

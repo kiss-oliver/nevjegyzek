@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Békéscsaba
 ---
 
-{% include Beekeescsaba.html %}
+{% include settlementHTMLs/Beekeescsaba.html %}
 
 [Vissza](./)

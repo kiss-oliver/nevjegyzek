@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszegvár
 ---
 
-{% include Zalaszegvaar.html %}
+{% include settlementHTMLs/Zalaszegvaar.html %}
 
 [Vissza](./)

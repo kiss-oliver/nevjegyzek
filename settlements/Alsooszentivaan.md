@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsószentiván
 ---
 
-{% include Alsooszentivaan.html %}
+{% include settlementHTMLs/Alsooszentivaan.html %}
 
 [Vissza](./)

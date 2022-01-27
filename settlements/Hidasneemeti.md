@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hidasnémeti
 ---
 
-{% include Hidasneemeti.html %}
+{% include settlementHTMLs/Hidasneemeti.html %}
 
 [Vissza](./)

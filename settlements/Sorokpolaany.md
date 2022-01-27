@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sorokpolány
 ---
 
-{% include Sorokpolaany.html %}
+{% include settlementHTMLs/Sorokpolaany.html %}
 
 [Vissza](./)

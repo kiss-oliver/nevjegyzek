@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ópusztaszer
 ---
 
-{% include OOpusztaszer.html %}
+{% include settlementHTMLs/OOpusztaszer.html %}
 
 [Vissza](./)

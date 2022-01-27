@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Doboz
 ---
 
-{% include Doboz.html %}
+{% include settlementHTMLs/Doboz.html %}
 
 [Vissza](./)

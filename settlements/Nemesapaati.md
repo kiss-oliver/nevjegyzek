@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesapáti
 ---
 
-{% include Nemesapaati.html %}
+{% include settlementHTMLs/Nemesapaati.html %}
 
 [Vissza](./)

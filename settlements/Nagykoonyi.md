@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykónyi
 ---
 
-{% include Nagykoonyi.html %}
+{% include settlementHTMLs/Nagykoonyi.html %}
 
 [Vissza](./)

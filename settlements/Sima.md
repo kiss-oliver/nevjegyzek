@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sima
 ---
 
-{% include Sima.html %}
+{% include settlementHTMLs/Sima.html %}
 
 [Vissza](./)

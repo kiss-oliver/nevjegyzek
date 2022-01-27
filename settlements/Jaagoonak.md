@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jágónak
 ---
 
-{% include Jaagoonak.html %}
+{% include settlementHTMLs/Jaagoonak.html %}
 
 [Vissza](./)

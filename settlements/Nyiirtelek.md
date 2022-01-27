@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírtelek
 ---
 
-{% include Nyiirtelek.html %}
+{% include settlementHTMLs/Nyiirtelek.html %}
 
 [Vissza](./)

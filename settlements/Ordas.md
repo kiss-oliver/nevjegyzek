@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ordas
 ---
 
-{% include Ordas.html %}
+{% include settlementHTMLs/Ordas.html %}
 
 [Vissza](./)

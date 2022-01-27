@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Monaj
 ---
 
-{% include Monaj.html %}
+{% include settlementHTMLs/Monaj.html %}
 
 [Vissza](./)

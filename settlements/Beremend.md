@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beremend
 ---
 
-{% include Beremend.html %}
+{% include settlementHTMLs/Beremend.html %}
 
 [Vissza](./)

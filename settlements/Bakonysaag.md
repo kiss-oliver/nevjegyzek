@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonyság
 ---
 
-{% include Bakonysaag.html %}
+{% include settlementHTMLs/Bakonysaag.html %}
 
 [Vissza](./)

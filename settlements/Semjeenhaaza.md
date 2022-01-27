@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Semjénháza
 ---
 
-{% include Semjeenhaaza.html %}
+{% include settlementHTMLs/Semjeenhaaza.html %}
 
 [Vissza](./)

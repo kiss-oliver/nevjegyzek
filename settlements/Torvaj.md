@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Torvaj
 ---
 
-{% include Torvaj.html %}
+{% include settlementHTMLs/Torvaj.html %}
 
 [Vissza](./)

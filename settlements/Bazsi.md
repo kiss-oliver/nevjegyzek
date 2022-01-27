@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bazsi
 ---
 
-{% include Bazsi.html %}
+{% include settlementHTMLs/Bazsi.html %}
 
 [Vissza](./)

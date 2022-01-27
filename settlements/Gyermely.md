@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyermely
 ---
 
-{% include Gyermely.html %}
+{% include settlementHTMLs/Gyermely.html %}
 
 [Vissza](./)

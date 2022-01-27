@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszabecs
 ---
 
-{% include Tiszabecs.html %}
+{% include settlementHTMLs/Tiszabecs.html %}
 
 [Vissza](./)

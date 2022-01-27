@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Füzérkajata
 ---
 
-{% include Fuuxzeerkajata.html %}
+{% include settlementHTMLs/Fuuxzeerkajata.html %}
 
 [Vissza](./)

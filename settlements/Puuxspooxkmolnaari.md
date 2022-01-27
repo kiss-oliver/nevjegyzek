@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Püspökmolnári
 ---
 
-{% include Puuxspooxkmolnaari.html %}
+{% include settlementHTMLs/Puuxspooxkmolnaari.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Püski
 ---
 
-{% include Puuxski.html %}
+{% include settlementHTMLs/Puuxski.html %}
 
 [Vissza](./)

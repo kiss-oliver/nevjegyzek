@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sorkikápolna
 ---
 
-{% include Sorkikaapolna.html %}
+{% include settlementHTMLs/Sorkikaapolna.html %}
 
 [Vissza](./)

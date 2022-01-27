@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Onga
 ---
 
-{% include Onga.html %}
+{% include settlementHTMLs/Onga.html %}
 
 [Vissza](./)

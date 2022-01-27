@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesbikk
 ---
 
-{% include Nemesbikk.html %}
+{% include settlementHTMLs/Nemesbikk.html %}
 
 [Vissza](./)

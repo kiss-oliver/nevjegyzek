@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyalka
 ---
 
-{% include Nyalka.html %}
+{% include settlementHTMLs/Nyalka.html %}
 
 [Vissza](./)

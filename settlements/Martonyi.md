@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Martonyi
 ---
 
-{% include Martonyi.html %}
+{% include settlementHTMLs/Martonyi.html %}
 
 [Vissza](./)

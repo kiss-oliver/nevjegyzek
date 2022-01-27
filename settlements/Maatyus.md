@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátyus
 ---
 
-{% include Maatyus.html %}
+{% include settlementHTMLs/Maatyus.html %}
 
 [Vissza](./)

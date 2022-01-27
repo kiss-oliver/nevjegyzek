@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest I. kerület
 ---
 
-{% include BudapestIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestIkeruuxlet.html %}
 
 [Vissza](./)

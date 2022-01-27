@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánkmajtis
 ---
 
-{% include Jaankmajtis.html %}
+{% include settlementHTMLs/Jaankmajtis.html %}
 
 [Vissza](./)

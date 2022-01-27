@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gelej
 ---
 
-{% include Gelej.html %}
+{% include settlementHTMLs/Gelej.html %}
 
 [Vissza](./)

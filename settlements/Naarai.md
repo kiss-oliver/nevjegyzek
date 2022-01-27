@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nárai
 ---
 
-{% include Naarai.html %}
+{% include settlementHTMLs/Naarai.html %}
 
 [Vissza](./)

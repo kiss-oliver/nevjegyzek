@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemescsó
 ---
 
-{% include Nemescsoo.html %}
+{% include settlementHTMLs/Nemescsoo.html %}
 
 [Vissza](./)

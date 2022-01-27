@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarján
 ---
 
-{% include Tarjaan.html %}
+{% include settlementHTMLs/Tarjaan.html %}
 
 [Vissza](./)

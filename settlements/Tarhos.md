@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarhos
 ---
 
-{% include Tarhos.html %}
+{% include settlementHTMLs/Tarhos.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyim
 ---
 
-{% include Nyim.html %}
+{% include settlementHTMLs/Nyim.html %}
 
 [Vissza](./)

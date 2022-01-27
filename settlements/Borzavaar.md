@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borzavár
 ---
 
-{% include Borzavaar.html %}
+{% include settlementHTMLs/Borzavaar.html %}
 
 [Vissza](./)

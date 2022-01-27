@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőkövesd
 ---
 
-{% include Mezooxxkooxvesd.html %}
+{% include settlementHTMLs/Mezooxxkooxvesd.html %}
 
 [Vissza](./)

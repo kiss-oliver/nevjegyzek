@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyrábé
 ---
 
-{% include Nagyraabee.html %}
+{% include settlementHTMLs/Nagyraabee.html %}
 
 [Vissza](./)

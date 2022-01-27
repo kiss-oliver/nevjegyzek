@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lesenceistvánd
 ---
 
-{% include Lesenceistvaand.html %}
+{% include settlementHTMLs/Lesenceistvaand.html %}
 
 [Vissza](./)

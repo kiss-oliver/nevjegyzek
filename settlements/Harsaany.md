@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Harsány
 ---
 
-{% include Harsaany.html %}
+{% include settlementHTMLs/Harsaany.html %}
 
 [Vissza](./)

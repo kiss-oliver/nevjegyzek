@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tápióbicske
 ---
 
-{% include Taapioobicske.html %}
+{% include settlementHTMLs/Taapioobicske.html %}
 
 [Vissza](./)

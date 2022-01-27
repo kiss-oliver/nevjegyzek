@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pásztori
 ---
 
-{% include Paasztori.html %}
+{% include settlementHTMLs/Paasztori.html %}
 
 [Vissza](./)

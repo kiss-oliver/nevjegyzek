@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egerszólát
 ---
 
-{% include Egerszoolaat.html %}
+{% include settlementHTMLs/Egerszoolaat.html %}
 
 [Vissza](./)

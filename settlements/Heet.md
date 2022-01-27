@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hét
 ---
 
-{% include Heet.html %}
+{% include settlementHTMLs/Heet.html %}
 
 [Vissza](./)

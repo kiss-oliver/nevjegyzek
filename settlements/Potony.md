@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Potony
 ---
 
-{% include Potony.html %}
+{% include settlementHTMLs/Potony.html %}
 
 [Vissza](./)

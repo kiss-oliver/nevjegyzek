@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Soltszentimre
 ---
 
-{% include Soltszentimre.html %}
+{% include settlementHTMLs/Soltszentimre.html %}
 
 [Vissza](./)

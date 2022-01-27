@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrvár
 ---
 
-{% include Gyooxxrvaar.html %}
+{% include settlementHTMLs/Gyooxxrvaar.html %}
 
 [Vissza](./)

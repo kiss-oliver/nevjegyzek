@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabadszentkirály
 ---
 
-{% include Szabadszentkiraaly.html %}
+{% include settlementHTMLs/Szabadszentkiraaly.html %}
 
 [Vissza](./)

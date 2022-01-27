@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Daruszentmiklós
 ---
 
-{% include Daruszentmikloos.html %}
+{% include settlementHTMLs/Daruszentmikloos.html %}
 
 [Vissza](./)

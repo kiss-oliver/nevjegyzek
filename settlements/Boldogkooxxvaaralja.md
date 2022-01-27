@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boldogkőváralja
 ---
 
-{% include Boldogkooxxvaaralja.html %}
+{% include settlementHTMLs/Boldogkooxxvaaralja.html %}
 
 [Vissza](./)

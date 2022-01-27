@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bátonyterenye
 ---
 
-{% include Baatonyterenye.html %}
+{% include settlementHTMLs/Baatonyterenye.html %}
 
 [Vissza](./)

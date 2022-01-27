@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kovácshida
 ---
 
-{% include Kovaacshida.html %}
+{% include settlementHTMLs/Kovaacshida.html %}
 
 [Vissza](./)

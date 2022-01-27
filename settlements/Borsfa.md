@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsfa
 ---
 
-{% include Borsfa.html %}
+{% include settlementHTMLs/Borsfa.html %}
 
 [Vissza](./)

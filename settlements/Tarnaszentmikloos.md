@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnaszentmiklós
 ---
 
-{% include Tarnaszentmikloos.html %}
+{% include settlementHTMLs/Tarnaszentmikloos.html %}
 
 [Vissza](./)

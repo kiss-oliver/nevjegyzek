@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dencsháza
 ---
 
-{% include Dencshaaza.html %}
+{% include settlementHTMLs/Dencshaaza.html %}
 
 [Vissza](./)

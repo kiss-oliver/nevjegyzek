@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Piliscsév
 ---
 
-{% include Piliscseev.html %}
+{% include settlementHTMLs/Piliscseev.html %}
 
 [Vissza](./)

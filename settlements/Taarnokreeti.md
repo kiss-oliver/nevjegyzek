@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tárnokréti
 ---
 
-{% include Taarnokreeti.html %}
+{% include settlementHTMLs/Taarnokreeti.html %}
 
 [Vissza](./)

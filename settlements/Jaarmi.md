@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jármi
 ---
 
-{% include Jaarmi.html %}
+{% include settlementHTMLs/Jaarmi.html %}
 
 [Vissza](./)

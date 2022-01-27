@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajóvámos
 ---
 
-{% include Sajoovaamos.html %}
+{% include settlementHTMLs/Sajoovaamos.html %}
 
 [Vissza](./)

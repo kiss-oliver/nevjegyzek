@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Érpatak
 ---
 
-{% include EErpatak.html %}
+{% include settlementHTMLs/EErpatak.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balogunyom
 ---
 
-{% include Balogunyom.html %}
+{% include settlementHTMLs/Balogunyom.html %}
 
 [Vissza](./)

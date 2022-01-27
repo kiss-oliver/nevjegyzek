@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagypirit
 ---
 
-{% include Nagypirit.html %}
+{% include settlementHTMLs/Nagypirit.html %}
 
 [Vissza](./)

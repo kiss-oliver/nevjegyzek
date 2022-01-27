@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Törökszentmiklós
 ---
 
-{% include Tooxrooxkszentmikloos.html %}
+{% include settlementHTMLs/Tooxrooxkszentmikloos.html %}
 
 [Vissza](./)

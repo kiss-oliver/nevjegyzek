@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szegvár
 ---
 
-{% include Szegvaar.html %}
+{% include settlementHTMLs/Szegvaar.html %}
 
 [Vissza](./)

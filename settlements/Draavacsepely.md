@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávacsepely
 ---
 
-{% include Draavacsepely.html %}
+{% include settlementHTMLs/Draavacsepely.html %}
 
 [Vissza](./)

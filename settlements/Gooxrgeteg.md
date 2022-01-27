@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Görgeteg
 ---
 
-{% include Gooxrgeteg.html %}
+{% include settlementHTMLs/Gooxrgeteg.html %}
 
 [Vissza](./)

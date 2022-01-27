@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Márkháza
 ---
 
-{% include Maarkhaaza.html %}
+{% include settlementHTMLs/Maarkhaaza.html %}
 
 [Vissza](./)

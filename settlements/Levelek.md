@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Levelek
 ---
 
-{% include Levelek.html %}
+{% include settlementHTMLs/Levelek.html %}
 
 [Vissza](./)

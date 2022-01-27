@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nekézseny
 ---
 
-{% include Nekeezseny.html %}
+{% include settlementHTMLs/Nekeezseny.html %}
 
 [Vissza](./)

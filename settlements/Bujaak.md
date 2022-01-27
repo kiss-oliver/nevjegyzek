@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Buják
 ---
 
-{% include Bujaak.html %}
+{% include settlementHTMLs/Bujaak.html %}
 
 [Vissza](./)

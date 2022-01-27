@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírpazony
 ---
 
-{% include Nyiirpazony.html %}
+{% include settlementHTMLs/Nyiirpazony.html %}
 
 [Vissza](./)

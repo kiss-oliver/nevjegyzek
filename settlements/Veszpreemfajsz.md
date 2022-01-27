@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Veszprémfajsz
 ---
 
-{% include Veszpreemfajsz.html %}
+{% include settlementHTMLs/Veszpreemfajsz.html %}
 
 [Vissza](./)

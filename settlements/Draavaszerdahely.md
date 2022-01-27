@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávaszerdahely
 ---
 
-{% include Draavaszerdahely.html %}
+{% include settlementHTMLs/Draavaszerdahely.html %}
 
 [Vissza](./)

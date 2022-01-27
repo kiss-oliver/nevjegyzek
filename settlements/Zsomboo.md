@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsombó
 ---
 
-{% include Zsomboo.html %}
+{% include settlementHTMLs/Zsomboo.html %}
 
 [Vissza](./)

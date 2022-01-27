@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarföld
 ---
 
-{% include Magyarfooxld.html %}
+{% include settlementHTMLs/Magyarfooxld.html %}
 
 [Vissza](./)

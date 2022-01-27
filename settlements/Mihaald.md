@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Miháld
 ---
 
-{% include Mihaald.html %}
+{% include settlementHTMLs/Mihaald.html %}
 
 [Vissza](./)

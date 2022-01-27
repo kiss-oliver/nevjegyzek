@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiscsősz
 ---
 
-{% include Kiscsooxxsz.html %}
+{% include settlementHTMLs/Kiscsooxxsz.html %}
 
 [Vissza](./)

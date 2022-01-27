@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Perecse
 ---
 
-{% include Perecse.html %}
+{% include settlementHTMLs/Perecse.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyszakácsi
 ---
 
-{% include Nagyszakaacsi.html %}
+{% include settlementHTMLs/Nagyszakaacsi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Verpelét
 ---
 
-{% include Verpeleet.html %}
+{% include settlementHTMLs/Verpeleet.html %}
 
 [Vissza](./)

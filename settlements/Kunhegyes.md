@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunhegyes
 ---
 
-{% include Kunhegyes.html %}
+{% include settlementHTMLs/Kunhegyes.html %}
 
 [Vissza](./)

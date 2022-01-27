@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kalaznó
 ---
 
-{% include Kalaznoo.html %}
+{% include settlementHTMLs/Kalaznoo.html %}
 
 [Vissza](./)

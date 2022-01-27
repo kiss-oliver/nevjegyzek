@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sitke
 ---
 
-{% include Sitke.html %}
+{% include settlementHTMLs/Sitke.html %}
 
 [Vissza](./)

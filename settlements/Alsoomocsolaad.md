@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsómocsolád
 ---
 
-{% include Alsoomocsolaad.html %}
+{% include settlementHTMLs/Alsoomocsolaad.html %}
 
 [Vissza](./)

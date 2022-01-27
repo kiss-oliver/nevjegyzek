@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iborfia
 ---
 
-{% include Iborfia.html %}
+{% include settlementHTMLs/Iborfia.html %}
 
 [Vissza](./)

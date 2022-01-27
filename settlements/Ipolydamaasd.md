@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ipolydamásd
 ---
 
-{% include Ipolydamaasd.html %}
+{% include settlementHTMLs/Ipolydamaasd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Piricse
 ---
 
-{% include Piricse.html %}
+{% include settlementHTMLs/Piricse.html %}
 
 [Vissza](./)

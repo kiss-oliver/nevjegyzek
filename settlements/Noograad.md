@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrád
 ---
 
-{% include Noograad.html %}
+{% include settlementHTMLs/Noograad.html %}
 
 [Vissza](./)

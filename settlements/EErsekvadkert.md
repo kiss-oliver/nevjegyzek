@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Érsekvadkert
 ---
 
-{% include EErsekvadkert.html %}
+{% include settlementHTMLs/EErsekvadkert.html %}
 
 [Vissza](./)

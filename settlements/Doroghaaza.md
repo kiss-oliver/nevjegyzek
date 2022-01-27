@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dorogháza
 ---
 
-{% include Doroghaaza.html %}
+{% include settlementHTMLs/Doroghaaza.html %}
 
 [Vissza](./)

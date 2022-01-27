@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagytőke
 ---
 
-{% include Nagytooxxke.html %}
+{% include settlementHTMLs/Nagytooxxke.html %}
 
 [Vissza](./)

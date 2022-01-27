@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Döbrököz
 ---
 
-{% include Dooxbrooxkooxz.html %}
+{% include settlementHTMLs/Dooxbrooxkooxz.html %}
 
 [Vissza](./)

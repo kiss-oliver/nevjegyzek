@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbabot
 ---
 
-{% include Kisbabot.html %}
+{% include settlementHTMLs/Kisbabot.html %}
 
 [Vissza](./)

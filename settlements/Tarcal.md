@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarcal
 ---
 
-{% include Tarcal.html %}
+{% include settlementHTMLs/Tarcal.html %}
 
 [Vissza](./)

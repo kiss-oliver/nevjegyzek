@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Páli
 ---
 
-{% include Paali.html %}
+{% include settlementHTMLs/Paali.html %}
 
 [Vissza](./)

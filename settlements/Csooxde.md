@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csöde
 ---
 
-{% include Csooxde.html %}
+{% include settlementHTMLs/Csooxde.html %}
 
 [Vissza](./)

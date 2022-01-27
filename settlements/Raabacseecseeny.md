@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábacsécsény
 ---
 
-{% include Raabacseecseeny.html %}
+{% include settlementHTMLs/Raabacseecseeny.html %}
 
 [Vissza](./)

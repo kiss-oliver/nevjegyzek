@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hantos
 ---
 
-{% include Hantos.html %}
+{% include settlementHTMLs/Hantos.html %}
 
 [Vissza](./)

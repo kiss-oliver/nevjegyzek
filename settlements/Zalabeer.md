@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalabér
 ---
 
-{% include Zalabeer.html %}
+{% include settlementHTMLs/Zalabeer.html %}
 
 [Vissza](./)

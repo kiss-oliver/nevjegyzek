@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karancsberény
 ---
 
-{% include Karancsbereeny.html %}
+{% include settlementHTMLs/Karancsbereeny.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ács
 ---
 
-{% include AAcs.html %}
+{% include settlementHTMLs/AAcs.html %}
 
 [Vissza](./)

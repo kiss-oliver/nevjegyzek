@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lulla
 ---
 
-{% include Lulla.html %}
+{% include settlementHTMLs/Lulla.html %}
 
 [Vissza](./)

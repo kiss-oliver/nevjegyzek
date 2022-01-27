@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyfa
 ---
 
-{% include Gyooxngyfa.html %}
+{% include settlementHTMLs/Gyooxngyfa.html %}
 
 [Vissza](./)

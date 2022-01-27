@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ináncs
 ---
 
-{% include Inaancs.html %}
+{% include settlementHTMLs/Inaancs.html %}
 
 [Vissza](./)

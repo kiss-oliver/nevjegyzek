@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bicsérd
 ---
 
-{% include Bicseerd.html %}
+{% include settlementHTMLs/Bicseerd.html %}
 
 [Vissza](./)

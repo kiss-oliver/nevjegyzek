@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőhomok
 ---
 
-{% include Fertooxxhomok.html %}
+{% include settlementHTMLs/Fertooxxhomok.html %}
 
 [Vissza](./)

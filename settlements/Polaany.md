@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Polány
 ---
 
-{% include Polaany.html %}
+{% include settlementHTMLs/Polaany.html %}
 
 [Vissza](./)

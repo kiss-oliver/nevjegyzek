@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kálócfa
 ---
 
-{% include Kaaloocfa.html %}
+{% include settlementHTMLs/Kaaloocfa.html %}
 
 [Vissza](./)

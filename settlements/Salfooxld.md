@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Salföld
 ---
 
-{% include Salfooxld.html %}
+{% include settlementHTMLs/Salfooxld.html %}
 
 [Vissza](./)

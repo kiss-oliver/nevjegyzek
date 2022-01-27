@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bőszénfa
 ---
 
-{% include Booxxszeenfa.html %}
+{% include settlementHTMLs/Booxxszeenfa.html %}
 
 [Vissza](./)

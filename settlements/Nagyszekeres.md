@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyszekeres
 ---
 
-{% include Nagyszekeres.html %}
+{% include settlementHTMLs/Nagyszekeres.html %}
 
 [Vissza](./)

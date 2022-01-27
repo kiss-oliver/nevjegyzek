@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vajszló
 ---
 
-{% include Vajszloo.html %}
+{% include settlementHTMLs/Vajszloo.html %}
 
 [Vissza](./)

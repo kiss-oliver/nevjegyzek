@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaszabolcs
 ---
 
-{% include Pusztaszabolcs.html %}
+{% include settlementHTMLs/Pusztaszabolcs.html %}
 
 [Vissza](./)

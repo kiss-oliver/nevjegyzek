@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisszekeres
 ---
 
-{% include Kisszekeres.html %}
+{% include settlementHTMLs/Kisszekeres.html %}
 
 [Vissza](./)

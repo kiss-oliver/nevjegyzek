@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonföldvár
 ---
 
-{% include Balatonfooxldvaar.html %}
+{% include settlementHTMLs/Balatonfooxldvaar.html %}
 
 [Vissza](./)

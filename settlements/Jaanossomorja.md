@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jánossomorja
 ---
 
-{% include Jaanossomorja.html %}
+{% include settlementHTMLs/Jaanossomorja.html %}
 
 [Vissza](./)

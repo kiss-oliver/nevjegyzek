@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tolnanémedi
 ---
 
-{% include Tolnaneemedi.html %}
+{% include settlementHTMLs/Tolnaneemedi.html %}
 
 [Vissza](./)

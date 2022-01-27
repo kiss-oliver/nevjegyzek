@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gerjen
 ---
 
-{% include Gerjen.html %}
+{% include settlementHTMLs/Gerjen.html %}
 
 [Vissza](./)

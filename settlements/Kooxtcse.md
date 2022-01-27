@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kötcse
 ---
 
-{% include Kooxtcse.html %}
+{% include settlementHTMLs/Kooxtcse.html %}
 
 [Vissza](./)

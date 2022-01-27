@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Muhi
 ---
 
-{% include Muhi.html %}
+{% include settlementHTMLs/Muhi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszasüly
 ---
 
-{% include Tiszasuuxly.html %}
+{% include settlementHTMLs/Tiszasuuxly.html %}
 
 [Vissza](./)

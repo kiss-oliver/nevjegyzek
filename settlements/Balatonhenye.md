@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonhenye
 ---
 
-{% include Balatonhenye.html %}
+{% include settlementHTMLs/Balatonhenye.html %}
 
 [Vissza](./)

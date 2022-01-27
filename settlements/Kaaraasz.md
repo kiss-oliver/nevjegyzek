@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kárász
 ---
 
-{% include Kaaraasz.html %}
+{% include settlementHTMLs/Kaaraasz.html %}
 
 [Vissza](./)

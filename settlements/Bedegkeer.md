@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bedegkér
 ---
 
-{% include Bedegkeer.html %}
+{% include settlementHTMLs/Bedegkeer.html %}
 
 [Vissza](./)

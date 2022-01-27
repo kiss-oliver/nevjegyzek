@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bokod
 ---
 
-{% include Bokod.html %}
+{% include settlementHTMLs/Bokod.html %}
 
 [Vissza](./)

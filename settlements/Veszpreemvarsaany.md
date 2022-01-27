@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Veszprémvarsány
 ---
 
-{% include Veszpreemvarsaany.html %}
+{% include settlementHTMLs/Veszpreemvarsaany.html %}
 
 [Vissza](./)

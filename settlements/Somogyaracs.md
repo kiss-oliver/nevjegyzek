@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyaracs
 ---
 
-{% include Somogyaracs.html %}
+{% include settlementHTMLs/Somogyaracs.html %}
 
 [Vissza](./)

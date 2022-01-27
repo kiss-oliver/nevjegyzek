@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szegilong
 ---
 
-{% include Szegilong.html %}
+{% include settlementHTMLs/Szegilong.html %}
 
 [Vissza](./)

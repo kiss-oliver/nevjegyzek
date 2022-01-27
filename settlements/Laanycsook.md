@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lánycsók
 ---
 
-{% include Laanycsook.html %}
+{% include settlementHTMLs/Laanycsook.html %}
 
 [Vissza](./)

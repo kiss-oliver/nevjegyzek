@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mórágy
 ---
 
-{% include Mooraagy.html %}
+{% include settlementHTMLs/Mooraagy.html %}
 
 [Vissza](./)

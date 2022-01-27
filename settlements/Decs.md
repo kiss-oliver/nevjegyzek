@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Decs
 ---
 
-{% include Decs.html %}
+{% include settlementHTMLs/Decs.html %}
 
 [Vissza](./)

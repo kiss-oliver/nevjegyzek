@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyarmat
 ---
 
-{% include Gyarmat.html %}
+{% include settlementHTMLs/Gyarmat.html %}
 
 [Vissza](./)

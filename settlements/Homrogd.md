@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Homrogd
 ---
 
-{% include Homrogd.html %}
+{% include settlementHTMLs/Homrogd.html %}
 
 [Vissza](./)

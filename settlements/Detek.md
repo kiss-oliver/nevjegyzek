@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Detek
 ---
 
-{% include Detek.html %}
+{% include settlementHTMLs/Detek.html %}
 
 [Vissza](./)

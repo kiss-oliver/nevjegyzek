@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ostffyasszonyfa
 ---
 
-{% include Ostffyasszonyfa.html %}
+{% include settlementHTMLs/Ostffyasszonyfa.html %}
 
 [Vissza](./)

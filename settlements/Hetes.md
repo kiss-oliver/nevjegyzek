@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hetes
 ---
 
-{% include Hetes.html %}
+{% include settlementHTMLs/Hetes.html %}
 
 [Vissza](./)

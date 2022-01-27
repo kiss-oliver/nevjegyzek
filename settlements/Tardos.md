@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tardos
 ---
 
-{% include Tardos.html %}
+{% include settlementHTMLs/Tardos.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sükösd
 ---
 
-{% include Suuxkooxsd.html %}
+{% include settlementHTMLs/Suuxkooxsd.html %}
 
 [Vissza](./)

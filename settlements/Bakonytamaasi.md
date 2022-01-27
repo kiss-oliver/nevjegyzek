@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonytamási
 ---
 
-{% include Bakonytamaasi.html %}
+{% include settlementHTMLs/Bakonytamaasi.html %}
 
 [Vissza](./)

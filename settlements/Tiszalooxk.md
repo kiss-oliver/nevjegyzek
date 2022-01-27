@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszalök
 ---
 
-{% include Tiszalooxk.html %}
+{% include settlementHTMLs/Tiszalooxk.html %}
 
 [Vissza](./)

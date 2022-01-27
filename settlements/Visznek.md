@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Visznek
 ---
 
-{% include Visznek.html %}
+{% include settlementHTMLs/Visznek.html %}
 
 [Vissza](./)

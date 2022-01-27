@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Visnye
 ---
 
-{% include Visnye.html %}
+{% include settlementHTMLs/Visnye.html %}
 
 [Vissza](./)

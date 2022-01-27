@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírmada
 ---
 
-{% include Nyiirmada.html %}
+{% include settlementHTMLs/Nyiirmada.html %}
 
 [Vissza](./)

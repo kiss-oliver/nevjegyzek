@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nézsa
 ---
 
-{% include Neezsa.html %}
+{% include settlementHTMLs/Neezsa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyösfalu
 ---
 
-{% include Gyooxngyooxsfalu.html %}
+{% include settlementHTMLs/Gyooxngyooxsfalu.html %}
 
 [Vissza](./)

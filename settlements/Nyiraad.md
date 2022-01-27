@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyirád
 ---
 
-{% include Nyiraad.html %}
+{% include settlementHTMLs/Nyiraad.html %}
 
 [Vissza](./)

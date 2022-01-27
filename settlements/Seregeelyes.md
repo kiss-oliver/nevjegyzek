@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Seregélyes
 ---
 
-{% include Seregeelyes.html %}
+{% include settlementHTMLs/Seregeelyes.html %}
 
 [Vissza](./)

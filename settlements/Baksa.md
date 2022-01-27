@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baksa
 ---
 
-{% include Baksa.html %}
+{% include settlementHTMLs/Baksa.html %}
 
 [Vissza](./)

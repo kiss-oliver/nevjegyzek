@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornyospálca
 ---
 
-{% include Tornyospaalca.html %}
+{% include settlementHTMLs/Tornyospaalca.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lúzsok
 ---
 
-{% include Luuzsok.html %}
+{% include settlementHTMLs/Luuzsok.html %}
 
 [Vissza](./)

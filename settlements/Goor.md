@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gór
 ---
 
-{% include Goor.html %}
+{% include settlementHTMLs/Goor.html %}
 
 [Vissza](./)

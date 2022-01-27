@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyékényes
 ---
 
-{% include Gyeekeenyes.html %}
+{% include settlementHTMLs/Gyeekeenyes.html %}
 
 [Vissza](./)

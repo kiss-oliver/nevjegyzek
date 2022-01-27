@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újrónafő
 ---
 
-{% include UUjroonafooxx.html %}
+{% include settlementHTMLs/UUjroonafooxx.html %}
 
 [Vissza](./)

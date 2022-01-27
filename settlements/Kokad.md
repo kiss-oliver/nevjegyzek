@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kokad
 ---
 
-{% include Kokad.html %}
+{% include settlementHTMLs/Kokad.html %}
 
 [Vissza](./)

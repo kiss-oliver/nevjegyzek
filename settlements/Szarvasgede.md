@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szarvasgede
 ---
 
-{% include Szarvasgede.html %}
+{% include settlementHTMLs/Szarvasgede.html %}
 
 [Vissza](./)

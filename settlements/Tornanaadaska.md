@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornanádaska
 ---
 
-{% include Tornanaadaska.html %}
+{% include settlementHTMLs/Tornanaadaska.html %}
 
 [Vissza](./)

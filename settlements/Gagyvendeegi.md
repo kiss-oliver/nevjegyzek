@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gagyvendégi
 ---
 
-{% include Gagyvendeegi.html %}
+{% include settlementHTMLs/Gagyvendeegi.html %}
 
 [Vissza](./)

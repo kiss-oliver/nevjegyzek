@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaköveskút
 ---
 
-{% include Zalakooxveskuut.html %}
+{% include settlementHTMLs/Zalakooxveskuut.html %}
 
 [Vissza](./)

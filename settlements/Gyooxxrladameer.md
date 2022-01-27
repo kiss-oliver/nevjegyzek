@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrladamér
 ---
 
-{% include Gyooxxrladameer.html %}
+{% include settlementHTMLs/Gyooxxrladameer.html %}
 
 [Vissza](./)

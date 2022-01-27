@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Esztár
 ---
 
-{% include Esztaar.html %}
+{% include settlementHTMLs/Esztaar.html %}
 
 [Vissza](./)

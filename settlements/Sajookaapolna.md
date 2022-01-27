@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajókápolna
 ---
 
-{% include Sajookaapolna.html %}
+{% include settlementHTMLs/Sajookaapolna.html %}
 
 [Vissza](./)

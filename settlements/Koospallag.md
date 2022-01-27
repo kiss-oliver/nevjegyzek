@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kóspallag
 ---
 
-{% include Koospallag.html %}
+{% include settlementHTMLs/Koospallag.html %}
 
 [Vissza](./)

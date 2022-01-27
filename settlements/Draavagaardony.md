@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávagárdony
 ---
 
-{% include Draavagaardony.html %}
+{% include settlementHTMLs/Draavagaardony.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyberki
 ---
 
-{% include Nagyberki.html %}
+{% include settlementHTMLs/Nagyberki.html %}
 
 [Vissza](./)

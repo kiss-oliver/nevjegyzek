@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hédervár
 ---
 
-{% include Heedervaar.html %}
+{% include settlementHTMLs/Heedervaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pincehely
 ---
 
-{% include Pincehely.html %}
+{% include settlementHTMLs/Pincehely.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Makád
 ---
 
-{% include Makaad.html %}
+{% include settlementHTMLs/Makaad.html %}
 
 [Vissza](./)

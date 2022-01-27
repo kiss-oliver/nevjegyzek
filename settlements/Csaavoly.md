@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csávoly
 ---
 
-{% include Csaavoly.html %}
+{% include settlementHTMLs/Csaavoly.html %}
 
 [Vissza](./)

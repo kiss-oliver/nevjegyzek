@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Öreglak
 ---
 
-{% include OOXreglak.html %}
+{% include settlementHTMLs/OOXreglak.html %}
 
 [Vissza](./)

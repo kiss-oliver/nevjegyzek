@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonendréd
 ---
 
-{% include Balatonendreed.html %}
+{% include settlementHTMLs/Balatonendreed.html %}
 
 [Vissza](./)

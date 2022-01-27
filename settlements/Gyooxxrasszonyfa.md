@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrasszonyfa
 ---
 
-{% include Gyooxxrasszonyfa.html %}
+{% include settlementHTMLs/Gyooxxrasszonyfa.html %}
 
 [Vissza](./)

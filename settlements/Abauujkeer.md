@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abaújkér
 ---
 
-{% include Abauujkeer.html %}
+{% include settlementHTMLs/Abauujkeer.html %}
 
 [Vissza](./)

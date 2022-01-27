@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Besnyő
 ---
 
-{% include Besnyooxx.html %}
+{% include settlementHTMLs/Besnyooxx.html %}
 
 [Vissza](./)

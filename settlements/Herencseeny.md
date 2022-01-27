@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Herencsény
 ---
 
-{% include Herencseeny.html %}
+{% include settlementHTMLs/Herencseeny.html %}
 
 [Vissza](./)

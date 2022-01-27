@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kurd
 ---
 
-{% include Kurd.html %}
+{% include settlementHTMLs/Kurd.html %}
 
 [Vissza](./)

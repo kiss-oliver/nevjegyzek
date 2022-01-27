@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Inárcs
 ---
 
-{% include Inaarcs.html %}
+{% include settlementHTMLs/Inaarcs.html %}
 
 [Vissza](./)

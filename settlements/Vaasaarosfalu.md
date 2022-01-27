@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vásárosfalu
 ---
 
-{% include Vaasaarosfalu.html %}
+{% include settlementHTMLs/Vaasaarosfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bodajk
 ---
 
-{% include Bodajk.html %}
+{% include settlementHTMLs/Bodajk.html %}
 
 [Vissza](./)

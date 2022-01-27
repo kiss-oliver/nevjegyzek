@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilis
 ---
 
-{% include Pilis.html %}
+{% include settlementHTMLs/Pilis.html %}
 
 [Vissza](./)

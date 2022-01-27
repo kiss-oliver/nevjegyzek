@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Palotabozsok
 ---
 
-{% include Palotabozsok.html %}
+{% include settlementHTMLs/Palotabozsok.html %}
 
 [Vissza](./)

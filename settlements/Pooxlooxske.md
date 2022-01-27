@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pölöske
 ---
 
-{% include Pooxlooxske.html %}
+{% include settlementHTMLs/Pooxlooxske.html %}
 
 [Vissza](./)

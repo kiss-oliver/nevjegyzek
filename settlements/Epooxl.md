@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Epöl
 ---
 
-{% include Epooxl.html %}
+{% include settlementHTMLs/Epooxl.html %}
 
 [Vissza](./)

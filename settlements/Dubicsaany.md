@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dubicsány
 ---
 
-{% include Dubicsaany.html %}
+{% include settlementHTMLs/Dubicsaany.html %}
 
 [Vissza](./)

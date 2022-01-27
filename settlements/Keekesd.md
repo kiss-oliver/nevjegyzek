@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kékesd
 ---
 
-{% include Keekesd.html %}
+{% include settlementHTMLs/Keekesd.html %}
 
 [Vissza](./)

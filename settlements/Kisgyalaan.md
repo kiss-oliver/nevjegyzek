@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisgyalán
 ---
 
-{% include Kisgyalaan.html %}
+{% include settlementHTMLs/Kisgyalaan.html %}
 
 [Vissza](./)

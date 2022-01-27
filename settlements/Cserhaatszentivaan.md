@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserhátszentiván
 ---
 
-{% include Cserhaatszentivaan.html %}
+{% include settlementHTMLs/Cserhaatszentivaan.html %}
 
 [Vissza](./)

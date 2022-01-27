@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ősagárd
 ---
 
-{% include ooXXsagaard.html %}
+{% include settlementHTMLs/ooXXsagaard.html %}
 
 [Vissza](./)

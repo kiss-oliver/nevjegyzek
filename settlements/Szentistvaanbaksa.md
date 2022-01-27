@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentistvánbaksa
 ---
 
-{% include Szentistvaanbaksa.html %}
+{% include settlementHTMLs/Szentistvaanbaksa.html %}
 
 [Vissza](./)

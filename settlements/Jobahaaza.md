@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jobaháza
 ---
 
-{% include Jobahaaza.html %}
+{% include settlementHTMLs/Jobahaaza.html %}
 
 [Vissza](./)

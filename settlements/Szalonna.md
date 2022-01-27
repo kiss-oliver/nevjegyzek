@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szalonna
 ---
 
-{% include Szalonna.html %}
+{% include settlementHTMLs/Szalonna.html %}
 
 [Vissza](./)

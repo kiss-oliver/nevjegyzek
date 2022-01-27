@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserszegtomaj
 ---
 
-{% include Cserszegtomaj.html %}
+{% include settlementHTMLs/Cserszegtomaj.html %}
 
 [Vissza](./)

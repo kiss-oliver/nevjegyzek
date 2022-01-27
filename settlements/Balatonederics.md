@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonederics
 ---
 
-{% include Balatonederics.html %}
+{% include settlementHTMLs/Balatonederics.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sokorópátka
 ---
 
-{% include Sokoroopaatka.html %}
+{% include settlementHTMLs/Sokoroopaatka.html %}
 
 [Vissza](./)

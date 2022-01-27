@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalahaláp
 ---
 
-{% include Zalahalaap.html %}
+{% include settlementHTMLs/Zalahalaap.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunbaja
 ---
 
-{% include Kunbaja.html %}
+{% include settlementHTMLs/Kunbaja.html %}
 
 [Vissza](./)

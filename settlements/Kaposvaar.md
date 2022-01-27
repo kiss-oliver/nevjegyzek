@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaposvár
 ---
 
-{% include Kaposvaar.html %}
+{% include settlementHTMLs/Kaposvaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Apátfalva
 ---
 
-{% include Apaatfalva.html %}
+{% include settlementHTMLs/Apaatfalva.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdőkertes
 ---
 
-{% include Erdooxxkertes.html %}
+{% include settlementHTMLs/Erdooxxkertes.html %}
 
 [Vissza](./)

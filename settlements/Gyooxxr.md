@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győr
 ---
 
-{% include Gyooxxr.html %}
+{% include settlementHTMLs/Gyooxxr.html %}
 
 [Vissza](./)

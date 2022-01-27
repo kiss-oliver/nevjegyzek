@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zánka
 ---
 
-{% include Zaanka.html %}
+{% include settlementHTMLs/Zaanka.html %}
 
 [Vissza](./)

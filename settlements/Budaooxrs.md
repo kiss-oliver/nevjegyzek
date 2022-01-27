@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budaörs
 ---
 
-{% include Budaooxrs.html %}
+{% include settlementHTMLs/Budaooxrs.html %}
 
 [Vissza](./)

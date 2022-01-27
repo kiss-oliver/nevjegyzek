@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasmegyer
 ---
 
-{% include Vasmegyer.html %}
+{% include settlementHTMLs/Vasmegyer.html %}
 
 [Vissza](./)

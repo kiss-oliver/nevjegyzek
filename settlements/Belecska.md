@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Belecska
 ---
 
-{% include Belecska.html %}
+{% include settlementHTMLs/Belecska.html %}
 
 [Vissza](./)

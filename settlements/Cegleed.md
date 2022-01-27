@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cegléd
 ---
 
-{% include Cegleed.html %}
+{% include settlementHTMLs/Cegleed.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Döge
 ---
 
-{% include Dooxge.html %}
+{% include settlementHTMLs/Dooxge.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nágocs
 ---
 
-{% include Naagocs.html %}
+{% include settlementHTMLs/Naagocs.html %}
 
 [Vissza](./)

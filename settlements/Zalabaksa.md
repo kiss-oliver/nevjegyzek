@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalabaksa
 ---
 
-{% include Zalabaksa.html %}
+{% include settlementHTMLs/Zalabaksa.html %}
 
 [Vissza](./)

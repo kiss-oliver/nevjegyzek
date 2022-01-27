@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szakonyfalu
 ---
 
-{% include Szakonyfalu.html %}
+{% include settlementHTMLs/Szakonyfalu.html %}
 
 [Vissza](./)

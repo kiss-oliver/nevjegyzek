@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykanizsa
 ---
 
-{% include Nagykanizsa.html %}
+{% include settlementHTMLs/Nagykanizsa.html %}
 
 [Vissza](./)

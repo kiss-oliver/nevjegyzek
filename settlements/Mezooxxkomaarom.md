@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőkomárom
 ---
 
-{% include Mezooxxkomaarom.html %}
+{% include settlementHTMLs/Mezooxxkomaarom.html %}
 
 [Vissza](./)

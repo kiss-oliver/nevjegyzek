@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várpalota
 ---
 
-{% include Vaarpalota.html %}
+{% include settlementHTMLs/Vaarpalota.html %}
 
 [Vissza](./)

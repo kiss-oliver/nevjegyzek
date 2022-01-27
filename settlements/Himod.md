@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Himod
 ---
 
-{% include Himod.html %}
+{% include settlementHTMLs/Himod.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bozsok
 ---
 
-{% include Bozsok.html %}
+{% include settlementHTMLs/Bozsok.html %}
 
 [Vissza](./)

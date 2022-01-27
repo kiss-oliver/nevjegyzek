@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hercegkút
 ---
 
-{% include Hercegkuut.html %}
+{% include settlementHTMLs/Hercegkuut.html %}
 
 [Vissza](./)

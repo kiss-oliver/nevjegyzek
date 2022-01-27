@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Visegrád
 ---
 
-{% include Visegraad.html %}
+{% include settlementHTMLs/Visegraad.html %}
 
 [Vissza](./)

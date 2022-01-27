@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gomba
 ---
 
-{% include Gomba.html %}
+{% include settlementHTMLs/Gomba.html %}
 
 [Vissza](./)

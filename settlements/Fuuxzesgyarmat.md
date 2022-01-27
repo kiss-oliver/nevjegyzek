@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Füzesgyarmat
 ---
 
-{% include Fuuxzesgyarmat.html %}
+{% include settlementHTMLs/Fuuxzesgyarmat.html %}
 
 [Vissza](./)

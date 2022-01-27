@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesládony
 ---
 
-{% include Nemeslaadony.html %}
+{% include settlementHTMLs/Nemeslaadony.html %}
 
 [Vissza](./)

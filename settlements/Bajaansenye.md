@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bajánsenye
 ---
 
-{% include Bajaansenye.html %}
+{% include settlementHTMLs/Bajaansenye.html %}
 
 [Vissza](./)

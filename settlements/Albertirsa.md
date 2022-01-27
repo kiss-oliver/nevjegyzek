@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Albertirsa
 ---
 
-{% include Albertirsa.html %}
+{% include settlementHTMLs/Albertirsa.html %}
 
 [Vissza](./)

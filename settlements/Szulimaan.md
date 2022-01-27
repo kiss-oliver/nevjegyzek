@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szulimán
 ---
 
-{% include Szulimaan.html %}
+{% include settlementHTMLs/Szulimaan.html %}
 
 [Vissza](./)

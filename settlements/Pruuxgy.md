@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Prügy
 ---
 
-{% include Pruuxgy.html %}
+{% include settlementHTMLs/Pruuxgy.html %}
 
 [Vissza](./)

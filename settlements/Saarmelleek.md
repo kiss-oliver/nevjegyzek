@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sármellék
 ---
 
-{% include Saarmelleek.html %}
+{% include settlementHTMLs/Saarmelleek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Keszthely
 ---
 
-{% include Keszthely.html %}
+{% include settlementHTMLs/Keszthely.html %}
 
 [Vissza](./)

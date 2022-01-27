@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bánhorváti
 ---
 
-{% include Baanhorvaati.html %}
+{% include settlementHTMLs/Baanhorvaati.html %}
 
 [Vissza](./)

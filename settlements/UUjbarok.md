@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újbarok
 ---
 
-{% include UUjbarok.html %}
+{% include settlementHTMLs/UUjbarok.html %}
 
 [Vissza](./)

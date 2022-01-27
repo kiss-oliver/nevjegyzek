@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Köröm
 ---
 
-{% include Kooxrooxm.html %}
+{% include settlementHTMLs/Kooxrooxm.html %}
 
 [Vissza](./)

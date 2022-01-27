@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hetvehely
 ---
 
-{% include Hetvehely.html %}
+{% include settlementHTMLs/Hetvehely.html %}
 
 [Vissza](./)

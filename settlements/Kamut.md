@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kamut
 ---
 
-{% include Kamut.html %}
+{% include settlementHTMLs/Kamut.html %}
 
 [Vissza](./)

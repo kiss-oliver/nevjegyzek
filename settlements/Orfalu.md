@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orfalu
 ---
 
-{% include Orfalu.html %}
+{% include settlementHTMLs/Orfalu.html %}
 
 [Vissza](./)

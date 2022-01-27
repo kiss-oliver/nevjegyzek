@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyvejke
 ---
 
-{% include Nagyvejke.html %}
+{% include settlementHTMLs/Nagyvejke.html %}
 
 [Vissza](./)

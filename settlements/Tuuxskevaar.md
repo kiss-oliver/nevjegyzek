@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tüskevár
 ---
 
-{% include Tuuxskevaar.html %}
+{% include settlementHTMLs/Tuuxskevaar.html %}
 
 [Vissza](./)

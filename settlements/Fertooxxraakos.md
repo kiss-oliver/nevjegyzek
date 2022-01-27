@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőrákos
 ---
 
-{% include Fertooxxraakos.html %}
+{% include settlementHTMLs/Fertooxxraakos.html %}
 
 [Vissza](./)

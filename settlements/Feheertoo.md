@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fehértó
 ---
 
-{% include Feheertoo.html %}
+{% include settlementHTMLs/Feheertoo.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bérbaltavár
 ---
 
-{% include Beerbaltavaar.html %}
+{% include settlementHTMLs/Beerbaltavaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kevermes
 ---
 
-{% include Kevermes.html %}
+{% include settlementHTMLs/Kevermes.html %}
 
 [Vissza](./)

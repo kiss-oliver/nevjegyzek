@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyösmellék
 ---
 
-{% include Gyooxngyooxsmelleek.html %}
+{% include settlementHTMLs/Gyooxngyooxsmelleek.html %}
 
 [Vissza](./)

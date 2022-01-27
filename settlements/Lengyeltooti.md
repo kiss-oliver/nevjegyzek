@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lengyeltóti
 ---
 
-{% include Lengyeltooti.html %}
+{% include settlementHTMLs/Lengyeltooti.html %}
 
 [Vissza](./)

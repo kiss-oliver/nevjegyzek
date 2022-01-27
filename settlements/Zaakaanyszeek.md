@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zákányszék
 ---
 
-{% include Zaakaanyszeek.html %}
+{% include settlementHTMLs/Zaakaanyszeek.html %}
 
 [Vissza](./)

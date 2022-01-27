@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Márianosztra
 ---
 
-{% include Maarianosztra.html %}
+{% include settlementHTMLs/Maarianosztra.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarany
 ---
 
-{% include Tarany.html %}
+{% include settlementHTMLs/Tarany.html %}
 
 [Vissza](./)

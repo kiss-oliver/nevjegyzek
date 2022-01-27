@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rédics
 ---
 
-{% include Reedics.html %}
+{% include settlementHTMLs/Reedics.html %}
 
 [Vissza](./)

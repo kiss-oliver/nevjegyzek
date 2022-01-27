@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tyukod
 ---
 
-{% include Tyukod.html %}
+{% include settlementHTMLs/Tyukod.html %}
 
 [Vissza](./)

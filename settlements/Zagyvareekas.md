@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zagyvarékas
 ---
 
-{% include Zagyvareekas.html %}
+{% include settlementHTMLs/Zagyvareekas.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigetvár
 ---
 
-{% include Szigetvaar.html %}
+{% include settlementHTMLs/Szigetvaar.html %}
 
 [Vissza](./)

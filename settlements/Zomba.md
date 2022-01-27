@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zomba
 ---
 
-{% include Zomba.html %}
+{% include settlementHTMLs/Zomba.html %}
 
 [Vissza](./)

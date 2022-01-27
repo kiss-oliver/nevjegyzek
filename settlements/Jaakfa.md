@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jákfa
 ---
 
-{% include Jaakfa.html %}
+{% include settlementHTMLs/Jaakfa.html %}
 
 [Vissza](./)

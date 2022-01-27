@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemenesmagasi
 ---
 
-{% include Kemenesmagasi.html %}
+{% include settlementHTMLs/Kemenesmagasi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Penc
 ---
 
-{% include Penc.html %}
+{% include settlementHTMLs/Penc.html %}
 
 [Vissza](./)

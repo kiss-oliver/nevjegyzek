@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Őrbottyán
 ---
 
-{% include ooXXrbottyaan.html %}
+{% include settlementHTMLs/ooXXrbottyaan.html %}
 
 [Vissza](./)

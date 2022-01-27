@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pereszteg
 ---
 
-{% include Pereszteg.html %}
+{% include settlementHTMLs/Pereszteg.html %}
 
 [Vissza](./)

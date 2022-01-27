@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonyszentlászló
 ---
 
-{% include Bakonyszentlaaszloo.html %}
+{% include settlementHTMLs/Bakonyszentlaaszloo.html %}
 
 [Vissza](./)

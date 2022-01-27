@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tokaj
 ---
 
-{% include Tokaj.html %}
+{% include settlementHTMLs/Tokaj.html %}
 
 [Vissza](./)

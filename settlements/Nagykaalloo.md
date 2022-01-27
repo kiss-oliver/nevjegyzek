@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykálló
 ---
 
-{% include Nagykaalloo.html %}
+{% include settlementHTMLs/Nagykaalloo.html %}
 
 [Vissza](./)

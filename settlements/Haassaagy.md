@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hásságy
 ---
 
-{% include Haassaagy.html %}
+{% include settlementHTMLs/Haassaagy.html %}
 
 [Vissza](./)

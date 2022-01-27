@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jósvafő
 ---
 
-{% include Joosvafooxx.html %}
+{% include settlementHTMLs/Joosvafooxx.html %}
 
 [Vissza](./)

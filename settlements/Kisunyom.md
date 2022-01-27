@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisunyom
 ---
 
-{% include Kisunyom.html %}
+{% include settlementHTMLs/Kisunyom.html %}
 
 [Vissza](./)

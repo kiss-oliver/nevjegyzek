@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zemplénagárd
 ---
 
-{% include Zempleenagaard.html %}
+{% include settlementHTMLs/Zempleenagaard.html %}
 
 [Vissza](./)

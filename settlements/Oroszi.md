@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Oroszi
 ---
 
-{% include Oroszi.html %}
+{% include settlementHTMLs/Oroszi.html %}
 
 [Vissza](./)

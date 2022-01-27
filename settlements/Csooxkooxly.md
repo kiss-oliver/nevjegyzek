@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csököly
 ---
 
-{% include Csooxkooxly.html %}
+{% include settlementHTMLs/Csooxkooxly.html %}
 
 [Vissza](./)

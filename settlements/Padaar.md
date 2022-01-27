@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Padár
 ---
 
-{% include Padaar.html %}
+{% include settlementHTMLs/Padaar.html %}
 
 [Vissza](./)

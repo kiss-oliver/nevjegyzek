@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egeraracsa
 ---
 
-{% include Egeraracsa.html %}
+{% include settlementHTMLs/Egeraracsa.html %}
 
 [Vissza](./)

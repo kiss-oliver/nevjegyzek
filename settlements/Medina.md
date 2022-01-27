@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Medina
 ---
 
-{% include Medina.html %}
+{% include settlementHTMLs/Medina.html %}
 
 [Vissza](./)

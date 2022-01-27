@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kercseliget
 ---
 
-{% include Kercseliget.html %}
+{% include settlementHTMLs/Kercseliget.html %}
 
 [Vissza](./)

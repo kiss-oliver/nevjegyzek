@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárszentágota
 ---
 
-{% include Saarszentaagota.html %}
+{% include settlementHTMLs/Saarszentaagota.html %}
 
 [Vissza](./)

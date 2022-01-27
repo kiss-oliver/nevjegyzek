@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pétfürdő
 ---
 
-{% include Peetfuuxrdooxx.html %}
+{% include settlementHTMLs/Peetfuuxrdooxx.html %}
 
 [Vissza](./)

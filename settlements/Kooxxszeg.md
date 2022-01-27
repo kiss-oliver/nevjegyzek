@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőszeg
 ---
 
-{% include Kooxxszeg.html %}
+{% include settlementHTMLs/Kooxxszeg.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaszekcső
 ---
 
-{% include Dunaszekcsooxx.html %}
+{% include settlementHTMLs/Dunaszekcsooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hőgyész
 ---
 
-{% include Hooxxgyeesz.html %}
+{% include settlementHTMLs/Hooxxgyeesz.html %}
 
 [Vissza](./)

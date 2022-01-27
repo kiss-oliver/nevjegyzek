@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hottó
 ---
 
-{% include Hottoo.html %}
+{% include settlementHTMLs/Hottoo.html %}
 
 [Vissza](./)

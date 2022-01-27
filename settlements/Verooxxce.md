@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Verőce
 ---
 
-{% include Verooxxce.html %}
+{% include settlementHTMLs/Verooxxce.html %}
 
 [Vissza](./)

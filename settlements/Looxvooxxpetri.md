@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lövőpetri
 ---
 
-{% include Looxvooxxpetri.html %}
+{% include settlementHTMLs/Looxvooxxpetri.html %}
 
 [Vissza](./)

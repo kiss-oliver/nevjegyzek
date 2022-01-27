@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonszepezd
 ---
 
-{% include Balatonszepezd.html %}
+{% include settlementHTMLs/Balatonszepezd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Oszlár
 ---
 
-{% include Oszlaar.html %}
+{% include settlementHTMLs/Oszlaar.html %}
 
 [Vissza](./)

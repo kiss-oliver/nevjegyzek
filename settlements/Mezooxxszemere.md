@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőszemere
 ---
 
-{% include Mezooxxszemere.html %}
+{% include settlementHTMLs/Mezooxxszemere.html %}
 
 [Vissza](./)

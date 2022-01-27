@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádsipek
 ---
 
-{% include Noograadsipek.html %}
+{% include settlementHTMLs/Noograadsipek.html %}
 
 [Vissza](./)

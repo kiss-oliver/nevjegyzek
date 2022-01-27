@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hernádcéce
 ---
 
-{% include Hernaadceece.html %}
+{% include settlementHTMLs/Hernaadceece.html %}
 
 [Vissza](./)

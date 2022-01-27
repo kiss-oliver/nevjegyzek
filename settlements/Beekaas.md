@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Békás
 ---
 
-{% include Beekaas.html %}
+{% include settlementHTMLs/Beekaas.html %}
 
 [Vissza](./)

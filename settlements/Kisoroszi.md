@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisoroszi
 ---
 
-{% include Kisoroszi.html %}
+{% include settlementHTMLs/Kisoroszi.html %}
 
 [Vissza](./)

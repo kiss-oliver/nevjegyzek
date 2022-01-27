@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Miklósi
 ---
 
-{% include Mikloosi.html %}
+{% include settlementHTMLs/Mikloosi.html %}
 
 [Vissza](./)

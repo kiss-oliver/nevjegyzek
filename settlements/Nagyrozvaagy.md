@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyrozvágy
 ---
 
-{% include Nagyrozvaagy.html %}
+{% include settlementHTMLs/Nagyrozvaagy.html %}
 
 [Vissza](./)

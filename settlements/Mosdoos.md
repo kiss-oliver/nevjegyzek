@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mosdós
 ---
 
-{% include Mosdoos.html %}
+{% include settlementHTMLs/Mosdoos.html %}
 
 [Vissza](./)

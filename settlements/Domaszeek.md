@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Domaszék
 ---
 
-{% include Domaszeek.html %}
+{% include settlementHTMLs/Domaszeek.html %}
 
 [Vissza](./)

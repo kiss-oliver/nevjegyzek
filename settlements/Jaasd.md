@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jásd
 ---
 
-{% include Jaasd.html %}
+{% include settlementHTMLs/Jaasd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bodorfa
 ---
 
-{% include Bodorfa.html %}
+{% include settlementHTMLs/Bodorfa.html %}
 
 [Vissza](./)

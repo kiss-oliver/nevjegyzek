@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházashollós
 ---
 
-{% include Egyhaazasholloos.html %}
+{% include settlementHTMLs/Egyhaazasholloos.html %}
 
 [Vissza](./)

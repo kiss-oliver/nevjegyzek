@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kökény
 ---
 
-{% include Kooxkeeny.html %}
+{% include settlementHTMLs/Kooxkeeny.html %}
 
 [Vissza](./)

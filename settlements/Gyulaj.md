@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyulaj
 ---
 
-{% include Gyulaj.html %}
+{% include settlementHTMLs/Gyulaj.html %}
 
 [Vissza](./)

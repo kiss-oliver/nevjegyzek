@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Piliscsaba
 ---
 
-{% include Piliscsaba.html %}
+{% include settlementHTMLs/Piliscsaba.html %}
 
 [Vissza](./)

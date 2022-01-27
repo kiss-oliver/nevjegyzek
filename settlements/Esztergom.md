@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Esztergom
 ---
 
-{% include Esztergom.html %}
+{% include settlementHTMLs/Esztergom.html %}
 
 [Vissza](./)

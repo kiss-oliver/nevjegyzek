@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csibrák
 ---
 
-{% include Csibraak.html %}
+{% include settlementHTMLs/Csibraak.html %}
 
 [Vissza](./)

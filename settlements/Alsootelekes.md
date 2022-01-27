@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsótelekes
 ---
 
-{% include Alsootelekes.html %}
+{% include settlementHTMLs/Alsootelekes.html %}
 
 [Vissza](./)

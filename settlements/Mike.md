@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mike
 ---
 
-{% include Mike.html %}
+{% include settlementHTMLs/Mike.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fehérgyarmat
 ---
 
-{% include Feheergyarmat.html %}
+{% include settlementHTMLs/Feheergyarmat.html %}
 
 [Vissza](./)

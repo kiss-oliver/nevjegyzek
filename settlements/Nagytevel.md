@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagytevel
 ---
 
-{% include Nagytevel.html %}
+{% include settlementHTMLs/Nagytevel.html %}
 
 [Vissza](./)

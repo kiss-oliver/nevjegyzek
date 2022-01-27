@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kissziget
 ---
 
-{% include Kissziget.html %}
+{% include settlementHTMLs/Kissziget.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Regöly
 ---
 
-{% include Regooxly.html %}
+{% include settlementHTMLs/Regooxly.html %}
 
 [Vissza](./)

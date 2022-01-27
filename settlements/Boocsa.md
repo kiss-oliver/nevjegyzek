@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bócsa
 ---
 
-{% include Boocsa.html %}
+{% include settlementHTMLs/Boocsa.html %}
 
 [Vissza](./)

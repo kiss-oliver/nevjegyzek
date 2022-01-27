@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Neszmély
 ---
 
-{% include Neszmeely.html %}
+{% include settlementHTMLs/Neszmeely.html %}
 
 [Vissza](./)

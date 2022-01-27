@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alap
 ---
 
-{% include Alap.html %}
+{% include settlementHTMLs/Alap.html %}
 
 [Vissza](./)

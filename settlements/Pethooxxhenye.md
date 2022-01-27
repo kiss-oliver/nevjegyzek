@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pethőhenye
 ---
 
-{% include Pethooxxhenye.html %}
+{% include settlementHTMLs/Pethooxxhenye.html %}
 
 [Vissza](./)

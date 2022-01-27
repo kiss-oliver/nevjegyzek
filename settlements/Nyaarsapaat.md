@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyársapát
 ---
 
-{% include Nyaarsapaat.html %}
+{% include settlementHTMLs/Nyaarsapaat.html %}
 
 [Vissza](./)

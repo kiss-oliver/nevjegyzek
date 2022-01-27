@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pápakovácsi
 ---
 
-{% include Paapakovaacsi.html %}
+{% include settlementHTMLs/Paapakovaacsi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szemely
 ---
 
-{% include Szemely.html %}
+{% include settlementHTMLs/Szemely.html %}
 
 [Vissza](./)

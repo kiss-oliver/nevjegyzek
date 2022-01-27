@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kesznyéten
 ---
 
-{% include Kesznyeeten.html %}
+{% include settlementHTMLs/Kesznyeeten.html %}
 
 [Vissza](./)

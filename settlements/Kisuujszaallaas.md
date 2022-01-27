@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisújszállás
 ---
 
-{% include Kisuujszaallaas.html %}
+{% include settlementHTMLs/Kisuujszaallaas.html %}
 
 [Vissza](./)

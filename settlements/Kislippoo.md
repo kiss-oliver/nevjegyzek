@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kislippó
 ---
 
-{% include Kislippoo.html %}
+{% include settlementHTMLs/Kislippoo.html %}
 
 [Vissza](./)

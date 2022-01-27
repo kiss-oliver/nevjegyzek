@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bicske
 ---
 
-{% include Bicske.html %}
+{% include settlementHTMLs/Bicske.html %}
 
 [Vissza](./)

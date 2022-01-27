@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Makkoshotyka
 ---
 
-{% include Makkoshotyka.html %}
+{% include settlementHTMLs/Makkoshotyka.html %}
 
 [Vissza](./)

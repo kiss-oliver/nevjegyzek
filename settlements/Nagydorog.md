@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagydorog
 ---
 
-{% include Nagydorog.html %}
+{% include settlementHTMLs/Nagydorog.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírpilis
 ---
 
-{% include Nyiirpilis.html %}
+{% include settlementHTMLs/Nyiirpilis.html %}
 
 [Vissza](./)

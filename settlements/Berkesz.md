@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berkesz
 ---
 
-{% include Berkesz.html %}
+{% include settlementHTMLs/Berkesz.html %}
 
 [Vissza](./)

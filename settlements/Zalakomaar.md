@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalakomár
 ---
 
-{% include Zalakomaar.html %}
+{% include settlementHTMLs/Zalakomaar.html %}
 
 [Vissza](./)

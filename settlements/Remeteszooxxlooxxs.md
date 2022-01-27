@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Remeteszőlős
 ---
 
-{% include Remeteszooxxlooxxs.html %}
+{% include settlementHTMLs/Remeteszooxxlooxxs.html %}
 
 [Vissza](./)

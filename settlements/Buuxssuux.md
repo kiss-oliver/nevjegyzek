@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Büssü
 ---
 
-{% include Buuxssuux.html %}
+{% include settlementHTMLs/Buuxssuux.html %}
 
 [Vissza](./)

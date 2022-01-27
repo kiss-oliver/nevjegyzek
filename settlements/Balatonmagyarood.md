@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonmagyaród
 ---
 
-{% include Balatonmagyarood.html %}
+{% include settlementHTMLs/Balatonmagyarood.html %}
 
 [Vissza](./)

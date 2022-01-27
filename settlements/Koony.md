@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kóny
 ---
 
-{% include Koony.html %}
+{% include settlementHTMLs/Koony.html %}
 
 [Vissza](./)

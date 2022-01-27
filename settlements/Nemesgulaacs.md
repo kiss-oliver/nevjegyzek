@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesgulács
 ---
 
-{% include Nemesgulaacs.html %}
+{% include settlementHTMLs/Nemesgulaacs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisvaszar
 ---
 
-{% include Kisvaszar.html %}
+{% include settlementHTMLs/Kisvaszar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lasztonya
 ---
 
-{% include Lasztonya.html %}
+{% include settlementHTMLs/Lasztonya.html %}
 
 [Vissza](./)

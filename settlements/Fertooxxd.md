@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőd
 ---
 
-{% include Fertooxxd.html %}
+{% include settlementHTMLs/Fertooxxd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zaránk
 ---
 
-{% include Zaraank.html %}
+{% include settlementHTMLs/Zaraank.html %}
 
 [Vissza](./)

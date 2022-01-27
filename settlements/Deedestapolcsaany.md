@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dédestapolcsány
 ---
 
-{% include Deedestapolcsaany.html %}
+{% include settlementHTMLs/Deedestapolcsaany.html %}
 
 [Vissza](./)

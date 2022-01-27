@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Városföld
 ---
 
-{% include Vaarosfooxld.html %}
+{% include settlementHTMLs/Vaarosfooxld.html %}
 
 [Vissza](./)

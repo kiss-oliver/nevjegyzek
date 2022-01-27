@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőtárkány
 ---
 
-{% include Felsooxxtaarkaany.html %}
+{% include settlementHTMLs/Felsooxxtaarkaany.html %}
 
 [Vissza](./)

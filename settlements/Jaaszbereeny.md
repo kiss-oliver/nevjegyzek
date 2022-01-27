@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászberény
 ---
 
-{% include Jaaszbereeny.html %}
+{% include settlementHTMLs/Jaaszbereeny.html %}
 
 [Vissza](./)

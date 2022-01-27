@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Heves
 ---
 
-{% include Heves.html %}
+{% include settlementHTMLs/Heves.html %}
 
 [Vissza](./)

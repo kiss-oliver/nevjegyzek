@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Füzérkomlós
 ---
 
-{% include Fuuxzeerkomloos.html %}
+{% include settlementHTMLs/Fuuxzeerkomloos.html %}
 
 [Vissza](./)

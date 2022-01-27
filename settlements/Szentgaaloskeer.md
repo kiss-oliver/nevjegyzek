@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentgáloskér
 ---
 
-{% include Szentgaaloskeer.html %}
+{% include settlementHTMLs/Szentgaaloskeer.html %}
 
 [Vissza](./)

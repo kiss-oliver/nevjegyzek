@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gige
 ---
 
-{% include Gige.html %}
+{% include settlementHTMLs/Gige.html %}
 
 [Vissza](./)

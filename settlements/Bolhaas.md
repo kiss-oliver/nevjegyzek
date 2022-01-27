@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bolhás
 ---
 
-{% include Bolhaas.html %}
+{% include settlementHTMLs/Bolhaas.html %}
 
 [Vissza](./)

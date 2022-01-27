@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Husztót
 ---
 
-{% include Husztoot.html %}
+{% include settlementHTMLs/Husztoot.html %}
 
 [Vissza](./)

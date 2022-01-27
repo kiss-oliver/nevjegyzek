@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőszentmárton
 ---
 
-{% include Felsooxxszentmaarton.html %}
+{% include settlementHTMLs/Felsooxxszentmaarton.html %}
 
 [Vissza](./)

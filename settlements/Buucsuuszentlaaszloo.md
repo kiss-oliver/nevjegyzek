@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Búcsúszentlászló
 ---
 
-{% include Buucsuuszentlaaszloo.html %}
+{% include settlementHTMLs/Buucsuuszentlaaszloo.html %}
 
 [Vissza](./)

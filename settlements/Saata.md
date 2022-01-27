@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sáta
 ---
 
-{% include Saata.html %}
+{% include settlementHTMLs/Saata.html %}
 
 [Vissza](./)

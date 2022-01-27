@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ajka
 ---
 
-{% include Ajka.html %}
+{% include settlementHTMLs/Ajka.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nikla
 ---
 
-{% include Nikla.html %}
+{% include settlementHTMLs/Nikla.html %}
 
 [Vissza](./)

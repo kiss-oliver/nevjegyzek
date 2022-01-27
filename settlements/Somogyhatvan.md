@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyhatvan
 ---
 
-{% include Somogyhatvan.html %}
+{% include settlementHTMLs/Somogyhatvan.html %}
 
 [Vissza](./)

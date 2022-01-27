@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cece
 ---
 
-{% include Cece.html %}
+{% include settlementHTMLs/Cece.html %}
 
 [Vissza](./)

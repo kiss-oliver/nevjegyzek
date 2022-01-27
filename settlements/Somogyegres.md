@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyegres
 ---
 
-{% include Somogyegres.html %}
+{% include settlementHTMLs/Somogyegres.html %}
 
 [Vissza](./)

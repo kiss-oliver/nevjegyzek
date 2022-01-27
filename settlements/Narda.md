@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Narda
 ---
 
-{% include Narda.html %}
+{% include settlementHTMLs/Narda.html %}
 
 [Vissza](./)

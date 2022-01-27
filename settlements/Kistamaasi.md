@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kistamási
 ---
 
-{% include Kistamaasi.html %}
+{% include settlementHTMLs/Kistamaasi.html %}
 
 [Vissza](./)

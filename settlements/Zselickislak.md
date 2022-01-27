@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zselickislak
 ---
 
-{% include Zselickislak.html %}
+{% include settlementHTMLs/Zselickislak.html %}
 
 [Vissza](./)

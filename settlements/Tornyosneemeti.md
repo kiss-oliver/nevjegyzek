@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornyosnémeti
 ---
 
-{% include Tornyosneemeti.html %}
+{% include settlementHTMLs/Tornyosneemeti.html %}
 
 [Vissza](./)

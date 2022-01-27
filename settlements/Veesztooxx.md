@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vésztő
 ---
 
-{% include Veesztooxx.html %}
+{% include settlementHTMLs/Veesztooxx.html %}
 
 [Vissza](./)

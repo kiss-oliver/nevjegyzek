@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tényő
 ---
 
-{% include Teenyooxx.html %}
+{% include settlementHTMLs/Teenyooxx.html %}
 
 [Vissza](./)

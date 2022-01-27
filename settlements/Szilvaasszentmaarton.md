@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szilvásszentmárton
 ---
 
-{% include Szilvaasszentmaarton.html %}
+{% include settlementHTMLs/Szilvaasszentmaarton.html %}
 
 [Vissza](./)

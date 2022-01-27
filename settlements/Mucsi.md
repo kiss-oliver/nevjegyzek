@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mucsi
 ---
 
-{% include Mucsi.html %}
+{% include settlementHTMLs/Mucsi.html %}
 
 [Vissza](./)

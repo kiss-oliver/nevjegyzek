@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vigántpetend
 ---
 
-{% include Vigaantpetend.html %}
+{% include settlementHTMLs/Vigaantpetend.html %}
 
 [Vissza](./)

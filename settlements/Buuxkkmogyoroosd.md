@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkmogyorósd
 ---
 
-{% include Buuxkkmogyoroosd.html %}
+{% include settlementHTMLs/Buuxkkmogyoroosd.html %}
 
 [Vissza](./)

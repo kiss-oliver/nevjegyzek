@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Földeák
 ---
 
-{% include Fooxldeaak.html %}
+{% include settlementHTMLs/Fooxldeaak.html %}
 
 [Vissza](./)

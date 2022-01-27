@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiscsehi
 ---
 
-{% include Kiscsehi.html %}
+{% include settlementHTMLs/Kiscsehi.html %}
 
 [Vissza](./)

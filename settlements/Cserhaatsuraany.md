@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserhátsurány
 ---
 
-{% include Cserhaatsuraany.html %}
+{% include settlementHTMLs/Cserhaatsuraany.html %}
 
 [Vissza](./)

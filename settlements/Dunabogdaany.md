@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunabogdány
 ---
 
-{% include Dunabogdaany.html %}
+{% include settlementHTMLs/Dunabogdaany.html %}
 
 [Vissza](./)

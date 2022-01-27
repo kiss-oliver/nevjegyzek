@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaszőlős
 ---
 
-{% include Tiszaszooxxlooxxs.html %}
+{% include settlementHTMLs/Tiszaszooxxlooxxs.html %}
 
 [Vissza](./)

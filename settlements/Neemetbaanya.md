@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Németbánya
 ---
 
-{% include Neemetbaanya.html %}
+{% include settlementHTMLs/Neemetbaanya.html %}
 
 [Vissza](./)

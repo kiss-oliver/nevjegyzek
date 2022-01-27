@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírkarász
 ---
 
-{% include Nyiirkaraasz.html %}
+{% include settlementHTMLs/Nyiirkaraasz.html %}
 
 [Vissza](./)

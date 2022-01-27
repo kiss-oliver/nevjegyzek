@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pinkamindszent
 ---
 
-{% include Pinkamindszent.html %}
+{% include settlementHTMLs/Pinkamindszent.html %}
 
 [Vissza](./)

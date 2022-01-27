@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dörgicse
 ---
 
-{% include Dooxrgicse.html %}
+{% include settlementHTMLs/Dooxrgicse.html %}
 
 [Vissza](./)

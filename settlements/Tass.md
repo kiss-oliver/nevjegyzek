@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tass
 ---
 
-{% include Tass.html %}
+{% include settlementHTMLs/Tass.html %}
 
 [Vissza](./)

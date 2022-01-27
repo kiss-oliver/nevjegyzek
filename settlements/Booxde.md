@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Böde
 ---
 
-{% include Booxde.html %}
+{% include settlementHTMLs/Booxde.html %}
 
 [Vissza](./)

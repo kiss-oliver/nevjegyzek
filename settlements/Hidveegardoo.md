@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hidvégardó
 ---
 
-{% include Hidveegardoo.html %}
+{% include settlementHTMLs/Hidveegardoo.html %}
 
 [Vissza](./)

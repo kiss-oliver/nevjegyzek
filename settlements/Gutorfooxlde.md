@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gutorfölde
 ---
 
-{% include Gutorfooxlde.html %}
+{% include settlementHTMLs/Gutorfooxlde.html %}
 
 [Vissza](./)

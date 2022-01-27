@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gősfa
 ---
 
-{% include Gooxxsfa.html %}
+{% include settlementHTMLs/Gooxxsfa.html %}
 
 [Vissza](./)

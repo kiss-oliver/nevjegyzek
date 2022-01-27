@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Terpes
 ---
 
-{% include Terpes.html %}
+{% include settlementHTMLs/Terpes.html %}
 
 [Vissza](./)

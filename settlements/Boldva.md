@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boldva
 ---
 
-{% include Boldva.html %}
+{% include settlementHTMLs/Boldva.html %}
 
 [Vissza](./)

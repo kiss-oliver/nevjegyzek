@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbucsa
 ---
 
-{% include Kisbucsa.html %}
+{% include settlementHTMLs/Kisbucsa.html %}
 
 [Vissza](./)

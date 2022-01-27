@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tanakajd
 ---
 
-{% include Tanakajd.html %}
+{% include settlementHTMLs/Tanakajd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kocsér
 ---
 
-{% include Kocseer.html %}
+{% include settlementHTMLs/Kocseer.html %}
 
 [Vissza](./)

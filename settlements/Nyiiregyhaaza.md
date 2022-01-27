@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyíregyháza
 ---
 
-{% include Nyiiregyhaaza.html %}
+{% include settlementHTMLs/Nyiiregyhaaza.html %}
 
 [Vissza](./)

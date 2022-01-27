@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pér
 ---
 
-{% include Peer.html %}
+{% include settlementHTMLs/Peer.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Geszt
 ---
 
-{% include Geszt.html %}
+{% include settlementHTMLs/Geszt.html %}
 
 [Vissza](./)

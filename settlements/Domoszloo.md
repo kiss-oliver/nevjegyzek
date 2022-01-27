@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Domoszló
 ---
 
-{% include Domoszloo.html %}
+{% include settlementHTMLs/Domoszloo.html %}
 
 [Vissza](./)

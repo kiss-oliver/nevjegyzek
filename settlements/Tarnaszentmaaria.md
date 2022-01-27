@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnaszentmária
 ---
 
-{% include Tarnaszentmaaria.html %}
+{% include settlementHTMLs/Tarnaszentmaaria.html %}
 
 [Vissza](./)

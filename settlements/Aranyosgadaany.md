@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aranyosgadány
 ---
 
-{% include Aranyosgadaany.html %}
+{% include settlementHTMLs/Aranyosgadaany.html %}
 
 [Vissza](./)

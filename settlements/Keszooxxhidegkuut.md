@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Keszőhidegkút
 ---
 
-{% include Keszooxxhidegkuut.html %}
+{% include settlementHTMLs/Keszooxxhidegkuut.html %}
 
 [Vissza](./)

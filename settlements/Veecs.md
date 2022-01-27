@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vécs
 ---
 
-{% include Veecs.html %}
+{% include settlementHTMLs/Veecs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ölbő
 ---
 
-{% include OOXlbooxx.html %}
+{% include settlementHTMLs/OOXlbooxx.html %}
 
 [Vissza](./)

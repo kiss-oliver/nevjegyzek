@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszacsermely
 ---
 
-{% include Tiszacsermely.html %}
+{% include settlementHTMLs/Tiszacsermely.html %}
 
 [Vissza](./)

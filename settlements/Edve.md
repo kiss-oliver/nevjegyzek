@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Edve
 ---
 
-{% include Edve.html %}
+{% include settlementHTMLs/Edve.html %}
 
 [Vissza](./)

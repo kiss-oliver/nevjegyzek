@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Barnag
 ---
 
-{% include Barnag.html %}
+{% include settlementHTMLs/Barnag.html %}
 
 [Vissza](./)

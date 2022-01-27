@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szilvásvárad
 ---
 
-{% include Szilvaasvaarad.html %}
+{% include settlementHTMLs/Szilvaasvaarad.html %}
 
 [Vissza](./)

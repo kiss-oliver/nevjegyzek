@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaderzs
 ---
 
-{% include Tiszaderzs.html %}
+{% include settlementHTMLs/Tiszaderzs.html %}
 
 [Vissza](./)

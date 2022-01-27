@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pötréte
 ---
 
-{% include Pooxtreete.html %}
+{% include settlementHTMLs/Pooxtreete.html %}
 
 [Vissza](./)

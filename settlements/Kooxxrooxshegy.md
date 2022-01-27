@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőröshegy
 ---
 
-{% include Kooxxrooxshegy.html %}
+{% include settlementHTMLs/Kooxxrooxshegy.html %}
 
 [Vissza](./)

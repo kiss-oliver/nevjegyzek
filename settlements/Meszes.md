@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Meszes
 ---
 
-{% include Meszes.html %}
+{% include settlementHTMLs/Meszes.html %}
 
 [Vissza](./)

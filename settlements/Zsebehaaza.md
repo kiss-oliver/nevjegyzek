@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsebeháza
 ---
 
-{% include Zsebehaaza.html %}
+{% include settlementHTMLs/Zsebehaaza.html %}
 
 [Vissza](./)

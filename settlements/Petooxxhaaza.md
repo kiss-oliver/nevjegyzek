@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petőháza
 ---
 
-{% include Petooxxhaaza.html %}
+{% include settlementHTMLs/Petooxxhaaza.html %}
 
 [Vissza](./)

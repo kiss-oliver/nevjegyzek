@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Moha
 ---
 
-{% include Moha.html %}
+{% include settlementHTMLs/Moha.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdőkürt
 ---
 
-{% include Erdooxxkuuxrt.html %}
+{% include settlementHTMLs/Erdooxxkuuxrt.html %}
 
 [Vissza](./)

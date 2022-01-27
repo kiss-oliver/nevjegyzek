@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarlak
 ---
 
-{% include Magyarlak.html %}
+{% include settlementHTMLs/Magyarlak.html %}
 
 [Vissza](./)

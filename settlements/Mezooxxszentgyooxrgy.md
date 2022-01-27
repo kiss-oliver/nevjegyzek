@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőszentgyörgy
 ---
 
-{% include Mezooxxszentgyooxrgy.html %}
+{% include settlementHTMLs/Mezooxxszentgyooxrgy.html %}
 
 [Vissza](./)

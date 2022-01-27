@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Salomvár
 ---
 
-{% include Salomvaar.html %}
+{% include settlementHTMLs/Salomvaar.html %}
 
 [Vissza](./)

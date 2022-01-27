@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Milejszeg
 ---
 
-{% include Milejszeg.html %}
+{% include settlementHTMLs/Milejszeg.html %}
 
 [Vissza](./)

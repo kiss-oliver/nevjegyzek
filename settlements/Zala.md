@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zala
 ---
 
-{% include Zala.html %}
+{% include settlementHTMLs/Zala.html %}
 
 [Vissza](./)

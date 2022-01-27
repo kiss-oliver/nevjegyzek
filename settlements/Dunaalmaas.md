@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaalmás
 ---
 
-{% include Dunaalmaas.html %}
+{% include settlementHTMLs/Dunaalmaas.html %}
 
 [Vissza](./)

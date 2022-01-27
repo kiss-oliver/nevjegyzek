@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kelebia
 ---
 
-{% include Kelebia.html %}
+{% include settlementHTMLs/Kelebia.html %}
 
 [Vissza](./)

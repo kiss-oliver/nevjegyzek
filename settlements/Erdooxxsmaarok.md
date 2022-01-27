@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdősmárok
 ---
 
-{% include Erdooxxsmaarok.html %}
+{% include settlementHTMLs/Erdooxxsmaarok.html %}
 
 [Vissza](./)

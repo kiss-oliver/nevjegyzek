@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Papos
 ---
 
-{% include Papos.html %}
+{% include settlementHTMLs/Papos.html %}
 
 [Vissza](./)

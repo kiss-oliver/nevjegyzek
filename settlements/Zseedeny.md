@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsédeny
 ---
 
-{% include Zseedeny.html %}
+{% include settlementHTMLs/Zseedeny.html %}
 
 [Vissza](./)

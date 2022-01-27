@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tömörd
 ---
 
-{% include Tooxmooxrd.html %}
+{% include settlementHTMLs/Tooxmooxrd.html %}
 
 [Vissza](./)

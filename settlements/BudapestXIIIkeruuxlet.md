@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest XIII. kerület
 ---
 
-{% include BudapestXIIIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestXIIIkeruuxlet.html %}
 
 [Vissza](./)

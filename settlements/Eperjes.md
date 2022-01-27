@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Eperjes
 ---
 
-{% include Eperjes.html %}
+{% include settlementHTMLs/Eperjes.html %}
 
 [Vissza](./)

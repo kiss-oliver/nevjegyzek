@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Klárafalva
 ---
 
-{% include Klaarafalva.html %}
+{% include settlementHTMLs/Klaarafalva.html %}
 
 [Vissza](./)

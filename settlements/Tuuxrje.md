@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Türje
 ---
 
-{% include Tuuxrje.html %}
+{% include settlementHTMLs/Tuuxrje.html %}
 
 [Vissza](./)

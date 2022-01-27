@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szinpetri
 ---
 
-{% include Szinpetri.html %}
+{% include settlementHTMLs/Szinpetri.html %}
 
 [Vissza](./)

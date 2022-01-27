@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gamás
 ---
 
-{% include Gamaas.html %}
+{% include settlementHTMLs/Gamaas.html %}
 
 [Vissza](./)

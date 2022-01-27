@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beloiannisz
 ---
 
-{% include Beloiannisz.html %}
+{% include settlementHTMLs/Beloiannisz.html %}
 
 [Vissza](./)

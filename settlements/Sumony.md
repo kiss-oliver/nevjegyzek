@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sumony
 ---
 
-{% include Sumony.html %}
+{% include settlementHTMLs/Sumony.html %}
 
 [Vissza](./)

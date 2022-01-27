@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskunfélegyháza
 ---
 
-{% include Kiskunfeelegyhaaza.html %}
+{% include settlementHTMLs/Kiskunfeelegyhaaza.html %}
 
 [Vissza](./)

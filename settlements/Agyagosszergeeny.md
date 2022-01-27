@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Agyagosszergény
 ---
 
-{% include Agyagosszergeeny.html %}
+{% include settlementHTMLs/Agyagosszergeeny.html %}
 
 [Vissza](./)

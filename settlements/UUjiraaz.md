@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újiráz
 ---
 
-{% include UUjiraaz.html %}
+{% include settlementHTMLs/UUjiraaz.html %}
 
 [Vissza](./)

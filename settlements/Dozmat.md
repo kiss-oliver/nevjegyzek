@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dozmat
 ---
 
-{% include Dozmat.html %}
+{% include settlementHTMLs/Dozmat.html %}
 
 [Vissza](./)

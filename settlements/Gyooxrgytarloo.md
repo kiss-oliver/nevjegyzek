@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Györgytarló
 ---
 
-{% include Gyooxrgytarloo.html %}
+{% include settlementHTMLs/Gyooxrgytarloo.html %}
 
 [Vissza](./)

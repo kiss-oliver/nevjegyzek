@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somlószőlős
 ---
 
-{% include Somlooszooxxlooxxs.html %}
+{% include settlementHTMLs/Somlooszooxxlooxxs.html %}
 
 [Vissza](./)

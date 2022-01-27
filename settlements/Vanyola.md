@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vanyola
 ---
 
-{% include Vanyola.html %}
+{% include settlementHTMLs/Vanyola.html %}
 
 [Vissza](./)

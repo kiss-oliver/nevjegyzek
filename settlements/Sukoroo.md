@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sukoró
 ---
 
-{% include Sukoroo.html %}
+{% include settlementHTMLs/Sukoroo.html %}
 
 [Vissza](./)

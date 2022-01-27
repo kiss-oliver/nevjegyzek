@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lepsény
 ---
 
-{% include Lepseeny.html %}
+{% include settlementHTMLs/Lepseeny.html %}
 
 [Vissza](./)

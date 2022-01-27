@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőpáhok
 ---
 
-{% include Felsooxxpaahok.html %}
+{% include settlementHTMLs/Felsooxxpaahok.html %}
 
 [Vissza](./)

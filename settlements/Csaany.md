@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csány
 ---
 
-{% include Csaany.html %}
+{% include settlementHTMLs/Csaany.html %}
 
 [Vissza](./)

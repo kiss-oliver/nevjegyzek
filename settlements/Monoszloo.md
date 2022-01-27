@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Monoszló
 ---
 
-{% include Monoszloo.html %}
+{% include settlementHTMLs/Monoszloo.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemenessömjén
 ---
 
-{% include Kemenessooxmjeen.html %}
+{% include settlementHTMLs/Kemenessooxmjeen.html %}
 
 [Vissza](./)

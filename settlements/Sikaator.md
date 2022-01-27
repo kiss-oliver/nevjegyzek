@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sikátor
 ---
 
-{% include Sikaator.html %}
+{% include settlementHTMLs/Sikaator.html %}
 
 [Vissza](./)

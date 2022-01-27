@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újsolt
 ---
 
-{% include UUjsolt.html %}
+{% include settlementHTMLs/UUjsolt.html %}
 
 [Vissza](./)

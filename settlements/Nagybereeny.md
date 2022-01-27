@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyberény
 ---
 
-{% include Nagybereeny.html %}
+{% include settlementHTMLs/Nagybereeny.html %}
 
 [Vissza](./)

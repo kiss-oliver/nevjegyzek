@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Velemér
 ---
 
-{% include Velemeer.html %}
+{% include settlementHTMLs/Velemeer.html %}
 
 [Vissza](./)

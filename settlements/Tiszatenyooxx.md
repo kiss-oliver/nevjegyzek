@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszatenyő
 ---
 
-{% include Tiszatenyooxx.html %}
+{% include settlementHTMLs/Tiszatenyooxx.html %}
 
 [Vissza](./)

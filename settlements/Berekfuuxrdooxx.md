@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berekfürdő
 ---
 
-{% include Berekfuuxrdooxx.html %}
+{% include settlementHTMLs/Berekfuuxrdooxx.html %}
 
 [Vissza](./)

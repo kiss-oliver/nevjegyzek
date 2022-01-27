@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Káloz
 ---
 
-{% include Kaaloz.html %}
+{% include settlementHTMLs/Kaaloz.html %}
 
 [Vissza](./)

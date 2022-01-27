@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tákos
 ---
 
-{% include Taakos.html %}
+{% include settlementHTMLs/Taakos.html %}
 
 [Vissza](./)

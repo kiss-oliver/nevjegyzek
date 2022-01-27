@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tolcsva
 ---
 
-{% include Tolcsva.html %}
+{% include settlementHTMLs/Tolcsva.html %}
 
 [Vissza](./)

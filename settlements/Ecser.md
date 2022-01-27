@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ecser
 ---
 
-{% include Ecser.html %}
+{% include settlementHTMLs/Ecser.html %}
 
 [Vissza](./)

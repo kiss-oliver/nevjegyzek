@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsódobsza
 ---
 
-{% include Alsoodobsza.html %}
+{% include settlementHTMLs/Alsoodobsza.html %}
 
 [Vissza](./)

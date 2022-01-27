@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kehidakustány
 ---
 
-{% include Kehidakustaany.html %}
+{% include settlementHTMLs/Kehidakustaany.html %}
 
 [Vissza](./)

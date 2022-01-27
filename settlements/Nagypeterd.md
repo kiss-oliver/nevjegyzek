@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagypeterd
 ---
 
-{% include Nagypeterd.html %}
+{% include settlementHTMLs/Nagypeterd.html %}
 
 [Vissza](./)

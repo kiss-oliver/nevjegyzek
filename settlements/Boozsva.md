@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bózsva
 ---
 
-{% include Boozsva.html %}
+{% include settlementHTMLs/Boozsva.html %}
 
 [Vissza](./)

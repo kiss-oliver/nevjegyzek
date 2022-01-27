@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Torony
 ---
 
-{% include Torony.html %}
+{% include settlementHTMLs/Torony.html %}
 
 [Vissza](./)

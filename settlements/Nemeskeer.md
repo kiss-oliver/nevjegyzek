@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeskér
 ---
 
-{% include Nemeskeer.html %}
+{% include settlementHTMLs/Nemeskeer.html %}
 
 [Vissza](./)

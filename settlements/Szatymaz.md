@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szatymaz
 ---
 
-{% include Szatymaz.html %}
+{% include settlementHTMLs/Szatymaz.html %}
 
 [Vissza](./)

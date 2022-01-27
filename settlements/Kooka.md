@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kóka
 ---
 
-{% include Kooka.html %}
+{% include settlementHTMLs/Kooka.html %}
 
 [Vissza](./)

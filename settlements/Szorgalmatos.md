@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szorgalmatos
 ---
 
-{% include Szorgalmatos.html %}
+{% include settlementHTMLs/Szorgalmatos.html %}
 
 [Vissza](./)

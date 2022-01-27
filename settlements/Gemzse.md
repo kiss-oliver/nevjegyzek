@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gemzse
 ---
 
-{% include Gemzse.html %}
+{% include settlementHTMLs/Gemzse.html %}
 
 [Vissza](./)

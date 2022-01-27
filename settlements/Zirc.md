@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zirc
 ---
 
-{% include Zirc.html %}
+{% include settlementHTMLs/Zirc.html %}
 
 [Vissza](./)

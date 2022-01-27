@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pörböly
 ---
 
-{% include Pooxrbooxly.html %}
+{% include settlementHTMLs/Pooxrbooxly.html %}
 
 [Vissza](./)

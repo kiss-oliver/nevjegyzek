@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarbóly
 ---
 
-{% include Magyarbooly.html %}
+{% include settlementHTMLs/Magyarbooly.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaapáti
 ---
 
-{% include Pusztaapaati.html %}
+{% include settlementHTMLs/Pusztaapaati.html %}
 
 [Vissza](./)

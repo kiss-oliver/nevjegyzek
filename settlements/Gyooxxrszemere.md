@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrszemere
 ---
 
-{% include Gyooxxrszemere.html %}
+{% include settlementHTMLs/Gyooxxrszemere.html %}
 
 [Vissza](./)

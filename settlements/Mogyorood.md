@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mogyoród
 ---
 
-{% include Mogyorood.html %}
+{% include settlementHTMLs/Mogyorood.html %}
 
 [Vissza](./)

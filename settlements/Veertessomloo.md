@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vértessomló
 ---
 
-{% include Veertessomloo.html %}
+{% include settlementHTMLs/Veertessomloo.html %}
 
 [Vissza](./)

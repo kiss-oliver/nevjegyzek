@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Füzér
 ---
 
-{% include Fuuxzeer.html %}
+{% include settlementHTMLs/Fuuxzeer.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hernád
 ---
 
-{% include Hernaad.html %}
+{% include settlementHTMLs/Hernaad.html %}
 
 [Vissza](./)

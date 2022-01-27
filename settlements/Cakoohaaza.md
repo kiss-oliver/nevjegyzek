@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cakóháza
 ---
 
-{% include Cakoohaaza.html %}
+{% include settlementHTMLs/Cakoohaaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Levél
 ---
 
-{% include Leveel.html %}
+{% include settlementHTMLs/Leveel.html %}
 
 [Vissza](./)

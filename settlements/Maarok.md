@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Márok
 ---
 
-{% include Maarok.html %}
+{% include settlementHTMLs/Maarok.html %}
 
 [Vissza](./)

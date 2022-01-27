@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemespátró
 ---
 
-{% include Nemespaatroo.html %}
+{% include settlementHTMLs/Nemespaatroo.html %}
 
 [Vissza](./)

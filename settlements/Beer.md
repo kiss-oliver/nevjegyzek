@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bér
 ---
 
-{% include Beer.html %}
+{% include settlementHTMLs/Beer.html %}
 
 [Vissza](./)

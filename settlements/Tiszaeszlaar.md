@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaeszlár
 ---
 
-{% include Tiszaeszlaar.html %}
+{% include settlementHTMLs/Tiszaeszlaar.html %}
 
 [Vissza](./)

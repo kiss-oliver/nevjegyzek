@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarhertelend
 ---
 
-{% include Magyarhertelend.html %}
+{% include settlementHTMLs/Magyarhertelend.html %}
 
 [Vissza](./)

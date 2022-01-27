@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaposszekcső
 ---
 
-{% include Kaposszekcsooxx.html %}
+{% include settlementHTMLs/Kaposszekcsooxx.html %}
 
 [Vissza](./)

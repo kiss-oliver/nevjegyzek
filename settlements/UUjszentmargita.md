@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újszentmargita
 ---
 
-{% include UUjszentmargita.html %}
+{% include settlementHTMLs/UUjszentmargita.html %}
 
 [Vissza](./)

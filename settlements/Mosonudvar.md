@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mosonudvar
 ---
 
-{% include Mosonudvar.html %}
+{% include settlementHTMLs/Mosonudvar.html %}
 
 [Vissza](./)

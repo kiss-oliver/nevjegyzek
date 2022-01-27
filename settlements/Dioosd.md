@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Diósd
 ---
 
-{% include Dioosd.html %}
+{% include settlementHTMLs/Dioosd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeske
 ---
 
-{% include Nemeske.html %}
+{% include settlementHTMLs/Nemeske.html %}
 
 [Vissza](./)

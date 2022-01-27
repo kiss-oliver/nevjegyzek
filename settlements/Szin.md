@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szin
 ---
 
-{% include Szin.html %}
+{% include settlementHTMLs/Szin.html %}
 
 [Vissza](./)

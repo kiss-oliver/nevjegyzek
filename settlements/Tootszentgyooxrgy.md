@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tótszentgyörgy
 ---
 
-{% include Tootszentgyooxrgy.html %}
+{% include settlementHTMLs/Tootszentgyooxrgy.html %}
 
 [Vissza](./)

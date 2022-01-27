@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Herceghalom
 ---
 
-{% include Herceghalom.html %}
+{% include settlementHTMLs/Herceghalom.html %}
 
 [Vissza](./)

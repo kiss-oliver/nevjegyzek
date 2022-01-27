@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ecsegfalva
 ---
 
-{% include Ecsegfalva.html %}
+{% include settlementHTMLs/Ecsegfalva.html %}
 
 [Vissza](./)

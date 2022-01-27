@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsópáhok
 ---
 
-{% include Alsoopaahok.html %}
+{% include settlementHTMLs/Alsoopaahok.html %}
 
 [Vissza](./)

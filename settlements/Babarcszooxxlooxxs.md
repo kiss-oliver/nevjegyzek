@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Babarcszőlős
 ---
 
-{% include Babarcszooxxlooxxs.html %}
+{% include settlementHTMLs/Babarcszooxxlooxxs.html %}
 
 [Vissza](./)

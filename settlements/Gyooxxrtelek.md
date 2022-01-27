@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrtelek
 ---
 
-{% include Gyooxxrtelek.html %}
+{% include settlementHTMLs/Gyooxxrtelek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Domony
 ---
 
-{% include Domony.html %}
+{% include settlementHTMLs/Domony.html %}
 
 [Vissza](./)

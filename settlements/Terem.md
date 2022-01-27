@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Terem
 ---
 
-{% include Terem.html %}
+{% include settlementHTMLs/Terem.html %}
 
 [Vissza](./)

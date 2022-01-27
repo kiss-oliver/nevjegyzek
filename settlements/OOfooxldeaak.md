@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Óföldeák
 ---
 
-{% include OOfooxldeaak.html %}
+{% include settlementHTMLs/OOfooxldeaak.html %}
 
 [Vissza](./)

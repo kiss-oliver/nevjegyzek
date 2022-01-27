@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesmedves
 ---
 
-{% include Nemesmedves.html %}
+{% include settlementHTMLs/Nemesmedves.html %}
 
 [Vissza](./)

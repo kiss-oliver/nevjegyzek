@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sarkadkeresztúr
 ---
 
-{% include Sarkadkeresztuur.html %}
+{% include settlementHTMLs/Sarkadkeresztuur.html %}
 
 [Vissza](./)

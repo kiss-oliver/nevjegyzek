@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyömrő
 ---
 
-{% include Gyooxmrooxx.html %}
+{% include settlementHTMLs/Gyooxmrooxx.html %}
 
 [Vissza](./)

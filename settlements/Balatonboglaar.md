@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonboglár
 ---
 
-{% include Balatonboglaar.html %}
+{% include settlementHTMLs/Balatonboglaar.html %}
 
 [Vissza](./)

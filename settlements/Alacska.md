@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alacska
 ---
 
-{% include Alacska.html %}
+{% include settlementHTMLs/Alacska.html %}
 
 [Vissza](./)

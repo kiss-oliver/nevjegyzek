@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szaporca
 ---
 
-{% include Szaporca.html %}
+{% include settlementHTMLs/Szaporca.html %}
 
 [Vissza](./)

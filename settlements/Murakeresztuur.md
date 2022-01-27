@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Murakeresztúr
 ---
 
-{% include Murakeresztuur.html %}
+{% include settlementHTMLs/Murakeresztuur.html %}
 
 [Vissza](./)

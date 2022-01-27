@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Réde
 ---
 
-{% include Reede.html %}
+{% include settlementHTMLs/Reede.html %}
 
 [Vissza](./)

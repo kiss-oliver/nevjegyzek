@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gávavencsellő
 ---
 
-{% include Gaavavencsellooxx.html %}
+{% include settlementHTMLs/Gaavavencsellooxx.html %}
 
 [Vissza](./)

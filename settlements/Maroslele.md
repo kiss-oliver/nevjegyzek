@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Maroslele
 ---
 
-{% include Maroslele.html %}
+{% include settlementHTMLs/Maroslele.html %}
 
 [Vissza](./)

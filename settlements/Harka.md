@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Harka
 ---
 
-{% include Harka.html %}
+{% include settlementHTMLs/Harka.html %}
 
 [Vissza](./)

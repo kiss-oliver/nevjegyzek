@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szakoly
 ---
 
-{% include Szakoly.html %}
+{% include settlementHTMLs/Szakoly.html %}
 
 [Vissza](./)

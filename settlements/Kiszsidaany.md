@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiszsidány
 ---
 
-{% include Kiszsidaany.html %}
+{% include settlementHTMLs/Kiszsidaany.html %}
 
 [Vissza](./)

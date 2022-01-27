@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykapornak
 ---
 
-{% include Nagykapornak.html %}
+{% include settlementHTMLs/Nagykapornak.html %}
 
 [Vissza](./)

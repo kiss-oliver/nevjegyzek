@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornakápolna
 ---
 
-{% include Tornakaapolna.html %}
+{% include settlementHTMLs/Tornakaapolna.html %}
 
 [Vissza](./)

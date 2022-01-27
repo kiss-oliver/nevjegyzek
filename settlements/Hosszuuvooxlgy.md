@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hosszúvölgy
 ---
 
-{% include Hosszuuvooxlgy.html %}
+{% include settlementHTMLs/Hosszuuvooxlgy.html %}
 
 [Vissza](./)

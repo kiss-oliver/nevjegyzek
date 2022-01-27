@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyhalász
 ---
 
-{% include Nagyhalaasz.html %}
+{% include settlementHTMLs/Nagyhalaasz.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbodak
 ---
 
-{% include Kisbodak.html %}
+{% include settlementHTMLs/Kisbodak.html %}
 
 [Vissza](./)

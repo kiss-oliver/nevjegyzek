@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőlajos
 ---
 
-{% include Felsooxxlajos.html %}
+{% include settlementHTMLs/Felsooxxlajos.html %}
 
 [Vissza](./)

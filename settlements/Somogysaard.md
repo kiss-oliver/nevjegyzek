@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogysárd
 ---
 
-{% include Somogysaard.html %}
+{% include settlementHTMLs/Somogysaard.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Madocsa
 ---
 
-{% include Madocsa.html %}
+{% include settlementHTMLs/Madocsa.html %}
 
 [Vissza](./)

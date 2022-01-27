@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kismarja
 ---
 
-{% include Kismarja.html %}
+{% include settlementHTMLs/Kismarja.html %}
 
 [Vissza](./)

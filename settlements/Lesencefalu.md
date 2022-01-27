@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lesencefalu
 ---
 
-{% include Lesencefalu.html %}
+{% include settlementHTMLs/Lesencefalu.html %}
 
 [Vissza](./)

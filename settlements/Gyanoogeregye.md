@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyanógeregye
 ---
 
-{% include Gyanoogeregye.html %}
+{% include settlementHTMLs/Gyanoogeregye.html %}
 
 [Vissza](./)

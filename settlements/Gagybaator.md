@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gagybátor
 ---
 
-{% include Gagybaator.html %}
+{% include settlementHTMLs/Gagybaator.html %}
 
 [Vissza](./)

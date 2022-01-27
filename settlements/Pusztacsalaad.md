@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztacsalád
 ---
 
-{% include Pusztacsalaad.html %}
+{% include settlementHTMLs/Pusztacsalaad.html %}
 
 [Vissza](./)

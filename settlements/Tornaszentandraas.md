@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornaszentandrás
 ---
 
-{% include Tornaszentandraas.html %}
+{% include settlementHTMLs/Tornaszentandraas.html %}
 
 [Vissza](./)

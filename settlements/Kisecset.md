@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisecset
 ---
 
-{% include Kisecset.html %}
+{% include settlementHTMLs/Kisecset.html %}
 
 [Vissza](./)

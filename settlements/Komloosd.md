@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Komlósd
 ---
 
-{% include Komloosd.html %}
+{% include settlementHTMLs/Komloosd.html %}
 
 [Vissza](./)

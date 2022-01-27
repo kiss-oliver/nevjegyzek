@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagytarcsa
 ---
 
-{% include Nagytarcsa.html %}
+{% include settlementHTMLs/Nagytarcsa.html %}
 
 [Vissza](./)

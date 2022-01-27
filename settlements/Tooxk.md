@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tök
 ---
 
-{% include Tooxk.html %}
+{% include settlementHTMLs/Tooxk.html %}
 
 [Vissza](./)

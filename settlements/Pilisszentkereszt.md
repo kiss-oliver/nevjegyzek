@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilisszentkereszt
 ---
 
-{% include Pilisszentkereszt.html %}
+{% include settlementHTMLs/Pilisszentkereszt.html %}
 
 [Vissza](./)

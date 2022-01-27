@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lakitelek
 ---
 
-{% include Lakitelek.html %}
+{% include settlementHTMLs/Lakitelek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Görcsöny
 ---
 
-{% include Gooxrcsooxny.html %}
+{% include settlementHTMLs/Gooxrcsooxny.html %}
 
 [Vissza](./)

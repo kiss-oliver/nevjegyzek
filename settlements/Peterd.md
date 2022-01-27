@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Peterd
 ---
 
-{% include Peterd.html %}
+{% include settlementHTMLs/Peterd.html %}
 
 [Vissza](./)

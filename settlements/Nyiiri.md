@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyíri
 ---
 
-{% include Nyiiri.html %}
+{% include settlementHTMLs/Nyiiri.html %}
 
 [Vissza](./)

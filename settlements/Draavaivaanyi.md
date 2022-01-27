@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávaiványi
 ---
 
-{% include Draavaivaanyi.html %}
+{% include settlementHTMLs/Draavaivaanyi.html %}
 
 [Vissza](./)

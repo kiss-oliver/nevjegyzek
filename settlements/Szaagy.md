@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szágy
 ---
 
-{% include Szaagy.html %}
+{% include settlementHTMLs/Szaagy.html %}
 
 [Vissza](./)

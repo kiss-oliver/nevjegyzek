@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egervár
 ---
 
-{% include Egervaar.html %}
+{% include settlementHTMLs/Egervaar.html %}
 
 [Vissza](./)

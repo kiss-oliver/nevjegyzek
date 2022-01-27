@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kulcs
 ---
 
-{% include Kulcs.html %}
+{% include settlementHTMLs/Kulcs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Basal
 ---
 
-{% include Basal.html %}
+{% include settlementHTMLs/Basal.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Attala
 ---
 
-{% include Attala.html %}
+{% include settlementHTMLs/Attala.html %}
 
 [Vissza](./)

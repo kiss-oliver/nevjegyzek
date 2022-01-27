@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Izmény
 ---
 
-{% include Izmeeny.html %}
+{% include settlementHTMLs/Izmeeny.html %}
 
 [Vissza](./)

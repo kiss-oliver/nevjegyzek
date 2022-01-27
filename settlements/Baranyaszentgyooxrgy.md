@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baranyaszentgyörgy
 ---
 
-{% include Baranyaszentgyooxrgy.html %}
+{% include settlementHTMLs/Baranyaszentgyooxrgy.html %}
 
 [Vissza](./)

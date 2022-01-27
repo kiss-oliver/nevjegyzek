@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Matty
 ---
 
-{% include Matty.html %}
+{% include settlementHTMLs/Matty.html %}
 
 [Vissza](./)

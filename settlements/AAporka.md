@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Áporka
 ---
 
-{% include AAporka.html %}
+{% include settlementHTMLs/AAporka.html %}
 
 [Vissza](./)

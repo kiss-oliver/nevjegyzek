@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Becsvölgye
 ---
 
-{% include Becsvooxlgye.html %}
+{% include settlementHTMLs/Becsvooxlgye.html %}
 
 [Vissza](./)

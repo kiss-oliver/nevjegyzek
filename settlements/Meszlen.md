@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Meszlen
 ---
 
-{% include Meszlen.html %}
+{% include settlementHTMLs/Meszlen.html %}
 
 [Vissza](./)

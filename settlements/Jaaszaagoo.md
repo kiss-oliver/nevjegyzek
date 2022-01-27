@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászágó
 ---
 
-{% include Jaaszaagoo.html %}
+{% include settlementHTMLs/Jaaszaagoo.html %}
 
 [Vissza](./)

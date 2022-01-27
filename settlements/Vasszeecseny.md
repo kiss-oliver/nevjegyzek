@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasszécseny
 ---
 
-{% include Vasszeecseny.html %}
+{% include settlementHTMLs/Vasszeecseny.html %}
 
 [Vissza](./)

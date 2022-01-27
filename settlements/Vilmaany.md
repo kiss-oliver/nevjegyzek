@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vilmány
 ---
 
-{% include Vilmaany.html %}
+{% include settlementHTMLs/Vilmaany.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisasszonyfa
 ---
 
-{% include Kisasszonyfa.html %}
+{% include settlementHTMLs/Kisasszonyfa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyapáti
 ---
 
-{% include Somogyapaati.html %}
+{% include settlementHTMLs/Somogyapaati.html %}
 
 [Vissza](./)

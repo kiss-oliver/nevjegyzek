@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kishajmás
 ---
 
-{% include Kishajmaas.html %}
+{% include settlementHTMLs/Kishajmaas.html %}
 
 [Vissza](./)

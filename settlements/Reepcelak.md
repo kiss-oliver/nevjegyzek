@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Répcelak
 ---
 
-{% include Reepcelak.html %}
+{% include settlementHTMLs/Reepcelak.html %}
 
 [Vissza](./)

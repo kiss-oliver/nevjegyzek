@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonyszombathely
 ---
 
-{% include Bakonyszombathely.html %}
+{% include settlementHTMLs/Bakonyszombathely.html %}
 
 [Vissza](./)

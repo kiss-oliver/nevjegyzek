@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Véménd
 ---
 
-{% include Veemeend.html %}
+{% include settlementHTMLs/Veemeend.html %}
 
 [Vissza](./)

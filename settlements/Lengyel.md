@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lengyel
 ---
 
-{% include Lengyel.html %}
+{% include settlementHTMLs/Lengyel.html %}
 
 [Vissza](./)

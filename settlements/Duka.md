@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Duka
 ---
 
-{% include Duka.html %}
+{% include settlementHTMLs/Duka.html %}
 
 [Vissza](./)

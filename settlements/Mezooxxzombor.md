@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőzombor
 ---
 
-{% include Mezooxxzombor.html %}
+{% include settlementHTMLs/Mezooxxzombor.html %}
 
 [Vissza](./)

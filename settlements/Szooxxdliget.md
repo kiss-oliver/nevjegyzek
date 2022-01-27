@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sződliget
 ---
 
-{% include Szooxxdliget.html %}
+{% include settlementHTMLs/Szooxxdliget.html %}
 
 [Vissza](./)

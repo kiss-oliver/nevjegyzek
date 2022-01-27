@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újkér
 ---
 
-{% include UUjkeer.html %}
+{% include settlementHTMLs/UUjkeer.html %}
 
 [Vissza](./)

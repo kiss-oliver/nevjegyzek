@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tápiógyörgye
 ---
 
-{% include Taapioogyooxrgye.html %}
+{% include settlementHTMLs/Taapioogyooxrgye.html %}
 
 [Vissza](./)

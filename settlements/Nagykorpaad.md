@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykorpád
 ---
 
-{% include Nagykorpaad.html %}
+{% include settlementHTMLs/Nagykorpaad.html %}
 
 [Vissza](./)

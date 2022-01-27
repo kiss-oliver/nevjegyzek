@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szárazd
 ---
 
-{% include Szaarazd.html %}
+{% include settlementHTMLs/Szaarazd.html %}
 
 [Vissza](./)

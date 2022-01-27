@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisléta
 ---
 
-{% include Kisleeta.html %}
+{% include settlementHTMLs/Kisleeta.html %}
 
 [Vissza](./)

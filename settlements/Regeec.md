@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Regéc
 ---
 
-{% include Regeec.html %}
+{% include settlementHTMLs/Regeec.html %}
 
 [Vissza](./)

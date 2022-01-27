@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyöspata
 ---
 
-{% include Gyooxngyooxspata.html %}
+{% include settlementHTMLs/Gyooxngyooxspata.html %}
 
 [Vissza](./)

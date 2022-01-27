@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szécsényfelfalu
 ---
 
-{% include Szeecseenyfelfalu.html %}
+{% include settlementHTMLs/Szeecseenyfelfalu.html %}
 
 [Vissza](./)

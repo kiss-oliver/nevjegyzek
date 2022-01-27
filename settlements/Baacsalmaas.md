@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bácsalmás
 ---
 
-{% include Baacsalmaas.html %}
+{% include settlementHTMLs/Baacsalmaas.html %}
 
 [Vissza](./)

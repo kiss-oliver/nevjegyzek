@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádszakál
 ---
 
-{% include Noograadszakaal.html %}
+{% include settlementHTMLs/Noograadszakaal.html %}
 
 [Vissza](./)

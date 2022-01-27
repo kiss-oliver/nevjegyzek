@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sümeg
 ---
 
-{% include Suuxmeg.html %}
+{% include settlementHTMLs/Suuxmeg.html %}
 
 [Vissza](./)

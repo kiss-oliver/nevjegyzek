@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyszokoly
 ---
 
-{% include Nagyszokoly.html %}
+{% include settlementHTMLs/Nagyszokoly.html %}
 
 [Vissza](./)

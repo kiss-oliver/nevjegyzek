@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sopronhorpács
 ---
 
-{% include Sopronhorpaacs.html %}
+{% include settlementHTMLs/Sopronhorpaacs.html %}
 
 [Vissza](./)

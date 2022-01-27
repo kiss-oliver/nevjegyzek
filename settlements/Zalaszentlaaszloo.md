@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszentlászló
 ---
 
-{% include Zalaszentlaaszloo.html %}
+{% include settlementHTMLs/Zalaszentlaaszloo.html %}
 
 [Vissza](./)

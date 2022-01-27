@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orgovány
 ---
 
-{% include Orgovaany.html %}
+{% include settlementHTMLs/Orgovaany.html %}
 
 [Vissza](./)

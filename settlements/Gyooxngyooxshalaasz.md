@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyöshalász
 ---
 
-{% include Gyooxngyooxshalaasz.html %}
+{% include settlementHTMLs/Gyooxngyooxshalaasz.html %}
 
 [Vissza](./)

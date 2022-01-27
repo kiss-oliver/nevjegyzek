@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Máriapócs
 ---
 
-{% include Maariapoocs.html %}
+{% include settlementHTMLs/Maariapoocs.html %}
 
 [Vissza](./)

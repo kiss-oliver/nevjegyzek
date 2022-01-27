@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zákány
 ---
 
-{% include Zaakaany.html %}
+{% include settlementHTMLs/Zaakaany.html %}
 
 [Vissza](./)

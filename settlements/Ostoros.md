@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ostoros
 ---
 
-{% include Ostoros.html %}
+{% include settlementHTMLs/Ostoros.html %}
 
 [Vissza](./)

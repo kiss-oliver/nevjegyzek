@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rinyabesenyő
 ---
 
-{% include Rinyabesenyooxx.html %}
+{% include settlementHTMLs/Rinyabesenyooxx.html %}
 
 [Vissza](./)

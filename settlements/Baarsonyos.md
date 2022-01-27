@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bársonyos
 ---
 
-{% include Baarsonyos.html %}
+{% include settlementHTMLs/Baarsonyos.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászfényszaru
 ---
 
-{% include Jaaszfeenyszaru.html %}
+{% include settlementHTMLs/Jaaszfeenyszaru.html %}
 
 [Vissza](./)

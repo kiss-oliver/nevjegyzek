@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kistapolca
 ---
 
-{% include Kistapolca.html %}
+{% include settlementHTMLs/Kistapolca.html %}
 
 [Vissza](./)

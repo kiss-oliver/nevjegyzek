@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Homokmégy
 ---
 
-{% include Homokmeegy.html %}
+{% include settlementHTMLs/Homokmeegy.html %}
 
 [Vissza](./)

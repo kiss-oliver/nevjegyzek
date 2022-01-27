@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Égerszög
 ---
 
-{% include EEgerszooxg.html %}
+{% include settlementHTMLs/EEgerszooxg.html %}
 
 [Vissza](./)

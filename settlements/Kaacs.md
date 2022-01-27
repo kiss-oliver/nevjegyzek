@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kács
 ---
 
-{% include Kaacs.html %}
+{% include settlementHTMLs/Kaacs.html %}
 
 [Vissza](./)

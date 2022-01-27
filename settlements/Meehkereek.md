@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Méhkerék
 ---
 
-{% include Meehkereek.html %}
+{% include settlementHTMLs/Meehkereek.html %}
 
 [Vissza](./)

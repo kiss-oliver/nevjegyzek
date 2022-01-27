@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fülöpháza
 ---
 
-{% include Fuuxlooxphaaza.html %}
+{% include settlementHTMLs/Fuuxlooxphaaza.html %}
 
 [Vissza](./)

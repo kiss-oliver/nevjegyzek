@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nadap
 ---
 
-{% include Nadap.html %}
+{% include settlementHTMLs/Nadap.html %}
 
 [Vissza](./)

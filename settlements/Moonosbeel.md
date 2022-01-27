@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mónosbél
 ---
 
-{% include Moonosbeel.html %}
+{% include settlementHTMLs/Moonosbeel.html %}
 
 [Vissza](./)

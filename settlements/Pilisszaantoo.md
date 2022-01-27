@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pilisszántó
 ---
 
-{% include Pilisszaantoo.html %}
+{% include settlementHTMLs/Pilisszaantoo.html %}
 
 [Vissza](./)

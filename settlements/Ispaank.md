@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ispánk
 ---
 
-{% include Ispaank.html %}
+{% include settlementHTMLs/Ispaank.html %}
 
 [Vissza](./)

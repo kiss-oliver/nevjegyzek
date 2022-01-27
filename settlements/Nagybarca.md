@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagybarca
 ---
 
-{% include Nagybarca.html %}
+{% include settlementHTMLs/Nagybarca.html %}
 
 [Vissza](./)

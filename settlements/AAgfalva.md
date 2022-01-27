@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ágfalva
 ---
 
-{% include AAgfalva.html %}
+{% include settlementHTMLs/AAgfalva.html %}
 
 [Vissza](./)

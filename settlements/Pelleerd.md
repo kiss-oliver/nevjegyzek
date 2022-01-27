@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pellérd
 ---
 
-{% include Pelleerd.html %}
+{% include settlementHTMLs/Pelleerd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisnamény
 ---
 
-{% include Kisnameeny.html %}
+{% include settlementHTMLs/Kisnameeny.html %}
 
 [Vissza](./)

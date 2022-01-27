@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Uszód
 ---
 
-{% include Uszood.html %}
+{% include settlementHTMLs/Uszood.html %}
 
 [Vissza](./)

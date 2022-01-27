@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fenyőfő
 ---
 
-{% include Fenyooxxfooxx.html %}
+{% include settlementHTMLs/Fenyooxxfooxx.html %}
 
 [Vissza](./)

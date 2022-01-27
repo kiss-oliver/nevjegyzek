@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőboz
 ---
 
-{% include Fertooxxboz.html %}
+{% include settlementHTMLs/Fertooxxboz.html %}
 
 [Vissza](./)

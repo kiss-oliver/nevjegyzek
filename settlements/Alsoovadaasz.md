@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsóvadász
 ---
 
-{% include Alsoovadaasz.html %}
+{% include settlementHTMLs/Alsoovadaasz.html %}
 
 [Vissza](./)

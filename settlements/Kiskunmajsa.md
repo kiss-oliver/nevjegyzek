@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskunmajsa
 ---
 
-{% include Kiskunmajsa.html %}
+{% include settlementHTMLs/Kiskunmajsa.html %}
 
 [Vissza](./)

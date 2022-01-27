@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mihályháza
 ---
 
-{% include Mihaalyhaaza.html %}
+{% include settlementHTMLs/Mihaalyhaaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyésta
 ---
 
-{% include Nyeesta.html %}
+{% include settlementHTMLs/Nyeesta.html %}
 
 [Vissza](./)

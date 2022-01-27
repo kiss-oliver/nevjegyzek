@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hosszúpályi
 ---
 
-{% include Hosszuupaalyi.html %}
+{% include settlementHTMLs/Hosszuupaalyi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Apácatorna
 ---
 
-{% include Apaacatorna.html %}
+{% include settlementHTMLs/Apaacatorna.html %}
 
 [Vissza](./)

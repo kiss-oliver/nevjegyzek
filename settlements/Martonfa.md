@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Martonfa
 ---
 
-{% include Martonfa.html %}
+{% include settlementHTMLs/Martonfa.html %}
 
 [Vissza](./)

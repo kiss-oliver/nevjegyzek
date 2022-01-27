@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alcsútdoboz
 ---
 
-{% include Alcsuutdoboz.html %}
+{% include settlementHTMLs/Alcsuutdoboz.html %}
 
 [Vissza](./)

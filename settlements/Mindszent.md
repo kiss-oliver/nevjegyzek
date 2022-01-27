@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mindszent
 ---
 
-{% include Mindszent.html %}
+{% include settlementHTMLs/Mindszent.html %}
 
 [Vissza](./)

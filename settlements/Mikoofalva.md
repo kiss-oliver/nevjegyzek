@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mikófalva
 ---
 
-{% include Mikoofalva.html %}
+{% include settlementHTMLs/Mikoofalva.html %}
 
 [Vissza](./)

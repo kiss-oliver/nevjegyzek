@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hangács
 ---
 
-{% include Hangaacs.html %}
+{% include settlementHTMLs/Hangaacs.html %}
 
 [Vissza](./)

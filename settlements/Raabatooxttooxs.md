@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábatöttös
 ---
 
-{% include Raabatooxttooxs.html %}
+{% include settlementHTMLs/Raabatooxttooxs.html %}
 
 [Vissza](./)

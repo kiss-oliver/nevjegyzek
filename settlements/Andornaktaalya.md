@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Andornaktálya
 ---
 
-{% include Andornaktaalya.html %}
+{% include settlementHTMLs/Andornaktaalya.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőszárhegy
 ---
 
-{% include Kooxxszaarhegy.html %}
+{% include settlementHTMLs/Kooxxszaarhegy.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Teskánd
 ---
 
-{% include Teskaand.html %}
+{% include settlementHTMLs/Teskaand.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Letkés
 ---
 
-{% include Letkees.html %}
+{% include settlementHTMLs/Letkees.html %}
 
 [Vissza](./)

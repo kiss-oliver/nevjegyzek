@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mikekarácsonyfa
 ---
 
-{% include Mikekaraacsonyfa.html %}
+{% include settlementHTMLs/Mikekaraacsonyfa.html %}
 
 [Vissza](./)

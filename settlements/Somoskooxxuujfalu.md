@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somoskőújfalu
 ---
 
-{% include Somoskooxxuujfalu.html %}
+{% include settlementHTMLs/Somoskooxxuujfalu.html %}
 
 [Vissza](./)

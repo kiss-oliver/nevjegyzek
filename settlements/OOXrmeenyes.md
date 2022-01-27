@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Örményes
 ---
 
-{% include OOXrmeenyes.html %}
+{% include settlementHTMLs/OOXrmeenyes.html %}
 
 [Vissza](./)

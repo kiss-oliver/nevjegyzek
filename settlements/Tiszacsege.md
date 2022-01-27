@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszacsege
 ---
 
-{% include Tiszacsege.html %}
+{% include settlementHTMLs/Tiszacsege.html %}
 
 [Vissza](./)

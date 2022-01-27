@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bucsuta
 ---
 
-{% include Bucsuta.html %}
+{% include settlementHTMLs/Bucsuta.html %}
 
 [Vissza](./)

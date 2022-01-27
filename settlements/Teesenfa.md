@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tésenfa
 ---
 
-{% include Teesenfa.html %}
+{% include settlementHTMLs/Teesenfa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaújváros
 ---
 
-{% include Tiszauujvaaros.html %}
+{% include settlementHTMLs/Tiszauujvaaros.html %}
 
 [Vissza](./)

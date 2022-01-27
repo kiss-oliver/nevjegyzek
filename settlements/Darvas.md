@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Darvas
 ---
 
-{% include Darvas.html %}
+{% include settlementHTMLs/Darvas.html %}
 
 [Vissza](./)

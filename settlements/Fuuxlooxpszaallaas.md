@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fülöpszállás
 ---
 
-{% include Fuuxlooxpszaallaas.html %}
+{% include settlementHTMLs/Fuuxlooxpszaallaas.html %}
 
 [Vissza](./)

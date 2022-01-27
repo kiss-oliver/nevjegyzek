@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kamond
 ---
 
-{% include Kamond.html %}
+{% include settlementHTMLs/Kamond.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Majs
 ---
 
-{% include Majs.html %}
+{% include settlementHTMLs/Majs.html %}
 
 [Vissza](./)

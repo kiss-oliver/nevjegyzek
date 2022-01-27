@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávapiski
 ---
 
-{% include Draavapiski.html %}
+{% include settlementHTMLs/Draavapiski.html %}
 
 [Vissza](./)

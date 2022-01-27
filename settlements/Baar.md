@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bár
 ---
 
-{% include Baar.html %}
+{% include settlementHTMLs/Baar.html %}
 
 [Vissza](./)

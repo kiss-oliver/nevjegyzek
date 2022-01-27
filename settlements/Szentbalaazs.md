@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentbalázs
 ---
 
-{% include Szentbalaazs.html %}
+{% include settlementHTMLs/Szentbalaazs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Soltvadkert
 ---
 
-{% include Soltvadkert.html %}
+{% include settlementHTMLs/Soltvadkert.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyzsitfa
 ---
 
-{% include Somogyzsitfa.html %}
+{% include settlementHTMLs/Somogyzsitfa.html %}
 
 [Vissza](./)

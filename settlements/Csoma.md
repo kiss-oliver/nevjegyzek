@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csoma
 ---
 
-{% include Csoma.html %}
+{% include settlementHTMLs/Csoma.html %}
 
 [Vissza](./)

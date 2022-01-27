@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baktalórántháza
 ---
 
-{% include Baktalooraanthaaza.html %}
+{% include settlementHTMLs/Baktalooraanthaaza.html %}
 
 [Vissza](./)

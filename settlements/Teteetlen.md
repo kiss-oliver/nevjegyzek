@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tetétlen
 ---
 
-{% include Teteetlen.html %}
+{% include settlementHTMLs/Teteetlen.html %}
 
 [Vissza](./)

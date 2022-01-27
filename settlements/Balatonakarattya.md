@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonakarattya
 ---
 
-{% include Balatonakarattya.html %}
+{% include settlementHTMLs/Balatonakarattya.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gibárt
 ---
 
-{% include Gibaart.html %}
+{% include settlementHTMLs/Gibaart.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fót
 ---
 
-{% include Foot.html %}
+{% include settlementHTMLs/Foot.html %}
 
 [Vissza](./)

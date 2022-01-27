@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csáfordjánosfa
 ---
 
-{% include Csaafordjaanosfa.html %}
+{% include settlementHTMLs/Csaafordjaanosfa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Uszka
 ---
 
-{% include Uszka.html %}
+{% include settlementHTMLs/Uszka.html %}
 
 [Vissza](./)

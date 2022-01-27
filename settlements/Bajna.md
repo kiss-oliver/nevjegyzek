@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bajna
 ---
 
-{% include Bajna.html %}
+{% include settlementHTMLs/Bajna.html %}
 
 [Vissza](./)

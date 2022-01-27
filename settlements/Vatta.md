@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vatta
 ---
 
-{% include Vatta.html %}
+{% include settlementHTMLs/Vatta.html %}
 
 [Vissza](./)

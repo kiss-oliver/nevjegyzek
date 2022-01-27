@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szatta
 ---
 
-{% include Szatta.html %}
+{% include settlementHTMLs/Szatta.html %}
 
 [Vissza](./)

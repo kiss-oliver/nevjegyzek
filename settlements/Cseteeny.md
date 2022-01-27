@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csetény
 ---
 
-{% include Cseteeny.html %}
+{% include settlementHTMLs/Cseteeny.html %}
 
 [Vissza](./)

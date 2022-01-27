@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Varga
 ---
 
-{% include Varga.html %}
+{% include settlementHTMLs/Varga.html %}
 
 [Vissza](./)

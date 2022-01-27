@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszanána
 ---
 
-{% include Tiszanaana.html %}
+{% include settlementHTMLs/Tiszanaana.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szamosszeg
 ---
 
-{% include Szamosszeg.html %}
+{% include settlementHTMLs/Szamosszeg.html %}
 
 [Vissza](./)

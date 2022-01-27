@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szakáld
 ---
 
-{% include Szakaald.html %}
+{% include settlementHTMLs/Szakaald.html %}
 
 [Vissza](./)

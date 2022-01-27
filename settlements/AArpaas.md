@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Árpás
 ---
 
-{% include AArpaas.html %}
+{% include settlementHTMLs/AArpaas.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Örvényes
 ---
 
-{% include OOXrveenyes.html %}
+{% include settlementHTMLs/OOXrveenyes.html %}
 
 [Vissza](./)

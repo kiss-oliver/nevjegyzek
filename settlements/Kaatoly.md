@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kátoly
 ---
 
-{% include Kaatoly.html %}
+{% include settlementHTMLs/Kaatoly.html %}
 
 [Vissza](./)

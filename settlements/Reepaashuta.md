@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Répáshuta
 ---
 
-{% include Reepaashuta.html %}
+{% include settlementHTMLs/Reepaashuta.html %}
 
 [Vissza](./)

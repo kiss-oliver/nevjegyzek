@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mekényes
 ---
 
-{% include Mekeenyes.html %}
+{% include settlementHTMLs/Mekeenyes.html %}
 
 [Vissza](./)

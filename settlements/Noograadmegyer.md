@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nógrádmegyer
 ---
 
-{% include Noograadmegyer.html %}
+{% include settlementHTMLs/Noograadmegyer.html %}
 
 [Vissza](./)

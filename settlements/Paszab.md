@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Paszab
 ---
 
-{% include Paszab.html %}
+{% include settlementHTMLs/Paszab.html %}
 
 [Vissza](./)

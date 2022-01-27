@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rétalap
 ---
 
-{% include Reetalap.html %}
+{% include settlementHTMLs/Reetalap.html %}
 
 [Vissza](./)

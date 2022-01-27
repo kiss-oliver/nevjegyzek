@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pápasalamon
 ---
 
-{% include Paapasalamon.html %}
+{% include settlementHTMLs/Paapasalamon.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Döbrönte
 ---
 
-{% include Dooxbrooxnte.html %}
+{% include settlementHTMLs/Dooxbrooxnte.html %}
 
 [Vissza](./)

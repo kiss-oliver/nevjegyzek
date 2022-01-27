@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hárskút
 ---
 
-{% include Haarskuut.html %}
+{% include settlementHTMLs/Haarskuut.html %}
 
 [Vissza](./)

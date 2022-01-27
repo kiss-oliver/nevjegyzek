@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírmeggyes
 ---
 
-{% include Nyiirmeggyes.html %}
+{% include settlementHTMLs/Nyiirmeggyes.html %}
 
 [Vissza](./)

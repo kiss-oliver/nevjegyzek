@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csertő
 ---
 
-{% include Csertooxx.html %}
+{% include settlementHTMLs/Csertooxx.html %}
 
 [Vissza](./)

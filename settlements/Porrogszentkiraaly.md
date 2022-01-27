@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Porrogszentkirály
 ---
 
-{% include Porrogszentkiraaly.html %}
+{% include settlementHTMLs/Porrogszentkiraaly.html %}
 
 [Vissza](./)

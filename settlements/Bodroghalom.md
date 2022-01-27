@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bodroghalom
 ---
 
-{% include Bodroghalom.html %}
+{% include settlementHTMLs/Bodroghalom.html %}
 
 [Vissza](./)

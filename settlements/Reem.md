@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rém
 ---
 
-{% include Reem.html %}
+{% include settlementHTMLs/Reem.html %}
 
 [Vissza](./)

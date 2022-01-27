@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsodivánka
 ---
 
-{% include Borsodivaanka.html %}
+{% include settlementHTMLs/Borsodivaanka.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Háromhuta
 ---
 
-{% include Haaromhuta.html %}
+{% include settlementHTMLs/Haaromhuta.html %}
 
 [Vissza](./)

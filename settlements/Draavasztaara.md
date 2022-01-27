@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Drávasztára
 ---
 
-{% include Draavasztaara.html %}
+{% include settlementHTMLs/Draavasztaara.html %}
 
 [Vissza](./)

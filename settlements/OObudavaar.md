@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Óbudavár
 ---
 
-{% include OObudavaar.html %}
+{% include settlementHTMLs/OObudavaar.html %}
 
 [Vissza](./)

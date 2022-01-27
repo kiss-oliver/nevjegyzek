@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kismaros
 ---
 
-{% include Kismaros.html %}
+{% include settlementHTMLs/Kismaros.html %}
 
 [Vissza](./)

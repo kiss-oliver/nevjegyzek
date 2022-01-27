@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kolontár
 ---
 
-{% include Kolontaar.html %}
+{% include settlementHTMLs/Kolontaar.html %}
 
 [Vissza](./)

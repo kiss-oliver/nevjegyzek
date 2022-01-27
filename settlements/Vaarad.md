@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várad
 ---
 
-{% include Vaarad.html %}
+{% include settlementHTMLs/Vaarad.html %}
 
 [Vissza](./)

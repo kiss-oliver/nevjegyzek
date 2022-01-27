@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ukk
 ---
 
-{% include Ukk.html %}
+{% include settlementHTMLs/Ukk.html %}
 
 [Vissza](./)

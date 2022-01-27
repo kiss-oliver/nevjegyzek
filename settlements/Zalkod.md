@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalkod
 ---
 
-{% include Zalkod.html %}
+{% include settlementHTMLs/Zalkod.html %}
 
 [Vissza](./)

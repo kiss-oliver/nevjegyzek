@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Köröstarcsa
 ---
 
-{% include Kooxrooxstarcsa.html %}
+{% include settlementHTMLs/Kooxrooxstarcsa.html %}
 
 [Vissza](./)

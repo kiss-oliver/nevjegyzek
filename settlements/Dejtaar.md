@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dejtár
 ---
 
-{% include Dejtaar.html %}
+{% include settlementHTMLs/Dejtaar.html %}
 
 [Vissza](./)

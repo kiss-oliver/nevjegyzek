@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsodbóta
 ---
 
-{% include Borsodboota.html %}
+{% include settlementHTMLs/Borsodboota.html %}
 
 [Vissza](./)

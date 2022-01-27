@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Katymár
 ---
 
-{% include Katymaar.html %}
+{% include settlementHTMLs/Katymaar.html %}
 
 [Vissza](./)

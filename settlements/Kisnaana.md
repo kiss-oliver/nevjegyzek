@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisnána
 ---
 
-{% include Kisnaana.html %}
+{% include settlementHTMLs/Kisnaana.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bordány
 ---
 
-{% include Bordaany.html %}
+{% include settlementHTMLs/Bordaany.html %}
 
 [Vissza](./)

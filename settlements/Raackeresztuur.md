@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ráckeresztúr
 ---
 
-{% include Raackeresztuur.html %}
+{% include settlementHTMLs/Raackeresztuur.html %}
 
 [Vissza](./)

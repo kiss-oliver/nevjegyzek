@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csákberény
 ---
 
-{% include Csaakbereeny.html %}
+{% include settlementHTMLs/Csaakbereeny.html %}
 
 [Vissza](./)

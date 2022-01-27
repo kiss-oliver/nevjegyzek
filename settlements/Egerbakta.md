@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egerbakta
 ---
 
-{% include Egerbakta.html %}
+{% include settlementHTMLs/Egerbakta.html %}
 
 [Vissza](./)

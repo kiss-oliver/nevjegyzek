@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dombrád
 ---
 
-{% include Dombraad.html %}
+{% include settlementHTMLs/Dombraad.html %}
 
 [Vissza](./)

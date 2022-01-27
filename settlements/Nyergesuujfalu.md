@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyergesújfalu
 ---
 
-{% include Nyergesuujfalu.html %}
+{% include settlementHTMLs/Nyergesuujfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Monostorapáti
 ---
 
-{% include Monostorapaati.html %}
+{% include settlementHTMLs/Monostorapaati.html %}
 
 [Vissza](./)

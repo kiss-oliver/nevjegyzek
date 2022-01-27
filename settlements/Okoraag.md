@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Okorág
 ---
 
-{% include Okoraag.html %}
+{% include settlementHTMLs/Okoraag.html %}
 
 [Vissza](./)

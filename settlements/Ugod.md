@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ugod
 ---
 
-{% include Ugod.html %}
+{% include settlementHTMLs/Ugod.html %}
 
 [Vissza](./)

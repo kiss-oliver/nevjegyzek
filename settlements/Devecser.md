@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Devecser
 ---
 
-{% include Devecser.html %}
+{% include settlementHTMLs/Devecser.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajólászlófalva
 ---
 
-{% include Sajoolaaszloofalva.html %}
+{% include settlementHTMLs/Sajoolaaszloofalva.html %}
 
 [Vissza](./)

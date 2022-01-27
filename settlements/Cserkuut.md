@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserkút
 ---
 
-{% include Cserkuut.html %}
+{% include settlementHTMLs/Cserkuut.html %}
 
 [Vissza](./)

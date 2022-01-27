@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szajk
 ---
 
-{% include Szajk.html %}
+{% include settlementHTMLs/Szajk.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lippó
 ---
 
-{% include Lippoo.html %}
+{% include settlementHTMLs/Lippoo.html %}
 
 [Vissza](./)

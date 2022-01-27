@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szeged
 ---
 
-{% include Szeged.html %}
+{% include settlementHTMLs/Szeged.html %}
 
 [Vissza](./)

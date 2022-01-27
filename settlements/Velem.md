@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Velem
 ---
 
-{% include Velem.html %}
+{% include settlementHTMLs/Velem.html %}
 
 [Vissza](./)

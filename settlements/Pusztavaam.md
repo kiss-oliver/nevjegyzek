@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztavám
 ---
 
-{% include Pusztavaam.html %}
+{% include settlementHTMLs/Pusztavaam.html %}
 
 [Vissza](./)

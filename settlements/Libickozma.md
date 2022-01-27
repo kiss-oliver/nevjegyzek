@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Libickozma
 ---
 
-{% include Libickozma.html %}
+{% include settlementHTMLs/Libickozma.html %}
 
 [Vissza](./)

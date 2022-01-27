@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orosháza
 ---
 
-{% include Oroshaaza.html %}
+{% include settlementHTMLs/Oroshaaza.html %}
 
 [Vissza](./)

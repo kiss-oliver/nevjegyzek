@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Keléd
 ---
 
-{% include Keleed.html %}
+{% include settlementHTMLs/Keleed.html %}
 
 [Vissza](./)

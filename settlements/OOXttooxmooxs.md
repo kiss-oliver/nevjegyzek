@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Öttömös
 ---
 
-{% include OOXttooxmooxs.html %}
+{% include settlementHTMLs/OOXttooxmooxs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mályi
 ---
 
-{% include Maalyi.html %}
+{% include settlementHTMLs/Maalyi.html %}
 
 [Vissza](./)

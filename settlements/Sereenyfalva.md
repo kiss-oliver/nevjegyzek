@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Serényfalva
 ---
 
-{% include Sereenyfalva.html %}
+{% include settlementHTMLs/Sereenyfalva.html %}
 
 [Vissza](./)

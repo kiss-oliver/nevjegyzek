@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szajla
 ---
 
-{% include Szajla.html %}
+{% include settlementHTMLs/Szajla.html %}
 
 [Vissza](./)

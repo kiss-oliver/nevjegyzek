@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Diósviszló
 ---
 
-{% include Dioosviszloo.html %}
+{% include settlementHTMLs/Dioosviszloo.html %}
 
 [Vissza](./)

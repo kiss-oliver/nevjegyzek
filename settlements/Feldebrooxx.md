@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Feldebrő
 ---
 
-{% include Feldebrooxx.html %}
+{% include settlementHTMLs/Feldebrooxx.html %}
 
 [Vissza](./)

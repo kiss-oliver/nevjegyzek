@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Potyond
 ---
 
-{% include Potyond.html %}
+{% include settlementHTMLs/Potyond.html %}
 
 [Vissza](./)

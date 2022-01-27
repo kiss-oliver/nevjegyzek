@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Érsekcsanád
 ---
 
-{% include EErsekcsanaad.html %}
+{% include settlementHTMLs/EErsekcsanaad.html %}
 
 [Vissza](./)

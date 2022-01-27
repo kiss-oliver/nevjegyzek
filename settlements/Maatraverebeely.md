@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátraverebély
 ---
 
-{% include Maatraverebeely.html %}
+{% include settlementHTMLs/Maatraverebeely.html %}
 
 [Vissza](./)

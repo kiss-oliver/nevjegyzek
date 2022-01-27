@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szepetnek
 ---
 
-{% include Szepetnek.html %}
+{% include settlementHTMLs/Szepetnek.html %}
 
 [Vissza](./)

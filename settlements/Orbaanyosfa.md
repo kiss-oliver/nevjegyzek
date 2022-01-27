@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orbányosfa
 ---
 
-{% include Orbaanyosfa.html %}
+{% include settlementHTMLs/Orbaanyosfa.html %}
 
 [Vissza](./)

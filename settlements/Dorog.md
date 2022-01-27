@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dorog
 ---
 
-{% include Dorog.html %}
+{% include settlementHTMLs/Dorog.html %}
 
 [Vissza](./)

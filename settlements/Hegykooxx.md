@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegykő
 ---
 
-{% include Hegykooxx.html %}
+{% include settlementHTMLs/Hegykooxx.html %}
 
 [Vissza](./)

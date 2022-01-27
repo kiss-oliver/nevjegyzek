@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bánfa
 ---
 
-{% include Baanfa.html %}
+{% include settlementHTMLs/Baanfa.html %}
 
 [Vissza](./)

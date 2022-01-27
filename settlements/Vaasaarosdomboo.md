@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vásárosdombó
 ---
 
-{% include Vaasaarosdomboo.html %}
+{% include settlementHTMLs/Vaasaarosdomboo.html %}
 
 [Vissza](./)

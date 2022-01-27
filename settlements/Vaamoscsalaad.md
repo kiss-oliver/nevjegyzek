@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vámoscsalád
 ---
 
-{% include Vaamoscsalaad.html %}
+{% include settlementHTMLs/Vaamoscsalaad.html %}
 
 [Vissza](./)

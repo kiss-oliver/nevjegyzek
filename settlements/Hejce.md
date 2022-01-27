@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejce
 ---
 
-{% include Hejce.html %}
+{% include settlementHTMLs/Hejce.html %}
 
 [Vissza](./)

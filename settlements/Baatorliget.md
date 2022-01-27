@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bátorliget
 ---
 
-{% include Baatorliget.html %}
+{% include settlementHTMLs/Baatorliget.html %}
 
 [Vissza](./)

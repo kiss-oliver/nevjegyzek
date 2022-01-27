@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszadob
 ---
 
-{% include Tiszadob.html %}
+{% include settlementHTMLs/Tiszadob.html %}
 
 [Vissza](./)

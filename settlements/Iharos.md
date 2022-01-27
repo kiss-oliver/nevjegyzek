@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iharos
 ---
 
-{% include Iharos.html %}
+{% include settlementHTMLs/Iharos.html %}
 
 [Vissza](./)

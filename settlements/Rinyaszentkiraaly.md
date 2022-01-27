@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rinyaszentkirály
 ---
 
-{% include Rinyaszentkiraaly.html %}
+{% include settlementHTMLs/Rinyaszentkiraaly.html %}
 
 [Vissza](./)

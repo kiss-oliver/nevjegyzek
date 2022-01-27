@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csörötnek
 ---
 
-{% include Csooxrooxtnek.html %}
+{% include settlementHTMLs/Csooxrooxtnek.html %}
 
 [Vissza](./)

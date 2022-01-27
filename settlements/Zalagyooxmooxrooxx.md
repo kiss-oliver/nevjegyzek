@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalagyömörő
 ---
 
-{% include Zalagyooxmooxrooxx.html %}
+{% include settlementHTMLs/Zalagyooxmooxrooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tikos
 ---
 
-{% include Tikos.html %}
+{% include settlementHTMLs/Tikos.html %}
 
 [Vissza](./)

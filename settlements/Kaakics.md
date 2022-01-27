@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kákics
 ---
 
-{% include Kaakics.html %}
+{% include settlementHTMLs/Kaakics.html %}
 
 [Vissza](./)

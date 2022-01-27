@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berzence
 ---
 
-{% include Berzence.html %}
+{% include settlementHTMLs/Berzence.html %}
 
 [Vissza](./)

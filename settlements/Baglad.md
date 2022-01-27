@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baglad
 ---
 
-{% include Baglad.html %}
+{% include settlementHTMLs/Baglad.html %}
 
 [Vissza](./)

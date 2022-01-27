@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tenk
 ---
 
-{% include Tenk.html %}
+{% include settlementHTMLs/Tenk.html %}
 
 [Vissza](./)

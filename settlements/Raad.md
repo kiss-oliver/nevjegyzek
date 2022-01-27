@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rád
 ---
 
-{% include Raad.html %}
+{% include settlementHTMLs/Raad.html %}
 
 [Vissza](./)

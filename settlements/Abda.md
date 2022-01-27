@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abda
 ---
 
-{% include Abda.html %}
+{% include settlementHTMLs/Abda.html %}
 
 [Vissza](./)

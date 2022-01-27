@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagycserkesz
 ---
 
-{% include Nagycserkesz.html %}
+{% include settlementHTMLs/Nagycserkesz.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegyhátszentmárton
 ---
 
-{% include Hegyhaatszentmaarton.html %}
+{% include settlementHTMLs/Hegyhaatszentmaarton.html %}
 
 [Vissza](./)

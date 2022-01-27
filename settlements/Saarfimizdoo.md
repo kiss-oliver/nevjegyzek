@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárfimizdó
 ---
 
-{% include Saarfimizdoo.html %}
+{% include settlementHTMLs/Saarfimizdoo.html %}
 
 [Vissza](./)

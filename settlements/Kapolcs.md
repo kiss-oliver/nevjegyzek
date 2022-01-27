@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kapolcs
 ---
 
-{% include Kapolcs.html %}
+{% include settlementHTMLs/Kapolcs.html %}
 
 [Vissza](./)

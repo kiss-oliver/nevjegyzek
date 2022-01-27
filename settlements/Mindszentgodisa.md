@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mindszentgodisa
 ---
 
-{% include Mindszentgodisa.html %}
+{% include settlementHTMLs/Mindszentgodisa.html %}
 
 [Vissza](./)

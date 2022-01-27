@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kocs
 ---
 
-{% include Kocs.html %}
+{% include settlementHTMLs/Kocs.html %}
 
 [Vissza](./)

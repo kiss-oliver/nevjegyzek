@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajószöged
 ---
 
-{% include Sajooszooxged.html %}
+{% include settlementHTMLs/Sajooszooxged.html %}
 
 [Vissza](./)

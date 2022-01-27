@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Táplánszentkereszt
 ---
 
-{% include Taaplaanszentkereszt.html %}
+{% include settlementHTMLs/Taaplaanszentkereszt.html %}
 
 [Vissza](./)

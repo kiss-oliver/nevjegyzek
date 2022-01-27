@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sopronnémeti
 ---
 
-{% include Sopronneemeti.html %}
+{% include settlementHTMLs/Sopronneemeti.html %}
 
 [Vissza](./)

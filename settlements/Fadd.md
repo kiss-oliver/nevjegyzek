@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fadd
 ---
 
-{% include Fadd.html %}
+{% include settlementHTMLs/Fadd.html %}
 
 [Vissza](./)

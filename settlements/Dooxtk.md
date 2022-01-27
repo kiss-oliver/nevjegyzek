@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dötk
 ---
 
-{% include Dooxtk.html %}
+{% include settlementHTMLs/Dooxtk.html %}
 
 [Vissza](./)

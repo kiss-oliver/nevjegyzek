@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pacsa
 ---
 
-{% include Pacsa.html %}
+{% include settlementHTMLs/Pacsa.html %}
 
 [Vissza](./)

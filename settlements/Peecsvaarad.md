@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pécsvárad
 ---
 
-{% include Peecsvaarad.html %}
+{% include settlementHTMLs/Peecsvaarad.html %}
 
 [Vissza](./)

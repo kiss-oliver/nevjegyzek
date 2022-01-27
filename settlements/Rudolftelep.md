@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rudolftelep
 ---
 
-{% include Rudolftelep.html %}
+{% include settlementHTMLs/Rudolftelep.html %}
 
 [Vissza](./)

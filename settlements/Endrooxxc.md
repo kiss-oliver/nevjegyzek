@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Endrőc
 ---
 
-{% include Endrooxxc.html %}
+{% include settlementHTMLs/Endrooxxc.html %}
 
 [Vissza](./)

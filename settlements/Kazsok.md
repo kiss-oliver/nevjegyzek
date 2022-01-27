@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kazsok
 ---
 
-{% include Kazsok.html %}
+{% include settlementHTMLs/Kazsok.html %}
 
 [Vissza](./)

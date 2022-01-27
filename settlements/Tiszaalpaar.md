@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaalpár
 ---
 
-{% include Tiszaalpaar.html %}
+{% include settlementHTMLs/Tiszaalpaar.html %}
 
 [Vissza](./)

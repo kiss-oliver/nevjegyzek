@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orfű
 ---
 
-{% include Orfuuxx.html %}
+{% include settlementHTMLs/Orfuuxx.html %}
 
 [Vissza](./)

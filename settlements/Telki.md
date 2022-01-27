@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Telki
 ---
 
-{% include Telki.html %}
+{% include settlementHTMLs/Telki.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kacorlak
 ---
 
-{% include Kacorlak.html %}
+{% include settlementHTMLs/Kacorlak.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Osztopán
 ---
 
-{% include Osztopaan.html %}
+{% include settlementHTMLs/Osztopaan.html %}
 
 [Vissza](./)

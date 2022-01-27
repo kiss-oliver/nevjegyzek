@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszabezdéd
 ---
 
-{% include Tiszabezdeed.html %}
+{% include settlementHTMLs/Tiszabezdeed.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csörög
 ---
 
-{% include Csooxrooxg.html %}
+{% include settlementHTMLs/Csooxrooxg.html %}
 
 [Vissza](./)

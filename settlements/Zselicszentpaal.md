@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zselicszentpál
 ---
 
-{% include Zselicszentpaal.html %}
+{% include settlementHTMLs/Zselicszentpaal.html %}
 
 [Vissza](./)

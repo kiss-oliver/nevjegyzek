@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaberki
 ---
 
-{% include Pusztaberki.html %}
+{% include settlementHTMLs/Pusztaberki.html %}
 
 [Vissza](./)

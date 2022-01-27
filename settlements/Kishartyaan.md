@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kishartyán
 ---
 
-{% include Kishartyaan.html %}
+{% include settlementHTMLs/Kishartyaan.html %}
 
 [Vissza](./)

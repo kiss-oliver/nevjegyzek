@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasad
 ---
 
-{% include Vasad.html %}
+{% include settlementHTMLs/Vasad.html %}
 
 [Vissza](./)

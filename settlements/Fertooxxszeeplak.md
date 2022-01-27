@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőszéplak
 ---
 
-{% include Fertooxxszeeplak.html %}
+{% include settlementHTMLs/Fertooxxszeeplak.html %}
 
 [Vissza](./)

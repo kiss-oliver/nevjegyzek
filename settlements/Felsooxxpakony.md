@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőpakony
 ---
 
-{% include Felsooxxpakony.html %}
+{% include settlementHTMLs/Felsooxxpakony.html %}
 
 [Vissza](./)

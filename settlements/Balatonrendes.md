@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonrendes
 ---
 
-{% include Balatonrendes.html %}
+{% include settlementHTMLs/Balatonrendes.html %}
 
 [Vissza](./)

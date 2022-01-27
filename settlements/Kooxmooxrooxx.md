@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kömörő
 ---
 
-{% include Kooxmooxrooxx.html %}
+{% include settlementHTMLs/Kooxmooxrooxx.html %}
 
 [Vissza](./)

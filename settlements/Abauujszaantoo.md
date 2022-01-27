@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Abaújszántó
 ---
 
-{% include Abauujszaantoo.html %}
+{% include settlementHTMLs/Abauujszaantoo.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tilaj
 ---
 
-{% include Tilaj.html %}
+{% include settlementHTMLs/Tilaj.html %}
 
 [Vissza](./)

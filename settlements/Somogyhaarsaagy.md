@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyhárságy
 ---
 
-{% include Somogyhaarsaagy.html %}
+{% include settlementHTMLs/Somogyhaarsaagy.html %}
 
 [Vissza](./)

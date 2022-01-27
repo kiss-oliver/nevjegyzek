@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Köveskál
 ---
 
-{% include Kooxveskaal.html %}
+{% include settlementHTMLs/Kooxveskaal.html %}
 
 [Vissza](./)

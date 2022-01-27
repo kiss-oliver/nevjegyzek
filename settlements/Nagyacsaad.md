@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyacsád
 ---
 
-{% include Nagyacsaad.html %}
+{% include settlementHTMLs/Nagyacsaad.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Olcsva
 ---
 
-{% include Olcsva.html %}
+{% include settlementHTMLs/Olcsva.html %}
 
 [Vissza](./)

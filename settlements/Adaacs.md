@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Adács
 ---
 
-{% include Adaacs.html %}
+{% include settlementHTMLs/Adaacs.html %}
 
 [Vissza](./)

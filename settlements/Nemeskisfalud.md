@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemeskisfalud
 ---
 
-{% include Nemeskisfalud.html %}
+{% include settlementHTMLs/Nemeskisfalud.html %}
 
 [Vissza](./)

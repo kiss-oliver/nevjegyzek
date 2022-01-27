@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Répceszemere
 ---
 
-{% include Reepceszemere.html %}
+{% include settlementHTMLs/Reepceszemere.html %}
 
 [Vissza](./)

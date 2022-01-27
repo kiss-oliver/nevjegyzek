@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Döröske
 ---
 
-{% include Dooxrooxske.html %}
+{% include settlementHTMLs/Dooxrooxske.html %}
 
 [Vissza](./)

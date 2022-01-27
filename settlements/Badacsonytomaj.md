@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Badacsonytomaj
 ---
 
-{% include Badacsonytomaj.html %}
+{% include settlementHTMLs/Badacsonytomaj.html %}
 
 [Vissza](./)

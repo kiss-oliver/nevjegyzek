@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Öcs
 ---
 
-{% include OOXcs.html %}
+{% include settlementHTMLs/OOXcs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskorpád
 ---
 
-{% include Kiskorpaad.html %}
+{% include settlementHTMLs/Kiskorpaad.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kurityán
 ---
 
-{% include Kurityaan.html %}
+{% include settlementHTMLs/Kurityaan.html %}
 
 [Vissza](./)

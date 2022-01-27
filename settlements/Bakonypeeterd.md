@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonypéterd
 ---
 
-{% include Bakonypeeterd.html %}
+{% include settlementHTMLs/Bakonypeeterd.html %}
 
 [Vissza](./)

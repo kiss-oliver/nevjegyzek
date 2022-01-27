@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdőtelek
 ---
 
-{% include Erdooxxtelek.html %}
+{% include settlementHTMLs/Erdooxxtelek.html %}
 
 [Vissza](./)

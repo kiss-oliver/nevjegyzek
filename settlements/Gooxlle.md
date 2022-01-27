@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gölle
 ---
 
-{% include Gooxlle.html %}
+{% include settlementHTMLs/Gooxlle.html %}
 
 [Vissza](./)

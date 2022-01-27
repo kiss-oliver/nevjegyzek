@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kéked
 ---
 
-{% include Keeked.html %}
+{% include settlementHTMLs/Keeked.html %}
 
 [Vissza](./)

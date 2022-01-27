@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kötegyán
 ---
 
-{% include Kooxtegyaan.html %}
+{% include settlementHTMLs/Kooxtegyaan.html %}
 
 [Vissza](./)

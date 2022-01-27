@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyargéc
 ---
 
-{% include Magyargeec.html %}
+{% include settlementHTMLs/Magyargeec.html %}
 
 [Vissza](./)

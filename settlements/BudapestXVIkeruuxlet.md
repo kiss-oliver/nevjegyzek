@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest XVI. kerület
 ---
 
-{% include BudapestXVIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestXVIkeruuxlet.html %}
 
 [Vissza](./)

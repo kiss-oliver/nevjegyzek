@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Besenyőtelek
 ---
 
-{% include Besenyooxxtelek.html %}
+{% include settlementHTMLs/Besenyooxxtelek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőszentiván
 ---
 
-{% include Felsooxxszentivaan.html %}
+{% include settlementHTMLs/Felsooxxszentivaan.html %}
 
 [Vissza](./)

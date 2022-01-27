@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Imrehegy
 ---
 
-{% include Imrehegy.html %}
+{% include settlementHTMLs/Imrehegy.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Királyhegyes
 ---
 
-{% include Kiraalyhegyes.html %}
+{% include settlementHTMLs/Kiraalyhegyes.html %}
 
 [Vissza](./)

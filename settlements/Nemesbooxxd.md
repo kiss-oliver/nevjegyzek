@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesbőd
 ---
 
-{% include Nemesbooxxd.html %}
+{% include settlementHTMLs/Nemesbooxxd.html %}
 
 [Vissza](./)

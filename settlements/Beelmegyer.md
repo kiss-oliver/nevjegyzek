@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bélmegyer
 ---
 
-{% include Beelmegyer.html %}
+{% include settlementHTMLs/Beelmegyer.html %}
 
 [Vissza](./)

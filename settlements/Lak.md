@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lak
 ---
 
-{% include Lak.html %}
+{% include settlementHTMLs/Lak.html %}
 
 [Vissza](./)

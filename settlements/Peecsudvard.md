@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pécsudvard
 ---
 
-{% include Peecsudvard.html %}
+{% include settlementHTMLs/Peecsudvard.html %}
 
 [Vissza](./)

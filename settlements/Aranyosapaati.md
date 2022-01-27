@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aranyosapáti
 ---
 
-{% include Aranyosapaati.html %}
+{% include settlementHTMLs/Aranyosapaati.html %}
 
 [Vissza](./)

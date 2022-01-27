@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szirák
 ---
 
-{% include Sziraak.html %}
+{% include settlementHTMLs/Sziraak.html %}
 
 [Vissza](./)

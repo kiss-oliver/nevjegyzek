@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tótszentmárton
 ---
 
-{% include Tootszentmaarton.html %}
+{% include settlementHTMLs/Tootszentmaarton.html %}
 
 [Vissza](./)

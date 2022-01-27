@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaújváros
 ---
 
-{% include Dunauujvaaros.html %}
+{% include settlementHTMLs/Dunauujvaaros.html %}
 
 [Vissza](./)

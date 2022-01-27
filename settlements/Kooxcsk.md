@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Köcsk
 ---
 
-{% include Kooxcsk.html %}
+{% include settlementHTMLs/Kooxcsk.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fityeház
 ---
 
-{% include Fityehaaz.html %}
+{% include settlementHTMLs/Fityehaaz.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kávás
 ---
 
-{% include Kaavaas.html %}
+{% include settlementHTMLs/Kaavaas.html %}
 
 [Vissza](./)

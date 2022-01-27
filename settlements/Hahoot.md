@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hahót
 ---
 
-{% include Hahoot.html %}
+{% include settlementHTMLs/Hahoot.html %}
 
 [Vissza](./)

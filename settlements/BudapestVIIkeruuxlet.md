@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Budapest VII. kerület
 ---
 
-{% include BudapestVIIkeruuxlet.html %}
+{% include settlementHTMLs/BudapestVIIkeruuxlet.html %}
 
 [Vissza](./)

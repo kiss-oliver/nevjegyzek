@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pári
 ---
 
-{% include Paari.html %}
+{% include settlementHTMLs/Paari.html %}
 
 [Vissza](./)

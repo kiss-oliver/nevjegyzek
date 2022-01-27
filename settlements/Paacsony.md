@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pácsony
 ---
 
-{% include Paacsony.html %}
+{% include settlementHTMLs/Paacsony.html %}
 
 [Vissza](./)

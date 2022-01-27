@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaegerszeg
 ---
 
-{% include Zalaegerszeg.html %}
+{% include settlementHTMLs/Zalaegerszeg.html %}
 
 [Vissza](./)

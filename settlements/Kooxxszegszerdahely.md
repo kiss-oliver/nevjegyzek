@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kőszegszerdahely
 ---
 
-{% include Kooxxszegszerdahely.html %}
+{% include settlementHTMLs/Kooxxszegszerdahely.html %}
 
 [Vissza](./)

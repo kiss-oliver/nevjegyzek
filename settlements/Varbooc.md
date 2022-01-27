@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Varbóc
 ---
 
-{% include Varbooc.html %}
+{% include settlementHTMLs/Varbooc.html %}
 
 [Vissza](./)

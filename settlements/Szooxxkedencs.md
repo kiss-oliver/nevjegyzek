@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szőkedencs
 ---
 
-{% include Szooxxkedencs.html %}
+{% include settlementHTMLs/Szooxxkedencs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kazár
 ---
 
-{% include Kazaar.html %}
+{% include settlementHTMLs/Kazaar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszakóród
 ---
 
-{% include Tiszakoorood.html %}
+{% include settlementHTMLs/Tiszakoorood.html %}
 
 [Vissza](./)

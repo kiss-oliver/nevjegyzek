@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírbogdány
 ---
 
-{% include Nyiirbogdaany.html %}
+{% include settlementHTMLs/Nyiirbogdaany.html %}
 
 [Vissza](./)

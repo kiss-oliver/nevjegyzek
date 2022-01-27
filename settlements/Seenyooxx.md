@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sényő
 ---
 
-{% include Seenyooxx.html %}
+{% include settlementHTMLs/Seenyooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szendehely
 ---
 
-{% include Szendehely.html %}
+{% include settlementHTMLs/Szendehely.html %}
 
 [Vissza](./)

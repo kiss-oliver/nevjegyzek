@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabolcs
 ---
 
-{% include Szabolcs.html %}
+{% include settlementHTMLs/Szabolcs.html %}
 
 [Vissza](./)

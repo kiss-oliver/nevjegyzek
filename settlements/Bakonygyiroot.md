@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonygyirót
 ---
 
-{% include Bakonygyiroot.html %}
+{% include settlementHTMLs/Bakonygyiroot.html %}
 
 [Vissza](./)

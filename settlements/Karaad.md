@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karád
 ---
 
-{% include Karaad.html %}
+{% include settlementHTMLs/Karaad.html %}
 
 [Vissza](./)

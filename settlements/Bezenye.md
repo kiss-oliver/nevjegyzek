@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bezenye
 ---
 
-{% include Bezenye.html %}
+{% include settlementHTMLs/Bezenye.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ároktő
 ---
 
-{% include AAroktooxx.html %}
+{% include settlementHTMLs/AAroktooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Berente
 ---
 
-{% include Berente.html %}
+{% include settlementHTMLs/Berente.html %}
 
 [Vissza](./)

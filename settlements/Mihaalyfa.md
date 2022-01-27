@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mihályfa
 ---
 
-{% include Mihaalyfa.html %}
+{% include settlementHTMLs/Mihaalyfa.html %}
 
 [Vissza](./)

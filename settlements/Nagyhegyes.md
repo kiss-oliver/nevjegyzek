@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyhegyes
 ---
 
-{% include Nagyhegyes.html %}
+{% include settlementHTMLs/Nagyhegyes.html %}
 
 [Vissza](./)

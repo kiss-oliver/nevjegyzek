@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szolnok
 ---
 
-{% include Szolnok.html %}
+{% include settlementHTMLs/Szolnok.html %}
 
 [Vissza](./)

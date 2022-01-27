@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisberzseny
 ---
 
-{% include Kisberzseny.html %}
+{% include settlementHTMLs/Kisberzseny.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gosztola
 ---
 
-{% include Gosztola.html %}
+{% include settlementHTMLs/Gosztola.html %}
 
 [Vissza](./)

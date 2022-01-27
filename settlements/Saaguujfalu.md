@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ságújfalu
 ---
 
-{% include Saaguujfalu.html %}
+{% include settlementHTMLs/Saaguujfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Molnári
 ---
 
-{% include Molnaari.html %}
+{% include settlementHTMLs/Molnaari.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kercaszomor
 ---
 
-{% include Kercaszomor.html %}
+{% include settlementHTMLs/Kercaszomor.html %}
 
 [Vissza](./)

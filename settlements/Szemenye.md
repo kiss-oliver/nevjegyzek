@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szemenye
 ---
 
-{% include Szemenye.html %}
+{% include settlementHTMLs/Szemenye.html %}
 
 [Vissza](./)

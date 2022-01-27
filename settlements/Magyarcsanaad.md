@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarcsanád
 ---
 
-{% include Magyarcsanaad.html %}
+{% include settlementHTMLs/Magyarcsanaad.html %}
 
 [Vissza](./)

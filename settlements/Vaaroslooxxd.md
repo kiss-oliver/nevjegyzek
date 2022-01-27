@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Városlőd
 ---
 
-{% include Vaaroslooxxd.html %}
+{% include settlementHTMLs/Vaaroslooxxd.html %}
 
 [Vissza](./)

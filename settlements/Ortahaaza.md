@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ortaháza
 ---
 
-{% include Ortahaaza.html %}
+{% include settlementHTMLs/Ortahaaza.html %}
 
 [Vissza](./)

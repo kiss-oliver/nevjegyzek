@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csemő
 ---
 
-{% include Csemooxx.html %}
+{% include settlementHTMLs/Csemooxx.html %}
 
 [Vissza](./)

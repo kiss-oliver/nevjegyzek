@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Megyehíd
 ---
 
-{% include Megyehiid.html %}
+{% include settlementHTMLs/Megyehiid.html %}
 
 [Vissza](./)

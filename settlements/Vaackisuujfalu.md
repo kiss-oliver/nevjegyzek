@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Váckisújfalu
 ---
 
-{% include Vaackisuujfalu.html %}
+{% include settlementHTMLs/Vaackisuujfalu.html %}
 
 [Vissza](./)

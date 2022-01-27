@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonybél
 ---
 
-{% include Bakonybeel.html %}
+{% include settlementHTMLs/Bakonybeel.html %}
 
 [Vissza](./)

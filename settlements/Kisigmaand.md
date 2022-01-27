@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisigmánd
 ---
 
-{% include Kisigmaand.html %}
+{% include settlementHTMLs/Kisigmaand.html %}
 
 [Vissza](./)

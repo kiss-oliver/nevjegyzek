@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bénye
 ---
 
-{% include Beenye.html %}
+{% include settlementHTMLs/Beenye.html %}
 
 [Vissza](./)

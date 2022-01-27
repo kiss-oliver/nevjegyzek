@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátraderecske
 ---
 
-{% include Maatraderecske.html %}
+{% include settlementHTMLs/Maatraderecske.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagybaracska
 ---
 
-{% include Nagybaracska.html %}
+{% include settlementHTMLs/Nagybaracska.html %}
 
 [Vissza](./)

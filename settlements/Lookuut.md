@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lókút
 ---
 
-{% include Lookuut.html %}
+{% include settlementHTMLs/Lookuut.html %}
 
 [Vissza](./)

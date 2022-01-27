@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Biri
 ---
 
-{% include Biri.html %}
+{% include settlementHTMLs/Biri.html %}
 
 [Vissza](./)

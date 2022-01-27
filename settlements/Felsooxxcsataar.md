@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőcsatár
 ---
 
-{% include Felsooxxcsataar.html %}
+{% include settlementHTMLs/Felsooxxcsataar.html %}
 
 [Vissza](./)

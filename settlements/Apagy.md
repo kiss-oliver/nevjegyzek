@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Apagy
 ---
 
-{% include Apagy.html %}
+{% include settlementHTMLs/Apagy.html %}
 
 [Vissza](./)

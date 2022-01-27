@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hernádszentandrás
 ---
 
-{% include Hernaadszentandraas.html %}
+{% include settlementHTMLs/Hernaadszentandraas.html %}
 
 [Vissza](./)

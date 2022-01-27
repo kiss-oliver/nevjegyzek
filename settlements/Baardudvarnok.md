@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bárdudvarnok
 ---
 
-{% include Baardudvarnok.html %}
+{% include settlementHTMLs/Baardudvarnok.html %}
 
 [Vissza](./)

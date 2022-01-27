@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Porrogszentpál
 ---
 
-{% include Porrogszentpaal.html %}
+{% include settlementHTMLs/Porrogszentpaal.html %}
 
 [Vissza](./)

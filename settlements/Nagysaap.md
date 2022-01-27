@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagysáp
 ---
 
-{% include Nagysaap.html %}
+{% include settlementHTMLs/Nagysaap.html %}
 
 [Vissza](./)

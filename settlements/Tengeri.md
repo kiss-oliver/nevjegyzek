@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tengeri
 ---
 
-{% include Tengeri.html %}
+{% include settlementHTMLs/Tengeri.html %}
 
 [Vissza](./)

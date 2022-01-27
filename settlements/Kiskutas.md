@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskutas
 ---
 
-{% include Kiskutas.html %}
+{% include settlementHTMLs/Kiskutas.html %}
 
 [Vissza](./)

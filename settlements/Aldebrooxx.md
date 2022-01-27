@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aldebrő
 ---
 
-{% include Aldebrooxx.html %}
+{% include settlementHTMLs/Aldebrooxx.html %}
 
 [Vissza](./)

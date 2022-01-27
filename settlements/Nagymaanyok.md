@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagymányok
 ---
 
-{% include Nagymaanyok.html %}
+{% include settlementHTMLs/Nagymaanyok.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházasdengeleg
 ---
 
-{% include Egyhaazasdengeleg.html %}
+{% include settlementHTMLs/Egyhaazasdengeleg.html %}
 
 [Vissza](./)

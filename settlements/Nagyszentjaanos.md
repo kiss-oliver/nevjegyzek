@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyszentjános
 ---
 
-{% include Nagyszentjaanos.html %}
+{% include settlementHTMLs/Nagyszentjaanos.html %}
 
 [Vissza](./)

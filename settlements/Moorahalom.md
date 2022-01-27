@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mórahalom
 ---
 
-{% include Moorahalom.html %}
+{% include settlementHTMLs/Moorahalom.html %}
 
 [Vissza](./)

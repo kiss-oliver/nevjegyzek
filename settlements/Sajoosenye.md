@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajósenye
 ---
 
-{% include Sajoosenye.html %}
+{% include settlementHTMLs/Sajoosenye.html %}
 
 [Vissza](./)

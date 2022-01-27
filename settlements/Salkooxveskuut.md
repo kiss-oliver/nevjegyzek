@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Salköveskút
 ---
 
-{% include Salkooxveskuut.html %}
+{% include settlementHTMLs/Salkooxveskuut.html %}
 
 [Vissza](./)

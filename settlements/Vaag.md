@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vág
 ---
 
-{% include Vaag.html %}
+{% include settlementHTMLs/Vaag.html %}
 
 [Vissza](./)

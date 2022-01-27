@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Adásztevel
 ---
 
-{% include Adaasztevel.html %}
+{% include settlementHTMLs/Adaasztevel.html %}
 
 [Vissza](./)

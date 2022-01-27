@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszavalk
 ---
 
-{% include Tiszavalk.html %}
+{% include settlementHTMLs/Tiszavalk.html %}
 
 [Vissza](./)

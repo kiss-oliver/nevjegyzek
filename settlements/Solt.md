@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Solt
 ---
 
-{% include Solt.html %}
+{% include settlementHTMLs/Solt.html %}
 
 [Vissza](./)

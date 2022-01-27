@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbágyon
 ---
 
-{% include Kisbaagyon.html %}
+{% include settlementHTMLs/Kisbaagyon.html %}
 
 [Vissza](./)

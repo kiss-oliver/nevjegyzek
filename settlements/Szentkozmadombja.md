@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentkozmadombja
 ---
 
-{% include Szentkozmadombja.html %}
+{% include settlementHTMLs/Szentkozmadombja.html %}
 
 [Vissza](./)

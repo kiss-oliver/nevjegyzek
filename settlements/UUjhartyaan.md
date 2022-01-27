@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Újhartyán
 ---
 
-{% include UUjhartyaan.html %}
+{% include settlementHTMLs/UUjhartyaan.html %}
 
 [Vissza](./)

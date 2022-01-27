@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Botpalád
 ---
 
-{% include Botpalaad.html %}
+{% include settlementHTMLs/Botpalaad.html %}
 
 [Vissza](./)

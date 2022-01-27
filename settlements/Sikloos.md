@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Siklós
 ---
 
-{% include Sikloos.html %}
+{% include settlementHTMLs/Sikloos.html %}
 
 [Vissza](./)

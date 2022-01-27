@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somlóvásárhely
 ---
 
-{% include Somloovaasaarhely.html %}
+{% include settlementHTMLs/Somloovaasaarhely.html %}
 
 [Vissza](./)

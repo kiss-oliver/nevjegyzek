@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kápolnásnyék
 ---
 
-{% include Kaapolnaasnyeek.html %}
+{% include settlementHTMLs/Kaapolnaasnyeek.html %}
 
 [Vissza](./)

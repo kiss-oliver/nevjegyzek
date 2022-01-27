@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszakerecseny
 ---
 
-{% include Tiszakerecseny.html %}
+{% include settlementHTMLs/Tiszakerecseny.html %}
 
 [Vissza](./)

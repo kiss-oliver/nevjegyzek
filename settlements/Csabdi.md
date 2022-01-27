@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csabdi
 ---
 
-{% include Csabdi.html %}
+{% include settlementHTMLs/Csabdi.html %}
 
 [Vissza](./)

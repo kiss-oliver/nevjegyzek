@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Röjtökmuzsaj
 ---
 
-{% include Rooxjtooxkmuzsaj.html %}
+{% include settlementHTMLs/Rooxjtooxkmuzsaj.html %}
 
 [Vissza](./)

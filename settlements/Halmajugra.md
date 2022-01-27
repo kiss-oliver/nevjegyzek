@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Halmajugra
 ---
 
-{% include Halmajugra.html %}
+{% include settlementHTMLs/Halmajugra.html %}
 
 [Vissza](./)

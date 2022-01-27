@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tázlár
 ---
 
-{% include Taazlaar.html %}
+{% include settlementHTMLs/Taazlaar.html %}
 
 [Vissza](./)

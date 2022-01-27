@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iklódbördőce
 ---
 
-{% include Ikloodbooxrdooxxce.html %}
+{% include settlementHTMLs/Ikloodbooxrdooxxce.html %}
 
 [Vissza](./)

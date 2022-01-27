@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bonyhád
 ---
 
-{% include Bonyhaad.html %}
+{% include settlementHTMLs/Bonyhaad.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunakiliti
 ---
 
-{% include Dunakiliti.html %}
+{% include settlementHTMLs/Dunakiliti.html %}
 
 [Vissza](./)

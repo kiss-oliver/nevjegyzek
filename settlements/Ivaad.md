@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ivád
 ---
 
-{% include Ivaad.html %}
+{% include settlementHTMLs/Ivaad.html %}
 
 [Vissza](./)

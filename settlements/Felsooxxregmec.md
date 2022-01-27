@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőregmec
 ---
 
-{% include Felsooxxregmec.html %}
+{% include settlementHTMLs/Felsooxxregmec.html %}
 
 [Vissza](./)

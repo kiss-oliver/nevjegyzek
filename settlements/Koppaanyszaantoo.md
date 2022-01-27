@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Koppányszántó
 ---
 
-{% include Koppaanyszaantoo.html %}
+{% include settlementHTMLs/Koppaanyszaantoo.html %}
 
 [Vissza](./)

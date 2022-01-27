@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dormánd
 ---
 
-{% include Dormaand.html %}
+{% include settlementHTMLs/Dormaand.html %}
 
 [Vissza](./)

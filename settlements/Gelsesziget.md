@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gelsesziget
 ---
 
-{% include Gelsesziget.html %}
+{% include settlementHTMLs/Gelsesziget.html %}
 
 [Vissza](./)

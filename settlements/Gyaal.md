@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyál
 ---
 
-{% include Gyaal.html %}
+{% include settlementHTMLs/Gyaal.html %}
 
 [Vissza](./)

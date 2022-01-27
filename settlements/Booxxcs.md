@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bőcs
 ---
 
-{% include Booxxcs.html %}
+{% include settlementHTMLs/Booxxcs.html %}
 
 [Vissza](./)

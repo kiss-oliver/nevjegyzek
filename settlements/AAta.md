@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Áta
 ---
 
-{% include AAta.html %}
+{% include settlementHTMLs/AAta.html %}
 
 [Vissza](./)

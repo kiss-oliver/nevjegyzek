@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Galvács
 ---
 
-{% include Galvaacs.html %}
+{% include settlementHTMLs/Galvaacs.html %}
 
 [Vissza](./)

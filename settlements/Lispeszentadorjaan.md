@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lispeszentadorján
 ---
 
-{% include Lispeszentadorjaan.html %}
+{% include settlementHTMLs/Lispeszentadorjaan.html %}
 
 [Vissza](./)

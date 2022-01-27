@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hollóháza
 ---
 
-{% include Holloohaaza.html %}
+{% include settlementHTMLs/Holloohaaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaba
 ---
 
-{% include Kaba.html %}
+{% include settlementHTMLs/Kaba.html %}
 
 [Vissza](./)

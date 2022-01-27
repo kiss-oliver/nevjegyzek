@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasszentmihály
 ---
 
-{% include Vasszentmihaaly.html %}
+{% include settlementHTMLs/Vasszentmihaaly.html %}
 
 [Vissza](./)

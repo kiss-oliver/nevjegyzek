@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vokány
 ---
 
-{% include Vokaany.html %}
+{% include settlementHTMLs/Vokaany.html %}
 
 [Vissza](./)

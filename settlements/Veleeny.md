@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Velény
 ---
 
-{% include Veleeny.html %}
+{% include settlementHTMLs/Veleeny.html %}
 
 [Vissza](./)

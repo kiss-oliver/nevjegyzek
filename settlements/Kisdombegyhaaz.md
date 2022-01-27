@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisdombegyház
 ---
 
-{% include Kisdombegyhaaz.html %}
+{% include settlementHTMLs/Kisdombegyhaaz.html %}
 
 [Vissza](./)

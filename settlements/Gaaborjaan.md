@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gáborján
 ---
 
-{% include Gaaborjaan.html %}
+{% include settlementHTMLs/Gaaborjaan.html %}
 
 [Vissza](./)

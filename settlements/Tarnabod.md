@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnabod
 ---
 
-{% include Tarnabod.html %}
+{% include settlementHTMLs/Tarnabod.html %}
 
 [Vissza](./)

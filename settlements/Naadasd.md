@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nádasd
 ---
 
-{% include Naadasd.html %}
+{% include settlementHTMLs/Naadasd.html %}
 
 [Vissza](./)

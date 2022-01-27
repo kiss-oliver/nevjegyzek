@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szank
 ---
 
-{% include Szank.html %}
+{% include settlementHTMLs/Szank.html %}
 
 [Vissza](./)

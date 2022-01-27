@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentistván
 ---
 
-{% include Szentistvaan.html %}
+{% include settlementHTMLs/Szentistvaan.html %}
 
 [Vissza](./)

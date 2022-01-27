@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisgyőr
 ---
 
-{% include Kisgyooxxr.html %}
+{% include settlementHTMLs/Kisgyooxxr.html %}
 
 [Vissza](./)

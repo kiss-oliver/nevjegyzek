@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pányok
 ---
 
-{% include Paanyok.html %}
+{% include settlementHTMLs/Paanyok.html %}
 
 [Vissza](./)

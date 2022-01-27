@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bocskaikert
 ---
 
-{% include Bocskaikert.html %}
+{% include settlementHTMLs/Bocskaikert.html %}
 
 [Vissza](./)

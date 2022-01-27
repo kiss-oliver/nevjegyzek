@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszabar
 ---
 
-{% include Zalaszabar.html %}
+{% include settlementHTMLs/Zalaszabar.html %}
 
 [Vissza](./)

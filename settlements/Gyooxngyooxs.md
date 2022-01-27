@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyös
 ---
 
-{% include Gyooxngyooxs.html %}
+{% include settlementHTMLs/Gyooxngyooxs.html %}
 
 [Vissza](./)

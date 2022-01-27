@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sáregres
 ---
 
-{% include Saaregres.html %}
+{% include settlementHTMLs/Saaregres.html %}
 
 [Vissza](./)

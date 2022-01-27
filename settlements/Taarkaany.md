@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tárkány
 ---
 
-{% include Taarkaany.html %}
+{% include settlementHTMLs/Taarkaany.html %}
 
 [Vissza](./)

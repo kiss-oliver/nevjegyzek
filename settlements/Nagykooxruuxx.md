@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykörű
 ---
 
-{% include Nagykooxruuxx.html %}
+{% include settlementHTMLs/Nagykooxruuxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szihalom
 ---
 
-{% include Szihalom.html %}
+{% include settlementHTMLs/Szihalom.html %}
 
 [Vissza](./)

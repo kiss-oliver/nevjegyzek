@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Halmaj
 ---
 
-{% include Halmaj.html %}
+{% include settlementHTMLs/Halmaj.html %}
 
 [Vissza](./)

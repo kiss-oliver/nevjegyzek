@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejőpapi
 ---
 
-{% include Hejooxxpapi.html %}
+{% include settlementHTMLs/Hejooxxpapi.html %}
 
 [Vissza](./)

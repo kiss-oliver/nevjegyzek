@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ópályi
 ---
 
-{% include OOpaalyi.html %}
+{% include settlementHTMLs/OOpaalyi.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaladány
 ---
 
-{% include Tiszaladaany.html %}
+{% include settlementHTMLs/Tiszaladaany.html %}
 
 [Vissza](./)

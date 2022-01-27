@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírlövő
 ---
 
-{% include Nyiirlooxvooxx.html %}
+{% include settlementHTMLs/Nyiirlooxvooxx.html %}
 
 [Vissza](./)

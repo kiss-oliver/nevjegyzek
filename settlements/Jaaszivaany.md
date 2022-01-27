@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászivány
 ---
 
-{% include Jaaszivaany.html %}
+{% include settlementHTMLs/Jaaszivaany.html %}
 
 [Vissza](./)

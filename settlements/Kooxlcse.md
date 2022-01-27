@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kölcse
 ---
 
-{% include Kooxlcse.html %}
+{% include settlementHTMLs/Kooxlcse.html %}
 
 [Vissza](./)

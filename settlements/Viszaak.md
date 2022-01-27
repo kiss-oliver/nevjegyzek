@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Viszák
 ---
 
-{% include Viszaak.html %}
+{% include settlementHTMLs/Viszaak.html %}
 
 [Vissza](./)

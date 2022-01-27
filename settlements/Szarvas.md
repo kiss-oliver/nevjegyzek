@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szarvas
 ---
 
-{% include Szarvas.html %}
+{% include settlementHTMLs/Szarvas.html %}
 
 [Vissza](./)

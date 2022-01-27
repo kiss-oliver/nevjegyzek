@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Furta
 ---
 
-{% include Furta.html %}
+{% include settlementHTMLs/Furta.html %}
 
 [Vissza](./)

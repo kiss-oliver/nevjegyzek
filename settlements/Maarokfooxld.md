@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Márokföld
 ---
 
-{% include Maarokfooxld.html %}
+{% include settlementHTMLs/Maarokfooxld.html %}
 
 [Vissza](./)

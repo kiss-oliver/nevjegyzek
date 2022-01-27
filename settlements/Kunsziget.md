@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunsziget
 ---
 
-{% include Kunsziget.html %}
+{% include settlementHTMLs/Kunsziget.html %}
 
 [Vissza](./)

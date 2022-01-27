@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csempeszkopács
 ---
 
-{% include Csempeszkopaacs.html %}
+{% include settlementHTMLs/Csempeszkopaacs.html %}
 
 [Vissza](./)

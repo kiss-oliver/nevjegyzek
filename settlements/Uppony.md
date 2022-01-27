@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Uppony
 ---
 
-{% include Uppony.html %}
+{% include settlementHTMLs/Uppony.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szijártóháza
 ---
 
-{% include Szijaartoohaaza.html %}
+{% include settlementHTMLs/Szijaartoohaaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegyhátszentpéter
 ---
 
-{% include Hegyhaatszentpeeter.html %}
+{% include settlementHTMLs/Hegyhaatszentpeeter.html %}
 
 [Vissza](./)

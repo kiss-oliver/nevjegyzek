@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Körösladány
 ---
 
-{% include Kooxrooxsladaany.html %}
+{% include settlementHTMLs/Kooxrooxsladaany.html %}
 
 [Vissza](./)

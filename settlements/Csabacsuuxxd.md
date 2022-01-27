@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csabacsűd
 ---
 
-{% include Csabacsuuxxd.html %}
+{% include settlementHTMLs/Csabacsuuxxd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszadorogma
 ---
 
-{% include Tiszadorogma.html %}
+{% include settlementHTMLs/Tiszadorogma.html %}
 
 [Vissza](./)

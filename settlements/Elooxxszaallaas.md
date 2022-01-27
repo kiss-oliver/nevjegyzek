@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Előszállás
 ---
 
-{% include Elooxxszaallaas.html %}
+{% include settlementHTMLs/Elooxxszaallaas.html %}
 
 [Vissza](./)

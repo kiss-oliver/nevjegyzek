@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárkeresztes
 ---
 
-{% include Saarkeresztes.html %}
+{% include settlementHTMLs/Saarkeresztes.html %}
 
 [Vissza](./)

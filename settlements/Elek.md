@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Elek
 ---
 
-{% include Elek.html %}
+{% include settlementHTMLs/Elek.html %}
 
 [Vissza](./)

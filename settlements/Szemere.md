@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szemere
 ---
 
-{% include Szemere.html %}
+{% include settlementHTMLs/Szemere.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Helvécia
 ---
 
-{% include Helveecia.html %}
+{% include settlementHTMLs/Helveecia.html %}
 
 [Vissza](./)

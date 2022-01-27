@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sajópüspöki
 ---
 
-{% include Sajoopuuxspooxki.html %}
+{% include settlementHTMLs/Sajoopuuxspooxki.html %}
 
 [Vissza](./)

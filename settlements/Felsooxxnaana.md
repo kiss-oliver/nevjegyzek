@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőnána
 ---
 
-{% include Felsooxxnaana.html %}
+{% include settlementHTMLs/Felsooxxnaana.html %}
 
 [Vissza](./)

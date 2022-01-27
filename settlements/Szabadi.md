@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabadi
 ---
 
-{% include Szabadi.html %}
+{% include settlementHTMLs/Szabadi.html %}
 
 [Vissza](./)

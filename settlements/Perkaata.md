@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Perkáta
 ---
 
-{% include Perkaata.html %}
+{% include settlementHTMLs/Perkaata.html %}
 
 [Vissza](./)

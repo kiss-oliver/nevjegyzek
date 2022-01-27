@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szőce
 ---
 
-{% include Szooxxce.html %}
+{% include settlementHTMLs/Szooxxce.html %}
 
 [Vissza](./)

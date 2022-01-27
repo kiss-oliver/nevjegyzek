@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Olaszfalu
 ---
 
-{% include Olaszfalu.html %}
+{% include settlementHTMLs/Olaszfalu.html %}
 
 [Vissza](./)

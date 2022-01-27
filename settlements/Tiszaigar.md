@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaigar
 ---
 
-{% include Tiszaigar.html %}
+{% include settlementHTMLs/Tiszaigar.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Máza
 ---
 
-{% include Maaza.html %}
+{% include settlementHTMLs/Maaza.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szántód
 ---
 
-{% include Szaantood.html %}
+{% include settlementHTMLs/Szaantood.html %}
 
 [Vissza](./)

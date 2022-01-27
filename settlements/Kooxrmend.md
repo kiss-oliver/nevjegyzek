@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Körmend
 ---
 
-{% include Kooxrmend.html %}
+{% include settlementHTMLs/Kooxrmend.html %}
 
 [Vissza](./)

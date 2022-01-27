@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsurk
 ---
 
-{% include Zsurk.html %}
+{% include settlementHTMLs/Zsurk.html %}
 
 [Vissza](./)

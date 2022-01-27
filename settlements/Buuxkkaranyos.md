@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkaranyos
 ---
 
-{% include Buuxkkaranyos.html %}
+{% include settlementHTMLs/Buuxkkaranyos.html %}
 
 [Vissza](./)

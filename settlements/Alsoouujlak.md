@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsóújlak
 ---
 
-{% include Alsoouujlak.html %}
+{% include settlementHTMLs/Alsoouujlak.html %}
 
 [Vissza](./)

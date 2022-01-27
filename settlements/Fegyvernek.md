@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fegyvernek
 ---
 
-{% include Fegyvernek.html %}
+{% include settlementHTMLs/Fegyvernek.html %}
 
 [Vissza](./)

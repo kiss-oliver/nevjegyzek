@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonya
 ---
 
-{% include Bakonya.html %}
+{% include settlementHTMLs/Bakonya.html %}
 
 [Vissza](./)

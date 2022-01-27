@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mosonmagyaróvár
 ---
 
-{% include Mosonmagyaroovaar.html %}
+{% include settlementHTMLs/Mosonmagyaroovaar.html %}
 
 [Vissza](./)

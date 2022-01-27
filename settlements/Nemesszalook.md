@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesszalók
 ---
 
-{% include Nemesszalook.html %}
+{% include settlementHTMLs/Nemesszalook.html %}
 
 [Vissza](./)

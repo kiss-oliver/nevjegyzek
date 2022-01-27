@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kustánszeg
 ---
 
-{% include Kustaanszeg.html %}
+{% include settlementHTMLs/Kustaanszeg.html %}
 
 [Vissza](./)

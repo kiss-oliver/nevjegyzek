@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csobánka
 ---
 
-{% include Csobaanka.html %}
+{% include settlementHTMLs/Csobaanka.html %}
 
 [Vissza](./)

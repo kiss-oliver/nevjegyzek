@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Úny
 ---
 
-{% include UUny.html %}
+{% include settlementHTMLs/UUny.html %}
 
 [Vissza](./)

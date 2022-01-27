@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nova
 ---
 
-{% include Nova.html %}
+{% include settlementHTMLs/Nova.html %}
 
 [Vissza](./)

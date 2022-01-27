@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rinyaújnép
 ---
 
-{% include Rinyauujneep.html %}
+{% include settlementHTMLs/Rinyauujneep.html %}
 
 [Vissza](./)

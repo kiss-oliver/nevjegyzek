@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aparhant
 ---
 
-{% include Aparhant.html %}
+{% include settlementHTMLs/Aparhant.html %}
 
 [Vissza](./)

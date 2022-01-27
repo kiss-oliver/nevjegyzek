@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaskantyú
 ---
 
-{% include Kaskantyuu.html %}
+{% include settlementHTMLs/Kaskantyuu.html %}
 
 [Vissza](./)

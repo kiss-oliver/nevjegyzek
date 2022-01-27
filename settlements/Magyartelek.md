@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyartelek
 ---
 
-{% include Magyartelek.html %}
+{% include settlementHTMLs/Magyartelek.html %}
 
 [Vissza](./)

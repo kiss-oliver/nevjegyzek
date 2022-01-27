@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Simaság
 ---
 
-{% include Simasaag.html %}
+{% include settlementHTMLs/Simasaag.html %}
 
 [Vissza](./)

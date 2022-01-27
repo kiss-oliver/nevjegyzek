@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szőlősardó
 ---
 
-{% include Szooxxlooxxsardoo.html %}
+{% include settlementHTMLs/Szooxxlooxxsardoo.html %}
 
 [Vissza](./)

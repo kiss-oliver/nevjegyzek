@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Heréd
 ---
 
-{% include Hereed.html %}
+{% include settlementHTMLs/Hereed.html %}
 
 [Vissza](./)

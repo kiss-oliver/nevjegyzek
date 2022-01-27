@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kajárpéc
 ---
 
-{% include Kajaarpeec.html %}
+{% include settlementHTMLs/Kajaarpeec.html %}
 
 [Vissza](./)

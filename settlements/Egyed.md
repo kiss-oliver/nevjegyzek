@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyed
 ---
 
-{% include Egyed.html %}
+{% include settlementHTMLs/Egyed.html %}
 
 [Vissza](./)

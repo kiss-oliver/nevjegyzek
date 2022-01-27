@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lovászi
 ---
 
-{% include Lovaaszi.html %}
+{% include settlementHTMLs/Lovaaszi.html %}
 
 [Vissza](./)

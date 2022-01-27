@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Litke
 ---
 
-{% include Litke.html %}
+{% include settlementHTMLs/Litke.html %}
 
 [Vissza](./)

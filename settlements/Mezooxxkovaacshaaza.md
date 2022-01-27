@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőkovácsháza
 ---
 
-{% include Mezooxxkovaacshaaza.html %}
+{% include settlementHTMLs/Mezooxxkovaacshaaza.html %}
 
 [Vissza](./)

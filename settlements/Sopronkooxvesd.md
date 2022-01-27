@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sopronkövesd
 ---
 
-{% include Sopronkooxvesd.html %}
+{% include settlementHTMLs/Sopronkooxvesd.html %}
 
 [Vissza](./)

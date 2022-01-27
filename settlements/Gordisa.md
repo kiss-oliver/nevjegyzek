@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gordisa
 ---
 
-{% include Gordisa.html %}
+{% include settlementHTMLs/Gordisa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaszemes
 ---
 
-{% include Pusztaszemes.html %}
+{% include settlementHTMLs/Pusztaszemes.html %}
 
 [Vissza](./)

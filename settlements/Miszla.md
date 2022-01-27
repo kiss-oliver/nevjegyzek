@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Miszla
 ---
 
-{% include Miszla.html %}
+{% include settlementHTMLs/Miszla.html %}
 
 [Vissza](./)

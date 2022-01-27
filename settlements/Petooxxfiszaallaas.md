@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Petőfiszállás
 ---
 
-{% include Petooxxfiszaallaas.html %}
+{% include settlementHTMLs/Petooxxfiszaallaas.html %}
 
 [Vissza](./)

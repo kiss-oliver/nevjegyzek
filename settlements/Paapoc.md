@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pápoc
 ---
 
-{% include Paapoc.html %}
+{% include settlementHTMLs/Paapoc.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonypölöske
 ---
 
-{% include Bakonypooxlooxske.html %}
+{% include settlementHTMLs/Bakonypooxlooxske.html %}
 
 [Vissza](./)

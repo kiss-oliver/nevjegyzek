@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sámod
 ---
 
-{% include Saamod.html %}
+{% include settlementHTMLs/Saamod.html %}
 
 [Vissza](./)

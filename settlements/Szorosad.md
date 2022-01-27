@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szorosad
 ---
 
-{% include Szorosad.html %}
+{% include settlementHTMLs/Szorosad.html %}
 
 [Vissza](./)

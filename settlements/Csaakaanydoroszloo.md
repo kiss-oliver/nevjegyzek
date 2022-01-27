@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csákánydoroszló
 ---
 
-{% include Csaakaanydoroszloo.html %}
+{% include settlementHTMLs/Csaakaanydoroszloo.html %}
 
 [Vissza](./)

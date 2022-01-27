@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sérsekszőlős
 ---
 
-{% include Seersekszooxxlooxxs.html %}
+{% include settlementHTMLs/Seersekszooxxlooxxs.html %}
 
 [Vissza](./)

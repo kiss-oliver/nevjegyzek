@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csabrendek
 ---
 
-{% include Csabrendek.html %}
+{% include settlementHTMLs/Csabrendek.html %}
 
 [Vissza](./)

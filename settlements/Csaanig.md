@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csánig
 ---
 
-{% include Csaanig.html %}
+{% include settlementHTMLs/Csaanig.html %}
 
 [Vissza](./)

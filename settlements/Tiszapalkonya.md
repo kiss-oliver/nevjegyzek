@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszapalkonya
 ---
 
-{% include Tiszapalkonya.html %}
+{% include settlementHTMLs/Tiszapalkonya.html %}
 
 [Vissza](./)

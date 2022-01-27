@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárbogárd
 ---
 
-{% include Saarbogaard.html %}
+{% include settlementHTMLs/Saarbogaard.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karakó
 ---
 
-{% include Karakoo.html %}
+{% include settlementHTMLs/Karakoo.html %}
 
 [Vissza](./)

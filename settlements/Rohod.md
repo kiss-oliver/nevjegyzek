@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rohod
 ---
 
-{% include Rohod.html %}
+{% include settlementHTMLs/Rohod.html %}
 
 [Vissza](./)

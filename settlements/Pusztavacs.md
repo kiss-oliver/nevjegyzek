@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztavacs
 ---
 
-{% include Pusztavacs.html %}
+{% include settlementHTMLs/Pusztavacs.html %}
 
 [Vissza](./)

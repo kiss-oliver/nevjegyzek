@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tóalmás
 ---
 
-{% include Tooalmaas.html %}
+{% include settlementHTMLs/Tooalmaas.html %}
 
 [Vissza](./)

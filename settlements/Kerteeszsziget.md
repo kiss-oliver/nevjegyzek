@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kertészsziget
 ---
 
-{% include Kerteeszsziget.html %}
+{% include settlementHTMLs/Kerteeszsziget.html %}
 
 [Vissza](./)

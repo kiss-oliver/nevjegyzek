@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sárazsadány
 ---
 
-{% include Saarazsadaany.html %}
+{% include settlementHTMLs/Saarazsadaany.html %}
 
 [Vissza](./)

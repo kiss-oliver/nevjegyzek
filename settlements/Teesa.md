@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tésa
 ---
 
-{% include Teesa.html %}
+{% include settlementHTMLs/Teesa.html %}
 
 [Vissza](./)

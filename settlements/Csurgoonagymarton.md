@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csurgónagymarton
 ---
 
-{% include Csurgoonagymarton.html %}
+{% include settlementHTMLs/Csurgoonagymarton.html %}
 
 [Vissza](./)

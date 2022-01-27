@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírtura
 ---
 
-{% include Nyiirtura.html %}
+{% include settlementHTMLs/Nyiirtura.html %}
 
 [Vissza](./)

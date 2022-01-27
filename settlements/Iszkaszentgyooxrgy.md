@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iszkaszentgyörgy
 ---
 
-{% include Iszkaszentgyooxrgy.html %}
+{% include settlementHTMLs/Iszkaszentgyooxrgy.html %}
 
 [Vissza](./)

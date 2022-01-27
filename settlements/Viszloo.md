@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Viszló
 ---
 
-{% include Viszloo.html %}
+{% include settlementHTMLs/Viszloo.html %}
 
 [Vissza](./)

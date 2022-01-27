@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Penészlek
 ---
 
-{% include Peneeszlek.html %}
+{% include settlementHTMLs/Peneeszlek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarjánpuszta
 ---
 
-{% include Tarjaanpuszta.html %}
+{% include settlementHTMLs/Tarjaanpuszta.html %}
 
 [Vissza](./)

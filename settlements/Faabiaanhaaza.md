@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fábiánháza
 ---
 
-{% include Faabiaanhaaza.html %}
+{% include settlementHTMLs/Faabiaanhaaza.html %}
 
 [Vissza](./)

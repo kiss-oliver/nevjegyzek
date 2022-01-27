@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szuhogy
 ---
 
-{% include Szuhogy.html %}
+{% include settlementHTMLs/Szuhogy.html %}
 
 [Vissza](./)

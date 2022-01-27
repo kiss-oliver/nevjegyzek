@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Aszaló
 ---
 
-{% include Aszaloo.html %}
+{% include settlementHTMLs/Aszaloo.html %}
 
 [Vissza](./)

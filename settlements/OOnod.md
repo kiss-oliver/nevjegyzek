@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ónod
 ---
 
-{% include OOnod.html %}
+{% include settlementHTMLs/OOnod.html %}
 
 [Vissza](./)

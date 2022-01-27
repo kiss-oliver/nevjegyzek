@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Almáskamarás
 ---
 
-{% include Almaaskamaraas.html %}
+{% include settlementHTMLs/Almaaskamaraas.html %}
 
 [Vissza](./)

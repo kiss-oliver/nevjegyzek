@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalalövő
 ---
 
-{% include Zalalooxvooxx.html %}
+{% include settlementHTMLs/Zalalooxvooxx.html %}
 
 [Vissza](./)

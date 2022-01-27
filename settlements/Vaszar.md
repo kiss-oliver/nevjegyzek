@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vaszar
 ---
 
-{% include Vaszar.html %}
+{% include settlementHTMLs/Vaszar.html %}
 
 [Vissza](./)

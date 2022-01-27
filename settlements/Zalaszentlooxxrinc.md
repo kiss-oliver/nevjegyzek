@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszentlőrinc
 ---
 
-{% include Zalaszentlooxxrinc.html %}
+{% include settlementHTMLs/Zalaszentlooxxrinc.html %}
 
 [Vissza](./)

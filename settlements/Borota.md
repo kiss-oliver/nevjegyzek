@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borota
 ---
 
-{% include Borota.html %}
+{% include settlementHTMLs/Borota.html %}
 
 [Vissza](./)

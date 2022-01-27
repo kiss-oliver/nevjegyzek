@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőszenterzsébet
 ---
 
-{% include Felsooxxszenterzseebet.html %}
+{% include settlementHTMLs/Felsooxxszenterzseebet.html %}
 
 [Vissza](./)

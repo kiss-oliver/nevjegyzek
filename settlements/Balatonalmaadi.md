@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonalmádi
 ---
 
-{% include Balatonalmaadi.html %}
+{% include settlementHTMLs/Balatonalmaadi.html %}
 
 [Vissza](./)

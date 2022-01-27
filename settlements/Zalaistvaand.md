@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaistvánd
 ---
 
-{% include Zalaistvaand.html %}
+{% include settlementHTMLs/Zalaistvaand.html %}
 
 [Vissza](./)

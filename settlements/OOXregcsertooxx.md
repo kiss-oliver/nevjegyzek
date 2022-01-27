@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Öregcsertő
 ---
 
-{% include OOXregcsertooxx.html %}
+{% include settlementHTMLs/OOXregcsertooxx.html %}
 
 [Vissza](./)

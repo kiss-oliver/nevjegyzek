@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hollókő
 ---
 
-{% include Hollookooxx.html %}
+{% include settlementHTMLs/Hollookooxx.html %}
 
 [Vissza](./)

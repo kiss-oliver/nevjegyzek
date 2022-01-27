@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kömlőd
 ---
 
-{% include Kooxmlooxxd.html %}
+{% include settlementHTMLs/Kooxmlooxxd.html %}
 
 [Vissza](./)

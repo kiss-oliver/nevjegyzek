@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kelevíz
 ---
 
-{% include Keleviiz.html %}
+{% include settlementHTMLs/Keleviiz.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Misefa
 ---
 
-{% include Misefa.html %}
+{% include settlementHTMLs/Misefa.html %}
 
 [Vissza](./)

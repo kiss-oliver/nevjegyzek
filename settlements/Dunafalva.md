@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunafalva
 ---
 
-{% include Dunafalva.html %}
+{% include settlementHTMLs/Dunafalva.html %}
 
 [Vissza](./)

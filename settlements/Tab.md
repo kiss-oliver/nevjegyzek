@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tab
 ---
 
-{% include Tab.html %}
+{% include settlementHTMLs/Tab.html %}
 
 [Vissza](./)

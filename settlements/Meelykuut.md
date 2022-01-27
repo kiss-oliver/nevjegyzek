@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mélykút
 ---
 
-{% include Meelykuut.html %}
+{% include settlementHTMLs/Meelykuut.html %}
 
 [Vissza](./)

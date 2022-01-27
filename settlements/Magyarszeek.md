@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarszék
 ---
 
-{% include Magyarszeek.html %}
+{% include settlementHTMLs/Magyarszeek.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zamárdi
 ---
 
-{% include Zamaardi.html %}
+{% include settlementHTMLs/Zamaardi.html %}
 
 [Vissza](./)

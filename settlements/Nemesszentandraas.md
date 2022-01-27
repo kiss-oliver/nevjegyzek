@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesszentandrás
 ---
 
-{% include Nemesszentandraas.html %}
+{% include settlementHTMLs/Nemesszentandraas.html %}
 
 [Vissza](./)

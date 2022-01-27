@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Máriahalom
 ---
 
-{% include Maariahalom.html %}
+{% include settlementHTMLs/Maariahalom.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bonnya
 ---
 
-{% include Bonnya.html %}
+{% include settlementHTMLs/Bonnya.html %}
 
 [Vissza](./)

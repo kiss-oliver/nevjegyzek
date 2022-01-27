@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lakhegy
 ---
 
-{% include Lakhegy.html %}
+{% include settlementHTMLs/Lakhegy.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Győrújfalu
 ---
 
-{% include Gyooxxruujfalu.html %}
+{% include settlementHTMLs/Gyooxxruujfalu.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonkeresztúr
 ---
 
-{% include Balatonkeresztuur.html %}
+{% include settlementHTMLs/Balatonkeresztuur.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Értény
 ---
 
-{% include EErteeny.html %}
+{% include settlementHTMLs/EErteeny.html %}
 
 [Vissza](./)

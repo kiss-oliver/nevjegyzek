@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalaszentiván
 ---
 
-{% include Zalaszentivaan.html %}
+{% include settlementHTMLs/Zalaszentivaan.html %}
 
 [Vissza](./)

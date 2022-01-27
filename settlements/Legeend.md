@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Legénd
 ---
 
-{% include Legeend.html %}
+{% include settlementHTMLs/Legeend.html %}
 
 [Vissza](./)

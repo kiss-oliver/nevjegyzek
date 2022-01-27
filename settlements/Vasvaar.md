@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasvár
 ---
 
-{% include Vasvaar.html %}
+{% include settlementHTMLs/Vasvaar.html %}
 
 [Vissza](./)

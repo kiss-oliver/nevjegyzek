@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Halogy
 ---
 
-{% include Halogy.html %}
+{% include settlementHTMLs/Halogy.html %}
 
 [Vissza](./)

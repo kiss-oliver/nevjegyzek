@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pásztó
 ---
 
-{% include Paasztoo.html %}
+{% include settlementHTMLs/Paasztoo.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztaederics
 ---
 
-{% include Pusztaederics.html %}
+{% include settlementHTMLs/Pusztaederics.html %}
 
 [Vissza](./)

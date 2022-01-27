@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rábatamási
 ---
 
-{% include Raabatamaasi.html %}
+{% include settlementHTMLs/Raabatamaasi.html %}
 
 [Vissza](./)

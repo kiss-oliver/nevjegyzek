@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gérce
 ---
 
-{% include Geerce.html %}
+{% include settlementHTMLs/Geerce.html %}
 
 [Vissza](./)

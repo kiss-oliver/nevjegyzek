@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bódvarákó
 ---
 
-{% include Boodvaraakoo.html %}
+{% include settlementHTMLs/Boodvaraakoo.html %}
 
 [Vissza](./)

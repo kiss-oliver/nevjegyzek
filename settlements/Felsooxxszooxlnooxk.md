@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőszölnök
 ---
 
-{% include Felsooxxszooxlnooxk.html %}
+{% include settlementHTMLs/Felsooxxszooxlnooxk.html %}
 
 [Vissza](./)

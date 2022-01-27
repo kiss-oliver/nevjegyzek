@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vekerd
 ---
 
-{% include Vekerd.html %}
+{% include settlementHTMLs/Vekerd.html %}
 
 [Vissza](./)

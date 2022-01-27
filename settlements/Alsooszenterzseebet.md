@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsószenterzsébet
 ---
 
-{% include Alsooszenterzseebet.html %}
+{% include settlementHTMLs/Alsooszenterzseebet.html %}
 
 [Vissza](./)

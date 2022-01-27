@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisszőlős
 ---
 
-{% include Kisszooxxlooxxs.html %}
+{% include settlementHTMLs/Kisszooxxlooxxs.html %}
 
 [Vissza](./)

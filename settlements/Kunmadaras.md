@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunmadaras
 ---
 
-{% include Kunmadaras.html %}
+{% include settlementHTMLs/Kunmadaras.html %}
 
 [Vissza](./)

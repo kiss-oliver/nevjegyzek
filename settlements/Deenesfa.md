@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dénesfa
 ---
 
-{% include Deenesfa.html %}
+{% include settlementHTMLs/Deenesfa.html %}
 
 [Vissza](./)

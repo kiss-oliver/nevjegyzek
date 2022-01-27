@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykinizs
 ---
 
-{% include Nagykinizs.html %}
+{% include settlementHTMLs/Nagykinizs.html %}
 
 [Vissza](./)

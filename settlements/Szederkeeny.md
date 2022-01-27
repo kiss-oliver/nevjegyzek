@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szederkény
 ---
 
-{% include Szederkeeny.html %}
+{% include settlementHTMLs/Szederkeeny.html %}
 
 [Vissza](./)

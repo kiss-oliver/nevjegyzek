@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gic
 ---
 
-{% include Gic.html %}
+{% include settlementHTMLs/Gic.html %}
 
 [Vissza](./)

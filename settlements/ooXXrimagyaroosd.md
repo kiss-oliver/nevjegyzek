@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Őrimagyarósd
 ---
 
-{% include ooXXrimagyaroosd.html %}
+{% include settlementHTMLs/ooXXrimagyaroosd.html %}
 
 [Vissza](./)

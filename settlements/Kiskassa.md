@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskassa
 ---
 
-{% include Kiskassa.html %}
+{% include settlementHTMLs/Kiskassa.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karcag
 ---
 
-{% include Karcag.html %}
+{% include settlementHTMLs/Karcag.html %}
 
 [Vissza](./)

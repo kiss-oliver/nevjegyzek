@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Jászapáti
 ---
 
-{% include Jaaszapaati.html %}
+{% include settlementHTMLs/Jaaszapaati.html %}
 
 [Vissza](./)

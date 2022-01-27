@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagytilaj
 ---
 
-{% include Nagytilaj.html %}
+{% include settlementHTMLs/Nagytilaj.html %}
 
 [Vissza](./)

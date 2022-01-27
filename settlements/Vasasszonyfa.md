@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasasszonyfa
 ---
 
-{% include Vasasszonyfa.html %}
+{% include settlementHTMLs/Vasasszonyfa.html %}
 
 [Vissza](./)

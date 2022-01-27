@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonycsernye
 ---
 
-{% include Bakonycsernye.html %}
+{% include settlementHTMLs/Bakonycsernye.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bucsa
 ---
 
-{% include Bucsa.html %}
+{% include settlementHTMLs/Bucsa.html %}
 
 [Vissza](./)

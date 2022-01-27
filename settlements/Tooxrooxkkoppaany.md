@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Törökkoppány
 ---
 
-{% include Tooxrooxkkoppaany.html %}
+{% include settlementHTMLs/Tooxrooxkkoppaany.html %}
 
 [Vissza](./)

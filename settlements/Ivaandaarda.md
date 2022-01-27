@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ivándárda
 ---
 
-{% include Ivaandaarda.html %}
+{% include settlementHTMLs/Ivaandaarda.html %}
 
 [Vissza](./)

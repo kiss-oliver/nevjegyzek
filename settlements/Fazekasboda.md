@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fazekasboda
 ---
 
-{% include Fazekasboda.html %}
+{% include settlementHTMLs/Fazekasboda.html %}
 
 [Vissza](./)

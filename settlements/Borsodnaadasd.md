@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Borsodnádasd
 ---
 
-{% include Borsodnaadasd.html %}
+{% include settlementHTMLs/Borsodnaadasd.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyfajsz
 ---
 
-{% include Somogyfajsz.html %}
+{% include settlementHTMLs/Somogyfajsz.html %}
 
 [Vissza](./)

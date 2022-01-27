@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tardona
 ---
 
-{% include Tardona.html %}
+{% include settlementHTMLs/Tardona.html %}
 
 [Vissza](./)

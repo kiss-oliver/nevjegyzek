@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karmacs
 ---
 
-{% include Karmacs.html %}
+{% include settlementHTMLs/Karmacs.html %}
 
 [Vissza](./)

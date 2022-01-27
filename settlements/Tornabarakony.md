@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tornabarakony
 ---
 
-{% include Tornabarakony.html %}
+{% include settlementHTMLs/Tornabarakony.html %}
 
 [Vissza](./)

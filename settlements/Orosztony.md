@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Orosztony
 ---
 
-{% include Orosztony.html %}
+{% include settlementHTMLs/Orosztony.html %}
 
 [Vissza](./)

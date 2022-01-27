@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lapáncsa
 ---
 
-{% include Lapaancsa.html %}
+{% include settlementHTMLs/Lapaancsa.html %}
 
 [Vissza](./)

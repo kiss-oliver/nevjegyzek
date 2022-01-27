@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszakürt
 ---
 
-{% include Tiszakuuxrt.html %}
+{% include settlementHTMLs/Tiszakuuxrt.html %}
 
 [Vissza](./)

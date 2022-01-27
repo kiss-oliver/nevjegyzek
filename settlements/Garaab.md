@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Garáb
 ---
 
-{% include Garaab.html %}
+{% include settlementHTMLs/Garaab.html %}
 
 [Vissza](./)

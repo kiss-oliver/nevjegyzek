@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbajcs
 ---
 
-{% include Kisbajcs.html %}
+{% include settlementHTMLs/Kisbajcs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gellénháza
 ---
 
-{% include Gelleenhaaza.html %}
+{% include settlementHTMLs/Gelleenhaaza.html %}
 
 [Vissza](./)

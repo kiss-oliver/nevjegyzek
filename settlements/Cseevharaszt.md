@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csévharaszt
 ---
 
-{% include Cseevharaszt.html %}
+{% include settlementHTMLs/Cseevharaszt.html %}
 
 [Vissza](./)

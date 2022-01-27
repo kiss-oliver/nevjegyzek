@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sóstófalva
 ---
 
-{% include Soostoofalva.html %}
+{% include settlementHTMLs/Soostoofalva.html %}
 
 [Vissza](./)

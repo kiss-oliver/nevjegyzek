@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesrádó
 ---
 
-{% include Nemesraadoo.html %}
+{% include settlementHTMLs/Nemesraadoo.html %}
 
 [Vissza](./)

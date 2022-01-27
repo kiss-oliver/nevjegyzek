@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisfalud
 ---
 
-{% include Kisfalud.html %}
+{% include settlementHTMLs/Kisfalud.html %}
 
 [Vissza](./)

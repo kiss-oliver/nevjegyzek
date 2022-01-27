@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csipkerek
 ---
 
-{% include Csipkerek.html %}
+{% include settlementHTMLs/Csipkerek.html %}
 
 [Vissza](./)

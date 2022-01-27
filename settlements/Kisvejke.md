@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisvejke
 ---
 
-{% include Kisvejke.html %}
+{% include settlementHTMLs/Kisvejke.html %}
 
 [Vissza](./)

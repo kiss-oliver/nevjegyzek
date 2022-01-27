@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Heresznye
 ---
 
-{% include Heresznye.html %}
+{% include settlementHTMLs/Heresznye.html %}
 
 [Vissza](./)

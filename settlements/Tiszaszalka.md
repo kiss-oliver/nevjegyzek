@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszaszalka
 ---
 
-{% include Tiszaszalka.html %}
+{% include settlementHTMLs/Tiszaszalka.html %}
 
 [Vissza](./)

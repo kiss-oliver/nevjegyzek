@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigethalom
 ---
 
-{% include Szigethalom.html %}
+{% include settlementHTMLs/Szigethalom.html %}
 
 [Vissza](./)

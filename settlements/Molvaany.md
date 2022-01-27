@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Molvány
 ---
 
-{% include Molvaany.html %}
+{% include settlementHTMLs/Molvaany.html %}
 
 [Vissza](./)

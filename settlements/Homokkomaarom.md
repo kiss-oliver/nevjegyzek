@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Homokkomárom
 ---
 
-{% include Homokkomaarom.html %}
+{% include settlementHTMLs/Homokkomaarom.html %}
 
 [Vissza](./)

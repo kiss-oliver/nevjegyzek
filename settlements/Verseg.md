@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Verseg
 ---
 
-{% include Verseg.html %}
+{% include settlementHTMLs/Verseg.html %}
 
 [Vissza](./)

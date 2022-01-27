@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csősz
 ---
 
-{% include Csooxxsz.html %}
+{% include settlementHTMLs/Csooxxsz.html %}
 
 [Vissza](./)

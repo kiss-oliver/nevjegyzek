@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pátroha
 ---
 
-{% include Paatroha.html %}
+{% include settlementHTMLs/Paatroha.html %}
 
 [Vissza](./)

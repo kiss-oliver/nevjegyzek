@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Arka
 ---
 
-{% include Arka.html %}
+{% include settlementHTMLs/Arka.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szakadát
 ---
 
-{% include Szakadaat.html %}
+{% include settlementHTMLs/Szakadaat.html %}
 
 [Vissza](./)

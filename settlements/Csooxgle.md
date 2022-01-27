@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csögle
 ---
 
-{% include Csooxgle.html %}
+{% include settlementHTMLs/Csooxgle.html %}
 
 [Vissza](./)

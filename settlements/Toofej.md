@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tófej
 ---
 
-{% include Toofej.html %}
+{% include settlementHTMLs/Toofej.html %}
 
 [Vissza](./)

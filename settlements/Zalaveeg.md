@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalavég
 ---
 
-{% include Zalaveeg.html %}
+{% include settlementHTMLs/Zalaveeg.html %}
 
 [Vissza](./)

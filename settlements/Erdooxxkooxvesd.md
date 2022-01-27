@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdőkövesd
 ---
 
-{% include Erdooxxkooxvesd.html %}
+{% include settlementHTMLs/Erdooxxkooxvesd.html %}
 
 [Vissza](./)

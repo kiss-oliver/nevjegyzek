@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Noszvaj
 ---
 
-{% include Noszvaj.html %}
+{% include settlementHTMLs/Noszvaj.html %}
 
 [Vissza](./)

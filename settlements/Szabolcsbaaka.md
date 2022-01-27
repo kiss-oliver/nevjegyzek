@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabolcsbáka
 ---
 
-{% include Szabolcsbaaka.html %}
+{% include settlementHTMLs/Szabolcsbaaka.html %}
 
 [Vissza](./)

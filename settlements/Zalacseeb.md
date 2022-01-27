@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zalacséb
 ---
 
-{% include Zalacseeb.html %}
+{% include settlementHTMLs/Zalacseeb.html %}
 
 [Vissza](./)

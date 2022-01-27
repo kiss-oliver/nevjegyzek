@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Patak
 ---
 
-{% include Patak.html %}
+{% include settlementHTMLs/Patak.html %}
 
 [Vissza](./)

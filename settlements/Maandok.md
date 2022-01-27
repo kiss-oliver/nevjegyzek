@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mándok
 ---
 
-{% include Maandok.html %}
+{% include settlementHTMLs/Maandok.html %}
 
 [Vissza](./)

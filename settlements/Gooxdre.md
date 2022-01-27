@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gödre
 ---
 
-{% include Gooxdre.html %}
+{% include settlementHTMLs/Gooxdre.html %}
 
 [Vissza](./)

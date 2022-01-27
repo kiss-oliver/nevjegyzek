@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hajós
 ---
 
-{% include Hajoos.html %}
+{% include settlementHTMLs/Hajoos.html %}
 
 [Vissza](./)

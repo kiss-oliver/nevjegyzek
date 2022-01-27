@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egyházasfalu
 ---
 
-{% include Egyhaazasfalu.html %}
+{% include settlementHTMLs/Egyhaazasfalu.html %}
 
 [Vissza](./)

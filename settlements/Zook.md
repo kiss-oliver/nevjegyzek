@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zók
 ---
 
-{% include Zook.html %}
+{% include settlementHTMLs/Zook.html %}
 
 [Vissza](./)

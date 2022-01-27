@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szarvaskend
 ---
 
-{% include Szarvaskend.html %}
+{% include settlementHTMLs/Szarvaskend.html %}
 
 [Vissza](./)

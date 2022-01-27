@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Igar
 ---
 
-{% include Igar.html %}
+{% include settlementHTMLs/Igar.html %}
 
 [Vissza](./)

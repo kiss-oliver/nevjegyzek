@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Külsővat
 ---
 
-{% include Kuuxlsooxxvat.html %}
+{% include settlementHTMLs/Kuuxlsooxxvat.html %}
 
 [Vissza](./)

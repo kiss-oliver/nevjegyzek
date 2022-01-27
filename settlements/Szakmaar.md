@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szakmár
 ---
 
-{% include Szakmaar.html %}
+{% include settlementHTMLs/Szakmaar.html %}
 
 [Vissza](./)

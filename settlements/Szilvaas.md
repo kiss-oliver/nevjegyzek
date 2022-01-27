@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szilvás
 ---
 
-{% include Szilvaas.html %}
+{% include settlementHTMLs/Szilvaas.html %}
 
 [Vissza](./)

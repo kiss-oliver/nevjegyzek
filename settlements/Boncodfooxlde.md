@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boncodfölde
 ---
 
-{% include Boncodfooxlde.html %}
+{% include settlementHTMLs/Boncodfooxlde.html %}
 
 [Vissza](./)

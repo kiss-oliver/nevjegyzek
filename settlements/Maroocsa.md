@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Marócsa
 ---
 
-{% include Maroocsa.html %}
+{% include settlementHTMLs/Maroocsa.html %}
 
 [Vissza](./)

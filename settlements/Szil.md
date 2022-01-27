@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szil
 ---
 
-{% include Szil.html %}
+{% include settlementHTMLs/Szil.html %}
 
 [Vissza](./)

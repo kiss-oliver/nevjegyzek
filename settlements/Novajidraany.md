@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Novajidrány
 ---
 
-{% include Novajidraany.html %}
+{% include settlementHTMLs/Novajidraany.html %}
 
 [Vissza](./)

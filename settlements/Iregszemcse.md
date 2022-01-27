@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Iregszemcse
 ---
 
-{% include Iregszemcse.html %}
+{% include settlementHTMLs/Iregszemcse.html %}
 
 [Vissza](./)

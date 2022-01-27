@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnazsadány
 ---
 
-{% include Tarnazsadaany.html %}
+{% include settlementHTMLs/Tarnazsadaany.html %}
 
 [Vissza](./)

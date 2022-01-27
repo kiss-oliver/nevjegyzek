@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakháza
 ---
 
-{% include Bakhaaza.html %}
+{% include settlementHTMLs/Bakhaaza.html %}
 
 [Vissza](./)

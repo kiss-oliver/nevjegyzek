@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Komlóska
 ---
 
-{% include Komlooska.html %}
+{% include settlementHTMLs/Komlooska.html %}
 
 [Vissza](./)

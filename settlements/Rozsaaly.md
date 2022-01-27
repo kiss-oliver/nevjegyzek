@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rozsály
 ---
 
-{% include Rozsaaly.html %}
+{% include settlementHTMLs/Rozsaaly.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kapoly
 ---
 
-{% include Kapoly.html %}
+{% include settlementHTMLs/Kapoly.html %}
 
 [Vissza](./)

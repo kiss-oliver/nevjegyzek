@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nóráp
 ---
 
-{% include Nooraap.html %}
+{% include settlementHTMLs/Nooraap.html %}
 
 [Vissza](./)

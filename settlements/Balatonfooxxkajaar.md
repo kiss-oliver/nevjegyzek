@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonfőkajár
 ---
 
-{% include Balatonfooxxkajaar.html %}
+{% include settlementHTMLs/Balatonfooxxkajaar.html %}
 
 [Vissza](./)

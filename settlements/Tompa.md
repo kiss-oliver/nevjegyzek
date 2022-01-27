@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tompa
 ---
 
-{% include Tompa.html %}
+{% include settlementHTMLs/Tompa.html %}
 
 [Vissza](./)

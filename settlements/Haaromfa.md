@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Háromfa
 ---
 
-{% include Haaromfa.html %}
+{% include settlementHTMLs/Haaromfa.html %}
 
 [Vissza](./)

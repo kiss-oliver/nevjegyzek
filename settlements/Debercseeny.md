@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Debercsény
 ---
 
-{% include Debercseeny.html %}
+{% include settlementHTMLs/Debercseeny.html %}
 
 [Vissza](./)

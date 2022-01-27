@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonyjákó
 ---
 
-{% include Bakonyjaakoo.html %}
+{% include settlementHTMLs/Bakonyjaakoo.html %}
 
 [Vissza](./)

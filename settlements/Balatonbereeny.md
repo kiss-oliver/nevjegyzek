@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonberény
 ---
 
-{% include Balatonbereeny.html %}
+{% include settlementHTMLs/Balatonbereeny.html %}
 
 [Vissza](./)

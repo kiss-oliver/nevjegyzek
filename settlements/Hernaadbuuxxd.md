@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hernádbűd
 ---
 
-{% include Hernaadbuuxxd.html %}
+{% include settlementHTMLs/Hernaadbuuxxd.html %}
 
 [Vissza](./)

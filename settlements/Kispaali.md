@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kispáli
 ---
 
-{% include Kispaali.html %}
+{% include settlementHTMLs/Kispaali.html %}
 
 [Vissza](./)

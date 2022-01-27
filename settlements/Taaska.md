@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Táska
 ---
 
-{% include Taaska.html %}
+{% include settlementHTMLs/Taaska.html %}
 
 [Vissza](./)

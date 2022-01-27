@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dióskál
 ---
 
-{% include Diooskaal.html %}
+{% include settlementHTMLs/Diooskaal.html %}
 
 [Vissza](./)

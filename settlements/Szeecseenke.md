@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szécsénke
 ---
 
-{% include Szeecseenke.html %}
+{% include settlementHTMLs/Szeecseenke.html %}
 
 [Vissza](./)

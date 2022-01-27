@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőjánosfa
 ---
 
-{% include Felsooxxjaanosfa.html %}
+{% include settlementHTMLs/Felsooxxjaanosfa.html %}
 
 [Vissza](./)

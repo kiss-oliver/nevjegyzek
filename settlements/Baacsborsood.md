@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bácsborsód
 ---
 
-{% include Baacsborsood.html %}
+{% include settlementHTMLs/Baacsborsood.html %}
 
 [Vissza](./)

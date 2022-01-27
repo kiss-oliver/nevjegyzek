@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pálosvörösmart
 ---
 
-{% include Paalosvooxrooxsmart.html %}
+{% include settlementHTMLs/Paalosvooxrooxsmart.html %}
 
 [Vissza](./)

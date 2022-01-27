@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesborzova
 ---
 
-{% include Nemesborzova.html %}
+{% include settlementHTMLs/Nemesborzova.html %}
 
 [Vissza](./)

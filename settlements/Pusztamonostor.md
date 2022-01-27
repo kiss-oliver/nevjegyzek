@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztamonostor
 ---
 
-{% include Pusztamonostor.html %}
+{% include settlementHTMLs/Pusztamonostor.html %}
 
 [Vissza](./)

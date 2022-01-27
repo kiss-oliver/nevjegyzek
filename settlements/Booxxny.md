@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bőny
 ---
 
-{% include Booxxny.html %}
+{% include settlementHTMLs/Booxxny.html %}
 
 [Vissza](./)

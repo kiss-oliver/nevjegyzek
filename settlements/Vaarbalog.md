@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Várbalog
 ---
 
-{% include Vaarbalog.html %}
+{% include settlementHTMLs/Vaarbalog.html %}
 
 [Vissza](./)

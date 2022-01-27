@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Cserháthaláp
 ---
 
-{% include Cserhaathalaap.html %}
+{% include settlementHTMLs/Cserhaathalaap.html %}
 
 [Vissza](./)

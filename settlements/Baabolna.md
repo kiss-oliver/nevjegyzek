@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bábolna
 ---
 
-{% include Baabolna.html %}
+{% include settlementHTMLs/Baabolna.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Meződ
 ---
 
-{% include Mezooxxd.html %}
+{% include settlementHTMLs/Mezooxxd.html %}
 
 [Vissza](./)

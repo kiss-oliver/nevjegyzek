@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gömörszőlős
 ---
 
-{% include Gooxmooxrszooxxlooxxs.html %}
+{% include settlementHTMLs/Gooxmooxrszooxxlooxxs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mánfa
 ---
 
-{% include Maanfa.html %}
+{% include settlementHTMLs/Maanfa.html %}
 
 [Vissza](./)

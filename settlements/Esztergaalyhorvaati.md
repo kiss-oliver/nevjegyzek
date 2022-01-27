@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Esztergályhorváti
 ---
 
-{% include Esztergaalyhorvaati.html %}
+{% include settlementHTMLs/Esztergaalyhorvaati.html %}
 
 [Vissza](./)

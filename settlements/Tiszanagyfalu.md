@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszanagyfalu
 ---
 
-{% include Tiszanagyfalu.html %}
+{% include settlementHTMLs/Tiszanagyfalu.html %}
 
 [Vissza](./)

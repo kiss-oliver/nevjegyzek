@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagylózs
 ---
 
-{% include Nagyloozs.html %}
+{% include settlementHTMLs/Nagyloozs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kuncsorba
 ---
 
-{% include Kuncsorba.html %}
+{% include settlementHTMLs/Kuncsorba.html %}
 
 [Vissza](./)

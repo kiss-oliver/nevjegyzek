@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vajta
 ---
 
-{% include Vajta.html %}
+{% include settlementHTMLs/Vajta.html %}
 
 [Vissza](./)

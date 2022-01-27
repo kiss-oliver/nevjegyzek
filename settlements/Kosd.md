@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kosd
 ---
 
-{% include Kosd.html %}
+{% include settlementHTMLs/Kosd.html %}
 
 [Vissza](./)

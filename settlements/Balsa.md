@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balsa
 ---
 
-{% include Balsa.html %}
+{% include settlementHTMLs/Balsa.html %}
 
 [Vissza](./)

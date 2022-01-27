@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tompaládony
 ---
 
-{% include Tompalaadony.html %}
+{% include settlementHTMLs/Tompalaadony.html %}
 
 [Vissza](./)

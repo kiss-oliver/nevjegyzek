@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szegerdő
 ---
 
-{% include Szegerdooxx.html %}
+{% include settlementHTMLs/Szegerdooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bölcske
 ---
 
-{% include Booxlcske.html %}
+{% include settlementHTMLs/Booxlcske.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gadány
 ---
 
-{% include Gadaany.html %}
+{% include settlementHTMLs/Gadaany.html %}
 
 [Vissza](./)

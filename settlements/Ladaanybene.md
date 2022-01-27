@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ladánybene
 ---
 
-{% include Ladaanybene.html %}
+{% include settlementHTMLs/Ladaanybene.html %}
 
 [Vissza](./)

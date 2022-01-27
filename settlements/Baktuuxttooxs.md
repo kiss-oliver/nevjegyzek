@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Baktüttös
 ---
 
-{% include Baktuuxttooxs.html %}
+{% include settlementHTMLs/Baktuuxttooxs.html %}
 
 [Vissza](./)

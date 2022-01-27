@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dóc
 ---
 
-{% include Dooc.html %}
+{% include settlementHTMLs/Dooc.html %}
 
 [Vissza](./)

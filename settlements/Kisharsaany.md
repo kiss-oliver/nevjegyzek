@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisharsány
 ---
 
-{% include Kisharsaany.html %}
+{% include settlementHTMLs/Kisharsaany.html %}
 
 [Vissza](./)

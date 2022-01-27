@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pálfa
 ---
 
-{% include Paalfa.html %}
+{% include settlementHTMLs/Paalfa.html %}
 
 [Vissza](./)

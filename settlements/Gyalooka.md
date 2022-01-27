@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyalóka
 ---
 
-{% include Gyalooka.html %}
+{% include settlementHTMLs/Gyalooka.html %}
 
 [Vissza](./)

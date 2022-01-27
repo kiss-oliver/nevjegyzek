@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Géberjén
 ---
 
-{% include Geeberjeen.html %}
+{% include settlementHTMLs/Geeberjeen.html %}
 
 [Vissza](./)

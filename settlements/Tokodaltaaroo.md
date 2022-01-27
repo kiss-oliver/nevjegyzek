@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tokodaltáró
 ---
 
-{% include Tokodaltaaroo.html %}
+{% include settlementHTMLs/Tokodaltaaroo.html %}
 
 [Vissza](./)

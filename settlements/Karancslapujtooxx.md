@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karancslapujtő
 ---
 
-{% include Karancslapujtooxx.html %}
+{% include settlementHTMLs/Karancslapujtooxx.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felgyő
 ---
 
-{% include Felgyooxx.html %}
+{% include settlementHTMLs/Felgyooxx.html %}
 
 [Vissza](./)

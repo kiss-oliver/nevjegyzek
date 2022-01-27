@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyváty
 ---
 
-{% include Nagyvaaty.html %}
+{% include settlementHTMLs/Nagyvaaty.html %}
 
 [Vissza](./)

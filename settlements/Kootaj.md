@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kótaj
 ---
 
-{% include Kootaj.html %}
+{% include settlementHTMLs/Kootaj.html %}
 
 [Vissza](./)

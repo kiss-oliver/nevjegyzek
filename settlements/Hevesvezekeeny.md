@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hevesvezekény
 ---
 
-{% include Hevesvezekeeny.html %}
+{% include settlementHTMLs/Hevesvezekeeny.html %}
 
 [Vissza](./)

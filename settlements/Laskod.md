@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Laskod
 ---
 
-{% include Laskod.html %}
+{% include settlementHTMLs/Laskod.html %}
 
 [Vissza](./)

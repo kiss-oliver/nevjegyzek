@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sarud
 ---
 
-{% include Sarud.html %}
+{% include settlementHTMLs/Sarud.html %}
 
 [Vissza](./)

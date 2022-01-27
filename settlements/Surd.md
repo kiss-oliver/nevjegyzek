@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Surd
 ---
 
-{% include Surd.html %}
+{% include settlementHTMLs/Surd.html %}
 
 [Vissza](./)

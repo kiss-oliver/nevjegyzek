@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vállus
 ---
 
-{% include Vaallus.html %}
+{% include settlementHTMLs/Vaallus.html %}
 
 [Vissza](./)

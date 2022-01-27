@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagyréde
 ---
 
-{% include Nagyreede.html %}
+{% include settlementHTMLs/Nagyreede.html %}
 
 [Vissza](./)

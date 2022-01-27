@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lovászpatona
 ---
 
-{% include Lovaaszpatona.html %}
+{% include settlementHTMLs/Lovaaszpatona.html %}
 
 [Vissza](./)

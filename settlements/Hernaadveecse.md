@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hernádvécse
 ---
 
-{% include Hernaadveecse.html %}
+{% include settlementHTMLs/Hernaadveecse.html %}
 
 [Vissza](./)

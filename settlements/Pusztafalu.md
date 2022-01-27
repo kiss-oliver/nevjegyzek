@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztafalu
 ---
 
-{% include Pusztafalu.html %}
+{% include settlementHTMLs/Pusztafalu.html %}
 
 [Vissza](./)

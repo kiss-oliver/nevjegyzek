@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csém
 ---
 
-{% include Cseem.html %}
+{% include settlementHTMLs/Cseem.html %}
 
 [Vissza](./)

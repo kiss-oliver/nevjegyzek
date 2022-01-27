@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somberek
 ---
 
-{% include Somberek.html %}
+{% include settlementHTMLs/Somberek.html %}
 
 [Vissza](./)

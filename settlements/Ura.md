@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ura
 ---
 
-{% include Ura.html %}
+{% include settlementHTMLs/Ura.html %}
 
 [Vissza](./)

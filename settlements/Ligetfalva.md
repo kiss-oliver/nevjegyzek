@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ligetfalva
 ---
 
-{% include Ligetfalva.html %}
+{% include settlementHTMLs/Ligetfalva.html %}
 
 [Vissza](./)

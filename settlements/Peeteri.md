@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Péteri
 ---
 
-{% include Peeteri.html %}
+{% include settlementHTMLs/Peeteri.html %}
 
 [Vissza](./)

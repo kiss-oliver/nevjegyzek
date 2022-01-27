@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csongrád
 ---
 
-{% include Csongraad.html %}
+{% include settlementHTMLs/Csongraad.html %}
 
 [Vissza](./)

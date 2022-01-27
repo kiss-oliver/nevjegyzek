@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentliszló
 ---
 
-{% include Szentliszloo.html %}
+{% include settlementHTMLs/Szentliszloo.html %}
 
 [Vissza](./)

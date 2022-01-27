@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tarnalelesz
 ---
 
-{% include Tarnalelesz.html %}
+{% include settlementHTMLs/Tarnalelesz.html %}
 
 [Vissza](./)

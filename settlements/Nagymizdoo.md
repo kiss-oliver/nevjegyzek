@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagymizdó
 ---
 
-{% include Nagymizdoo.html %}
+{% include settlementHTMLs/Nagymizdoo.html %}
 
 [Vissza](./)

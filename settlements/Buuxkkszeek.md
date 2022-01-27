@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bükkszék
 ---
 
-{% include Buuxkkszeek.html %}
+{% include settlementHTMLs/Buuxkkszeek.html %}
 
 [Vissza](./)

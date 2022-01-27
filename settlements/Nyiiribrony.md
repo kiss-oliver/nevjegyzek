@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyíribrony
 ---
 
-{% include Nyiiribrony.html %}
+{% include settlementHTMLs/Nyiiribrony.html %}
 
 [Vissza](./)

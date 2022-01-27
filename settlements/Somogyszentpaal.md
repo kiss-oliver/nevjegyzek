@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogyszentpál
 ---
 
-{% include Somogyszentpaal.html %}
+{% include settlementHTMLs/Somogyszentpaal.html %}
 
 [Vissza](./)

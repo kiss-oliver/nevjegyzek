@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Káptalanfa
 ---
 
-{% include Kaaptalanfa.html %}
+{% include settlementHTMLs/Kaaptalanfa.html %}
 
 [Vissza](./)

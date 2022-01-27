@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Örménykút
 ---
 
-{% include OOXrmeenykuut.html %}
+{% include settlementHTMLs/OOXrmeenykuut.html %}
 
 [Vissza](./)

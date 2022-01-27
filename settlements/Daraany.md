@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Darány
 ---
 
-{% include Daraany.html %}
+{% include settlementHTMLs/Daraany.html %}
 
 [Vissza](./)

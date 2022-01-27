@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zagyvaszántó
 ---
 
-{% include Zagyvaszaantoo.html %}
+{% include settlementHTMLs/Zagyvaszaantoo.html %}
 
 [Vissza](./)

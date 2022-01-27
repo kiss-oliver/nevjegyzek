@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kunbaracs
 ---
 
-{% include Kunbaracs.html %}
+{% include settlementHTMLs/Kunbaracs.html %}
 
 [Vissza](./)

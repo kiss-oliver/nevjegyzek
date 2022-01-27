@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tinnye
 ---
 
-{% include Tinnye.html %}
+{% include settlementHTMLs/Tinnye.html %}
 
 [Vissza](./)

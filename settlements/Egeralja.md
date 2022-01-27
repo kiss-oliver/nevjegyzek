@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Egeralja
 ---
 
-{% include Egeralja.html %}
+{% include settlementHTMLs/Egeralja.html %}
 
 [Vissza](./)

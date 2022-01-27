@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tápióság
 ---
 
-{% include Taapioosaag.html %}
+{% include settlementHTMLs/Taapioosaag.html %}
 
 [Vissza](./)

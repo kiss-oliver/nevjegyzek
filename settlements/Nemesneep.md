@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nemesnép
 ---
 
-{% include Nemesneep.html %}
+{% include settlementHTMLs/Nemesneep.html %}
 
 [Vissza](./)

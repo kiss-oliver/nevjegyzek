@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Báta
 ---
 
-{% include Baata.html %}
+{% include settlementHTMLs/Baata.html %}
 
 [Vissza](./)

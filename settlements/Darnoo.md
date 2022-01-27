@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Darnó
 ---
 
-{% include Darnoo.html %}
+{% include settlementHTMLs/Darnoo.html %}
 
 [Vissza](./)

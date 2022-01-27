@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hagyárosbörönd
 ---
 
-{% include Hagyaarosbooxrooxnd.html %}
+{% include settlementHTMLs/Hagyaarosbooxrooxnd.html %}
 
 [Vissza](./)

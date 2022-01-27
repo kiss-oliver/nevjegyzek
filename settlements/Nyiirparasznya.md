@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírparasznya
 ---
 
-{% include Nyiirparasznya.html %}
+{% include settlementHTMLs/Nyiirparasznya.html %}
 
 [Vissza](./)

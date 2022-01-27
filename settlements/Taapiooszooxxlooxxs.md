@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tápiószőlős
 ---
 
-{% include Taapiooszooxxlooxxs.html %}
+{% include settlementHTMLs/Taapiooszooxxlooxxs.html %}
 
 [Vissza](./)

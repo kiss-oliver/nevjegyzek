@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ágasegyháza
 ---
 
-{% include AAgasegyhaaza.html %}
+{% include settlementHTMLs/AAgasegyhaaza.html %}
 
 [Vissza](./)

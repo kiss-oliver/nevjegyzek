@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nyírderzs
 ---
 
-{% include Nyiirderzs.html %}
+{% include settlementHTMLs/Nyiirderzs.html %}
 
 [Vissza](./)

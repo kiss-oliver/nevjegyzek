@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Létavértes
 ---
 
-{% include Leetaveertes.html %}
+{% include settlementHTMLs/Leetaveertes.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogybabod
 ---
 
-{% include Somogybabod.html %}
+{% include settlementHTMLs/Somogybabod.html %}
 
 [Vissza](./)

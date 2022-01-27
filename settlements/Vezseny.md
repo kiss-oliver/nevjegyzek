@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vezseny
 ---
 
-{% include Vezseny.html %}
+{% include settlementHTMLs/Vezseny.html %}
 
 [Vissza](./)

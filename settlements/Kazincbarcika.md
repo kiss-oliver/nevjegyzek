@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kazincbarcika
 ---
 
-{% include Kazincbarcika.html %}
+{% include settlementHTMLs/Kazincbarcika.html %}
 
 [Vissza](./)

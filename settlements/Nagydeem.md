@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagydém
 ---
 
-{% include Nagydeem.html %}
+{% include settlementHTMLs/Nagydeem.html %}
 
 [Vissza](./)

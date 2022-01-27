@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dad
 ---
 
-{% include Dad.html %}
+{% include settlementHTMLs/Dad.html %}
 
 [Vissza](./)

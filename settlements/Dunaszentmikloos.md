@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dunaszentmiklós
 ---
 
-{% include Dunaszentmikloos.html %}
+{% include settlementHTMLs/Dunaszentmikloos.html %}
 
 [Vissza](./)

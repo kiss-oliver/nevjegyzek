@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szava
 ---
 
-{% include Szava.html %}
+{% include settlementHTMLs/Szava.html %}
 
 [Vissza](./)

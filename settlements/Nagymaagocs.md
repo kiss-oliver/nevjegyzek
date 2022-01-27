@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagymágocs
 ---
 
-{% include Nagymaagocs.html %}
+{% include settlementHTMLs/Nagymaagocs.html %}
 
 [Vissza](./)

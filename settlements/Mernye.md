@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mernye
 ---
 
-{% include Mernye.html %}
+{% include settlementHTMLs/Mernye.html %}
 
 [Vissza](./)

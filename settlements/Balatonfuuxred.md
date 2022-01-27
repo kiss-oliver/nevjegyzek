@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonfüred
 ---
 
-{% include Balatonfuuxred.html %}
+{% include settlementHTMLs/Balatonfuuxred.html %}
 
 [Vissza](./)

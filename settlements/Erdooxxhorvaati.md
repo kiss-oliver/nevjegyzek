@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erdőhorváti
 ---
 
-{% include Erdooxxhorvaati.html %}
+{% include settlementHTMLs/Erdooxxhorvaati.html %}
 
 [Vissza](./)

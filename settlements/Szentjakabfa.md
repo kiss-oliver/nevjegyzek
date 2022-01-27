@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentjakabfa
 ---
 
-{% include Szentjakabfa.html %}
+{% include settlementHTMLs/Szentjakabfa.html %}
 
 [Vissza](./)

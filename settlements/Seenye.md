@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Sénye
 ---
 
-{% include Seenye.html %}
+{% include settlementHTMLs/Seenye.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csaroda
 ---
 
-{% include Csaroda.html %}
+{% include settlementHTMLs/Csaroda.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Zsarolyán
 ---
 
-{% include Zsarolyaan.html %}
+{% include settlementHTMLs/Zsarolyaan.html %}
 
 [Vissza](./)

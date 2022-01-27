@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pusztacsó
 ---
 
-{% include Pusztacsoo.html %}
+{% include settlementHTMLs/Pusztacsoo.html %}
 
 [Vissza](./)

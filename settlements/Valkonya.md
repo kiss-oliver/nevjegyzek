@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Valkonya
 ---
 
-{% include Valkonya.html %}
+{% include settlementHTMLs/Valkonya.html %}
 
 [Vissza](./)

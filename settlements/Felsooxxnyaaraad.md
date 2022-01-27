@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Felsőnyárád
 ---
 
-{% include Felsooxxnyaaraad.html %}
+{% include settlementHTMLs/Felsooxxnyaaraad.html %}
 
 [Vissza](./)

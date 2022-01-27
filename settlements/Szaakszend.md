@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szákszend
 ---
 
-{% include Szaakszend.html %}
+{% include settlementHTMLs/Szaakszend.html %}
 
 [Vissza](./)

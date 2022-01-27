@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pázmándfalu
 ---
 
-{% include Paazmaandfalu.html %}
+{% include settlementHTMLs/Paazmaandfalu.html %}
 
 [Vissza](./)

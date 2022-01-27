@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Töltéstava
 ---
 
-{% include Tooxlteestava.html %}
+{% include settlementHTMLs/Tooxlteestava.html %}
 
 [Vissza](./)

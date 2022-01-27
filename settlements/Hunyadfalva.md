@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hunyadfalva
 ---
 
-{% include Hunyadfalva.html %}
+{% include settlementHTMLs/Hunyadfalva.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyulaháza
 ---
 
-{% include Gyulahaaza.html %}
+{% include settlementHTMLs/Gyulahaaza.html %}
 
 [Vissza](./)

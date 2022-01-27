@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bosta
 ---
 
-{% include Bosta.html %}
+{% include settlementHTMLs/Bosta.html %}
 
 [Vissza](./)

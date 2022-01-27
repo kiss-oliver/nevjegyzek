@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bokor
 ---
 
-{% include Bokor.html %}
+{% include settlementHTMLs/Bokor.html %}
 
 [Vissza](./)

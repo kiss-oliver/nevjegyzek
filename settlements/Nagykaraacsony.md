@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Nagykarácsony
 ---
 
-{% include Nagykaraacsony.html %}
+{% include settlementHTMLs/Nagykaraacsony.html %}
 
 [Vissza](./)

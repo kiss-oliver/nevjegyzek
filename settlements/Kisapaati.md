@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisapáti
 ---
 
-{% include Kisapaati.html %}
+{% include settlementHTMLs/Kisapaati.html %}
 
 [Vissza](./)

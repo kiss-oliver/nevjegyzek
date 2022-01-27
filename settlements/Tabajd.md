@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tabajd
 ---
 
-{% include Tabajd.html %}
+{% include settlementHTMLs/Tabajd.html %}
 
 [Vissza](./)

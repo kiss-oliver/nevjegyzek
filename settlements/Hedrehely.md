@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hedrehely
 ---
 
-{% include Hedrehely.html %}
+{% include settlementHTMLs/Hedrehely.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kemeneshőgyész
 ---
 
-{% include Kemeneshooxxgyeesz.html %}
+{% include settlementHTMLs/Kemeneshooxxgyeesz.html %}
 
 [Vissza](./)

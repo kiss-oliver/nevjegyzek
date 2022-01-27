@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kardoskút
 ---
 
-{% include Kardoskuut.html %}
+{% include settlementHTMLs/Kardoskuut.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Andrásfa
 ---
 
-{% include Andraasfa.html %}
+{% include settlementHTMLs/Andraasfa.html %}
 
 [Vissza](./)

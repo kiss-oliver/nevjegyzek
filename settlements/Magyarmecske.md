@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyarmecske
 ---
 
-{% include Magyarmecske.html %}
+{% include settlementHTMLs/Magyarmecske.html %}
 
 [Vissza](./)

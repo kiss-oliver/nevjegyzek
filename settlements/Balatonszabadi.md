@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Balatonszabadi
 ---
 
-{% include Balatonszabadi.html %}
+{% include settlementHTMLs/Balatonszabadi.html %}
 
 [Vissza](./)

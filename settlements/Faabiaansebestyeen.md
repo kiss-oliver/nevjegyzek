@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fábiánsebestyén
 ---
 
-{% include Faabiaansebestyeen.html %}
+{% include settlementHTMLs/Faabiaansebestyeen.html %}
 
 [Vissza](./)

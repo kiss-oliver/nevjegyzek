@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dudar
 ---
 
-{% include Dudar.html %}
+{% include settlementHTMLs/Dudar.html %}
 
 [Vissza](./)

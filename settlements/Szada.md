@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szada
 ---
 
-{% include Szada.html %}
+{% include settlementHTMLs/Szada.html %}
 
 [Vissza](./)

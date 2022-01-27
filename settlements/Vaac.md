@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vác
 ---
 
-{% include Vaac.html %}
+{% include settlementHTMLs/Vaac.html %}
 
 [Vissza](./)

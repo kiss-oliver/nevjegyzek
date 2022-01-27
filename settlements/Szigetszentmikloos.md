@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigetszentmiklós
 ---
 
-{% include Szigetszentmikloos.html %}
+{% include settlementHTMLs/Szigetszentmikloos.html %}
 
 [Vissza](./)

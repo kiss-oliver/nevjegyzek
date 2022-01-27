@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bogyoszló
 ---
 
-{% include Bogyoszloo.html %}
+{% include settlementHTMLs/Bogyoszloo.html %}
 
 [Vissza](./)

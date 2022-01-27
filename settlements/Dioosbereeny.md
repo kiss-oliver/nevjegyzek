@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Diósberény
 ---
 
-{% include Dioosbereeny.html %}
+{% include settlementHTMLs/Dioosbereeny.html %}
 
 [Vissza](./)

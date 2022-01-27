@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kenéz
 ---
 
-{% include Keneez.html %}
+{% include settlementHTMLs/Keneez.html %}
 
 [Vissza](./)

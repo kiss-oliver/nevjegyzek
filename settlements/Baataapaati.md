@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bátaapáti
 ---
 
-{% include Baataapaati.html %}
+{% include settlementHTMLs/Baataapaati.html %}
 
 [Vissza](./)

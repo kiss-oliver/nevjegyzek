@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tormás
 ---
 
-{% include Tormaas.html %}
+{% include settlementHTMLs/Tormaas.html %}
 
 [Vissza](./)

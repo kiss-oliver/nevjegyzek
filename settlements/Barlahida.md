@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Barlahida
 ---
 
-{% include Barlahida.html %}
+{% include settlementHTMLs/Barlahida.html %}
 
 [Vissza](./)

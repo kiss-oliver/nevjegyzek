@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hencida
 ---
 
-{% include Hencida.html %}
+{% include settlementHTMLs/Hencida.html %}
 
 [Vissza](./)

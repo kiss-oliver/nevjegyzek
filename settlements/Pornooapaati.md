@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pornóapáti
 ---
 
-{% include Pornooapaati.html %}
+{% include settlementHTMLs/Pornooapaati.html %}
 
 [Vissza](./)

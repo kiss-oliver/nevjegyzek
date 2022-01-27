@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Dömös
 ---
 
-{% include Dooxmooxs.html %}
+{% include settlementHTMLs/Dooxmooxs.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rakamaz
 ---
 
-{% include Rakamaz.html %}
+{% include settlementHTMLs/Rakamaz.html %}
 
 [Vissza](./)

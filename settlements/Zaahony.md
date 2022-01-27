@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Záhony
 ---
 
-{% include Zaahony.html %}
+{% include settlementHTMLs/Zaahony.html %}
 
 [Vissza](./)

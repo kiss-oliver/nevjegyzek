@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisrozvágy
 ---
 
-{% include Kisrozvaagy.html %}
+{% include settlementHTMLs/Kisrozvaagy.html %}
 
 [Vissza](./)

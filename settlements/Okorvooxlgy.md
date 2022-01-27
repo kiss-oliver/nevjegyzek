@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Okorvölgy
 ---
 
-{% include Okorvooxlgy.html %}
+{% include settlementHTMLs/Okorvooxlgy.html %}
 
 [Vissza](./)

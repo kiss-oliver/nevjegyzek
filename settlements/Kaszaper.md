@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kaszaper
 ---
 
-{% include Kaszaper.html %}
+{% include settlementHTMLs/Kaszaper.html %}
 
 [Vissza](./)

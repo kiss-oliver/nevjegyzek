@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ivánc
 ---
 
-{% include Ivaanc.html %}
+{% include settlementHTMLs/Ivaanc.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kereki
 ---
 
-{% include Kereki.html %}
+{% include settlementHTMLs/Kereki.html %}
 
 [Vissza](./)

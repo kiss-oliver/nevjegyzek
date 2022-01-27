@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szentpéterfa
 ---
 
-{% include Szentpeeterfa.html %}
+{% include settlementHTMLs/Szentpeeterfa.html %}
 
 [Vissza](./)

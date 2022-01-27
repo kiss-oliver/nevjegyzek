@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boldogkőújfalu
 ---
 
-{% include Boldogkooxxuujfalu.html %}
+{% include settlementHTMLs/Boldogkooxxuujfalu.html %}
 
 [Vissza](./)

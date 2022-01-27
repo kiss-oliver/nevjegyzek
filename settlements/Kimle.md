@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kimle
 ---
 
-{% include Kimle.html %}
+{% include settlementHTMLs/Kimle.html %}
 
 [Vissza](./)

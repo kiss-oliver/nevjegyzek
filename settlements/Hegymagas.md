@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hegymagas
 ---
 
-{% include Hegymagas.html %}
+{% include settlementHTMLs/Hegymagas.html %}
 
 [Vissza](./)

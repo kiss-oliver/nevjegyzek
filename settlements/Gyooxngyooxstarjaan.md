@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Gyöngyöstarján
 ---
 
-{% include Gyooxngyooxstarjaan.html %}
+{% include settlementHTMLs/Gyooxngyooxstarjaan.html %}
 
 [Vissza](./)

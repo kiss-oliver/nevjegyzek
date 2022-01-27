@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kiskőrös
 ---
 
-{% include Kiskooxxrooxs.html %}
+{% include settlementHTMLs/Kiskooxxrooxs.html %}
 
 [Vissza](./)

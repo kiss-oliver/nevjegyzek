@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bikács
 ---
 
-{% include Bikaacs.html %}
+{% include settlementHTMLs/Bikaacs.html %}
 
 [Vissza](./)

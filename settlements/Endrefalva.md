@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Endrefalva
 ---
 
-{% include Endrefalva.html %}
+{% include settlementHTMLs/Endrefalva.html %}
 
 [Vissza](./)

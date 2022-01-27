@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szárföld
 ---
 
-{% include Szaarfooxld.html %}
+{% include settlementHTMLs/Szaarfooxld.html %}
 
 [Vissza](./)

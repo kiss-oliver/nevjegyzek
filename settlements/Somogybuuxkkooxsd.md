@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Somogybükkösd
 ---
 
-{% include Somogybuuxkkooxsd.html %}
+{% include settlementHTMLs/Somogybuuxkkooxsd.html %}
 
 [Vissza](./)

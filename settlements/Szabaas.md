@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szabás
 ---
 
-{% include Szabaas.html %}
+{% include settlementHTMLs/Szabaas.html %}
 
 [Vissza](./)

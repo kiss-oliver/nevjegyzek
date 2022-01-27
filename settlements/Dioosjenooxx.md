@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Diósjenő
 ---
 
-{% include Dioosjenooxx.html %}
+{% include settlementHTMLs/Dioosjenooxx.html %}
 
 [Vissza](./)

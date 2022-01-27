@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szögliget
 ---
 
-{% include Szooxgliget.html %}
+{% include settlementHTMLs/Szooxgliget.html %}
 
 [Vissza](./)

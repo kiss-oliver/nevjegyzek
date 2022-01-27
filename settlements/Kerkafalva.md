@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kerkafalva
 ---
 
-{% include Kerkafalva.html %}
+{% include settlementHTMLs/Kerkafalva.html %}
 
 [Vissza](./)

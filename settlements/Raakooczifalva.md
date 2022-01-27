@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Rákóczifalva
 ---
 
-{% include Raakooczifalva.html %}
+{% include settlementHTMLs/Raakooczifalva.html %}
 
 [Vissza](./)

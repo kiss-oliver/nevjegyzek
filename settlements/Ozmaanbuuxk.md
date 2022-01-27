@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ozmánbük
 ---
 
-{% include Ozmaanbuuxk.html %}
+{% include settlementHTMLs/Ozmaanbuuxk.html %}
 
 [Vissza](./)

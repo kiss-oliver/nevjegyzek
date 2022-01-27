@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsószuha
 ---
 
-{% include Alsooszuha.html %}
+{% include settlementHTMLs/Alsooszuha.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Csanytelek
 ---
 
-{% include Csanytelek.html %}
+{% include settlementHTMLs/Csanytelek.html %}
 
 [Vissza](./)

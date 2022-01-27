@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejőkeresztúr
 ---
 
-{% include Hejooxxkeresztuur.html %}
+{% include settlementHTMLs/Hejooxxkeresztuur.html %}
 
 [Vissza](./)

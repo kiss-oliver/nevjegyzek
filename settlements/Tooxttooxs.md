@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Töttös
 ---
 
-{% include Tooxttooxs.html %}
+{% include settlementHTMLs/Tooxttooxs.html %}
 
 [Vissza](./)

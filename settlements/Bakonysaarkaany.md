@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Bakonysárkány
 ---
 
-{% include Bakonysaarkaany.html %}
+{% include settlementHTMLs/Bakonysaarkaany.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kerkaszentkirály
 ---
 
-{% include Kerkaszentkiraaly.html %}
+{% include settlementHTMLs/Kerkaszentkiraaly.html %}
 
 [Vissza](./)

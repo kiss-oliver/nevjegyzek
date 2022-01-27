@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Boldogasszonyfa
 ---
 
-{% include Boldogasszonyfa.html %}
+{% include settlementHTMLs/Boldogasszonyfa.html %}
 
 [Vissza](./)

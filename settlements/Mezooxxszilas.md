@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mezőszilas
 ---
 
-{% include Mezooxxszilas.html %}
+{% include settlementHTMLs/Mezooxxszilas.html %}
 
 [Vissza](./)

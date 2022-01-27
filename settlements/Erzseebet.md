@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Erzsébet
 ---
 
-{% include Erzseebet.html %}
+{% include settlementHTMLs/Erzseebet.html %}
 
 [Vissza](./)

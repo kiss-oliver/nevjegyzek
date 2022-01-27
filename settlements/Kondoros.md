@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kondoros
 ---
 
-{% include Kondoros.html %}
+{% include settlementHTMLs/Kondoros.html %}
 
 [Vissza](./)

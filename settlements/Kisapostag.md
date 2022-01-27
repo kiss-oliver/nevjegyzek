@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisapostag
 ---
 
-{% include Kisapostag.html %}
+{% include settlementHTMLs/Kisapostag.html %}
 
 [Vissza](./)

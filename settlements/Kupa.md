@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kupa
 ---
 
-{% include Kupa.html %}
+{% include settlementHTMLs/Kupa.html %}
 
 [Vissza](./)

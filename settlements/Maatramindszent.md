@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Mátramindszent
 ---
 
-{% include Maatramindszent.html %}
+{% include settlementHTMLs/Maatramindszent.html %}
 
 [Vissza](./)

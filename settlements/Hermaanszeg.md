@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hermánszeg
 ---
 
-{% include Hermaanszeg.html %}
+{% include settlementHTMLs/Hermaanszeg.html %}
 
 [Vissza](./)

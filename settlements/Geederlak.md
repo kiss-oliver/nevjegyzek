@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Géderlak
 ---
 
-{% include Geederlak.html %}
+{% include settlementHTMLs/Geederlak.html %}
 
 [Vissza](./)

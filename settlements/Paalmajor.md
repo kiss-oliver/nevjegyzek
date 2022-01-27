@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Pálmajor
 ---
 
-{% include Paalmajor.html %}
+{% include settlementHTMLs/Paalmajor.html %}
 
 [Vissza](./)

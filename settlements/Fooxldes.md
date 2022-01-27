@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Földes
 ---
 
-{% include Fooxldes.html %}
+{% include settlementHTMLs/Fooxldes.html %}
 
 [Vissza](./)

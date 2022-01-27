@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hejőkürt
 ---
 
-{% include Hejooxxkuuxrt.html %}
+{% include settlementHTMLs/Hejooxxkuuxrt.html %}
 
 [Vissza](./)

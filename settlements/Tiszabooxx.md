@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tiszabő
 ---
 
-{% include Tiszabooxx.html %}
+{% include settlementHTMLs/Tiszabooxx.html %}
 
 [Vissza](./)

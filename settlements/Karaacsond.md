@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Karácsond
 ---
 
-{% include Karaacsond.html %}
+{% include settlementHTMLs/Karaacsond.html %}
 
 [Vissza](./)

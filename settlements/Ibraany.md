@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Ibrány
 ---
 
-{% include Ibraany.html %}
+{% include settlementHTMLs/Ibraany.html %}
 
 [Vissza](./)

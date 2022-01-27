@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Alsónemesapáti
 ---
 
-{% include Alsoonemesapaati.html %}
+{% include settlementHTMLs/Alsoonemesapaati.html %}
 
 [Vissza](./)

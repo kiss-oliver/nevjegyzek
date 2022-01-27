@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Püspökladány
 ---
 
-{% include Puuxspooxkladaany.html %}
+{% include settlementHTMLs/Puuxspooxkladaany.html %}
 
 [Vissza](./)

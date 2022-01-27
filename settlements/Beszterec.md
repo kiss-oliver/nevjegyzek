@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Beszterec
 ---
 
-{% include Beszterec.html %}
+{% include settlementHTMLs/Beszterec.html %}
 
 [Vissza](./)

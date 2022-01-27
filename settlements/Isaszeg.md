@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Isaszeg
 ---
 
-{% include Isaszeg.html %}
+{% include settlementHTMLs/Isaszeg.html %}
 
 [Vissza](./)

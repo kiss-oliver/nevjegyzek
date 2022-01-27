@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kisbér
 ---
 
-{% include Kisbeer.html %}
+{% include settlementHTMLs/Kisbeer.html %}
 
 [Vissza](./)

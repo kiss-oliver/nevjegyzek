@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Belsősárd
 ---
 
-{% include Belsooxxsaard.html %}
+{% include settlementHTMLs/Belsooxxsaard.html %}
 
 [Vissza](./)

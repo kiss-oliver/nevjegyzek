@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Almásháza
 ---
 
-{% include Almaashaaza.html %}
+{% include settlementHTMLs/Almaashaaza.html %}
 
 [Vissza](./)

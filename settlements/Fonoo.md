@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fonó
 ---
 
-{% include Fonoo.html %}
+{% include settlementHTMLs/Fonoo.html %}
 
 [Vissza](./)

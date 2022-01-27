@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Told
 ---
 
-{% include Told.html %}
+{% include settlementHTMLs/Told.html %}
 
 [Vissza](./)

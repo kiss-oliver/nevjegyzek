@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Fertőendréd
 ---
 
-{% include Fertooxxendreed.html %}
+{% include settlementHTMLs/Fertooxxendreed.html %}
 
 [Vissza](./)

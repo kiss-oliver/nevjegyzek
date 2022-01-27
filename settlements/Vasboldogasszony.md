@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vasboldogasszony
 ---
 
-{% include Vasboldogasszony.html %}
+{% include settlementHTMLs/Vasboldogasszony.html %}
 
 [Vissza](./)

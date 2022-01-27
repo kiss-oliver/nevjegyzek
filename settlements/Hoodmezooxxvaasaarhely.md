@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Hódmezővásárhely
 ---
 
-{% include Hoodmezooxxvaasaarhely.html %}
+{% include settlementHTMLs/Hoodmezooxxvaasaarhely.html %}
 
 [Vissza](./)

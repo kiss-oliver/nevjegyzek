@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Magyaralmás
 ---
 
-{% include Magyaralmaas.html %}
+{% include settlementHTMLs/Magyaralmaas.html %}
 
 [Vissza](./)

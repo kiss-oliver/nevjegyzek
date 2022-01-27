@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Almamellék
 ---
 
-{% include Almamelleek.html %}
+{% include settlementHTMLs/Almamelleek.html %}
 
 [Vissza](./)

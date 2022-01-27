@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Kerkateskánd
 ---
 
-{% include Kerkateskaand.html %}
+{% include settlementHTMLs/Kerkateskaand.html %}
 
 [Vissza](./)

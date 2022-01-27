@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Vejti
 ---
 
-{% include Vejti.html %}
+{% include settlementHTMLs/Vejti.html %}
 
 [Vissza](./)

@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Döbröce
 ---
 
-{% include Dooxbrooxce.html %}
+{% include settlementHTMLs/Dooxbrooxce.html %}
 
 [Vissza](./)

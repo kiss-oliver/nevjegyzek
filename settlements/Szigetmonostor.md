@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Szigetmonostor
 ---
 
-{% include Szigetmonostor.html %}
+{% include settlementHTMLs/Szigetmonostor.html %}
 
 [Vissza](./)

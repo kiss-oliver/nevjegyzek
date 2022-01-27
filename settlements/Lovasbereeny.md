@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Lovasberény
 ---
 
-{% include Lovasbereeny.html %}
+{% include settlementHTMLs/Lovasbereeny.html %}
 
 [Vissza](./)
