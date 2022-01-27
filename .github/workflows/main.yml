@@ -41,5 +41,6 @@ jobs:
           git add SumFigures/*.json
           git add OEVKfigures/*.json
           git add SZKfigures/*.json
-          git commit -m "Update main summary charts using update data workflow."
+          git add *.txt
+          git commit -m "Update all charts using update data workflow."
           git push
