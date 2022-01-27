@@ -5,6 +5,9 @@ import unidecode
 df = pd.read_csv('../106/data/summary.csv')
 df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 
+with open('../_includes/latestdata.txt', 'w') as f:
+    f.write(str(df.Datum.max()))
+
 df = df.rename(columns={'nemzreSzavaz':'Nemzetiségi listára szavaz','partlistara':'Pártlistára szavaz','levelben':'Levélben szavaz','magyarLakc':'Magyarországi lakcímmel rendelkezik','lakcSzavkorSzavaz':'Lakcíme szerinti szavazókörben szavaz'})
 
 for stat in ['Nemzetiségi listára szavaz', 'Pártlistára szavaz','Levélben szavaz','Magyarországi lakcímmel rendelkezik','Lakcíme szerinti szavazókörben szavaz']:

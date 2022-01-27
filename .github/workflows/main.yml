@@ -35,6 +35,7 @@ jobs:
           python3 generate_county_charts.py
           python3 generate_szk_charts.py
           cd ../_includes
+          date > lastrun.txt
           git config --global user.name 'Automated workflow - Update data'
           git config --global user.email 'kiss-oliver@users.noreply.github.com'
           git add SumFigures/*.json
