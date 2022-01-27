@@ -37,7 +37,7 @@ jobs:
           cd ../_includes
           git config --global user.name 'Automated workflow - Update data'
           git config --global user.email 'kiss-oliver@users.noreply.github.com'
-          git add ./*.json
+          git add SumFigures/*.json
           git add OEVKfigures/*.json
           git add SZKfigures/*.json
           git commit -m "Update main summary charts using update data workflow."

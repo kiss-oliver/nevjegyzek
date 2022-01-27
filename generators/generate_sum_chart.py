@@ -53,7 +53,7 @@ for stat in ['Nemzetiségi listára szavaz', 'Pártlistára szavaz','Levélben s
         width=600, height=50, title=stat, padding={"left": 5, "top": 5, "right": 50, "bottom": 5}
     )
     
-    ch.save('../_includes/{}.json'.format(unidecode.unidecode(stat.replace(" ",""))))
+    ch.save('../_includes/SumFigures/{}.json'.format(unidecode.unidecode(stat.replace(" ",""))))
 
 
 tr = {'bolgar':'Bolgár',
@@ -116,4 +116,4 @@ for stat in tr.keys():
         width=600, height=50, title=tr[stat], padding={"left": 5, "top": 5, "right": 50, "bottom": 5}
     )
     
-    ch.save('../_includes/{}.json'.format(unidecode.unidecode(stat)))
+    ch.save('../_includes/SumFigures/{}.json'.format(unidecode.unidecode(stat)))
