@@ -6,4 +6,4 @@ description: Zalaszegvár
 
 {% include settlementHTMLs/Zalaszegvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

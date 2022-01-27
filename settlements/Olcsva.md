@@ -6,4 +6,4 @@ description: Olcsva
 
 {% include settlementHTMLs/Olcsva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csólyospálos
 
 {% include settlementHTMLs/Csoolyospaalos.html %}
 
-[Vissza](./)
+[Vissza](../)

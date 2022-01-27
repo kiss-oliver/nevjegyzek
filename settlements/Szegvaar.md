@@ -6,4 +6,4 @@ description: Szegvár
 
 {% include settlementHTMLs/Szegvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csönge
 
 {% include settlementHTMLs/Csooxnge.html %}
 
-[Vissza](./)
+[Vissza](../)

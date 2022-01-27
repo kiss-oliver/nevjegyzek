@@ -6,4 +6,4 @@ description: Dány
 
 {% include settlementHTMLs/Daany.html %}
 
-[Vissza](./)
+[Vissza](../)

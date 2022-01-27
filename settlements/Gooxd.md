@@ -6,4 +6,4 @@ description: Göd
 
 {% include settlementHTMLs/Gooxd.html %}
 
-[Vissza](./)
+[Vissza](../)

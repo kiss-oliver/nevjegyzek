@@ -6,4 +6,4 @@ description: Etyek
 
 {% include settlementHTMLs/Etyek.html %}
 
-[Vissza](./)
+[Vissza](../)

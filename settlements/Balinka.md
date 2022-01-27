@@ -6,4 +6,4 @@ description: Balinka
 
 {% include settlementHTMLs/Balinka.html %}
 
-[Vissza](./)
+[Vissza](../)

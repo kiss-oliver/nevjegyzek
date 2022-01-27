@@ -6,4 +6,4 @@ description: Újlengyel
 
 {% include settlementHTMLs/UUjlengyel.html %}
 
-[Vissza](./)
+[Vissza](../)

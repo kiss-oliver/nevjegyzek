@@ -6,4 +6,4 @@ description: Bátonyterenye
 
 {% include settlementHTMLs/Baatonyterenye.html %}
 
-[Vissza](./)
+[Vissza](../)

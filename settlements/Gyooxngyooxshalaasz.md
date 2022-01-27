@@ -6,4 +6,4 @@ description: Gyöngyöshalász
 
 {% include settlementHTMLs/Gyooxngyooxshalaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

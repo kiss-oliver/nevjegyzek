@@ -6,4 +6,4 @@ description: Jánd
 
 {% include settlementHTMLs/Jaand.html %}
 
-[Vissza](./)
+[Vissza](../)

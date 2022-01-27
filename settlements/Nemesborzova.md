@@ -6,4 +6,4 @@ description: Nemesborzova
 
 {% include settlementHTMLs/Nemesborzova.html %}
 
-[Vissza](./)
+[Vissza](../)

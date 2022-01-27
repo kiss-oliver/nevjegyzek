@@ -6,4 +6,4 @@ description: Ötvöskónyi
 
 {% include settlementHTMLs/OOXtvooxskoonyi.html %}
 
-[Vissza](./)
+[Vissza](../)

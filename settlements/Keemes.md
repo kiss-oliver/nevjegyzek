@@ -6,4 +6,4 @@ description: Kémes
 
 {% include settlementHTMLs/Keemes.html %}
 
-[Vissza](./)
+[Vissza](../)

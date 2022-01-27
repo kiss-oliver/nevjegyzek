@@ -6,4 +6,4 @@ description: Kenézlő
 
 {% include settlementHTMLs/Keneezlooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

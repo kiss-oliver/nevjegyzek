@@ -6,4 +6,4 @@ description: Nagybakónak
 
 {% include settlementHTMLs/Nagybakoonak.html %}
 
-[Vissza](./)
+[Vissza](../)

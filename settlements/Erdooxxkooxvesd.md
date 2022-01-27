@@ -6,4 +6,4 @@ description: Erdőkövesd
 
 {% include settlementHTMLs/Erdooxxkooxvesd.html %}
 
-[Vissza](./)
+[Vissza](../)

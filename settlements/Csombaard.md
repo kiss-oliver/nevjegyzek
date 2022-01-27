@@ -6,4 +6,4 @@ description: Csombárd
 
 {% include settlementHTMLs/Csombaard.html %}
 
-[Vissza](./)
+[Vissza](../)

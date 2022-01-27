@@ -6,4 +6,4 @@ description: Oroszló
 
 {% include settlementHTMLs/Oroszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

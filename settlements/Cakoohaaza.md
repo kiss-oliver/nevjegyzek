@@ -6,4 +6,4 @@ description: Cakóháza
 
 {% include settlementHTMLs/Cakoohaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

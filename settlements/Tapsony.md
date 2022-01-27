@@ -6,4 +6,4 @@ description: Tapsony
 
 {% include settlementHTMLs/Tapsony.html %}
 
-[Vissza](./)
+[Vissza](../)

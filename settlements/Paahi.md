@@ -6,4 +6,4 @@ description: Páhi
 
 {% include settlementHTMLs/Paahi.html %}
 
-[Vissza](./)
+[Vissza](../)

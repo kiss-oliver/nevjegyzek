@@ -6,4 +6,4 @@ description: Vonyarcvashegy
 
 {% include settlementHTMLs/Vonyarcvashegy.html %}
 
-[Vissza](./)
+[Vissza](../)

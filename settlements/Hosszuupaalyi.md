@@ -6,4 +6,4 @@ description: Hosszúpályi
 
 {% include settlementHTMLs/Hosszuupaalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

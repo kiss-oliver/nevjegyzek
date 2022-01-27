@@ -6,4 +6,4 @@ description: Tápszentmiklós
 
 {% include settlementHTMLs/Taapszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

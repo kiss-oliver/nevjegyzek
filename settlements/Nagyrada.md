@@ -6,4 +6,4 @@ description: Nagyrada
 
 {% include settlementHTMLs/Nagyrada.html %}
 
-[Vissza](./)
+[Vissza](../)

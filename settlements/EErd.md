@@ -6,4 +6,4 @@ description: Érd
 
 {% include settlementHTMLs/EErd.html %}
 
-[Vissza](./)
+[Vissza](../)

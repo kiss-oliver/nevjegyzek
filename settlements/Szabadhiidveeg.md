@@ -6,4 +6,4 @@ description: Szabadhídvég
 
 {% include settlementHTMLs/Szabadhiidveeg.html %}
 
-[Vissza](./)
+[Vissza](../)

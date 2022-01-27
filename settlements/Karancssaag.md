@@ -6,4 +6,4 @@ description: Karancsság
 
 {% include settlementHTMLs/Karancssaag.html %}
 
-[Vissza](./)
+[Vissza](../)

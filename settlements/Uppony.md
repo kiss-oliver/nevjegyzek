@@ -6,4 +6,4 @@ description: Uppony
 
 {% include settlementHTMLs/Uppony.html %}
 
-[Vissza](./)
+[Vissza](../)

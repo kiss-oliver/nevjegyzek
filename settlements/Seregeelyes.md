@@ -6,4 +6,4 @@ description: Seregélyes
 
 {% include settlementHTMLs/Seregeelyes.html %}
 
-[Vissza](./)
+[Vissza](../)

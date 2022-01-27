@@ -6,4 +6,4 @@ description: Csömör
 
 {% include settlementHTMLs/Csooxmooxr.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Óhíd
 
 {% include settlementHTMLs/OOhiid.html %}
 
-[Vissza](./)
+[Vissza](../)

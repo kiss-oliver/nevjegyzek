@@ -6,4 +6,4 @@ description: Balatonőszöd
 
 {% include settlementHTMLs/Balatonooxxszooxd.html %}
 
-[Vissza](./)
+[Vissza](../)

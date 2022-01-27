@@ -6,4 +6,4 @@ description: Géderlak
 
 {% include settlementHTMLs/Geederlak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kurityán
 
 {% include settlementHTMLs/Kurityaan.html %}
 
-[Vissza](./)
+[Vissza](../)

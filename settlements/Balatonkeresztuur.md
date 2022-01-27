@@ -6,4 +6,4 @@ description: Balatonkeresztúr
 
 {% include settlementHTMLs/Balatonkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

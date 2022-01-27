@@ -6,4 +6,4 @@ description: Hahót
 
 {% include settlementHTMLs/Hahoot.html %}
 
-[Vissza](./)
+[Vissza](../)

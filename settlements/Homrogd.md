@@ -6,4 +6,4 @@ description: Homrogd
 
 {% include settlementHTMLs/Homrogd.html %}
 
-[Vissza](./)
+[Vissza](../)

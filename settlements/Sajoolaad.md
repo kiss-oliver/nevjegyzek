@@ -6,4 +6,4 @@ description: Sajólád
 
 {% include settlementHTMLs/Sajoolaad.html %}
 
-[Vissza](./)
+[Vissza](../)

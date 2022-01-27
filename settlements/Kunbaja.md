@@ -6,4 +6,4 @@ description: Kunbaja
 
 {% include settlementHTMLs/Kunbaja.html %}
 
-[Vissza](./)
+[Vissza](../)

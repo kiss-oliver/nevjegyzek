@@ -6,4 +6,4 @@ description: Enese
 
 {% include settlementHTMLs/Enese.html %}
 
-[Vissza](./)
+[Vissza](../)

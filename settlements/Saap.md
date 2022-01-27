@@ -6,4 +6,4 @@ description: Sáp
 
 {% include settlementHTMLs/Saap.html %}
 
-[Vissza](./)
+[Vissza](../)

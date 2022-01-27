@@ -6,4 +6,4 @@ description: Kupa
 
 {% include settlementHTMLs/Kupa.html %}
 
-[Vissza](./)
+[Vissza](../)

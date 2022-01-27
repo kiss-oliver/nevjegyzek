@@ -6,4 +6,4 @@ description: Ormosbánya
 
 {% include settlementHTMLs/Ormosbaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

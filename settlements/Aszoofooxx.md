@@ -6,4 +6,4 @@ description: Aszófő
 
 {% include settlementHTMLs/Aszoofooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

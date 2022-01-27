@@ -6,4 +6,4 @@ description: Lápafő
 
 {% include settlementHTMLs/Laapafooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

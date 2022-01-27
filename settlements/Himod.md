@@ -6,4 +6,4 @@ description: Himod
 
 {% include settlementHTMLs/Himod.html %}
 
-[Vissza](./)
+[Vissza](../)

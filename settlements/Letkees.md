@@ -6,4 +6,4 @@ description: Letkés
 
 {% include settlementHTMLs/Letkees.html %}
 
-[Vissza](./)
+[Vissza](../)

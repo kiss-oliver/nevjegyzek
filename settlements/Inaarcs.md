@@ -6,4 +6,4 @@ description: Inárcs
 
 {% include settlementHTMLs/Inaarcs.html %}
 
-[Vissza](./)
+[Vissza](../)

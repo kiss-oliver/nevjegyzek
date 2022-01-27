@@ -6,4 +6,4 @@ description: Cegléd
 
 {% include settlementHTMLs/Cegleed.html %}
 
-[Vissza](./)
+[Vissza](../)

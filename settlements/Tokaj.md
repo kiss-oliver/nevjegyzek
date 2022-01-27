@@ -6,4 +6,4 @@ description: Tokaj
 
 {% include settlementHTMLs/Tokaj.html %}
 
-[Vissza](./)
+[Vissza](../)

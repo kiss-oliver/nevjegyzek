@@ -6,4 +6,4 @@ description: Zalaszentmihály
 
 {% include settlementHTMLs/Zalaszentmihaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

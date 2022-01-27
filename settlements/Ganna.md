@@ -6,4 +6,4 @@ description: Ganna
 
 {% include settlementHTMLs/Ganna.html %}
 
-[Vissza](./)
+[Vissza](../)

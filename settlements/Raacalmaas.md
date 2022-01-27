@@ -6,4 +6,4 @@ description: Rácalmás
 
 {% include settlementHTMLs/Raacalmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

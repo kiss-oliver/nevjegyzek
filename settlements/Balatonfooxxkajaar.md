@@ -6,4 +6,4 @@ description: Balatonfőkajár
 
 {% include settlementHTMLs/Balatonfooxxkajaar.html %}
 
-[Vissza](./)
+[Vissza](../)

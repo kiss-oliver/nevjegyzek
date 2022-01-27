@@ -6,4 +6,4 @@ description: Budapest I. kerület
 
 {% include settlementHTMLs/BudapestIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

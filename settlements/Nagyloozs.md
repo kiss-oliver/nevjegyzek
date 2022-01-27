@@ -6,4 +6,4 @@ description: Nagylózs
 
 {% include settlementHTMLs/Nagyloozs.html %}
 
-[Vissza](./)
+[Vissza](../)

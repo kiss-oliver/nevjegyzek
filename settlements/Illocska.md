@@ -6,4 +6,4 @@ description: Illocska
 
 {% include settlementHTMLs/Illocska.html %}
 
-[Vissza](./)
+[Vissza](../)

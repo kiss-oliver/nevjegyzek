@@ -6,4 +6,4 @@ description: Kazár
 
 {% include settlementHTMLs/Kazaar.html %}
 
-[Vissza](./)
+[Vissza](../)

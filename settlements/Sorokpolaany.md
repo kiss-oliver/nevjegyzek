@@ -6,4 +6,4 @@ description: Sorokpolány
 
 {% include settlementHTMLs/Sorokpolaany.html %}
 
-[Vissza](./)
+[Vissza](../)

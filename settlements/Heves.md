@@ -6,4 +6,4 @@ description: Heves
 
 {% include settlementHTMLs/Heves.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bükkszentkereszt
 
 {% include settlementHTMLs/Buuxkkszentkereszt.html %}
 
-[Vissza](./)
+[Vissza](../)

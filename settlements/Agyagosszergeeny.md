@@ -6,4 +6,4 @@ description: Agyagosszergény
 
 {% include settlementHTMLs/Agyagosszergeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tápióbicske
 
 {% include settlementHTMLs/Taapioobicske.html %}
 
-[Vissza](./)
+[Vissza](../)

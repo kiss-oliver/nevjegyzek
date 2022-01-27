@@ -6,4 +6,4 @@ description: Kerekegyháza
 
 {% include settlementHTMLs/Kerekegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

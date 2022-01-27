@@ -6,4 +6,4 @@ description: Girincs
 
 {% include settlementHTMLs/Girincs.html %}
 
-[Vissza](./)
+[Vissza](../)

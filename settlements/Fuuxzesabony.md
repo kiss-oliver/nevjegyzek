@@ -6,4 +6,4 @@ description: Füzesabony
 
 {% include settlementHTMLs/Fuuxzesabony.html %}
 
-[Vissza](./)
+[Vissza](../)

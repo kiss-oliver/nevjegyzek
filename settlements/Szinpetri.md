@@ -6,4 +6,4 @@ description: Szinpetri
 
 {% include settlementHTMLs/Szinpetri.html %}
 
-[Vissza](./)
+[Vissza](../)

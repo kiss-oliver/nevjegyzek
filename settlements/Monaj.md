@@ -6,4 +6,4 @@ description: Monaj
 
 {% include settlementHTMLs/Monaj.html %}
 
-[Vissza](./)
+[Vissza](../)

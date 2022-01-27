@@ -6,4 +6,4 @@ description: Terény
 
 {% include settlementHTMLs/Tereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

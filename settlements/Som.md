@@ -6,4 +6,4 @@ description: Som
 
 {% include settlementHTMLs/Som.html %}
 
-[Vissza](./)
+[Vissza](../)

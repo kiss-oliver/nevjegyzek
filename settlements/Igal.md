@@ -6,4 +6,4 @@ description: Igal
 
 {% include settlementHTMLs/Igal.html %}
 
-[Vissza](./)
+[Vissza](../)

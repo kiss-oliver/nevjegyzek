@@ -6,4 +6,4 @@ description: Atkár
 
 {% include settlementHTMLs/Atkaar.html %}
 
-[Vissza](./)
+[Vissza](../)

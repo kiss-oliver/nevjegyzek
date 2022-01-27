@@ -6,4 +6,4 @@ description: Poroszló
 
 {% include settlementHTMLs/Poroszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

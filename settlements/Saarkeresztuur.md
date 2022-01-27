@@ -6,4 +6,4 @@ description: Sárkeresztúr
 
 {% include settlementHTMLs/Saarkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

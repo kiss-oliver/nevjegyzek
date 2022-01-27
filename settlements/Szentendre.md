@@ -6,4 +6,4 @@ description: Szentendre
 
 {% include settlementHTMLs/Szentendre.html %}
 
-[Vissza](./)
+[Vissza](../)

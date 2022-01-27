@@ -6,4 +6,4 @@ description: Pusztamérges
 
 {% include settlementHTMLs/Pusztameerges.html %}
 
-[Vissza](./)
+[Vissza](../)

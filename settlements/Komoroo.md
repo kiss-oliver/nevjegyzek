@@ -6,4 +6,4 @@ description: Komoró
 
 {% include settlementHTMLs/Komoroo.html %}
 
-[Vissza](./)
+[Vissza](../)

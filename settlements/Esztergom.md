@@ -6,4 +6,4 @@ description: Esztergom
 
 {% include settlementHTMLs/Esztergom.html %}
 
-[Vissza](./)
+[Vissza](../)

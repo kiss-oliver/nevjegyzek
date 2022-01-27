@@ -6,4 +6,4 @@ description: Várpalota
 
 {% include settlementHTMLs/Vaarpalota.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gerde
 
 {% include settlementHTMLs/Gerde.html %}
 
-[Vissza](./)
+[Vissza](../)

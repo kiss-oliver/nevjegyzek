@@ -6,4 +6,4 @@ description: Ásotthalom
 
 {% include settlementHTMLs/AAsotthalom.html %}
 
-[Vissza](./)
+[Vissza](../)

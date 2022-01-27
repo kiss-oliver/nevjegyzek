@@ -6,4 +6,4 @@ description: Nagykutas
 
 {% include settlementHTMLs/Nagykutas.html %}
 
-[Vissza](./)
+[Vissza](../)

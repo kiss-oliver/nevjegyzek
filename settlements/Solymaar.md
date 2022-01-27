@@ -6,4 +6,4 @@ description: Solymár
 
 {% include settlementHTMLs/Solymaar.html %}
 
-[Vissza](./)
+[Vissza](../)

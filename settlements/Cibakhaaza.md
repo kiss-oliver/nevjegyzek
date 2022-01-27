@@ -6,4 +6,4 @@ description: Cibakháza
 
 {% include settlementHTMLs/Cibakhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

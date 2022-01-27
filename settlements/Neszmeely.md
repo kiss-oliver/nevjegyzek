@@ -6,4 +6,4 @@ description: Neszmély
 
 {% include settlementHTMLs/Neszmeely.html %}
 
-[Vissza](./)
+[Vissza](../)

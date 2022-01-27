@@ -6,4 +6,4 @@ description: Nagybarca
 
 {% include settlementHTMLs/Nagybarca.html %}
 
-[Vissza](./)
+[Vissza](../)

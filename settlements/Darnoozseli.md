@@ -6,4 +6,4 @@ description: Darnózseli
 
 {% include settlementHTMLs/Darnoozseli.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Úny
 
 {% include settlementHTMLs/UUny.html %}
 
-[Vissza](./)
+[Vissza](../)

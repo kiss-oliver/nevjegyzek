@@ -6,4 +6,4 @@ description: Palé
 
 {% include settlementHTMLs/Palee.html %}
 
-[Vissza](./)
+[Vissza](../)

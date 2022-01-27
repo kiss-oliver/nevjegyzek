@@ -6,4 +6,4 @@ description: Pátroha
 
 {% include settlementHTMLs/Paatroha.html %}
 
-[Vissza](./)
+[Vissza](../)

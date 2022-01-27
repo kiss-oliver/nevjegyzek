@@ -6,4 +6,4 @@ description: Vállus
 
 {% include settlementHTMLs/Vaallus.html %}
 
-[Vissza](./)
+[Vissza](../)

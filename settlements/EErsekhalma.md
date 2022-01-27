@@ -6,4 +6,4 @@ description: Érsekhalma
 
 {% include settlementHTMLs/EErsekhalma.html %}
 
-[Vissza](./)
+[Vissza](../)

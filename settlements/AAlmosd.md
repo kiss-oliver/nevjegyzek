@@ -6,4 +6,4 @@ description: Álmosd
 
 {% include settlementHTMLs/AAlmosd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csaholc
 
 {% include settlementHTMLs/Csaholc.html %}
 
-[Vissza](./)
+[Vissza](../)

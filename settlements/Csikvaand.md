@@ -6,4 +6,4 @@ description: Csikvánd
 
 {% include settlementHTMLs/Csikvaand.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szamosszeg
 
 {% include settlementHTMLs/Szamosszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

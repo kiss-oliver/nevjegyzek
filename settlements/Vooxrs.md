@@ -6,4 +6,4 @@ description: Vörs
 
 {% include settlementHTMLs/Vooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

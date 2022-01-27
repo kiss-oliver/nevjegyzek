@@ -6,4 +6,4 @@ description: Szendrő
 
 {% include settlementHTMLs/Szendrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

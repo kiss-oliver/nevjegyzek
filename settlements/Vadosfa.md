@@ -6,4 +6,4 @@ description: Vadosfa
 
 {% include settlementHTMLs/Vadosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

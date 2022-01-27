@@ -6,4 +6,4 @@ description: Szőlősardó
 
 {% include settlementHTMLs/Szooxxlooxxsardoo.html %}
 
-[Vissza](./)
+[Vissza](../)

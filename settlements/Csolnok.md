@@ -6,4 +6,4 @@ description: Csolnok
 
 {% include settlementHTMLs/Csolnok.html %}
 
-[Vissza](./)
+[Vissza](../)

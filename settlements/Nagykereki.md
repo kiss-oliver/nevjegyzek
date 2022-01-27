@@ -6,4 +6,4 @@ description: Nagykereki
 
 {% include settlementHTMLs/Nagykereki.html %}
 
-[Vissza](./)
+[Vissza](../)

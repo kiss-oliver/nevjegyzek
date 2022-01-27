@@ -6,4 +6,4 @@ description: Kétegyháza
 
 {% include settlementHTMLs/Keetegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

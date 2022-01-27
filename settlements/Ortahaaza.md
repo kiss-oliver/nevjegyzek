@@ -6,4 +6,4 @@ description: Ortaháza
 
 {% include settlementHTMLs/Ortahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

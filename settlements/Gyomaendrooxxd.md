@@ -6,4 +6,4 @@ description: Gyomaendrőd
 
 {% include settlementHTMLs/Gyomaendrooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

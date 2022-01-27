@@ -6,4 +6,4 @@ description: Nagyigmánd
 
 {% include settlementHTMLs/Nagyigmaand.html %}
 
-[Vissza](./)
+[Vissza](../)

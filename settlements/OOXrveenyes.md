@@ -6,4 +6,4 @@ description: Örvényes
 
 {% include settlementHTMLs/OOXrveenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

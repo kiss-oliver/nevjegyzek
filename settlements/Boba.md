@@ -6,4 +6,4 @@ description: Boba
 
 {% include settlementHTMLs/Boba.html %}
 
-[Vissza](./)
+[Vissza](../)

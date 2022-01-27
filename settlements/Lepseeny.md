@@ -6,4 +6,4 @@ description: Lepsény
 
 {% include settlementHTMLs/Lepseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

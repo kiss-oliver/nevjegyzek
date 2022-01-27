@@ -6,4 +6,4 @@ description: Feldebrő
 
 {% include settlementHTMLs/Feldebrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Versend
 
 {% include settlementHTMLs/Versend.html %}
 
-[Vissza](./)
+[Vissza](../)

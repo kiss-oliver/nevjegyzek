@@ -6,4 +6,4 @@ description: Boldogkőújfalu
 
 {% include settlementHTMLs/Boldogkooxxuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

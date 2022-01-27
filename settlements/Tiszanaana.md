@@ -6,4 +6,4 @@ description: Tiszanána
 
 {% include settlementHTMLs/Tiszanaana.html %}
 
-[Vissza](./)
+[Vissza](../)

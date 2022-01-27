@@ -6,4 +6,4 @@ description: Balatonkenese
 
 {% include settlementHTMLs/Balatonkenese.html %}
 
-[Vissza](./)
+[Vissza](../)

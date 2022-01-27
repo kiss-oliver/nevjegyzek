@@ -6,4 +6,4 @@ description: Bernecebaráti
 
 {% include settlementHTMLs/Bernecebaraati.html %}
 
-[Vissza](./)
+[Vissza](../)

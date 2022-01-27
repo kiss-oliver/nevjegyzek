@@ -6,4 +6,4 @@ description: Velény
 
 {% include settlementHTMLs/Veleeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szalánta
 
 {% include settlementHTMLs/Szalaanta.html %}
 
-[Vissza](./)
+[Vissza](../)

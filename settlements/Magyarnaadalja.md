@@ -6,4 +6,4 @@ description: Magyarnádalja
 
 {% include settlementHTMLs/Magyarnaadalja.html %}
 
-[Vissza](./)
+[Vissza](../)

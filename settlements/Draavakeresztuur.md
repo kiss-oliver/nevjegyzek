@@ -6,4 +6,4 @@ description: Drávakeresztúr
 
 {% include settlementHTMLs/Draavakeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

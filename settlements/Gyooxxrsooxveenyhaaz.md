@@ -6,4 +6,4 @@ description: Győrsövényház
 
 {% include settlementHTMLs/Gyooxxrsooxveenyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

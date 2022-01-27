@@ -6,4 +6,4 @@ description: Tiszapüspöki
 
 {% include settlementHTMLs/Tiszapuuxspooxki.html %}
 
-[Vissza](./)
+[Vissza](../)

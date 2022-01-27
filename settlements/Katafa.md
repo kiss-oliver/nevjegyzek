@@ -6,4 +6,4 @@ description: Katafa
 
 {% include settlementHTMLs/Katafa.html %}
 
-[Vissza](./)
+[Vissza](../)

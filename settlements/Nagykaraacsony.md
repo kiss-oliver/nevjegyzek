@@ -6,4 +6,4 @@ description: Nagykarácsony
 
 {% include settlementHTMLs/Nagykaraacsony.html %}
 
-[Vissza](./)
+[Vissza](../)

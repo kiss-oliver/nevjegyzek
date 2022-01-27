@@ -6,4 +6,4 @@ description: Szuha
 
 {% include settlementHTMLs/Szuha.html %}
 
-[Vissza](./)
+[Vissza](../)

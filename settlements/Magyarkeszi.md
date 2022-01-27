@@ -6,4 +6,4 @@ description: Magyarkeszi
 
 {% include settlementHTMLs/Magyarkeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

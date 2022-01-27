@@ -6,4 +6,4 @@ description: Óföldeák
 
 {% include settlementHTMLs/OOfooxldeaak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tardos
 
 {% include settlementHTMLs/Tardos.html %}
 
-[Vissza](./)
+[Vissza](../)

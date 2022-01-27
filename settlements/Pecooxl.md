@@ -6,4 +6,4 @@ description: Pecöl
 
 {% include settlementHTMLs/Pecooxl.html %}
 
-[Vissza](./)
+[Vissza](../)

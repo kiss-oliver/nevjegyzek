@@ -6,4 +6,4 @@ description: Körösnagyharsány
 
 {% include settlementHTMLs/Kooxrooxsnagyharsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

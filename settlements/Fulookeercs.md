@@ -6,4 +6,4 @@ description: Fulókércs
 
 {% include settlementHTMLs/Fulookeercs.html %}
 
-[Vissza](./)
+[Vissza](../)

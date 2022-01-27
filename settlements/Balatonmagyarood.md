@@ -6,4 +6,4 @@ description: Balatonmagyaród
 
 {% include settlementHTMLs/Balatonmagyarood.html %}
 
-[Vissza](./)
+[Vissza](../)

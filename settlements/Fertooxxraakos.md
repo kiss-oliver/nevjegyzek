@@ -6,4 +6,4 @@ description: Fertőrákos
 
 {% include settlementHTMLs/Fertooxxraakos.html %}
 
-[Vissza](./)
+[Vissza](../)

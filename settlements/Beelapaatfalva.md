@@ -6,4 +6,4 @@ description: Bélapátfalva
 
 {% include settlementHTMLs/Beelapaatfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

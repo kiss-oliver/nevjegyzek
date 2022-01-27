@@ -6,4 +6,4 @@ description: Tardona
 
 {% include settlementHTMLs/Tardona.html %}
 
-[Vissza](./)
+[Vissza](../)

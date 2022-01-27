@@ -6,4 +6,4 @@ description: Beret
 
 {% include settlementHTMLs/Beret.html %}
 
-[Vissza](./)
+[Vissza](../)

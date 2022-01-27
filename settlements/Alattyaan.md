@@ -6,4 +6,4 @@ description: Alattyán
 
 {% include settlementHTMLs/Alattyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

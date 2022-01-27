@@ -6,4 +6,4 @@ description: Galgagyörk
 
 {% include settlementHTMLs/Galgagyooxrk.html %}
 
-[Vissza](./)
+[Vissza](../)

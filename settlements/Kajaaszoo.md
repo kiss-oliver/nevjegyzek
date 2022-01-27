@@ -6,4 +6,4 @@ description: Kajászó
 
 {% include settlementHTMLs/Kajaaszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

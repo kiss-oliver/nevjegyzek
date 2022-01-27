@@ -6,4 +6,4 @@ description: Teklafalu
 
 {% include settlementHTMLs/Teklafalu.html %}
 
-[Vissza](./)
+[Vissza](../)

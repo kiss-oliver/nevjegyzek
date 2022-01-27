@@ -6,4 +6,4 @@ description: Felsővadász
 
 {% include settlementHTMLs/Felsooxxvadaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

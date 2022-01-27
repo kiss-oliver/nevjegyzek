@@ -6,4 +6,4 @@ description: Szulok
 
 {% include settlementHTMLs/Szulok.html %}
 
-[Vissza](./)
+[Vissza](../)

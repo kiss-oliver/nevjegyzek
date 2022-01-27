@@ -6,4 +6,4 @@ description: Nagykinizs
 
 {% include settlementHTMLs/Nagykinizs.html %}
 
-[Vissza](./)
+[Vissza](../)

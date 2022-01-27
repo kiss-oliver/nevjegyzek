@@ -6,4 +6,4 @@ description: Petőháza
 
 {% include settlementHTMLs/Petooxxhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

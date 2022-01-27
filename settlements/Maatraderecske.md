@@ -6,4 +6,4 @@ description: Mátraderecske
 
 {% include settlementHTMLs/Maatraderecske.html %}
 
-[Vissza](./)
+[Vissza](../)

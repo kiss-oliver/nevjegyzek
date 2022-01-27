@@ -6,4 +6,4 @@ description: Nagyesztergár
 
 {% include settlementHTMLs/Nagyesztergaar.html %}
 
-[Vissza](./)
+[Vissza](../)

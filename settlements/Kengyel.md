@@ -6,4 +6,4 @@ description: Kengyel
 
 {% include settlementHTMLs/Kengyel.html %}
 
-[Vissza](./)
+[Vissza](../)

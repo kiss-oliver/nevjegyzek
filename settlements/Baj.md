@@ -6,4 +6,4 @@ description: Baj
 
 {% include settlementHTMLs/Baj.html %}
 
-[Vissza](./)
+[Vissza](../)

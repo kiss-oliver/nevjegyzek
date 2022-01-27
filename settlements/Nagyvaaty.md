@@ -6,4 +6,4 @@ description: Nagyváty
 
 {% include settlementHTMLs/Nagyvaaty.html %}
 
-[Vissza](./)
+[Vissza](../)

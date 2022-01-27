@@ -6,4 +6,4 @@ description: Fertőszéplak
 
 {% include settlementHTMLs/Fertooxxszeeplak.html %}
 
-[Vissza](./)
+[Vissza](../)

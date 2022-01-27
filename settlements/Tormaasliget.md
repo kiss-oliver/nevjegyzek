@@ -6,4 +6,4 @@ description: Tormásliget
 
 {% include settlementHTMLs/Tormaasliget.html %}
 
-[Vissza](./)
+[Vissza](../)

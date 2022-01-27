@@ -6,4 +6,4 @@ description: Domoszló
 
 {% include settlementHTMLs/Domoszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

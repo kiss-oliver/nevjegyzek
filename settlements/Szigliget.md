@@ -6,4 +6,4 @@ description: Szigliget
 
 {% include settlementHTMLs/Szigliget.html %}
 
-[Vissza](./)
+[Vissza](../)

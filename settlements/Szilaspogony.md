@@ -6,4 +6,4 @@ description: Szilaspogony
 
 {% include settlementHTMLs/Szilaspogony.html %}
 
-[Vissza](./)
+[Vissza](../)

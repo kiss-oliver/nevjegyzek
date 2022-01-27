@@ -6,4 +6,4 @@ description: Doboz
 
 {% include settlementHTMLs/Doboz.html %}
 
-[Vissza](./)
+[Vissza](../)

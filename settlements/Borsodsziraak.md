@@ -6,4 +6,4 @@ description: Borsodszirák
 
 {% include settlementHTMLs/Borsodsziraak.html %}
 
-[Vissza](./)
+[Vissza](../)

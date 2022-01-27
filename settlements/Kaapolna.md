@@ -6,4 +6,4 @@ description: Kápolna
 
 {% include settlementHTMLs/Kaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

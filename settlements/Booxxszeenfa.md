@@ -6,4 +6,4 @@ description: Bőszénfa
 
 {% include settlementHTMLs/Booxxszeenfa.html %}
 
-[Vissza](./)
+[Vissza](../)

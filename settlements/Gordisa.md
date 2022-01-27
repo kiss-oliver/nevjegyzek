@@ -6,4 +6,4 @@ description: Gordisa
 
 {% include settlementHTMLs/Gordisa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Drágszél
 
 {% include settlementHTMLs/Draagszeel.html %}
 
-[Vissza](./)
+[Vissza](../)

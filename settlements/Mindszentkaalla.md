@@ -6,4 +6,4 @@ description: Mindszentkálla
 
 {% include settlementHTMLs/Mindszentkaalla.html %}
 
-[Vissza](./)
+[Vissza](../)

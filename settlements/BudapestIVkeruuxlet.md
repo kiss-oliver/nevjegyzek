@@ -6,4 +6,4 @@ description: Budapest IV. kerület
 
 {% include settlementHTMLs/BudapestIVkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

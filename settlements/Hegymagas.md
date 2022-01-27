@@ -6,4 +6,4 @@ description: Hegymagas
 
 {% include settlementHTMLs/Hegymagas.html %}
 
-[Vissza](./)
+[Vissza](../)

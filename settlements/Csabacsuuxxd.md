@@ -6,4 +6,4 @@ description: Csabacsűd
 
 {% include settlementHTMLs/Csabacsuuxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

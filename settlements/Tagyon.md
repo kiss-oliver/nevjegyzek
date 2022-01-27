@@ -6,4 +6,4 @@ description: Tagyon
 
 {% include settlementHTMLs/Tagyon.html %}
 
-[Vissza](./)
+[Vissza](../)

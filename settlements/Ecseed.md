@@ -6,4 +6,4 @@ description: Ecséd
 
 {% include settlementHTMLs/Ecseed.html %}
 
-[Vissza](./)
+[Vissza](../)

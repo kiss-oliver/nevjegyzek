@@ -6,4 +6,4 @@ description: Uraiújfalu
 
 {% include settlementHTMLs/Uraiuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

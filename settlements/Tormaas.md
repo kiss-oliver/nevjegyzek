@@ -6,4 +6,4 @@ description: Tormás
 
 {% include settlementHTMLs/Tormaas.html %}
 
-[Vissza](./)
+[Vissza](../)

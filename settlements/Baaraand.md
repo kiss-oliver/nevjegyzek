@@ -6,4 +6,4 @@ description: Báránd
 
 {% include settlementHTMLs/Baaraand.html %}
 
-[Vissza](./)
+[Vissza](../)

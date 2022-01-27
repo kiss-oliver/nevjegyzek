@@ -6,4 +6,4 @@ description: Szécsény
 
 {% include settlementHTMLs/Szeecseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

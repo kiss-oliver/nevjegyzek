@@ -6,4 +6,4 @@ description: Lánycsók
 
 {% include settlementHTMLs/Laanycsook.html %}
 
-[Vissza](./)
+[Vissza](../)

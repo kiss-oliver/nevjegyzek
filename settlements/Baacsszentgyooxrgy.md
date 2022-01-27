@@ -6,4 +6,4 @@ description: Bácsszentgyörgy
 
 {% include settlementHTMLs/Baacsszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

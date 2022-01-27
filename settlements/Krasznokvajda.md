@@ -6,4 +6,4 @@ description: Krasznokvajda
 
 {% include settlementHTMLs/Krasznokvajda.html %}
 
-[Vissza](./)
+[Vissza](../)

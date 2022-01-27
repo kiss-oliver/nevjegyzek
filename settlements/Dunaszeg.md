@@ -6,4 +6,4 @@ description: Dunaszeg
 
 {% include settlementHTMLs/Dunaszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

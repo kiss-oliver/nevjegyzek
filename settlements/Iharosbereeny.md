@@ -6,4 +6,4 @@ description: Iharosberény
 
 {% include settlementHTMLs/Iharosbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

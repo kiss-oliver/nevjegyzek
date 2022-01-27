@@ -6,4 +6,4 @@ description: Sirok
 
 {% include settlementHTMLs/Sirok.html %}
 
-[Vissza](./)
+[Vissza](../)

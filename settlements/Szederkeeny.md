@@ -6,4 +6,4 @@ description: Szederkény
 
 {% include settlementHTMLs/Szederkeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

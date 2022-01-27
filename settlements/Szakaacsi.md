@@ -6,4 +6,4 @@ description: Szakácsi
 
 {% include settlementHTMLs/Szakaacsi.html %}
 
-[Vissza](./)
+[Vissza](../)

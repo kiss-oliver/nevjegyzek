@@ -6,4 +6,4 @@ description: Makkoshotyka
 
 {% include settlementHTMLs/Makkoshotyka.html %}
 
-[Vissza](./)
+[Vissza](../)

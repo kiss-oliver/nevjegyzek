@@ -6,4 +6,4 @@ description: Nemesapáti
 
 {% include settlementHTMLs/Nemesapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

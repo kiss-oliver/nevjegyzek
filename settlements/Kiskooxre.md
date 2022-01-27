@@ -6,4 +6,4 @@ description: Kisköre
 
 {% include settlementHTMLs/Kiskooxre.html %}
 
-[Vissza](./)
+[Vissza](../)

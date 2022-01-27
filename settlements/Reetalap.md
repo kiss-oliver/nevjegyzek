@@ -6,4 +6,4 @@ description: Rétalap
 
 {% include settlementHTMLs/Reetalap.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gyűrűs
 
 {% include settlementHTMLs/Gyuuxxruuxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

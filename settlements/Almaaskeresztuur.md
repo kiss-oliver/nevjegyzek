@@ -6,4 +6,4 @@ description: Almáskeresztúr
 
 {% include settlementHTMLs/Almaaskeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

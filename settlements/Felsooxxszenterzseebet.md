@@ -6,4 +6,4 @@ description: Felsőszenterzsébet
 
 {% include settlementHTMLs/Felsooxxszenterzseebet.html %}
 
-[Vissza](./)
+[Vissza](../)

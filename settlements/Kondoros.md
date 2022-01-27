@@ -6,4 +6,4 @@ description: Kondoros
 
 {% include settlementHTMLs/Kondoros.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szamostatárfalva
 
 {% include settlementHTMLs/Szamostataarfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

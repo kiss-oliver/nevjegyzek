@@ -6,4 +6,4 @@ description: Pusztaederics
 
 {% include settlementHTMLs/Pusztaederics.html %}
 
-[Vissza](./)
+[Vissza](../)

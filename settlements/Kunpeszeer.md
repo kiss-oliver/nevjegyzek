@@ -6,4 +6,4 @@ description: Kunpeszér
 
 {% include settlementHTMLs/Kunpeszeer.html %}
 
-[Vissza](./)
+[Vissza](../)

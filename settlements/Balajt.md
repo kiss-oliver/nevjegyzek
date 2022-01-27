@@ -6,4 +6,4 @@ description: Balajt
 
 {% include settlementHTMLs/Balajt.html %}
 
-[Vissza](./)
+[Vissza](../)

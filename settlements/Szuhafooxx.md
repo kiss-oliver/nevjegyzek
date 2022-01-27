@@ -6,4 +6,4 @@ description: Szuhafő
 
 {% include settlementHTMLs/Szuhafooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mád
 
 {% include settlementHTMLs/Maad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kondorfa
 
 {% include settlementHTMLs/Kondorfa.html %}
 
-[Vissza](./)
+[Vissza](../)

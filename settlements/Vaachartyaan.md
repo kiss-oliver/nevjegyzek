@@ -6,4 +6,4 @@ description: Váchartyán
 
 {% include settlementHTMLs/Vaachartyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

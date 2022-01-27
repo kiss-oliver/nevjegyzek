@@ -6,4 +6,4 @@ description: Rózsaszentmárton
 
 {% include settlementHTMLs/Roozsaszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

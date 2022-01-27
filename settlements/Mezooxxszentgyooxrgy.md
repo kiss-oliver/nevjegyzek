@@ -6,4 +6,4 @@ description: Mezőszentgyörgy
 
 {% include settlementHTMLs/Mezooxxszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Almásháza
 
 {% include settlementHTMLs/Almaashaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

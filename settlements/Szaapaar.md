@@ -6,4 +6,4 @@ description: Szápár
 
 {% include settlementHTMLs/Szaapaar.html %}
 
-[Vissza](./)
+[Vissza](../)

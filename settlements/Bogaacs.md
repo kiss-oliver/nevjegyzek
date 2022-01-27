@@ -6,4 +6,4 @@ description: Bogács
 
 {% include settlementHTMLs/Bogaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

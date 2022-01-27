@@ -6,4 +6,4 @@ description: Abda
 
 {% include settlementHTMLs/Abda.html %}
 
-[Vissza](./)
+[Vissza](../)

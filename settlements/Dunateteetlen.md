@@ -6,4 +6,4 @@ description: Dunatetétlen
 
 {% include settlementHTMLs/Dunateteetlen.html %}
 
-[Vissza](./)
+[Vissza](../)

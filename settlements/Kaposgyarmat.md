@@ -6,4 +6,4 @@ description: Kaposgyarmat
 
 {% include settlementHTMLs/Kaposgyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

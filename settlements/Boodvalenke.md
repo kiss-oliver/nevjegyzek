@@ -6,4 +6,4 @@ description: Bódvalenke
 
 {% include settlementHTMLs/Boodvalenke.html %}
 
-[Vissza](./)
+[Vissza](../)

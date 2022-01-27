@@ -6,4 +6,4 @@ description: Zalatárnok
 
 {% include settlementHTMLs/Zalataarnok.html %}
 
-[Vissza](./)
+[Vissza](../)

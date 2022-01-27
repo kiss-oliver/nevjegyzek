@@ -6,4 +6,4 @@ description: Sárvár
 
 {% include settlementHTMLs/Saarvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

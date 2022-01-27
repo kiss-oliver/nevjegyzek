@@ -6,4 +6,4 @@ description: Kisigmánd
 
 {% include settlementHTMLs/Kisigmaand.html %}
 
-[Vissza](./)
+[Vissza](../)

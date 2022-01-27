@@ -6,4 +6,4 @@ description: Csorna
 
 {% include settlementHTMLs/Csorna.html %}
 
-[Vissza](./)
+[Vissza](../)

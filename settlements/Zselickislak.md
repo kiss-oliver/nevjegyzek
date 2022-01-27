@@ -6,4 +6,4 @@ description: Zselickislak
 
 {% include settlementHTMLs/Zselickislak.html %}
 
-[Vissza](./)
+[Vissza](../)

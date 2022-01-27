@@ -6,4 +6,4 @@ description: Geszteréd
 
 {% include settlementHTMLs/Gesztereed.html %}
 
-[Vissza](./)
+[Vissza](../)

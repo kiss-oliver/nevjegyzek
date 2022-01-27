@@ -6,4 +6,4 @@ description: Nyírtura
 
 {% include settlementHTMLs/Nyiirtura.html %}
 
-[Vissza](./)
+[Vissza](../)

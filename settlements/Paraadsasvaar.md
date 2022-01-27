@@ -6,4 +6,4 @@ description: Parádsasvár
 
 {% include settlementHTMLs/Paraadsasvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

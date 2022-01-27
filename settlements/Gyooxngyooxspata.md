@@ -6,4 +6,4 @@ description: Gyöngyöspata
 
 {% include settlementHTMLs/Gyooxngyooxspata.html %}
 
-[Vissza](./)
+[Vissza](../)

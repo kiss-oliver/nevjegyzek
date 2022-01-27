@@ -6,4 +6,4 @@ description: Lesencefalu
 
 {% include settlementHTMLs/Lesencefalu.html %}
 
-[Vissza](./)
+[Vissza](../)

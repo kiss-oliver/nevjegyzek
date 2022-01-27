@@ -6,4 +6,4 @@ description: Baracska
 
 {% include settlementHTMLs/Baracska.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kiscsehi
 
 {% include settlementHTMLs/Kiscsehi.html %}
 
-[Vissza](./)
+[Vissza](../)

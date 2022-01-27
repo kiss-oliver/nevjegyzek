@@ -6,4 +6,4 @@ description: Völcsej
 
 {% include settlementHTMLs/Vooxlcsej.html %}
 
-[Vissza](./)
+[Vissza](../)

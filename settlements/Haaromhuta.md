@@ -6,4 +6,4 @@ description: Háromhuta
 
 {% include settlementHTMLs/Haaromhuta.html %}
 
-[Vissza](./)
+[Vissza](../)

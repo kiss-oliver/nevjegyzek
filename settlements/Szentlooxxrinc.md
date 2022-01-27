@@ -6,4 +6,4 @@ description: Szentlőrinc
 
 {% include settlementHTMLs/Szentlooxxrinc.html %}
 
-[Vissza](./)
+[Vissza](../)

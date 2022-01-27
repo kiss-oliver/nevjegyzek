@@ -6,4 +6,4 @@ description: Drávafok
 
 {% include settlementHTMLs/Draavafok.html %}
 
-[Vissza](./)
+[Vissza](../)

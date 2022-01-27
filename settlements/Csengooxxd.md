@@ -6,4 +6,4 @@ description: Csengőd
 
 {% include settlementHTMLs/Csengooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

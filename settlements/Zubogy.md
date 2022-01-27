@@ -6,4 +6,4 @@ description: Zubogy
 
 {% include settlementHTMLs/Zubogy.html %}
 
-[Vissza](./)
+[Vissza](../)

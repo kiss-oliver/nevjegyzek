@@ -6,4 +6,4 @@ description: Köveskál
 
 {% include settlementHTMLs/Kooxveskaal.html %}
 
-[Vissza](./)
+[Vissza](../)

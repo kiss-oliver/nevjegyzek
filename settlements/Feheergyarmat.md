@@ -6,4 +6,4 @@ description: Fehérgyarmat
 
 {% include settlementHTMLs/Feheergyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mohács
 
 {% include settlementHTMLs/Mohaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

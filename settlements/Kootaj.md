@@ -6,4 +6,4 @@ description: Kótaj
 
 {% include settlementHTMLs/Kootaj.html %}
 
-[Vissza](./)
+[Vissza](../)

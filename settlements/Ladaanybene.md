@@ -6,4 +6,4 @@ description: Ladánybene
 
 {% include settlementHTMLs/Ladaanybene.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hosszúpereszteg
 
 {% include settlementHTMLs/Hosszuupereszteg.html %}
 
-[Vissza](./)
+[Vissza](../)

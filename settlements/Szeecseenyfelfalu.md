@@ -6,4 +6,4 @@ description: Szécsényfelfalu
 
 {% include settlementHTMLs/Szeecseenyfelfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

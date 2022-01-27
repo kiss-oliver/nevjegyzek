@@ -6,4 +6,4 @@ description: Magyarföld
 
 {% include settlementHTMLs/Magyarfooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

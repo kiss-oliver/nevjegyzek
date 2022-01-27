@@ -6,4 +6,4 @@ description: Mezőhegyes
 
 {% include settlementHTMLs/Mezooxxhegyes.html %}
 
-[Vissza](./)
+[Vissza](../)

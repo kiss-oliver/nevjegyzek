@@ -6,4 +6,4 @@ description: Budapest IX. kerület
 
 {% include settlementHTMLs/BudapestIXkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

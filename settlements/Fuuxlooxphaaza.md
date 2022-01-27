@@ -6,4 +6,4 @@ description: Fülöpháza
 
 {% include settlementHTMLs/Fuuxlooxphaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

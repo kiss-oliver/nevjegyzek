@@ -6,4 +6,4 @@ description: Pusztaföldvár
 
 {% include settlementHTMLs/Pusztafooxldvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újvárfalva
 
 {% include settlementHTMLs/UUjvaarfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

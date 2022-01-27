@@ -6,4 +6,4 @@ description: Óbánya
 
 {% include settlementHTMLs/OObaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

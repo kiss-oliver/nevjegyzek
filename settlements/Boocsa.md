@@ -6,4 +6,4 @@ description: Bócsa
 
 {% include settlementHTMLs/Boocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

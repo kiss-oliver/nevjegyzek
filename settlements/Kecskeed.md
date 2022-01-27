@@ -6,4 +6,4 @@ description: Kecskéd
 
 {% include settlementHTMLs/Kecskeed.html %}
 
-[Vissza](./)
+[Vissza](../)

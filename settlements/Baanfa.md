@@ -6,4 +6,4 @@ description: Bánfa
 
 {% include settlementHTMLs/Baanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

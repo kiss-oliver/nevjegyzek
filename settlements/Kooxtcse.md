@@ -6,4 +6,4 @@ description: Kötcse
 
 {% include settlementHTMLs/Kooxtcse.html %}
 
-[Vissza](./)
+[Vissza](../)

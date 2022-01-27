@@ -6,4 +6,4 @@ description: Szeged
 
 {% include settlementHTMLs/Szeged.html %}
 
-[Vissza](./)
+[Vissza](../)

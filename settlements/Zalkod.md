@@ -6,4 +6,4 @@ description: Zalkod
 
 {% include settlementHTMLs/Zalkod.html %}
 
-[Vissza](./)
+[Vissza](../)

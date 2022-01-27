@@ -6,4 +6,4 @@ description: Felsőpakony
 
 {% include settlementHTMLs/Felsooxxpakony.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bekecs
 
 {% include settlementHTMLs/Bekecs.html %}
 
-[Vissza](./)
+[Vissza](../)

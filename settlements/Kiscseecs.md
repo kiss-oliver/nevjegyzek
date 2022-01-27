@@ -6,4 +6,4 @@ description: Kiscsécs
 
 {% include settlementHTMLs/Kiscseecs.html %}
 
-[Vissza](./)
+[Vissza](../)

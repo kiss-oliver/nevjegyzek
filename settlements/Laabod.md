@@ -6,4 +6,4 @@ description: Lábod
 
 {% include settlementHTMLs/Laabod.html %}
 
-[Vissza](./)
+[Vissza](../)

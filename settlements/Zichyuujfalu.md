@@ -6,4 +6,4 @@ description: Zichyújfalu
 
 {% include settlementHTMLs/Zichyuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

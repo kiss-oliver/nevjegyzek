@@ -6,4 +6,4 @@ description: Kenyeri
 
 {% include settlementHTMLs/Kenyeri.html %}
 
-[Vissza](./)
+[Vissza](../)

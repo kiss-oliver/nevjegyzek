@@ -6,4 +6,4 @@ description: Cserénfa
 
 {% include settlementHTMLs/Csereenfa.html %}
 
-[Vissza](./)
+[Vissza](../)

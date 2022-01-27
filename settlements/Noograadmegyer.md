@@ -6,4 +6,4 @@ description: Nógrádmegyer
 
 {% include settlementHTMLs/Noograadmegyer.html %}
 
-[Vissza](./)
+[Vissza](../)

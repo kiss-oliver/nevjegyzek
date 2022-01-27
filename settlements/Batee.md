@@ -6,4 +6,4 @@ description: Baté
 
 {% include settlementHTMLs/Batee.html %}
 
-[Vissza](./)
+[Vissza](../)

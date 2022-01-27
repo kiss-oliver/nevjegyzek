@@ -6,4 +6,4 @@ description: Novaj
 
 {% include settlementHTMLs/Novaj.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kazsok
 
 {% include settlementHTMLs/Kazsok.html %}
 
-[Vissza](./)
+[Vissza](../)

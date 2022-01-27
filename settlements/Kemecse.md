@@ -6,4 +6,4 @@ description: Kemecse
 
 {% include settlementHTMLs/Kemecse.html %}
 
-[Vissza](./)
+[Vissza](../)

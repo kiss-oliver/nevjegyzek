@@ -6,4 +6,4 @@ description: Újtelek
 
 {% include settlementHTMLs/UUjtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

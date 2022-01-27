@@ -6,4 +6,4 @@ description: Nagykölked
 
 {% include settlementHTMLs/Nagykooxlked.html %}
 
-[Vissza](./)
+[Vissza](../)

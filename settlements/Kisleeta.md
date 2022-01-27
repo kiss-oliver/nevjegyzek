@@ -6,4 +6,4 @@ description: Kisléta
 
 {% include settlementHTMLs/Kisleeta.html %}
 
-[Vissza](./)
+[Vissza](../)

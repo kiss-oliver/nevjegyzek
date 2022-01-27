@@ -6,4 +6,4 @@ description: Nyírbátor
 
 {% include settlementHTMLs/Nyiirbaator.html %}
 
-[Vissza](./)
+[Vissza](../)

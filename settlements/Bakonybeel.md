@@ -6,4 +6,4 @@ description: Bakonybél
 
 {% include settlementHTMLs/Bakonybeel.html %}
 
-[Vissza](./)
+[Vissza](../)

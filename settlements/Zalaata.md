@@ -6,4 +6,4 @@ description: Zaláta
 
 {% include settlementHTMLs/Zalaata.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Palotás
 
 {% include settlementHTMLs/Palotaas.html %}
 
-[Vissza](./)
+[Vissza](../)

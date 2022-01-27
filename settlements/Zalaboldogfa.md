@@ -6,4 +6,4 @@ description: Zalaboldogfa
 
 {% include settlementHTMLs/Zalaboldogfa.html %}
 
-[Vissza](./)
+[Vissza](../)

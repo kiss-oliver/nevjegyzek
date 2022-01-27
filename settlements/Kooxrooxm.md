@@ -6,4 +6,4 @@ description: Köröm
 
 {% include settlementHTMLs/Kooxrooxm.html %}
 
-[Vissza](./)
+[Vissza](../)

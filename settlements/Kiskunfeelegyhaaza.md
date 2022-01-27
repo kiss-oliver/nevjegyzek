@@ -6,4 +6,4 @@ description: Kiskunfélegyháza
 
 {% include settlementHTMLs/Kiskunfeelegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

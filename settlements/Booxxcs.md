@@ -6,4 +6,4 @@ description: Bőcs
 
 {% include settlementHTMLs/Booxxcs.html %}
 
-[Vissza](./)
+[Vissza](../)

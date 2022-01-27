@@ -6,4 +6,4 @@ description: Baktüttös
 
 {% include settlementHTMLs/Baktuuxttooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

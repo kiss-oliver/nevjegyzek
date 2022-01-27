@@ -6,4 +6,4 @@ description: Gyúró
 
 {% include settlementHTMLs/Gyuuroo.html %}
 
-[Vissza](./)
+[Vissza](../)

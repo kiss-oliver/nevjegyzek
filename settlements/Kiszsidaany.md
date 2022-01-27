@@ -6,4 +6,4 @@ description: Kiszsidány
 
 {% include settlementHTMLs/Kiszsidaany.html %}
 
-[Vissza](./)
+[Vissza](../)

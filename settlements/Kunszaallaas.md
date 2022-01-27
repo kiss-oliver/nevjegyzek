@@ -6,4 +6,4 @@ description: Kunszállás
 
 {% include settlementHTMLs/Kunszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

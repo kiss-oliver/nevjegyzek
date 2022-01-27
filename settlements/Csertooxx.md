@@ -6,4 +6,4 @@ description: Csertő
 
 {% include settlementHTMLs/Csertooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

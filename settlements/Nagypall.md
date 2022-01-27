@@ -6,4 +6,4 @@ description: Nagypall
 
 {% include settlementHTMLs/Nagypall.html %}
 
-[Vissza](./)
+[Vissza](../)

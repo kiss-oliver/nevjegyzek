@@ -6,4 +6,4 @@ description: Bosta
 
 {% include settlementHTMLs/Bosta.html %}
 
-[Vissza](./)
+[Vissza](../)

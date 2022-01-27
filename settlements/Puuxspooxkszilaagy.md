@@ -6,4 +6,4 @@ description: Püspökszilágy
 
 {% include settlementHTMLs/Puuxspooxkszilaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

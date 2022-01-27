@@ -6,4 +6,4 @@ description: Járdánháza
 
 {% include settlementHTMLs/Jaardaanhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

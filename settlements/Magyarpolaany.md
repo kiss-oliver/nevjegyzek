@@ -6,4 +6,4 @@ description: Magyarpolány
 
 {% include settlementHTMLs/Magyarpolaany.html %}
 
-[Vissza](./)
+[Vissza](../)

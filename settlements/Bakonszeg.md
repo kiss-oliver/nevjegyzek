@@ -6,4 +6,4 @@ description: Bakonszeg
 
 {% include settlementHTMLs/Bakonszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

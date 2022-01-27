@@ -6,4 +6,4 @@ description: Miskolc
 
 {% include settlementHTMLs/Miskolc.html %}
 
-[Vissza](./)
+[Vissza](../)

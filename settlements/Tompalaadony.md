@@ -6,4 +6,4 @@ description: Tompaládony
 
 {% include settlementHTMLs/Tompalaadony.html %}
 
-[Vissza](./)
+[Vissza](../)

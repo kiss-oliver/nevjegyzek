@@ -6,4 +6,4 @@ description: Székelyszabar
 
 {% include settlementHTMLs/Szeekelyszabar.html %}
 
-[Vissza](./)
+[Vissza](../)

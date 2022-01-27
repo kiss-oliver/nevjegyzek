@@ -6,4 +6,4 @@ description: Helvécia
 
 {% include settlementHTMLs/Helveecia.html %}
 
-[Vissza](./)
+[Vissza](../)

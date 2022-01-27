@@ -6,4 +6,4 @@ description: Kiskorpád
 
 {% include settlementHTMLs/Kiskorpaad.html %}
 
-[Vissza](./)
+[Vissza](../)

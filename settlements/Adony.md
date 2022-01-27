@@ -6,4 +6,4 @@ description: Adony
 
 {% include settlementHTMLs/Adony.html %}
 
-[Vissza](./)
+[Vissza](../)

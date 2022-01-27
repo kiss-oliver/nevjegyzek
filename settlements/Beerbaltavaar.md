@@ -6,4 +6,4 @@ description: Bérbaltavár
 
 {% include settlementHTMLs/Beerbaltavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

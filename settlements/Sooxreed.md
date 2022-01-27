@@ -6,4 +6,4 @@ description: Söréd
 
 {% include settlementHTMLs/Sooxreed.html %}
 
-[Vissza](./)
+[Vissza](../)

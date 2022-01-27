@@ -6,4 +6,4 @@ description: Egyházashollós
 
 {% include settlementHTMLs/Egyhaazasholloos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Dédestapolcsány
 
 {% include settlementHTMLs/Deedestapolcsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

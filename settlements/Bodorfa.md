@@ -6,4 +6,4 @@ description: Bodorfa
 
 {% include settlementHTMLs/Bodorfa.html %}
 
-[Vissza](./)
+[Vissza](../)

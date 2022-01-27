@@ -6,4 +6,4 @@ description: Őrhalom
 
 {% include settlementHTMLs/ooXXrhalom.html %}
 
-[Vissza](./)
+[Vissza](../)

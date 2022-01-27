@@ -6,4 +6,4 @@ description: Kovácsvágás
 
 {% include settlementHTMLs/Kovaacsvaagaas.html %}
 
-[Vissza](./)
+[Vissza](../)

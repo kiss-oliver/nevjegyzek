@@ -6,4 +6,4 @@ description: Bolhó
 
 {% include settlementHTMLs/Bolhoo.html %}
 
-[Vissza](./)
+[Vissza](../)

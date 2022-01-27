@@ -6,4 +6,4 @@ description: Gyepükaján
 
 {% include settlementHTMLs/Gyepuuxkajaan.html %}
 
-[Vissza](./)
+[Vissza](../)

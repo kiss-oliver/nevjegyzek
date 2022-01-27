@@ -6,4 +6,4 @@ description: Somogyfajsz
 
 {% include settlementHTMLs/Somogyfajsz.html %}
 
-[Vissza](./)
+[Vissza](../)

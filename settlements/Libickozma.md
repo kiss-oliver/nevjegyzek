@@ -6,4 +6,4 @@ description: Libickozma
 
 {% include settlementHTMLs/Libickozma.html %}
 
-[Vissza](./)
+[Vissza](../)

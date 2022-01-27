@@ -6,4 +6,4 @@ description: Visegrád
 
 {% include settlementHTMLs/Visegraad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pápasalamon
 
 {% include settlementHTMLs/Paapasalamon.html %}
 
-[Vissza](./)
+[Vissza](../)

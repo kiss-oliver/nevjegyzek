@@ -6,4 +6,4 @@ description: Berekböszörmény
 
 {% include settlementHTMLs/Berekbooxszooxrmeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szakonyfalu
 
 {% include settlementHTMLs/Szakonyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

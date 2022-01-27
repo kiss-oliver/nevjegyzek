@@ -6,4 +6,4 @@ description: Pankasz
 
 {% include settlementHTMLs/Pankasz.html %}
 
-[Vissza](./)
+[Vissza](../)

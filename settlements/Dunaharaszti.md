@@ -6,4 +6,4 @@ description: Dunaharaszti
 
 {% include settlementHTMLs/Dunaharaszti.html %}
 
-[Vissza](./)
+[Vissza](../)

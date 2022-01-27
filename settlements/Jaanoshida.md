@@ -6,4 +6,4 @@ description: Jánoshida
 
 {% include settlementHTMLs/Jaanoshida.html %}
 
-[Vissza](./)
+[Vissza](../)

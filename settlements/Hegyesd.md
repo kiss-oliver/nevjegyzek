@@ -6,4 +6,4 @@ description: Hegyesd
 
 {% include settlementHTMLs/Hegyesd.html %}
 
-[Vissza](./)
+[Vissza](../)

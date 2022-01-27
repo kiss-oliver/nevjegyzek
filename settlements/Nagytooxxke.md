@@ -6,4 +6,4 @@ description: Nagytőke
 
 {% include settlementHTMLs/Nagytooxxke.html %}
 
-[Vissza](./)
+[Vissza](../)

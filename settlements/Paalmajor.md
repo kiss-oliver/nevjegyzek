@@ -6,4 +6,4 @@ description: Pálmajor
 
 {% include settlementHTMLs/Paalmajor.html %}
 
-[Vissza](./)
+[Vissza](../)

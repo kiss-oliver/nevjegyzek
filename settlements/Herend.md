@@ -6,4 +6,4 @@ description: Herend
 
 {% include settlementHTMLs/Herend.html %}
 
-[Vissza](./)
+[Vissza](../)

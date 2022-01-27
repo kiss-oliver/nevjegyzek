@@ -6,4 +6,4 @@ description: Szigethalom
 
 {% include settlementHTMLs/Szigethalom.html %}
 
-[Vissza](./)
+[Vissza](../)

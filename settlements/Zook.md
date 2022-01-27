@@ -6,4 +6,4 @@ description: Zók
 
 {% include settlementHTMLs/Zook.html %}
 
-[Vissza](./)
+[Vissza](../)

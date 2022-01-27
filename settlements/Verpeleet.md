@@ -6,4 +6,4 @@ description: Verpelét
 
 {% include settlementHTMLs/Verpeleet.html %}
 
-[Vissza](./)
+[Vissza](../)

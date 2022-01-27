@@ -6,4 +6,4 @@ description: Körösújfalu
 
 {% include settlementHTMLs/Kooxrooxsuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

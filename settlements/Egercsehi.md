@@ -6,4 +6,4 @@ description: Egercsehi
 
 {% include settlementHTMLs/Egercsehi.html %}
 
-[Vissza](./)
+[Vissza](../)

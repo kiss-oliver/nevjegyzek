@@ -6,4 +6,4 @@ description: Kishódos
 
 {% include settlementHTMLs/Kishoodos.html %}
 
-[Vissza](./)
+[Vissza](../)

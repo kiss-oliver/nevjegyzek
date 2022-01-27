@@ -6,4 +6,4 @@ description: Tarany
 
 {% include settlementHTMLs/Tarany.html %}
 
-[Vissza](./)
+[Vissza](../)

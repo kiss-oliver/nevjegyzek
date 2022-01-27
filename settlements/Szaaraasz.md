@@ -6,4 +6,4 @@ description: Szárász
 
 {% include settlementHTMLs/Szaaraasz.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zomba
 
 {% include settlementHTMLs/Zomba.html %}
 
-[Vissza](./)
+[Vissza](../)

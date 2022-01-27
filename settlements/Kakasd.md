@@ -6,4 +6,4 @@ description: Kakasd
 
 {% include settlementHTMLs/Kakasd.html %}
 
-[Vissza](./)
+[Vissza](../)

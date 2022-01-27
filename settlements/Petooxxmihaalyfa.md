@@ -6,4 +6,4 @@ description: Petőmihályfa
 
 {% include settlementHTMLs/Petooxxmihaalyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

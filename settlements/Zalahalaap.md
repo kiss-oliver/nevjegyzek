@@ -6,4 +6,4 @@ description: Zalahaláp
 
 {% include settlementHTMLs/Zalahalaap.html %}
 
-[Vissza](./)
+[Vissza](../)

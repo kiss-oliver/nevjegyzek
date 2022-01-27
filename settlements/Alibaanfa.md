@@ -6,4 +6,4 @@ description: Alibánfa
 
 {% include settlementHTMLs/Alibaanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

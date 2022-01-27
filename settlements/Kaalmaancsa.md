@@ -6,4 +6,4 @@ description: Kálmáncsa
 
 {% include settlementHTMLs/Kaalmaancsa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonszabadi
 
 {% include settlementHTMLs/Balatonszabadi.html %}
 
-[Vissza](./)
+[Vissza](../)

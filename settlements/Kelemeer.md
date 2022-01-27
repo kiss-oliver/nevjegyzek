@@ -6,4 +6,4 @@ description: Kelemér
 
 {% include settlementHTMLs/Kelemeer.html %}
 
-[Vissza](./)
+[Vissza](../)

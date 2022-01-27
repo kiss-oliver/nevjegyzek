@@ -6,4 +6,4 @@ description: Mátraszele
 
 {% include settlementHTMLs/Maatraszele.html %}
 
-[Vissza](./)
+[Vissza](../)

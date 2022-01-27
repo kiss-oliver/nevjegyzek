@@ -6,4 +6,4 @@ description: Zsarolyán
 
 {% include settlementHTMLs/Zsarolyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

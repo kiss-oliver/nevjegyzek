@@ -6,4 +6,4 @@ description: Okorág
 
 {% include settlementHTMLs/Okoraag.html %}
 
-[Vissza](./)
+[Vissza](../)

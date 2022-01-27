@@ -6,4 +6,4 @@ description: Zsáka
 
 {% include settlementHTMLs/Zsaaka.html %}
 
-[Vissza](./)
+[Vissza](../)

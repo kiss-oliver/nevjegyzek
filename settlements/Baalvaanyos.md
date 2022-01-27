@@ -6,4 +6,4 @@ description: Bálványos
 
 {% include settlementHTMLs/Baalvaanyos.html %}
 
-[Vissza](./)
+[Vissza](../)

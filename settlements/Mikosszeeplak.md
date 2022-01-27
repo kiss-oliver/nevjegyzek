@@ -6,4 +6,4 @@ description: Mikosszéplak
 
 {% include settlementHTMLs/Mikosszeeplak.html %}
 
-[Vissza](./)
+[Vissza](../)

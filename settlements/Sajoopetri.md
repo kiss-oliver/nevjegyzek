@@ -6,4 +6,4 @@ description: Sajópetri
 
 {% include settlementHTMLs/Sajoopetri.html %}
 
-[Vissza](./)
+[Vissza](../)

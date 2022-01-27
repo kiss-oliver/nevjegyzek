@@ -6,4 +6,4 @@ description: Nyírparasznya
 
 {% include settlementHTMLs/Nyiirparasznya.html %}
 
-[Vissza](./)
+[Vissza](../)

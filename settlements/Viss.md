@@ -6,4 +6,4 @@ description: Viss
 
 {% include settlementHTMLs/Viss.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pilisjászfalu
 
 {% include settlementHTMLs/Pilisjaaszfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

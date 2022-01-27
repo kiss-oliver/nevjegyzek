@@ -6,4 +6,4 @@ description: Belsősárd
 
 {% include settlementHTMLs/Belsooxxsaard.html %}
 
-[Vissza](./)
+[Vissza](../)

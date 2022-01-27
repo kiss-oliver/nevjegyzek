@@ -6,4 +6,4 @@ description: Perecse
 
 {% include settlementHTMLs/Perecse.html %}
 
-[Vissza](./)
+[Vissza](../)

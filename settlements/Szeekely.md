@@ -6,4 +6,4 @@ description: Székely
 
 {% include settlementHTMLs/Szeekely.html %}
 
-[Vissza](./)
+[Vissza](../)

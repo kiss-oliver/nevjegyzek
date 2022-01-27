@@ -6,4 +6,4 @@ description: Ózdfalu
 
 {% include settlementHTMLs/OOzdfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

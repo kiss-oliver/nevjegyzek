@@ -6,4 +6,4 @@ description: Zsurk
 
 {% include settlementHTMLs/Zsurk.html %}
 
-[Vissza](./)
+[Vissza](../)

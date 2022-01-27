@@ -6,4 +6,4 @@ description: Pápateszér
 
 {% include settlementHTMLs/Paapateszeer.html %}
 
-[Vissza](./)
+[Vissza](../)

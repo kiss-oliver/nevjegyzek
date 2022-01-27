@@ -6,4 +6,4 @@ description: Nemesszentandrás
 
 {% include settlementHTMLs/Nemesszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

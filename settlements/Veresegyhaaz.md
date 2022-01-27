@@ -6,4 +6,4 @@ description: Veresegyház
 
 {% include settlementHTMLs/Veresegyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

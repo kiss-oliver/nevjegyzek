@@ -6,4 +6,4 @@ description: Dötk
 
 {% include settlementHTMLs/Dooxtk.html %}
 
-[Vissza](./)
+[Vissza](../)

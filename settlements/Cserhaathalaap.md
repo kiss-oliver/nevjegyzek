@@ -6,4 +6,4 @@ description: Cserháthaláp
 
 {% include settlementHTMLs/Cserhaathalaap.html %}
 
-[Vissza](./)
+[Vissza](../)

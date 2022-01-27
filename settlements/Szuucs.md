@@ -6,4 +6,4 @@ description: Szúcs
 
 {% include settlementHTMLs/Szuucs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Felcsút
 
 {% include settlementHTMLs/Felcsuut.html %}
 
-[Vissza](./)
+[Vissza](../)

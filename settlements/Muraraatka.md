@@ -6,4 +6,4 @@ description: Murarátka
 
 {% include settlementHTMLs/Muraraatka.html %}
 
-[Vissza](./)
+[Vissza](../)

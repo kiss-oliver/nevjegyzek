@@ -6,4 +6,4 @@ description: Abaújvár
 
 {% include settlementHTMLs/Abauujvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

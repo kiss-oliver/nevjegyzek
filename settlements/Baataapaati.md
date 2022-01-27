@@ -6,4 +6,4 @@ description: Bátaapáti
 
 {% include settlementHTMLs/Baataapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

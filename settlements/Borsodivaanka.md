@@ -6,4 +6,4 @@ description: Borsodivánka
 
 {% include settlementHTMLs/Borsodivaanka.html %}
 
-[Vissza](./)
+[Vissza](../)

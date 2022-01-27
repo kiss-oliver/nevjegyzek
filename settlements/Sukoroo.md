@@ -6,4 +6,4 @@ description: Sukoró
 
 {% include settlementHTMLs/Sukoroo.html %}
 
-[Vissza](./)
+[Vissza](../)

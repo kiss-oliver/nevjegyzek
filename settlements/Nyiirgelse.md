@@ -6,4 +6,4 @@ description: Nyírgelse
 
 {% include settlementHTMLs/Nyiirgelse.html %}
 
-[Vissza](./)
+[Vissza](../)

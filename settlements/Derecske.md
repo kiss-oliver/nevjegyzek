@@ -6,4 +6,4 @@ description: Derecske
 
 {% include settlementHTMLs/Derecske.html %}
 
-[Vissza](./)
+[Vissza](../)

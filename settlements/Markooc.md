@@ -6,4 +6,4 @@ description: Markóc
 
 {% include settlementHTMLs/Markooc.html %}
 
-[Vissza](./)
+[Vissza](../)

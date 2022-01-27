@@ -6,4 +6,4 @@ description: Magosliget
 
 {% include settlementHTMLs/Magosliget.html %}
 
-[Vissza](./)
+[Vissza](../)

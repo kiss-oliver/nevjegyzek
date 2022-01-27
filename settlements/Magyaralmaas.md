@@ -6,4 +6,4 @@ description: Magyaralmás
 
 {% include settlementHTMLs/Magyaralmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

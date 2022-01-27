@@ -6,4 +6,4 @@ description: Kátoly
 
 {% include settlementHTMLs/Kaatoly.html %}
 
-[Vissza](./)
+[Vissza](../)

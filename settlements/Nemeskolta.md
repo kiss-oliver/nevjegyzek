@@ -6,4 +6,4 @@ description: Nemeskolta
 
 {% include settlementHTMLs/Nemeskolta.html %}
 
-[Vissza](./)
+[Vissza](../)

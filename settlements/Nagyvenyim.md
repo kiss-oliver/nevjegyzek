@@ -6,4 +6,4 @@ description: Nagyvenyim
 
 {% include settlementHTMLs/Nagyvenyim.html %}
 
-[Vissza](./)
+[Vissza](../)

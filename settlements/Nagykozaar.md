@@ -6,4 +6,4 @@ description: Nagykozár
 
 {% include settlementHTMLs/Nagykozaar.html %}
 
-[Vissza](./)
+[Vissza](../)

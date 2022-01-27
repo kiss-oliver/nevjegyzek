@@ -6,4 +6,4 @@ description: Ömböly
 
 {% include settlementHTMLs/OOXmbooxly.html %}
 
-[Vissza](./)
+[Vissza](../)

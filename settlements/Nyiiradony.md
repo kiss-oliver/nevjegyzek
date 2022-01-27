@@ -6,4 +6,4 @@ description: Nyíradony
 
 {% include settlementHTMLs/Nyiiradony.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lukácsháza
 
 {% include settlementHTMLs/Lukaacshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

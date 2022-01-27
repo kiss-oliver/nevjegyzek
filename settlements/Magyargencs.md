@@ -6,4 +6,4 @@ description: Magyargencs
 
 {% include settlementHTMLs/Magyargencs.html %}
 
-[Vissza](./)
+[Vissza](../)

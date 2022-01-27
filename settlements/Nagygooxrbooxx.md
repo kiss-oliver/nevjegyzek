@@ -6,4 +6,4 @@ description: Nagygörbő
 
 {% include settlementHTMLs/Nagygooxrbooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

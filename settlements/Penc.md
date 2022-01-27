@@ -6,4 +6,4 @@ description: Penc
 
 {% include settlementHTMLs/Penc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Királd
 
 {% include settlementHTMLs/Kiraald.html %}
 
-[Vissza](./)
+[Vissza](../)

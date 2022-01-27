@@ -6,4 +6,4 @@ description: Tiszaföldvár
 
 {% include settlementHTMLs/Tiszafooxldvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

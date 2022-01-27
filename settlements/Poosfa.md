@@ -6,4 +6,4 @@ description: Pósfa
 
 {% include settlementHTMLs/Poosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Somodor
 
 {% include settlementHTMLs/Somodor.html %}
 
-[Vissza](./)
+[Vissza](../)

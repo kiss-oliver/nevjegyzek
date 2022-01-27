@@ -6,4 +6,4 @@ description: Abaújalpár
 
 {% include settlementHTMLs/Abauujalpaar.html %}
 
-[Vissza](./)
+[Vissza](../)

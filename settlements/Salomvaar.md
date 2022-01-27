@@ -6,4 +6,4 @@ description: Salomvár
 
 {% include settlementHTMLs/Salomvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

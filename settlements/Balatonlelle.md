@@ -6,4 +6,4 @@ description: Balatonlelle
 
 {% include settlementHTMLs/Balatonlelle.html %}
 
-[Vissza](./)
+[Vissza](../)

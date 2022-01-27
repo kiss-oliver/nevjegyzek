@@ -6,4 +6,4 @@ description: Szeghalom
 
 {% include settlementHTMLs/Szeghalom.html %}
 
-[Vissza](./)
+[Vissza](../)

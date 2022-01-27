@@ -6,4 +6,4 @@ description: Ibafa
 
 {% include settlementHTMLs/Ibafa.html %}
 
-[Vissza](./)
+[Vissza](../)

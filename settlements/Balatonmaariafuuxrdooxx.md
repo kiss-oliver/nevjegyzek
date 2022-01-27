@@ -6,4 +6,4 @@ description: Balatonmáriafürdő
 
 {% include settlementHTMLs/Balatonmaariafuuxrdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

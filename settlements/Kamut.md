@@ -6,4 +6,4 @@ description: Kamut
 
 {% include settlementHTMLs/Kamut.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hernádbűd
 
 {% include settlementHTMLs/Hernaadbuuxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

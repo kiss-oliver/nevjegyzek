@@ -6,4 +6,4 @@ description: Terpes
 
 {% include settlementHTMLs/Terpes.html %}
 
-[Vissza](./)
+[Vissza](../)

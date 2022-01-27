@@ -6,4 +6,4 @@ description: Felsőtárkány
 
 {% include settlementHTMLs/Felsooxxtaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

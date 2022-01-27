@@ -6,4 +6,4 @@ description: Nagykanizsa
 
 {% include settlementHTMLs/Nagykanizsa.html %}
 
-[Vissza](./)
+[Vissza](../)

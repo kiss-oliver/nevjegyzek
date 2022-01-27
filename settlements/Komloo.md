@@ -6,4 +6,4 @@ description: Komló
 
 {% include settlementHTMLs/Komloo.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisbudmér
 
 {% include settlementHTMLs/Kisbudmeer.html %}
 
-[Vissza](./)
+[Vissza](../)

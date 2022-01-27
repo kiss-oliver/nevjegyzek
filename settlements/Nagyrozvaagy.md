@@ -6,4 +6,4 @@ description: Nagyrozvágy
 
 {% include settlementHTMLs/Nagyrozvaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

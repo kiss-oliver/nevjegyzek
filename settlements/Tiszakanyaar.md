@@ -6,4 +6,4 @@ description: Tiszakanyár
 
 {% include settlementHTMLs/Tiszakanyaar.html %}
 
-[Vissza](./)
+[Vissza](../)

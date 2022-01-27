@@ -6,4 +6,4 @@ description: Fegyvernek
 
 {% include settlementHTMLs/Fegyvernek.html %}
 
-[Vissza](./)
+[Vissza](../)

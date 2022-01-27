@@ -6,4 +6,4 @@ description: Nagyberki
 
 {% include settlementHTMLs/Nagyberki.html %}
 
-[Vissza](./)
+[Vissza](../)

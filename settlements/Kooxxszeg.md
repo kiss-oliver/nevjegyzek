@@ -6,4 +6,4 @@ description: Kőszeg
 
 {% include settlementHTMLs/Kooxxszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

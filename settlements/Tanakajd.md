@@ -6,4 +6,4 @@ description: Tanakajd
 
 {% include settlementHTMLs/Tanakajd.html %}
 
-[Vissza](./)
+[Vissza](../)

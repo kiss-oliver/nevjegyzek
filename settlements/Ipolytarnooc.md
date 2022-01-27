@@ -6,4 +6,4 @@ description: Ipolytarnóc
 
 {% include settlementHTMLs/Ipolytarnooc.html %}
 
-[Vissza](./)
+[Vissza](../)

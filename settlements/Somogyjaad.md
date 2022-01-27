@@ -6,4 +6,4 @@ description: Somogyjád
 
 {% include settlementHTMLs/Somogyjaad.html %}
 
-[Vissza](./)
+[Vissza](../)

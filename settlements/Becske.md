@@ -6,4 +6,4 @@ description: Becske
 
 {% include settlementHTMLs/Becske.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szendehely
 
 {% include settlementHTMLs/Szendehely.html %}
 
-[Vissza](./)
+[Vissza](../)

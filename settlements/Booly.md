@@ -6,4 +6,4 @@ description: Bóly
 
 {% include settlementHTMLs/Booly.html %}
 
-[Vissza](./)
+[Vissza](../)

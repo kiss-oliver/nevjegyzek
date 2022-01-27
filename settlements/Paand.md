@@ -6,4 +6,4 @@ description: Pánd
 
 {% include settlementHTMLs/Paand.html %}
 
-[Vissza](./)
+[Vissza](../)

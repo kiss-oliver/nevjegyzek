@@ -6,4 +6,4 @@ description: Móricgát
 
 {% include settlementHTMLs/Mooricgaat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Győrvár
 
 {% include settlementHTMLs/Gyooxxrvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Látrány
 
 {% include settlementHTMLs/Laatraany.html %}
 
-[Vissza](./)
+[Vissza](../)

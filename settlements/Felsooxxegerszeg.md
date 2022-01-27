@@ -6,4 +6,4 @@ description: Felsőegerszeg
 
 {% include settlementHTMLs/Felsooxxegerszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

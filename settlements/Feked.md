@@ -6,4 +6,4 @@ description: Feked
 
 {% include settlementHTMLs/Feked.html %}
 
-[Vissza](./)
+[Vissza](../)

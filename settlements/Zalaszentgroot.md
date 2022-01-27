@@ -6,4 +6,4 @@ description: Zalaszentgrót
 
 {% include settlementHTMLs/Zalaszentgroot.html %}
 
-[Vissza](./)
+[Vissza](../)

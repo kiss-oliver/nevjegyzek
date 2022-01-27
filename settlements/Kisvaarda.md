@@ -6,4 +6,4 @@ description: Kisvárda
 
 {% include settlementHTMLs/Kisvaarda.html %}
 
-[Vissza](./)
+[Vissza](../)

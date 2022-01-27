@@ -6,4 +6,4 @@ description: Tiszabura
 
 {% include settlementHTMLs/Tiszabura.html %}
 
-[Vissza](./)
+[Vissza](../)

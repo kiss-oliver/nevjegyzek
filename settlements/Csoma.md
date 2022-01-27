@@ -6,4 +6,4 @@ description: Csoma
 
 {% include settlementHTMLs/Csoma.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kadarkút
 
 {% include settlementHTMLs/Kadarkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

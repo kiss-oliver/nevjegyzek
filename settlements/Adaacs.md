@@ -6,4 +6,4 @@ description: Adács
 
 {% include settlementHTMLs/Adaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Söjtör
 
 {% include settlementHTMLs/Sooxjtooxr.html %}
 
-[Vissza](./)
+[Vissza](../)

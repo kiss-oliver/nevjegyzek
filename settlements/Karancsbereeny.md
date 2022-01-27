@@ -6,4 +6,4 @@ description: Karancsberény
 
 {% include settlementHTMLs/Karancsbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Told
 
 {% include settlementHTMLs/Told.html %}
 
-[Vissza](./)
+[Vissza](../)

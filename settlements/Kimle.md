@@ -6,4 +6,4 @@ description: Kimle
 
 {% include settlementHTMLs/Kimle.html %}
 
-[Vissza](./)
+[Vissza](../)

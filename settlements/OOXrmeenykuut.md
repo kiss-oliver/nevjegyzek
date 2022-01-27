@@ -6,4 +6,4 @@ description: Örménykút
 
 {% include settlementHTMLs/OOXrmeenykuut.html %}
 
-[Vissza](./)
+[Vissza](../)

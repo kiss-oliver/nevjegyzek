@@ -6,4 +6,4 @@ description: Árpádhalom
 
 {% include settlementHTMLs/AArpaadhalom.html %}
 
-[Vissza](./)
+[Vissza](../)

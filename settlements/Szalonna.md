@@ -6,4 +6,4 @@ description: Szalonna
 
 {% include settlementHTMLs/Szalonna.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Okorvölgy
 
 {% include settlementHTMLs/Okorvooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

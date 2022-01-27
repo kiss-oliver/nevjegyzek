@@ -6,4 +6,4 @@ description: Környe
 
 {% include settlementHTMLs/Kooxrnye.html %}
 
-[Vissza](./)
+[Vissza](../)

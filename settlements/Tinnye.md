@@ -6,4 +6,4 @@ description: Tinnye
 
 {% include settlementHTMLs/Tinnye.html %}
 
-[Vissza](./)
+[Vissza](../)

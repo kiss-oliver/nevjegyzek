@@ -6,4 +6,4 @@ description: Horvátzsidány
 
 {% include settlementHTMLs/Horvaatzsidaany.html %}
 
-[Vissza](./)
+[Vissza](../)

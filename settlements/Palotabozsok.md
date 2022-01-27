@@ -6,4 +6,4 @@ description: Palotabozsok
 
 {% include settlementHTMLs/Palotabozsok.html %}
 
-[Vissza](./)
+[Vissza](../)

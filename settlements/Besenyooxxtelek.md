@@ -6,4 +6,4 @@ description: Besenyőtelek
 
 {% include settlementHTMLs/Besenyooxxtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

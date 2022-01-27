@@ -6,4 +6,4 @@ description: Nyírgyulaj
 
 {% include settlementHTMLs/Nyiirgyulaj.html %}
 
-[Vissza](./)
+[Vissza](../)

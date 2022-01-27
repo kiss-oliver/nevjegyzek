@@ -6,4 +6,4 @@ description: Erdőhorváti
 
 {% include settlementHTMLs/Erdooxxhorvaati.html %}
 
-[Vissza](./)
+[Vissza](../)

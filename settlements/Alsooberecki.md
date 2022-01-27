@@ -6,4 +6,4 @@ description: Alsóberecki
 
 {% include settlementHTMLs/Alsooberecki.html %}
 
-[Vissza](./)
+[Vissza](../)

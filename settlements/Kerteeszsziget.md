@@ -6,4 +6,4 @@ description: Kertészsziget
 
 {% include settlementHTMLs/Kerteeszsziget.html %}
 
-[Vissza](./)
+[Vissza](../)

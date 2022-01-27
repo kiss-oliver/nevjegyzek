@@ -6,4 +6,4 @@ description: Pötréte
 
 {% include settlementHTMLs/Pooxtreete.html %}
 
-[Vissza](./)
+[Vissza](../)

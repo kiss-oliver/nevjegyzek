@@ -6,4 +6,4 @@ description: Nyírjákó
 
 {% include settlementHTMLs/Nyiirjaakoo.html %}
 
-[Vissza](./)
+[Vissza](../)

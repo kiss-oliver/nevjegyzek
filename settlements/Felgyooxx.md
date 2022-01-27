@@ -6,4 +6,4 @@ description: Felgyő
 
 {% include settlementHTMLs/Felgyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

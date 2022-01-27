@@ -6,4 +6,4 @@ description: Babarc
 
 {% include settlementHTMLs/Babarc.html %}
 
-[Vissza](./)
+[Vissza](../)

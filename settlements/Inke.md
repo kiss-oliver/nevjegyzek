@@ -6,4 +6,4 @@ description: Inke
 
 {% include settlementHTMLs/Inke.html %}
 
-[Vissza](./)
+[Vissza](../)

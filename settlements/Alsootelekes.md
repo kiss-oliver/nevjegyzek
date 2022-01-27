@@ -6,4 +6,4 @@ description: Alsótelekes
 
 {% include settlementHTMLs/Alsootelekes.html %}
 
-[Vissza](./)
+[Vissza](../)

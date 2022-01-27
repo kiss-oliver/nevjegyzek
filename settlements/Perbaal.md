@@ -6,4 +6,4 @@ description: Perbál
 
 {% include settlementHTMLs/Perbaal.html %}
 
-[Vissza](./)
+[Vissza](../)

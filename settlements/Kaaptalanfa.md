@@ -6,4 +6,4 @@ description: Káptalanfa
 
 {% include settlementHTMLs/Kaaptalanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

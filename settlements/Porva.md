@@ -6,4 +6,4 @@ description: Porva
 
 {% include settlementHTMLs/Porva.html %}
 
-[Vissza](./)
+[Vissza](../)

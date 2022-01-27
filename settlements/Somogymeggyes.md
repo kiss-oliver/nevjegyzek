@@ -6,4 +6,4 @@ description: Somogymeggyes
 
 {% include settlementHTMLs/Somogymeggyes.html %}
 
-[Vissza](./)
+[Vissza](../)

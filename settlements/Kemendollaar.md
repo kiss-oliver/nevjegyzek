@@ -6,4 +6,4 @@ description: Kemendollár
 
 {% include settlementHTMLs/Kemendollaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pócsmegyer
 
 {% include settlementHTMLs/Poocsmegyer.html %}
 
-[Vissza](./)
+[Vissza](../)

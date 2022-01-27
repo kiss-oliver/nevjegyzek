@@ -6,4 +6,4 @@ description: Kölesd
 
 {% include settlementHTMLs/Kooxlesd.html %}
 
-[Vissza](./)
+[Vissza](../)

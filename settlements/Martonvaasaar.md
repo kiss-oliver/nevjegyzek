@@ -6,4 +6,4 @@ description: Martonvásár
 
 {% include settlementHTMLs/Martonvaasaar.html %}
 
-[Vissza](./)
+[Vissza](../)

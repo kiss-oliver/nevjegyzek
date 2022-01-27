@@ -6,4 +6,4 @@ description: Szeleste
 
 {% include settlementHTMLs/Szeleste.html %}
 
-[Vissza](./)
+[Vissza](../)

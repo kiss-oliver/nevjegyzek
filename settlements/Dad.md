@@ -6,4 +6,4 @@ description: Dad
 
 {% include settlementHTMLs/Dad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ágfalva
 
 {% include settlementHTMLs/AAgfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

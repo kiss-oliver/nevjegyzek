@@ -6,4 +6,4 @@ description: Kerkabarabás
 
 {% include settlementHTMLs/Kerkabarabaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagyrécse
 
 {% include settlementHTMLs/Nagyreecse.html %}
 
-[Vissza](./)
+[Vissza](../)

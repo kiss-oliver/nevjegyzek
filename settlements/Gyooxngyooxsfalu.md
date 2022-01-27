@@ -6,4 +6,4 @@ description: Gyöngyösfalu
 
 {% include settlementHTMLs/Gyooxngyooxsfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

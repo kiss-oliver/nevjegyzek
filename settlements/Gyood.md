@@ -6,4 +6,4 @@ description: Gyód
 
 {% include settlementHTMLs/Gyood.html %}
 
-[Vissza](./)
+[Vissza](../)

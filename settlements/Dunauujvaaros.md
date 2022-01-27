@@ -6,4 +6,4 @@ description: Dunaújváros
 
 {% include settlementHTMLs/Dunauujvaaros.html %}
 
-[Vissza](./)
+[Vissza](../)

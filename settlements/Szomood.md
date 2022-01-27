@@ -6,4 +6,4 @@ description: Szomód
 
 {% include settlementHTMLs/Szomood.html %}
 
-[Vissza](./)
+[Vissza](../)

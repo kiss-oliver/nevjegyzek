@@ -6,4 +6,4 @@ description: Nyírkáta
 
 {% include settlementHTMLs/Nyiirkaata.html %}
 
-[Vissza](./)
+[Vissza](../)

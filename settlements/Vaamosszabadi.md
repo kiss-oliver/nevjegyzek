@@ -6,4 +6,4 @@ description: Vámosszabadi
 
 {% include settlementHTMLs/Vaamosszabadi.html %}
 
-[Vissza](./)
+[Vissza](../)

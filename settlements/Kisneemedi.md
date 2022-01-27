@@ -6,4 +6,4 @@ description: Kisnémedi
 
 {% include settlementHTMLs/Kisneemedi.html %}
 
-[Vissza](./)
+[Vissza](../)

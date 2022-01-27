@@ -6,4 +6,4 @@ description: Püspökmolnári
 
 {% include settlementHTMLs/Puuxspooxkmolnaari.html %}
 
-[Vissza](./)
+[Vissza](../)

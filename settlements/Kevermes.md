@@ -6,4 +6,4 @@ description: Kevermes
 
 {% include settlementHTMLs/Kevermes.html %}
 
-[Vissza](./)
+[Vissza](../)

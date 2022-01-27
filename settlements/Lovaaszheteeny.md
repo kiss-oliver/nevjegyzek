@@ -6,4 +6,4 @@ description: Lovászhetény
 
 {% include settlementHTMLs/Lovaaszheteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

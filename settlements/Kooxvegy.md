@@ -6,4 +6,4 @@ description: Kövegy
 
 {% include settlementHTMLs/Kooxvegy.html %}
 
-[Vissza](./)
+[Vissza](../)

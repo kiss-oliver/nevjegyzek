@@ -6,4 +6,4 @@ description: Alsómocsolád
 
 {% include settlementHTMLs/Alsoomocsolaad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pusztavám
 
 {% include settlementHTMLs/Pusztavaam.html %}
 
-[Vissza](./)
+[Vissza](../)

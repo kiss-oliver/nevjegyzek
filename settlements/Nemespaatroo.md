@@ -6,4 +6,4 @@ description: Nemespátró
 
 {% include settlementHTMLs/Nemespaatroo.html %}
 
-[Vissza](./)
+[Vissza](../)

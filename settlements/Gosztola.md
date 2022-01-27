@@ -6,4 +6,4 @@ description: Gosztola
 
 {% include settlementHTMLs/Gosztola.html %}
 
-[Vissza](./)
+[Vissza](../)

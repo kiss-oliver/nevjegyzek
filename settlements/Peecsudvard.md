@@ -6,4 +6,4 @@ description: Pécsudvard
 
 {% include settlementHTMLs/Peecsudvard.html %}
 
-[Vissza](./)
+[Vissza](../)

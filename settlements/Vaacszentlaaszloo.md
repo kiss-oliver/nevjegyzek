@@ -6,4 +6,4 @@ description: Vácszentlászló
 
 {% include settlementHTMLs/Vaacszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

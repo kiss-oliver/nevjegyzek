@@ -6,4 +6,4 @@ description: Kereki
 
 {% include settlementHTMLs/Kereki.html %}
 
-[Vissza](./)
+[Vissza](../)

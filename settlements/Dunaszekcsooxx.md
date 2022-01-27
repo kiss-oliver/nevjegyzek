@@ -6,4 +6,4 @@ description: Dunaszekcső
 
 {% include settlementHTMLs/Dunaszekcsooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

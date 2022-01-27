@@ -6,4 +6,4 @@ description: Csobaj
 
 {% include settlementHTMLs/Csobaj.html %}
 
-[Vissza](./)
+[Vissza](../)

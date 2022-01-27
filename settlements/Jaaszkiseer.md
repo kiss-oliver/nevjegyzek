@@ -6,4 +6,4 @@ description: Jászkisér
 
 {% include settlementHTMLs/Jaaszkiseer.html %}
 
-[Vissza](./)
+[Vissza](../)

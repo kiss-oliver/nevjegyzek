@@ -6,4 +6,4 @@ description: Tornabarakony
 
 {% include settlementHTMLs/Tornabarakony.html %}
 
-[Vissza](./)
+[Vissza](../)

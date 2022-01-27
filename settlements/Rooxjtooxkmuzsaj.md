@@ -6,4 +6,4 @@ description: Röjtökmuzsaj
 
 {% include settlementHTMLs/Rooxjtooxkmuzsaj.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mórágy
 
 {% include settlementHTMLs/Mooraagy.html %}
 
-[Vissza](./)
+[Vissza](../)

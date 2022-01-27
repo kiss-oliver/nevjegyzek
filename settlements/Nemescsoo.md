@@ -6,4 +6,4 @@ description: Nemescsó
 
 {% include settlementHTMLs/Nemescsoo.html %}
 
-[Vissza](./)
+[Vissza](../)

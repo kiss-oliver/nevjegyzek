@@ -6,4 +6,4 @@ description: Iliny
 
 {% include settlementHTMLs/Iliny.html %}
 
-[Vissza](./)
+[Vissza](../)

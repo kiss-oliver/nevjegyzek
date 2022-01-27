@@ -6,4 +6,4 @@ description: Bezenye
 
 {% include settlementHTMLs/Bezenye.html %}
 
-[Vissza](./)
+[Vissza](../)

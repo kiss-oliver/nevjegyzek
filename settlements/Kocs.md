@@ -6,4 +6,4 @@ description: Kocs
 
 {% include settlementHTMLs/Kocs.html %}
 
-[Vissza](./)
+[Vissza](../)

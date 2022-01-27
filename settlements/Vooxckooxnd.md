@@ -6,4 +6,4 @@ description: Vöckönd
 
 {% include settlementHTMLs/Vooxckooxnd.html %}
 
-[Vissza](./)
+[Vissza](../)

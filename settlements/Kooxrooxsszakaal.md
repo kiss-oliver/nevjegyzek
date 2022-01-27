@@ -6,4 +6,4 @@ description: Körösszakál
 
 {% include settlementHTMLs/Kooxrooxsszakaal.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gelénes
 
 {% include settlementHTMLs/Geleenes.html %}
 
-[Vissza](./)
+[Vissza](../)

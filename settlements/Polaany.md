@@ -6,4 +6,4 @@ description: Polány
 
 {% include settlementHTMLs/Polaany.html %}
 
-[Vissza](./)
+[Vissza](../)

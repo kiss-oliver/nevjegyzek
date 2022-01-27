@@ -6,4 +6,4 @@ description: Halásztelek
 
 {% include settlementHTMLs/Halaasztelek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csanádpalota
 
 {% include settlementHTMLs/Csanaadpalota.html %}
 
-[Vissza](./)
+[Vissza](../)

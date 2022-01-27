@@ -6,4 +6,4 @@ description: Jánoshalma
 
 {% include settlementHTMLs/Jaanoshalma.html %}
 
-[Vissza](./)
+[Vissza](../)

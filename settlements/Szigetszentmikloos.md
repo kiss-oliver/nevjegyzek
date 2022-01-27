@@ -6,4 +6,4 @@ description: Szigetszentmiklós
 
 {% include settlementHTMLs/Szigetszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

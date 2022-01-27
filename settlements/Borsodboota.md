@@ -6,4 +6,4 @@ description: Borsodbóta
 
 {% include settlementHTMLs/Borsodboota.html %}
 
-[Vissza](./)
+[Vissza](../)

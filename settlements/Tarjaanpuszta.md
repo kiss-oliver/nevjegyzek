@@ -6,4 +6,4 @@ description: Tarjánpuszta
 
 {% include settlementHTMLs/Tarjaanpuszta.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gagyvendégi
 
 {% include settlementHTMLs/Gagyvendeegi.html %}
 
-[Vissza](./)
+[Vissza](../)

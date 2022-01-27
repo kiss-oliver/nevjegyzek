@@ -6,4 +6,4 @@ description: Nagybörzsöny
 
 {% include settlementHTMLs/Nagybooxrzsooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Debrecen
 
 {% include settlementHTMLs/Debrecen.html %}
 
-[Vissza](./)
+[Vissza](../)

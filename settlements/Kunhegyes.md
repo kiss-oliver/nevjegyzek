@@ -6,4 +6,4 @@ description: Kunhegyes
 
 {% include settlementHTMLs/Kunhegyes.html %}
 
-[Vissza](./)
+[Vissza](../)

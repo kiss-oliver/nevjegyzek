@@ -6,4 +6,4 @@ description: Héhalom
 
 {% include settlementHTMLs/Heehalom.html %}
 
-[Vissza](./)
+[Vissza](../)

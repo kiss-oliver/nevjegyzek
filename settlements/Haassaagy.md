@@ -6,4 +6,4 @@ description: Hásságy
 
 {% include settlementHTMLs/Haassaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

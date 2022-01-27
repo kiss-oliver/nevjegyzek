@@ -6,4 +6,4 @@ description: Zsámbék
 
 {% include settlementHTMLs/Zsaambeek.html %}
 
-[Vissza](./)
+[Vissza](../)

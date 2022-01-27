@@ -6,4 +6,4 @@ description: Dombrád
 
 {% include settlementHTMLs/Dombraad.html %}
 
-[Vissza](./)
+[Vissza](../)

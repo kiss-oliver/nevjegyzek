@@ -6,4 +6,4 @@ description: Madocsa
 
 {% include settlementHTMLs/Madocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

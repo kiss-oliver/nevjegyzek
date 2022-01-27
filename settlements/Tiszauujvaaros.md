@@ -6,4 +6,4 @@ description: Tiszaújváros
 
 {% include settlementHTMLs/Tiszauujvaaros.html %}
 
-[Vissza](./)
+[Vissza](../)

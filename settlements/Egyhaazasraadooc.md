@@ -6,4 +6,4 @@ description: Egyházasrádóc
 
 {% include settlementHTMLs/Egyhaazasraadooc.html %}
 
-[Vissza](./)
+[Vissza](../)

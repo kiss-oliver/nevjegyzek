@@ -6,4 +6,4 @@ description: Cégénydányád
 
 {% include settlementHTMLs/Ceegeenydaanyaad.html %}
 
-[Vissza](./)
+[Vissza](../)

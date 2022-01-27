@@ -6,4 +6,4 @@ description: Egeraracsa
 
 {% include settlementHTMLs/Egeraracsa.html %}
 
-[Vissza](./)
+[Vissza](../)

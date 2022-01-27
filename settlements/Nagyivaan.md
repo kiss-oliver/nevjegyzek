@@ -6,4 +6,4 @@ description: Nagyiván
 
 {% include settlementHTMLs/Nagyivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

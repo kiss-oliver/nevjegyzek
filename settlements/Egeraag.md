@@ -6,4 +6,4 @@ description: Egerág
 
 {% include settlementHTMLs/Egeraag.html %}
 
-[Vissza](./)
+[Vissza](../)

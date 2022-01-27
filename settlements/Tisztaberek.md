@@ -6,4 +6,4 @@ description: Tisztaberek
 
 {% include settlementHTMLs/Tisztaberek.html %}
 
-[Vissza](./)
+[Vissza](../)

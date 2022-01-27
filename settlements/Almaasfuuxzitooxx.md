@@ -6,4 +6,4 @@ description: Almásfüzitő
 
 {% include settlementHTMLs/Almaasfuuxzitooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

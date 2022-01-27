@@ -6,4 +6,4 @@ description: Felsőlajos
 
 {% include settlementHTMLs/Felsooxxlajos.html %}
 
-[Vissza](./)
+[Vissza](../)

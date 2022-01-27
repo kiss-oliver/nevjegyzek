@@ -6,4 +6,4 @@ description: Egervölgy
 
 {% include settlementHTMLs/Egervooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

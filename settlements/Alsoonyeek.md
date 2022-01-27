@@ -6,4 +6,4 @@ description: Alsónyék
 
 {% include settlementHTMLs/Alsoonyeek.html %}
 
-[Vissza](./)
+[Vissza](../)

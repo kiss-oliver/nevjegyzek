@@ -6,4 +6,4 @@ description: Garbolc
 
 {% include settlementHTMLs/Garbolc.html %}
 
-[Vissza](./)
+[Vissza](../)

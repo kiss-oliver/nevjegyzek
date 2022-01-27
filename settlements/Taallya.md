@@ -6,4 +6,4 @@ description: Tállya
 
 {% include settlementHTMLs/Taallya.html %}
 
-[Vissza](./)
+[Vissza](../)

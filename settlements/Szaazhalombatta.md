@@ -6,4 +6,4 @@ description: Százhalombatta
 
 {% include settlementHTMLs/Szaazhalombatta.html %}
 
-[Vissza](./)
+[Vissza](../)

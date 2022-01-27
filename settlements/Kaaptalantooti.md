@@ -6,4 +6,4 @@ description: Káptalantóti
 
 {% include settlementHTMLs/Kaaptalantooti.html %}
 
-[Vissza](./)
+[Vissza](../)

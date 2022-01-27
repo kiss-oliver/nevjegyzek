@@ -6,4 +6,4 @@ description: Kánya
 
 {% include settlementHTMLs/Kaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

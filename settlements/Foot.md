@@ -6,4 +6,4 @@ description: Fót
 
 {% include settlementHTMLs/Foot.html %}
 
-[Vissza](./)
+[Vissza](../)

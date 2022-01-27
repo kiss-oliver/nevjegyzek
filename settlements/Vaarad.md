@@ -6,4 +6,4 @@ description: Várad
 
 {% include settlementHTMLs/Vaarad.html %}
 
-[Vissza](./)
+[Vissza](../)

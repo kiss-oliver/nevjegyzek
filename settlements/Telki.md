@@ -6,4 +6,4 @@ description: Telki
 
 {% include settlementHTMLs/Telki.html %}
 
-[Vissza](./)
+[Vissza](../)

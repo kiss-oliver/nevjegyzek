@@ -6,4 +6,4 @@ description: Dör
 
 {% include settlementHTMLs/Dooxr.html %}
 
-[Vissza](./)
+[Vissza](../)

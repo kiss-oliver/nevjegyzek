@@ -6,4 +6,4 @@ description: Bőny
 
 {% include settlementHTMLs/Booxxny.html %}
 
-[Vissza](./)
+[Vissza](../)

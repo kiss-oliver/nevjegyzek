@@ -6,4 +6,4 @@ description: Kéty
 
 {% include settlementHTMLs/Keety.html %}
 
-[Vissza](./)
+[Vissza](../)

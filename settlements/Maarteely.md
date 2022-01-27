@@ -6,4 +6,4 @@ description: Mártély
 
 {% include settlementHTMLs/Maarteely.html %}
 
-[Vissza](./)
+[Vissza](../)

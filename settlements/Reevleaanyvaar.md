@@ -6,4 +6,4 @@ description: Révleányvár
 
 {% include settlementHTMLs/Reevleaanyvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

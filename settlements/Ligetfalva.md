@@ -6,4 +6,4 @@ description: Ligetfalva
 
 {% include settlementHTMLs/Ligetfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

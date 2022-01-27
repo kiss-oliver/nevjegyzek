@@ -6,4 +6,4 @@ description: Lovasberény
 
 {% include settlementHTMLs/Lovasbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Üllés
 
 {% include settlementHTMLs/UUXllees.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Döbrököz
 
 {% include settlementHTMLs/Dooxbrooxkooxz.html %}
 
-[Vissza](./)
+[Vissza](../)

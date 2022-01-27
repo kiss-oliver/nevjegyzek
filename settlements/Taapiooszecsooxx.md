@@ -6,4 +6,4 @@ description: Tápiószecső
 
 {% include settlementHTMLs/Taapiooszecsooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

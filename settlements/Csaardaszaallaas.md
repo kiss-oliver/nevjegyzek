@@ -6,4 +6,4 @@ description: Csárdaszállás
 
 {% include settlementHTMLs/Csaardaszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

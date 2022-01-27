@@ -6,4 +6,4 @@ description: Kőkút
 
 {% include settlementHTMLs/Kooxxkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

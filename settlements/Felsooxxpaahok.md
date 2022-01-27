@@ -6,4 +6,4 @@ description: Felsőpáhok
 
 {% include settlementHTMLs/Felsooxxpaahok.html %}
 
-[Vissza](./)
+[Vissza](../)

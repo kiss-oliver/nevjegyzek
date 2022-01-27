@@ -6,4 +6,4 @@ description: Kétpó
 
 {% include settlementHTMLs/Keetpoo.html %}
 
-[Vissza](./)
+[Vissza](../)

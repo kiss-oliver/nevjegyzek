@@ -6,4 +6,4 @@ description: Pellérd
 
 {% include settlementHTMLs/Pelleerd.html %}
 
-[Vissza](./)
+[Vissza](../)

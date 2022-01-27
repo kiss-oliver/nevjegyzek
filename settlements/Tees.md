@@ -6,4 +6,4 @@ description: Tés
 
 {% include settlementHTMLs/Tees.html %}
 
-[Vissza](./)
+[Vissza](../)

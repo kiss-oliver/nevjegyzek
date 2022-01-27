@@ -6,4 +6,4 @@ description: Tornanádaska
 
 {% include settlementHTMLs/Tornanaadaska.html %}
 
-[Vissza](./)
+[Vissza](../)

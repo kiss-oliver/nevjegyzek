@@ -6,4 +6,4 @@ description: Detk
 
 {% include settlementHTMLs/Detk.html %}
 
-[Vissza](./)
+[Vissza](../)

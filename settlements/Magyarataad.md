@@ -6,4 +6,4 @@ description: Magyaratád
 
 {% include settlementHTMLs/Magyarataad.html %}
 
-[Vissza](./)
+[Vissza](../)

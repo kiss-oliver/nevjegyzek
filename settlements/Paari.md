@@ -6,4 +6,4 @@ description: Pári
 
 {% include settlementHTMLs/Paari.html %}
 
-[Vissza](./)
+[Vissza](../)

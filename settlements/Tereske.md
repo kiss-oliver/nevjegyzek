@@ -6,4 +6,4 @@ description: Tereske
 
 {% include settlementHTMLs/Tereske.html %}
 
-[Vissza](./)
+[Vissza](../)

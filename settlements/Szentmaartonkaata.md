@@ -6,4 +6,4 @@ description: Szentmártonkáta
 
 {% include settlementHTMLs/Szentmaartonkaata.html %}
 
-[Vissza](./)
+[Vissza](../)

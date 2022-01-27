@@ -6,4 +6,4 @@ description: Söpte
 
 {% include settlementHTMLs/Sooxpte.html %}
 
-[Vissza](./)
+[Vissza](../)

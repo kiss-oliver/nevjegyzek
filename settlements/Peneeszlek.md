@@ -6,4 +6,4 @@ description: Penészlek
 
 {% include settlementHTMLs/Peneeszlek.html %}
 
-[Vissza](./)
+[Vissza](../)

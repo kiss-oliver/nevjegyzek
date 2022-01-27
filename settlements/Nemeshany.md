@@ -6,4 +6,4 @@ description: Nemeshany
 
 {% include settlementHTMLs/Nemeshany.html %}
 
-[Vissza](./)
+[Vissza](../)

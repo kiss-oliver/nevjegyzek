@@ -6,4 +6,4 @@ description: Sajópálfala
 
 {% include settlementHTMLs/Sajoopaalfala.html %}
 
-[Vissza](./)
+[Vissza](../)

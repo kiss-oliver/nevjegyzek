@@ -6,4 +6,4 @@ description: Nógrádkövesd
 
 {% include settlementHTMLs/Noograadkooxvesd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szemenye
 
 {% include settlementHTMLs/Szemenye.html %}
 
-[Vissza](./)
+[Vissza](../)

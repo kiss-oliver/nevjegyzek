@@ -6,4 +6,4 @@ description: Korlát
 
 {% include settlementHTMLs/Korlaat.html %}
 
-[Vissza](./)
+[Vissza](../)

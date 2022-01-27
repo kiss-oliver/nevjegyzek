@@ -6,4 +6,4 @@ description: Vérteskethely
 
 {% include settlementHTMLs/Veerteskethely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Dabas
 
 {% include settlementHTMLs/Dabas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Alsószuha
 
 {% include settlementHTMLs/Alsooszuha.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagybaracska
 
 {% include settlementHTMLs/Nagybaracska.html %}
 
-[Vissza](./)
+[Vissza](../)

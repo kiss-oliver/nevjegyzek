@@ -6,4 +6,4 @@ description: Simaság
 
 {% include settlementHTMLs/Simasaag.html %}
 
-[Vissza](./)
+[Vissza](../)

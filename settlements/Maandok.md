@@ -6,4 +6,4 @@ description: Mándok
 
 {% include settlementHTMLs/Maandok.html %}
 
-[Vissza](./)
+[Vissza](../)

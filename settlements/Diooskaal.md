@@ -6,4 +6,4 @@ description: Dióskál
 
 {% include settlementHTMLs/Diooskaal.html %}
 
-[Vissza](./)
+[Vissza](../)

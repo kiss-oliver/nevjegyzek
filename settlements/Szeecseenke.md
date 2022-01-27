@@ -6,4 +6,4 @@ description: Szécsénke
 
 {% include settlementHTMLs/Szeecseenke.html %}
 
-[Vissza](./)
+[Vissza](../)

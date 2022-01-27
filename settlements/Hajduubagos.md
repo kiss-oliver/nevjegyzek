@@ -6,4 +6,4 @@ description: Hajdúbagos
 
 {% include settlementHTMLs/Hajduubagos.html %}
 
-[Vissza](./)
+[Vissza](../)

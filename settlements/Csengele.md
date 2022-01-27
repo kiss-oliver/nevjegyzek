@@ -6,4 +6,4 @@ description: Csengele
 
 {% include settlementHTMLs/Csengele.html %}
 
-[Vissza](./)
+[Vissza](../)

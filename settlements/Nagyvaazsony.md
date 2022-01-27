@@ -6,4 +6,4 @@ description: Nagyvázsony
 
 {% include settlementHTMLs/Nagyvaazsony.html %}
 
-[Vissza](./)
+[Vissza](../)

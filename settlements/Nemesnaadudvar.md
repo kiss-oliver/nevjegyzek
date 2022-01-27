@@ -6,4 +6,4 @@ description: Nemesnádudvar
 
 {% include settlementHTMLs/Nemesnaadudvar.html %}
 
-[Vissza](./)
+[Vissza](../)

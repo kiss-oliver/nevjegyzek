@@ -6,4 +6,4 @@ description: Vekerd
 
 {% include settlementHTMLs/Vekerd.html %}
 
-[Vissza](./)
+[Vissza](../)

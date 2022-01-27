@@ -6,4 +6,4 @@ description: Jágónak
 
 {% include settlementHTMLs/Jaagoonak.html %}
 
-[Vissza](./)
+[Vissza](../)

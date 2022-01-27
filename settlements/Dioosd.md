@@ -6,4 +6,4 @@ description: Diósd
 
 {% include settlementHTMLs/Dioosd.html %}
 
-[Vissza](./)
+[Vissza](../)

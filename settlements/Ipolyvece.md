@@ -6,4 +6,4 @@ description: Ipolyvece
 
 {% include settlementHTMLs/Ipolyvece.html %}
 
-[Vissza](./)
+[Vissza](../)

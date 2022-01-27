@@ -6,4 +6,4 @@ description: Klárafalva
 
 {% include settlementHTMLs/Klaarafalva.html %}
 
-[Vissza](./)
+[Vissza](../)

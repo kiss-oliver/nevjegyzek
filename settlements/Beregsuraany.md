@@ -6,4 +6,4 @@ description: Beregsurány
 
 {% include settlementHTMLs/Beregsuraany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Sümegcsehi
 
 {% include settlementHTMLs/Suuxmegcsehi.html %}
 
-[Vissza](./)
+[Vissza](../)

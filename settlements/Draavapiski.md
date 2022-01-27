@@ -6,4 +6,4 @@ description: Drávapiski
 
 {% include settlementHTMLs/Draavapiski.html %}
 
-[Vissza](./)
+[Vissza](../)

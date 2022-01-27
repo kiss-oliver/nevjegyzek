@@ -6,4 +6,4 @@ description: Istvándi
 
 {% include settlementHTMLs/Istvaandi.html %}
 
-[Vissza](./)
+[Vissza](../)

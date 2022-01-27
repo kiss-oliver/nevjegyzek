@@ -6,4 +6,4 @@ description: Győrasszonyfa
 
 {% include settlementHTMLs/Gyooxxrasszonyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

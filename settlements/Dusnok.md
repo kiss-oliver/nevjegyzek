@@ -6,4 +6,4 @@ description: Dusnok
 
 {% include settlementHTMLs/Dusnok.html %}
 
-[Vissza](./)
+[Vissza](../)

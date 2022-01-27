@@ -6,4 +6,4 @@ description: Ecseg
 
 {% include settlementHTMLs/Ecseg.html %}
 
-[Vissza](./)
+[Vissza](../)

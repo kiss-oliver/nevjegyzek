@@ -6,4 +6,4 @@ description: Dunaalmás
 
 {% include settlementHTMLs/Dunaalmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

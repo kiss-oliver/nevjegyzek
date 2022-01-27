@@ -6,4 +6,4 @@ description: Bakonybánk
 
 {% include settlementHTMLs/Bakonybaank.html %}
 
-[Vissza](./)
+[Vissza](../)

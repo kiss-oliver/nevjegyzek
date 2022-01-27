@@ -6,4 +6,4 @@ description: Hajdúszovát
 
 {% include settlementHTMLs/Hajduuszovaat.html %}
 
-[Vissza](./)
+[Vissza](../)

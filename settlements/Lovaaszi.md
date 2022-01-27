@@ -6,4 +6,4 @@ description: Lovászi
 
 {% include settlementHTMLs/Lovaaszi.html %}
 
-[Vissza](./)
+[Vissza](../)

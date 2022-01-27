@@ -6,4 +6,4 @@ description: Kup
 
 {% include settlementHTMLs/Kup.html %}
 
-[Vissza](./)
+[Vissza](../)

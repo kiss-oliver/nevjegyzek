@@ -6,4 +6,4 @@ description: Ecsegfalva
 
 {% include settlementHTMLs/Ecsegfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

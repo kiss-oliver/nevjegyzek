@@ -6,4 +6,4 @@ description: Nyírpilis
 
 {% include settlementHTMLs/Nyiirpilis.html %}
 
-[Vissza](./)
+[Vissza](../)

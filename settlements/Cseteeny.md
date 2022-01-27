@@ -6,4 +6,4 @@ description: Csetény
 
 {% include settlementHTMLs/Cseteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Berekfürdő
 
 {% include settlementHTMLs/Berekfuuxrdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Geresdlak
 
 {% include settlementHTMLs/Geresdlak.html %}
 
-[Vissza](./)
+[Vissza](../)

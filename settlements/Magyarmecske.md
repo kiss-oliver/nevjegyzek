@@ -6,4 +6,4 @@ description: Magyarmecske
 
 {% include settlementHTMLs/Magyarmecske.html %}
 
-[Vissza](./)
+[Vissza](../)

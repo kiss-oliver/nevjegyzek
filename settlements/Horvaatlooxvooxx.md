@@ -6,4 +6,4 @@ description: Horvátlövő
 
 {% include settlementHTMLs/Horvaatlooxvooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

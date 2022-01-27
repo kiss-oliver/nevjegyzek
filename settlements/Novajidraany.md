@@ -6,4 +6,4 @@ description: Novajidrány
 
 {% include settlementHTMLs/Novajidraany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Fajsz
 
 {% include settlementHTMLs/Fajsz.html %}
 
-[Vissza](./)
+[Vissza](../)

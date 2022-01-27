@@ -6,4 +6,4 @@ description: Kisnyárád
 
 {% include settlementHTMLs/Kisnyaaraad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisberzseny
 
 {% include settlementHTMLs/Kisberzseny.html %}
 
-[Vissza](./)
+[Vissza](../)

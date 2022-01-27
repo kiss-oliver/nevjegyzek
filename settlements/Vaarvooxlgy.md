@@ -6,4 +6,4 @@ description: Várvölgy
 
 {% include settlementHTMLs/Vaarvooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csabaszabadi
 
 {% include settlementHTMLs/Csabaszabadi.html %}
 
-[Vissza](./)
+[Vissza](../)

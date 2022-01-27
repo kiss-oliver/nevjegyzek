@@ -6,4 +6,4 @@ description: Szijártóháza
 
 {% include settlementHTMLs/Szijaartoohaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

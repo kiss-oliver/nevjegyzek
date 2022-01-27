@@ -6,4 +6,4 @@ description: Dévaványa
 
 {% include settlementHTMLs/Deevavaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

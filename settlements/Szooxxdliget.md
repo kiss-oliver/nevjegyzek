@@ -6,4 +6,4 @@ description: Sződliget
 
 {% include settlementHTMLs/Szooxxdliget.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Réde
 
 {% include settlementHTMLs/Reede.html %}
 
-[Vissza](./)
+[Vissza](../)

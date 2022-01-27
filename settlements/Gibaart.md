@@ -6,4 +6,4 @@ description: Gibárt
 
 {% include settlementHTMLs/Gibaart.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tordas
 
 {% include settlementHTMLs/Tordas.html %}
 
-[Vissza](./)
+[Vissza](../)

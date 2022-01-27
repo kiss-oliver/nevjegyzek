@@ -6,4 +6,4 @@ description: Pilisszentiván
 
 {% include settlementHTMLs/Pilisszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

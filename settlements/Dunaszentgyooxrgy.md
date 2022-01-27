@@ -6,4 +6,4 @@ description: Dunaszentgyörgy
 
 {% include settlementHTMLs/Dunaszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tótszentmárton
 
 {% include settlementHTMLs/Tootszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csokonyavisonta
 
 {% include settlementHTMLs/Csokonyavisonta.html %}
 
-[Vissza](./)
+[Vissza](../)

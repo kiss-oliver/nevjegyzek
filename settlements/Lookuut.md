@@ -6,4 +6,4 @@ description: Lókút
 
 {% include settlementHTMLs/Lookuut.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Márokföld
 
 {% include settlementHTMLs/Maarokfooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

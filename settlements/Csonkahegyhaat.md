@@ -6,4 +6,4 @@ description: Csonkahegyhát
 
 {% include settlementHTMLs/Csonkahegyhaat.html %}
 
-[Vissza](./)
+[Vissza](../)

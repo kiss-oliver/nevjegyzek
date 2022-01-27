@@ -6,4 +6,4 @@ description: Decs
 
 {% include settlementHTMLs/Decs.html %}
 
-[Vissza](./)
+[Vissza](../)

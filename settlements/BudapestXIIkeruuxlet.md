@@ -6,4 +6,4 @@ description: Budapest XII. kerület
 
 {% include settlementHTMLs/BudapestXIIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

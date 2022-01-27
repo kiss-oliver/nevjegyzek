@@ -6,4 +6,4 @@ description: Egerszalók
 
 {% include settlementHTMLs/Egerszalook.html %}
 
-[Vissza](./)
+[Vissza](../)

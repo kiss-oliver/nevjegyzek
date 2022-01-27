@@ -6,4 +6,4 @@ description: Bucsu
 
 {% include settlementHTMLs/Bucsu.html %}
 
-[Vissza](./)
+[Vissza](../)

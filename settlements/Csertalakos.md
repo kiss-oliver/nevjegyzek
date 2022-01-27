@@ -6,4 +6,4 @@ description: Csertalakos
 
 {% include settlementHTMLs/Csertalakos.html %}
 
-[Vissza](./)
+[Vissza](../)

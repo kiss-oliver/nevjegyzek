@@ -6,4 +6,4 @@ description: Szőkéd
 
 {% include settlementHTMLs/Szooxxkeed.html %}
 
-[Vissza](./)
+[Vissza](../)

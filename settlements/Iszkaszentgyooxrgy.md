@@ -6,4 +6,4 @@ description: Iszkaszentgyörgy
 
 {% include settlementHTMLs/Iszkaszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

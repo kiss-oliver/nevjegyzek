@@ -6,4 +6,4 @@ description: Pirtó
 
 {% include settlementHTMLs/Pirtoo.html %}
 
-[Vissza](./)
+[Vissza](../)

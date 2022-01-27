@@ -6,4 +6,4 @@ description: Sóly
 
 {% include settlementHTMLs/Sooly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bugacpusztaháza
 
 {% include settlementHTMLs/Bugacpusztahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kistolmács
 
 {% include settlementHTMLs/Kistolmaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

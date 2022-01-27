@@ -6,4 +6,4 @@ description: Lúzsok
 
 {% include settlementHTMLs/Luuzsok.html %}
 
-[Vissza](./)
+[Vissza](../)

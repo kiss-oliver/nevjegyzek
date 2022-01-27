@@ -6,4 +6,4 @@ description: Szögliget
 
 {% include settlementHTMLs/Szooxgliget.html %}
 
-[Vissza](./)
+[Vissza](../)

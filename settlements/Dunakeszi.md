@@ -6,4 +6,4 @@ description: Dunakeszi
 
 {% include settlementHTMLs/Dunakeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lovas
 
 {% include settlementHTMLs/Lovas.html %}
 
-[Vissza](./)
+[Vissza](../)

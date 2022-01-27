@@ -6,4 +6,4 @@ description: Győr
 
 {% include settlementHTMLs/Gyooxxr.html %}
 
-[Vissza](./)
+[Vissza](../)

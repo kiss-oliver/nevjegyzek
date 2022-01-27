@@ -6,4 +6,4 @@ description: Vásárosdombó
 
 {% include settlementHTMLs/Vaasaarosdomboo.html %}
 
-[Vissza](./)
+[Vissza](../)

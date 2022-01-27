@@ -6,4 +6,4 @@ description: Kishartyán
 
 {% include settlementHTMLs/Kishartyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

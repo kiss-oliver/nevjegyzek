@@ -6,4 +6,4 @@ description: Bősárkány
 
 {% include settlementHTMLs/Booxxsaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

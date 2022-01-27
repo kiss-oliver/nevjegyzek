@@ -6,4 +6,4 @@ description: Dombegyház
 
 {% include settlementHTMLs/Dombegyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

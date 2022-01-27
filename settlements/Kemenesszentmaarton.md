@@ -6,4 +6,4 @@ description: Kemenesszentmárton
 
 {% include settlementHTMLs/Kemenesszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kerecseny
 
 {% include settlementHTMLs/Kerecseny.html %}
 
-[Vissza](./)
+[Vissza](../)

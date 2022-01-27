@@ -6,4 +6,4 @@ description: Szigetbecse
 
 {% include settlementHTMLs/Szigetbecse.html %}
 
-[Vissza](./)
+[Vissza](../)

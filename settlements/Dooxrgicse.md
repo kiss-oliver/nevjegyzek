@@ -6,4 +6,4 @@ description: Dörgicse
 
 {% include settlementHTMLs/Dooxrgicse.html %}
 
-[Vissza](./)
+[Vissza](../)

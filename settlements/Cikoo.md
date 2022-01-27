@@ -6,4 +6,4 @@ description: Cikó
 
 {% include settlementHTMLs/Cikoo.html %}
 
-[Vissza](./)
+[Vissza](../)

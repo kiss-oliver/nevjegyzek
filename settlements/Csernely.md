@@ -6,4 +6,4 @@ description: Csernely
 
 {% include settlementHTMLs/Csernely.html %}
 
-[Vissza](./)
+[Vissza](../)

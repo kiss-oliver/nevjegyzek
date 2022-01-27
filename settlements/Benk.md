@@ -6,4 +6,4 @@ description: Benk
 
 {% include settlementHTMLs/Benk.html %}
 
-[Vissza](./)
+[Vissza](../)

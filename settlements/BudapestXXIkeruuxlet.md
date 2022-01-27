@@ -6,4 +6,4 @@ description: Budapest XXI. kerület
 
 {% include settlementHTMLs/BudapestXXIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

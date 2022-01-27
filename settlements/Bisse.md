@@ -6,4 +6,4 @@ description: Bisse
 
 {% include settlementHTMLs/Bisse.html %}
 
-[Vissza](./)
+[Vissza](../)

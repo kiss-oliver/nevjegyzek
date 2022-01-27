@@ -6,4 +6,4 @@ description: Akasztó
 
 {% include settlementHTMLs/Akasztoo.html %}
 
-[Vissza](./)
+[Vissza](../)

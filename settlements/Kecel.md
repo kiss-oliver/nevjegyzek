@@ -6,4 +6,4 @@ description: Kecel
 
 {% include settlementHTMLs/Kecel.html %}
 
-[Vissza](./)
+[Vissza](../)

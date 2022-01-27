@@ -6,4 +6,4 @@ description: Zalaszántó
 
 {% include settlementHTMLs/Zalaszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

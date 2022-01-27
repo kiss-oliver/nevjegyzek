@@ -6,4 +6,4 @@ description: Enying
 
 {% include settlementHTMLs/Enying.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szentgotthárd
 
 {% include settlementHTMLs/Szentgotthaard.html %}
 
-[Vissza](./)
+[Vissza](../)

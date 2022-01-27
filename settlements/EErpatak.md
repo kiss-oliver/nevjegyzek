@@ -6,4 +6,4 @@ description: Érpatak
 
 {% include settlementHTMLs/EErpatak.html %}
 
-[Vissza](./)
+[Vissza](../)

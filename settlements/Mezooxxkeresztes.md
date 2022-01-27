@@ -6,4 +6,4 @@ description: Mezőkeresztes
 
 {% include settlementHTMLs/Mezooxxkeresztes.html %}
 
-[Vissza](./)
+[Vissza](../)

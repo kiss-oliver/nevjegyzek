@@ -6,4 +6,4 @@ description: Biharugra
 
 {% include settlementHTMLs/Biharugra.html %}
 
-[Vissza](./)
+[Vissza](../)

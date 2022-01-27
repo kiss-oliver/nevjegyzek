@@ -6,4 +6,4 @@ description: Lenti
 
 {% include settlementHTMLs/Lenti.html %}
 
-[Vissza](./)
+[Vissza](../)

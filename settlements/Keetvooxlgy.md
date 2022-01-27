@@ -6,4 +6,4 @@ description: Kétvölgy
 
 {% include settlementHTMLs/Keetvooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

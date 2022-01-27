@@ -6,4 +6,4 @@ description: Tiszalök
 
 {% include settlementHTMLs/Tiszalooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

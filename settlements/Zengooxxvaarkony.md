@@ -6,4 +6,4 @@ description: Zengővárkony
 
 {% include settlementHTMLs/Zengooxxvaarkony.html %}
 
-[Vissza](./)
+[Vissza](../)

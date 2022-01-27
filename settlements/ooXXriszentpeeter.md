@@ -6,4 +6,4 @@ description: Őriszentpéter
 
 {% include settlementHTMLs/ooXXriszentpeeter.html %}
 
-[Vissza](./)
+[Vissza](../)

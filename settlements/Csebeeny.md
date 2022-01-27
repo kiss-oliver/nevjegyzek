@@ -6,4 +6,4 @@ description: Csebény
 
 {% include settlementHTMLs/Csebeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

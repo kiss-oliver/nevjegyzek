@@ -6,4 +6,4 @@ description: Főnyed
 
 {% include settlementHTMLs/Fooxxnyed.html %}
 
-[Vissza](./)
+[Vissza](../)

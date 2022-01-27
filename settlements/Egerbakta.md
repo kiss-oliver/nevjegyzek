@@ -6,4 +6,4 @@ description: Egerbakta
 
 {% include settlementHTMLs/Egerbakta.html %}
 
-[Vissza](./)
+[Vissza](../)

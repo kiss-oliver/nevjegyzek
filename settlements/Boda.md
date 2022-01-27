@@ -6,4 +6,4 @@ description: Boda
 
 {% include settlementHTMLs/Boda.html %}
 
-[Vissza](./)
+[Vissza](../)

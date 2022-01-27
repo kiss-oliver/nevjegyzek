@@ -6,4 +6,4 @@ description: Vanyarc
 
 {% include settlementHTMLs/Vanyarc.html %}
 
-[Vissza](./)
+[Vissza](../)

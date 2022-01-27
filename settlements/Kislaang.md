@@ -6,4 +6,4 @@ description: Kisláng
 
 {% include settlementHTMLs/Kislaang.html %}
 
-[Vissza](./)
+[Vissza](../)

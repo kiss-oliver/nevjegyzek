@@ -6,4 +6,4 @@ description: Kispalád
 
 {% include settlementHTMLs/Kispalaad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csátalja
 
 {% include settlementHTMLs/Csaatalja.html %}
 
-[Vissza](./)
+[Vissza](../)

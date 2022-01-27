@@ -6,4 +6,4 @@ description: Gencsapáti
 
 {% include settlementHTMLs/Gencsapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

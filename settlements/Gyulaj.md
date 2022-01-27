@@ -6,4 +6,4 @@ description: Gyulaj
 
 {% include settlementHTMLs/Gyulaj.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Budapest XVIII. kerület
 
 {% include settlementHTMLs/BudapestXVIIIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

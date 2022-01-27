@@ -6,4 +6,4 @@ description: Kemeneskápolna
 
 {% include settlementHTMLs/Kemeneskaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

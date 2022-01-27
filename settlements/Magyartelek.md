@@ -6,4 +6,4 @@ description: Magyartelek
 
 {% include settlementHTMLs/Magyartelek.html %}
 
-[Vissza](./)
+[Vissza](../)

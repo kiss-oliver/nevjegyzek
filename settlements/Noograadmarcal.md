@@ -6,4 +6,4 @@ description: Nógrádmarcal
 
 {% include settlementHTMLs/Noograadmarcal.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonfüred
 
 {% include settlementHTMLs/Balatonfuuxred.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szőkedencs
 
 {% include settlementHTMLs/Szooxxkedencs.html %}
 
-[Vissza](./)
+[Vissza](../)

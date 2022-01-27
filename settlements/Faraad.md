@@ -6,4 +6,4 @@ description: Farád
 
 {% include settlementHTMLs/Faraad.html %}
 
-[Vissza](./)
+[Vissza](../)

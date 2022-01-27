@@ -6,4 +6,4 @@ description: Hajdúsámson
 
 {% include settlementHTMLs/Hajduusaamson.html %}
 
-[Vissza](./)
+[Vissza](../)

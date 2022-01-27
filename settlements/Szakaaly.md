@@ -6,4 +6,4 @@ description: Szakály
 
 {% include settlementHTMLs/Szakaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

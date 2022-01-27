@@ -6,4 +6,4 @@ description: Peterd
 
 {% include settlementHTMLs/Peterd.html %}
 
-[Vissza](./)
+[Vissza](../)

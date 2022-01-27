@@ -6,4 +6,4 @@ description: Balogunyom
 
 {% include settlementHTMLs/Balogunyom.html %}
 
-[Vissza](./)
+[Vissza](../)

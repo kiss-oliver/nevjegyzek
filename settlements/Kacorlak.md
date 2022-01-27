@@ -6,4 +6,4 @@ description: Kacorlak
 
 {% include settlementHTMLs/Kacorlak.html %}
 
-[Vissza](./)
+[Vissza](../)

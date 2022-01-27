@@ -6,4 +6,4 @@ description: Hortobágy
 
 {% include settlementHTMLs/Hortobaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

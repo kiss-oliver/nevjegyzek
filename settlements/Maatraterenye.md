@@ -6,4 +6,4 @@ description: Mátraterenye
 
 {% include settlementHTMLs/Maatraterenye.html %}
 
-[Vissza](./)
+[Vissza](../)

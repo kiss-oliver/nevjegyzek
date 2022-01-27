@@ -6,4 +6,4 @@ description: Nyőgér
 
 {% include settlementHTMLs/Nyooxxgeer.html %}
 
-[Vissza](./)
+[Vissza](../)

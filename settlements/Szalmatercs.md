@@ -6,4 +6,4 @@ description: Szalmatercs
 
 {% include settlementHTMLs/Szalmatercs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Veszkény
 
 {% include settlementHTMLs/Veszkeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

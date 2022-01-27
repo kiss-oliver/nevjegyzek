@@ -6,4 +6,4 @@ description: Kányavár
 
 {% include settlementHTMLs/Kaanyavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újkenéz
 
 {% include settlementHTMLs/UUjkeneez.html %}
 
-[Vissza](./)
+[Vissza](../)

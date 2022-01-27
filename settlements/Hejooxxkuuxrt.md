@@ -6,4 +6,4 @@ description: Hejőkürt
 
 {% include settlementHTMLs/Hejooxxkuuxrt.html %}
 
-[Vissza](./)
+[Vissza](../)

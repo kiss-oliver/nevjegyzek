@@ -6,4 +6,4 @@ description: Darány
 
 {% include settlementHTMLs/Daraany.html %}
 
-[Vissza](./)
+[Vissza](../)

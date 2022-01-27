@@ -6,4 +6,4 @@ description: Mérges
 
 {% include settlementHTMLs/Meerges.html %}
 
-[Vissza](./)
+[Vissza](../)

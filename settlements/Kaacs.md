@@ -6,4 +6,4 @@ description: Kács
 
 {% include settlementHTMLs/Kaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

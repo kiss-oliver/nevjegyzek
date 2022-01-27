@@ -6,4 +6,4 @@ description: Fadd
 
 {% include settlementHTMLs/Fadd.html %}
 
-[Vissza](./)
+[Vissza](../)

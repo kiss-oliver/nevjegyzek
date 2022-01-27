@@ -6,4 +6,4 @@ description: Bürüs
 
 {% include settlementHTMLs/Buuxruuxs.html %}
 
-[Vissza](./)
+[Vissza](../)

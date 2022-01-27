@@ -6,4 +6,4 @@ description: Ároktő
 
 {% include settlementHTMLs/AAroktooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

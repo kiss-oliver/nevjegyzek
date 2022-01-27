@@ -6,4 +6,4 @@ description: Vöröstó
 
 {% include settlementHTMLs/Vooxrooxstoo.html %}
 
-[Vissza](./)
+[Vissza](../)

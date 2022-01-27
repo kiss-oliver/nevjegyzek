@@ -6,4 +6,4 @@ description: Törökkoppány
 
 {% include settlementHTMLs/Tooxrooxkkoppaany.html %}
 
-[Vissza](./)
+[Vissza](../)

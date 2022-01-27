@@ -6,4 +6,4 @@ description: Vágáshuta
 
 {% include settlementHTMLs/Vaagaashuta.html %}
 
-[Vissza](./)
+[Vissza](../)

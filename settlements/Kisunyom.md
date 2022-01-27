@@ -6,4 +6,4 @@ description: Kisunyom
 
 {% include settlementHTMLs/Kisunyom.html %}
 
-[Vissza](./)
+[Vissza](../)

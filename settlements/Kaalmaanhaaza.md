@@ -6,4 +6,4 @@ description: Kálmánháza
 
 {% include settlementHTMLs/Kaalmaanhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

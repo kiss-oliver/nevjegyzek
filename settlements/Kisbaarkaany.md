@@ -6,4 +6,4 @@ description: Kisbárkány
 
 {% include settlementHTMLs/Kisbaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

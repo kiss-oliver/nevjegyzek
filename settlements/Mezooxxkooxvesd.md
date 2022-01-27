@@ -6,4 +6,4 @@ description: Mezőkövesd
 
 {% include settlementHTMLs/Mezooxxkooxvesd.html %}
 
-[Vissza](./)
+[Vissza](../)

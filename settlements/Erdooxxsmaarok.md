@@ -6,4 +6,4 @@ description: Erdősmárok
 
 {% include settlementHTMLs/Erdooxxsmaarok.html %}
 
-[Vissza](./)
+[Vissza](../)

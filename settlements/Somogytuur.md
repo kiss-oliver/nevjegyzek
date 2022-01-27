@@ -6,4 +6,4 @@ description: Somogytúr
 
 {% include settlementHTMLs/Somogytuur.html %}
 
-[Vissza](./)
+[Vissza](../)

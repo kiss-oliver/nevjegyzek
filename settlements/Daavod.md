@@ -6,4 +6,4 @@ description: Dávod
 
 {% include settlementHTMLs/Daavod.html %}
 
-[Vissza](./)
+[Vissza](../)

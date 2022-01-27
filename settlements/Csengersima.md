@@ -6,4 +6,4 @@ description: Csengersima
 
 {% include settlementHTMLs/Csengersima.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szentliszló
 
 {% include settlementHTMLs/Szentliszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

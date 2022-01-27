@@ -6,4 +6,4 @@ description: Városlőd
 
 {% include settlementHTMLs/Vaaroslooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kaszó
 
 {% include settlementHTMLs/Kaszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

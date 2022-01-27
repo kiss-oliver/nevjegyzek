@@ -6,4 +6,4 @@ description: Mucsi
 
 {% include settlementHTMLs/Mucsi.html %}
 
-[Vissza](./)
+[Vissza](../)

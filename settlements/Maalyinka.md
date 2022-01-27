@@ -6,4 +6,4 @@ description: Mályinka
 
 {% include settlementHTMLs/Maalyinka.html %}
 
-[Vissza](./)
+[Vissza](../)

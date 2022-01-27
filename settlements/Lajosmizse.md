@@ -6,4 +6,4 @@ description: Lajosmizse
 
 {% include settlementHTMLs/Lajosmizse.html %}
 
-[Vissza](./)
+[Vissza](../)

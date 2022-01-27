@@ -6,4 +6,4 @@ description: Csömödér
 
 {% include settlementHTMLs/Csooxmooxdeer.html %}
 
-[Vissza](./)
+[Vissza](../)

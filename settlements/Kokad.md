@@ -6,4 +6,4 @@ description: Kokad
 
 {% include settlementHTMLs/Kokad.html %}
 
-[Vissza](./)
+[Vissza](../)

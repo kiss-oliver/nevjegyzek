@@ -6,4 +6,4 @@ description: Vereb
 
 {% include settlementHTMLs/Vereb.html %}
 
-[Vissza](./)
+[Vissza](../)

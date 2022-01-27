@@ -6,4 +6,4 @@ description: Bácsborsód
 
 {% include settlementHTMLs/Baacsborsood.html %}
 
-[Vissza](./)
+[Vissza](../)

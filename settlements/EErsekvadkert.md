@@ -6,4 +6,4 @@ description: Érsekvadkert
 
 {% include settlementHTMLs/EErsekvadkert.html %}
 
-[Vissza](./)
+[Vissza](../)

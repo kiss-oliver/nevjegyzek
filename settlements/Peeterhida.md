@@ -6,4 +6,4 @@ description: Péterhida
 
 {% include settlementHTMLs/Peeterhida.html %}
 
-[Vissza](./)
+[Vissza](../)

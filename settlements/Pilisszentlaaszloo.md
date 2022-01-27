@@ -6,4 +6,4 @@ description: Pilisszentlászló
 
 {% include settlementHTMLs/Pilisszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

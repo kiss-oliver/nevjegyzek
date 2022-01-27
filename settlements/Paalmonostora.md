@@ -6,4 +6,4 @@ description: Pálmonostora
 
 {% include settlementHTMLs/Paalmonostora.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Döröske
 
 {% include settlementHTMLs/Dooxrooxske.html %}
 
-[Vissza](./)
+[Vissza](../)

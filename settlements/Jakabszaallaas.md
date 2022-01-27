@@ -6,4 +6,4 @@ description: Jakabszállás
 
 {% include settlementHTMLs/Jakabszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

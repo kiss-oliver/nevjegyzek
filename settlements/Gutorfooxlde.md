@@ -6,4 +6,4 @@ description: Gutorfölde
 
 {% include settlementHTMLs/Gutorfooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

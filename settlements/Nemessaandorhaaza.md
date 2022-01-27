@@ -6,4 +6,4 @@ description: Nemessándorháza
 
 {% include settlementHTMLs/Nemessaandorhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

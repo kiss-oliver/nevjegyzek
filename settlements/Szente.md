@@ -6,4 +6,4 @@ description: Szente
 
 {% include settlementHTMLs/Szente.html %}
 
-[Vissza](./)
+[Vissza](../)

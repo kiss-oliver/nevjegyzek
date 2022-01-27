@@ -6,4 +6,4 @@ description: Viszló
 
 {% include settlementHTMLs/Viszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tabdi
 
 {% include settlementHTMLs/Tabdi.html %}
 
-[Vissza](./)
+[Vissza](../)

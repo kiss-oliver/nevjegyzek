@@ -6,4 +6,4 @@ description: Törtel
 
 {% include settlementHTMLs/Tooxrtel.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Somogyegres
 
 {% include settlementHTMLs/Somogyegres.html %}
 
-[Vissza](./)
+[Vissza](../)

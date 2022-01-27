@@ -6,4 +6,4 @@ description: Botykapeterd
 
 {% include settlementHTMLs/Botykapeterd.html %}
 
-[Vissza](./)
+[Vissza](../)

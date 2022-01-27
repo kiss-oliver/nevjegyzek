@@ -6,4 +6,4 @@ description: Sormás
 
 {% include settlementHTMLs/Sormaas.html %}
 
-[Vissza](./)
+[Vissza](../)

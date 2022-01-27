@@ -6,4 +6,4 @@ description: Bakonyszombathely
 
 {% include settlementHTMLs/Bakonyszombathely.html %}
 
-[Vissza](./)
+[Vissza](../)

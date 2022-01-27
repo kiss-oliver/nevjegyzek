@@ -6,4 +6,4 @@ description: Balatonszárszó
 
 {% include settlementHTMLs/Balatonszaarszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

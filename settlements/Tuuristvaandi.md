@@ -6,4 +6,4 @@ description: Túristvándi
 
 {% include settlementHTMLs/Tuuristvaandi.html %}
 
-[Vissza](./)
+[Vissza](../)

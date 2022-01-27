@@ -6,4 +6,4 @@ description: Komjáti
 
 {% include settlementHTMLs/Komjaati.html %}
 
-[Vissza](./)
+[Vissza](../)

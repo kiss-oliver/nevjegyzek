@@ -6,4 +6,4 @@ description: Sajókaza
 
 {% include settlementHTMLs/Sajookaza.html %}
 
-[Vissza](./)
+[Vissza](../)

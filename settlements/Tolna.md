@@ -6,4 +6,4 @@ description: Tolna
 
 {% include settlementHTMLs/Tolna.html %}
 
-[Vissza](./)
+[Vissza](../)

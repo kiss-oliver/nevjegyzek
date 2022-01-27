@@ -6,4 +6,4 @@ description: Kápolnásnyék
 
 {% include settlementHTMLs/Kaapolnaasnyeek.html %}
 
-[Vissza](./)
+[Vissza](../)

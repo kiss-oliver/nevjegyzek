@@ -6,4 +6,4 @@ description: Szenyér
 
 {% include settlementHTMLs/Szenyeer.html %}
 
-[Vissza](./)
+[Vissza](../)

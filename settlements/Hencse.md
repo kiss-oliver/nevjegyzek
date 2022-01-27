@@ -6,4 +6,4 @@ description: Hencse
 
 {% include settlementHTMLs/Hencse.html %}
 
-[Vissza](./)
+[Vissza](../)

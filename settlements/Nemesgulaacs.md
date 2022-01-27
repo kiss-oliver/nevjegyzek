@@ -6,4 +6,4 @@ description: Nemesgulács
 
 {% include settlementHTMLs/Nemesgulaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

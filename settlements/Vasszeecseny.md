@@ -6,4 +6,4 @@ description: Vasszécseny
 
 {% include settlementHTMLs/Vasszeecseny.html %}
 
-[Vissza](./)
+[Vissza](../)

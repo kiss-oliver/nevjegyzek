@@ -6,4 +6,4 @@ description: Szajol
 
 {% include settlementHTMLs/Szajol.html %}
 
-[Vissza](./)
+[Vissza](../)

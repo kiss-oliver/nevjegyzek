@@ -6,4 +6,4 @@ description: Pusztacsalád
 
 {% include settlementHTMLs/Pusztacsalaad.html %}
 
-[Vissza](./)
+[Vissza](../)

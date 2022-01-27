@@ -6,4 +6,4 @@ description: Szigetújfalu
 
 {% include settlementHTMLs/Szigetuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

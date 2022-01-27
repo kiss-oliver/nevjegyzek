@@ -6,4 +6,4 @@ description: Tiszanagyfalu
 
 {% include settlementHTMLs/Tiszanagyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

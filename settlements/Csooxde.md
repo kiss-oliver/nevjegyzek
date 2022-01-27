@@ -6,4 +6,4 @@ description: Csöde
 
 {% include settlementHTMLs/Csooxde.html %}
 
-[Vissza](./)
+[Vissza](../)

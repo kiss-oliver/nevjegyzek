@@ -6,4 +6,4 @@ description: Nemti
 
 {% include settlementHTMLs/Nemti.html %}
 
-[Vissza](./)
+[Vissza](../)

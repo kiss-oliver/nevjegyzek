@@ -6,4 +6,4 @@ description: Keszthely
 
 {% include settlementHTMLs/Keszthely.html %}
 
-[Vissza](./)
+[Vissza](../)

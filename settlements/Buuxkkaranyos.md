@@ -6,4 +6,4 @@ description: Bükkaranyos
 
 {% include settlementHTMLs/Buuxkkaranyos.html %}
 
-[Vissza](./)
+[Vissza](../)

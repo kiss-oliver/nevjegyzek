@@ -6,4 +6,4 @@ description: Alsózsolca
 
 {% include settlementHTMLs/Alsoozsolca.html %}
 
-[Vissza](./)
+[Vissza](../)

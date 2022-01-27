@@ -6,4 +6,4 @@ description: Tornaszentjakab
 
 {% include settlementHTMLs/Tornaszentjakab.html %}
 
-[Vissza](./)
+[Vissza](../)

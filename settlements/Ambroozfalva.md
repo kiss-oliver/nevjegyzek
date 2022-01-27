@@ -6,4 +6,4 @@ description: Ambrózfalva
 
 {% include settlementHTMLs/Ambroozfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

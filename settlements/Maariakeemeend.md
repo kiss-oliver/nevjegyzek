@@ -6,4 +6,4 @@ description: Máriakéménd
 
 {% include settlementHTMLs/Maariakeemeend.html %}
 
-[Vissza](./)
+[Vissza](../)

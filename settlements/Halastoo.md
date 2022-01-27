@@ -6,4 +6,4 @@ description: Halastó
 
 {% include settlementHTMLs/Halastoo.html %}
 
-[Vissza](./)
+[Vissza](../)

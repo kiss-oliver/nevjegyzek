@@ -6,4 +6,4 @@ description: Bagamér
 
 {% include settlementHTMLs/Bagameer.html %}
 
-[Vissza](./)
+[Vissza](../)

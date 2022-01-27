@@ -6,4 +6,4 @@ description: Szorosad
 
 {% include settlementHTMLs/Szorosad.html %}
 
-[Vissza](./)
+[Vissza](../)

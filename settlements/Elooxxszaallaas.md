@@ -6,4 +6,4 @@ description: Előszállás
 
 {% include settlementHTMLs/Elooxxszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

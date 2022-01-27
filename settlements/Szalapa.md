@@ -6,4 +6,4 @@ description: Szalapa
 
 {% include settlementHTMLs/Szalapa.html %}
 
-[Vissza](./)
+[Vissza](../)

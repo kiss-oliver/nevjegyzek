@@ -6,4 +6,4 @@ description: Görcsöny
 
 {% include settlementHTMLs/Gooxrcsooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

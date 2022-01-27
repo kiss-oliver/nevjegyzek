@@ -6,4 +6,4 @@ description: Vécs
 
 {% include settlementHTMLs/Veecs.html %}
 
-[Vissza](./)
+[Vissza](../)

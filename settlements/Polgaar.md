@@ -6,4 +6,4 @@ description: Polgár
 
 {% include settlementHTMLs/Polgaar.html %}
 
-[Vissza](./)
+[Vissza](../)

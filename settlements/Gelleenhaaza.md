@@ -6,4 +6,4 @@ description: Gellénháza
 
 {% include settlementHTMLs/Gelleenhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Doba
 
 {% include settlementHTMLs/Doba.html %}
 
-[Vissza](./)
+[Vissza](../)

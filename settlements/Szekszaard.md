@@ -6,4 +6,4 @@ description: Szekszárd
 
 {% include settlementHTMLs/Szekszaard.html %}
 
-[Vissza](./)
+[Vissza](../)

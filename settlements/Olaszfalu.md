@@ -6,4 +6,4 @@ description: Olaszfalu
 
 {% include settlementHTMLs/Olaszfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

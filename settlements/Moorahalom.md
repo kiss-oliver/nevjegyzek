@@ -6,4 +6,4 @@ description: Mórahalom
 
 {% include settlementHTMLs/Moorahalom.html %}
 
-[Vissza](./)
+[Vissza](../)

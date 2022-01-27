@@ -6,4 +6,4 @@ description: Zalamerenye
 
 {% include settlementHTMLs/Zalamerenye.html %}
 
-[Vissza](./)
+[Vissza](../)

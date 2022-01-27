@@ -6,4 +6,4 @@ description: Vizslás
 
 {% include settlementHTMLs/Vizslaas.html %}
 
-[Vissza](./)
+[Vissza](../)

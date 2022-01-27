@@ -6,4 +6,4 @@ description: Sárszentlőrinc
 
 {% include settlementHTMLs/Saarszentlooxxrinc.html %}
 
-[Vissza](./)
+[Vissza](../)

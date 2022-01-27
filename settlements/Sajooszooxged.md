@@ -6,4 +6,4 @@ description: Sajószöged
 
 {% include settlementHTMLs/Sajooszooxged.html %}
 
-[Vissza](./)
+[Vissza](../)

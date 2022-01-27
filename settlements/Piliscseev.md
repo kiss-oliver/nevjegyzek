@@ -6,4 +6,4 @@ description: Piliscsév
 
 {% include settlementHTMLs/Piliscseev.html %}
 
-[Vissza](./)
+[Vissza](../)

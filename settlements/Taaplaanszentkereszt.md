@@ -6,4 +6,4 @@ description: Táplánszentkereszt
 
 {% include settlementHTMLs/Taaplaanszentkereszt.html %}
 
-[Vissza](./)
+[Vissza](../)

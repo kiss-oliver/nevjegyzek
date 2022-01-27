@@ -6,4 +6,4 @@ description: Apc
 
 {% include settlementHTMLs/Apc.html %}
 
-[Vissza](./)
+[Vissza](../)

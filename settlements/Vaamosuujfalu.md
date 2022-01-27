@@ -6,4 +6,4 @@ description: Vámosújfalu
 
 {% include settlementHTMLs/Vaamosuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

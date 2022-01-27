@@ -6,4 +6,4 @@ description: Kompolt
 
 {% include settlementHTMLs/Kompolt.html %}
 
-[Vissza](./)
+[Vissza](../)

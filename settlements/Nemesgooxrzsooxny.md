@@ -6,4 +6,4 @@ description: Nemesgörzsöny
 
 {% include settlementHTMLs/Nemesgooxrzsooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

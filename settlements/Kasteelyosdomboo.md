@@ -6,4 +6,4 @@ description: Kastélyosdombó
 
 {% include settlementHTMLs/Kasteelyosdomboo.html %}
 
-[Vissza](./)
+[Vissza](../)

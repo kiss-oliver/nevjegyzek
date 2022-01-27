@@ -6,4 +6,4 @@ description: Furta
 
 {% include settlementHTMLs/Furta.html %}
 
-[Vissza](./)
+[Vissza](../)

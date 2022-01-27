@@ -6,4 +6,4 @@ description: Úrhida
 
 {% include settlementHTMLs/UUrhida.html %}
 
-[Vissza](./)
+[Vissza](../)

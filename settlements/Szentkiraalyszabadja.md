@@ -6,4 +6,4 @@ description: Szentkirályszabadja
 
 {% include settlementHTMLs/Szentkiraalyszabadja.html %}
 
-[Vissza](./)
+[Vissza](../)

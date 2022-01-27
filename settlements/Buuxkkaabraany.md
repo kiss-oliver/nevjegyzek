@@ -6,4 +6,4 @@ description: Bükkábrány
 
 {% include settlementHTMLs/Buuxkkaabraany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Jászivány
 
 {% include settlementHTMLs/Jaaszivaany.html %}
 
-[Vissza](./)
+[Vissza](../)

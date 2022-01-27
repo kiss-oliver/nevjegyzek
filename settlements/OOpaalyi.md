@@ -6,4 +6,4 @@ description: Ópályi
 
 {% include settlementHTMLs/OOpaalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

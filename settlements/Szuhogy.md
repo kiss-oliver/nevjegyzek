@@ -6,4 +6,4 @@ description: Szuhogy
 
 {% include settlementHTMLs/Szuhogy.html %}
 
-[Vissza](./)
+[Vissza](../)

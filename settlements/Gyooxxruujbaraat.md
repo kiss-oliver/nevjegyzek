@@ -6,4 +6,4 @@ description: Győrújbarát
 
 {% include settlementHTMLs/Gyooxxruujbaraat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szarvasgede
 
 {% include settlementHTMLs/Szarvasgede.html %}
 
-[Vissza](./)
+[Vissza](../)

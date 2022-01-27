@@ -6,4 +6,4 @@ description: Noszlop
 
 {% include settlementHTMLs/Noszlop.html %}
 
-[Vissza](./)
+[Vissza](../)

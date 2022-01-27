@@ -6,4 +6,4 @@ description: Csákberény
 
 {% include settlementHTMLs/Csaakbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

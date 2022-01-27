@@ -6,4 +6,4 @@ description: Gamás
 
 {% include settlementHTMLs/Gamaas.html %}
 
-[Vissza](./)
+[Vissza](../)

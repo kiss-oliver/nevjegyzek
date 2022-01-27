@@ -6,4 +6,4 @@ description: Jászkarajenő
 
 {% include settlementHTMLs/Jaaszkarajenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

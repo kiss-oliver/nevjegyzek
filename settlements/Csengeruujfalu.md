@@ -6,4 +6,4 @@ description: Csengerújfalu
 
 {% include settlementHTMLs/Csengeruujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szanda
 
 {% include settlementHTMLs/Szanda.html %}
 
-[Vissza](./)
+[Vissza](../)

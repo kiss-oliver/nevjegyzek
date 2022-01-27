@@ -6,4 +6,4 @@ description: Szentgáloskér
 
 {% include settlementHTMLs/Szentgaaloskeer.html %}
 
-[Vissza](./)
+[Vissza](../)

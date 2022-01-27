@@ -6,4 +6,4 @@ description: Izmény
 
 {% include settlementHTMLs/Izmeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

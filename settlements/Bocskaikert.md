@@ -6,4 +6,4 @@ description: Bocskaikert
 
 {% include settlementHTMLs/Bocskaikert.html %}
 
-[Vissza](./)
+[Vissza](../)

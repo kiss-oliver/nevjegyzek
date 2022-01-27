@@ -6,4 +6,4 @@ description: Büttös
 
 {% include settlementHTMLs/Buuxttooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

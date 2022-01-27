@@ -6,4 +6,4 @@ description: Hidasnémeti
 
 {% include settlementHTMLs/Hidasneemeti.html %}
 
-[Vissza](./)
+[Vissza](../)

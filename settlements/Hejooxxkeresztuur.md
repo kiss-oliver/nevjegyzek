@@ -6,4 +6,4 @@ description: Hejőkeresztúr
 
 {% include settlementHTMLs/Hejooxxkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

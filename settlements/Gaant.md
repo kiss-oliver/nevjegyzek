@@ -6,4 +6,4 @@ description: Gánt
 
 {% include settlementHTMLs/Gaant.html %}
 
-[Vissza](./)
+[Vissza](../)

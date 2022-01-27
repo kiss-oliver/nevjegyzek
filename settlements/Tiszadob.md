@@ -6,4 +6,4 @@ description: Tiszadob
 
 {% include settlementHTMLs/Tiszadob.html %}
 
-[Vissza](./)
+[Vissza](../)

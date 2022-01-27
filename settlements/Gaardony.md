@@ -6,4 +6,4 @@ description: Gárdony
 
 {% include settlementHTMLs/Gaardony.html %}
 
-[Vissza](./)
+[Vissza](../)

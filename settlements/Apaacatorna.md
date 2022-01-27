@@ -6,4 +6,4 @@ description: Apácatorna
 
 {% include settlementHTMLs/Apaacatorna.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pethőhenye
 
 {% include settlementHTMLs/Pethooxxhenye.html %}
 
-[Vissza](./)
+[Vissza](../)

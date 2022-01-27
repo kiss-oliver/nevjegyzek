@@ -6,4 +6,4 @@ description: Alacska
 
 {% include settlementHTMLs/Alacska.html %}
 
-[Vissza](./)
+[Vissza](../)

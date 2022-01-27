@@ -6,4 +6,4 @@ description: Vönöck
 
 {% include settlementHTMLs/Vooxnooxck.html %}
 
-[Vissza](./)
+[Vissza](../)

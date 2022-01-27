@@ -6,4 +6,4 @@ description: Hetvehely
 
 {% include settlementHTMLs/Hetvehely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Maklár
 
 {% include settlementHTMLs/Maklaar.html %}
 
-[Vissza](./)
+[Vissza](../)

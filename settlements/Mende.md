@@ -6,4 +6,4 @@ description: Mende
 
 {% include settlementHTMLs/Mende.html %}
 
-[Vissza](./)
+[Vissza](../)

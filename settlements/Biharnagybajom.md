@@ -6,4 +6,4 @@ description: Biharnagybajom
 
 {% include settlementHTMLs/Biharnagybajom.html %}
 
-[Vissza](./)
+[Vissza](../)

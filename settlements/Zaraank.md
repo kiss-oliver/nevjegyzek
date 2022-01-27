@@ -6,4 +6,4 @@ description: Zaránk
 
 {% include settlementHTMLs/Zaraank.html %}
 
-[Vissza](./)
+[Vissza](../)

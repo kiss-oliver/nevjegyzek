@@ -6,4 +6,4 @@ description: Pettend
 
 {% include settlementHTMLs/Pettend.html %}
 
-[Vissza](./)
+[Vissza](../)

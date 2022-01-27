@@ -6,4 +6,4 @@ description: Bábonymegyer
 
 {% include settlementHTMLs/Baabonymegyer.html %}
 
-[Vissza](./)
+[Vissza](../)

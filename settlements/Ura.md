@@ -6,4 +6,4 @@ description: Ura
 
 {% include settlementHTMLs/Ura.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Árpás
 
 {% include settlementHTMLs/AArpaas.html %}
 
-[Vissza](./)
+[Vissza](../)

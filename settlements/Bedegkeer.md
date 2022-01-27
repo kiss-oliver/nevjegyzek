@@ -6,4 +6,4 @@ description: Bedegkér
 
 {% include settlementHTMLs/Bedegkeer.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Németbánya
 
 {% include settlementHTMLs/Neemetbaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

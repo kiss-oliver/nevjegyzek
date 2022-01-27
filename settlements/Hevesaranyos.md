@@ -6,4 +6,4 @@ description: Hevesaranyos
 
 {% include settlementHTMLs/Hevesaranyos.html %}
 
-[Vissza](./)
+[Vissza](../)

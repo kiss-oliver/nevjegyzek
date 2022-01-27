@@ -6,4 +6,4 @@ description: Tornyospálca
 
 {% include settlementHTMLs/Tornyospaalca.html %}
 
-[Vissza](./)
+[Vissza](../)

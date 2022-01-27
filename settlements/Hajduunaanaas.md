@@ -6,4 +6,4 @@ description: Hajdúnánás
 
 {% include settlementHTMLs/Hajduunaanaas.html %}
 
-[Vissza](./)
+[Vissza](../)

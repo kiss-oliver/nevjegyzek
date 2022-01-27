@@ -6,4 +6,4 @@ description: Lucfalva
 
 {% include settlementHTMLs/Lucfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

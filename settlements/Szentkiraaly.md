@@ -6,4 +6,4 @@ description: Szentkirály
 
 {% include settlementHTMLs/Szentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

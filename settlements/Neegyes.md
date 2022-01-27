@@ -6,4 +6,4 @@ description: Négyes
 
 {% include settlementHTMLs/Neegyes.html %}
 
-[Vissza](./)
+[Vissza](../)

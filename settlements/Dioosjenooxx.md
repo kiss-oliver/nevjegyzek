@@ -6,4 +6,4 @@ description: Diósjenő
 
 {% include settlementHTMLs/Dioosjenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

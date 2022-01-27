@@ -6,4 +6,4 @@ description: Varsány
 
 {% include settlementHTMLs/Varsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

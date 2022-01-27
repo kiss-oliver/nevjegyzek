@@ -6,4 +6,4 @@ description: Dunavecse
 
 {% include settlementHTMLs/Dunavecse.html %}
 
-[Vissza](./)
+[Vissza](../)

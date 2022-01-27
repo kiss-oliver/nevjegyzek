@@ -6,4 +6,4 @@ description: Miszla
 
 {% include settlementHTMLs/Miszla.html %}
 
-[Vissza](./)
+[Vissza](../)

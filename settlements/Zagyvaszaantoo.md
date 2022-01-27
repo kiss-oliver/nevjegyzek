@@ -6,4 +6,4 @@ description: Zagyvaszántó
 
 {% include settlementHTMLs/Zagyvaszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

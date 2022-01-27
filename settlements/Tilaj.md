@@ -6,4 +6,4 @@ description: Tilaj
 
 {% include settlementHTMLs/Tilaj.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szaknyér
 
 {% include settlementHTMLs/Szaknyeer.html %}
 
-[Vissza](./)
+[Vissza](../)

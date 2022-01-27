@@ -6,4 +6,4 @@ description: Ikervár
 
 {% include settlementHTMLs/Ikervaar.html %}
 
-[Vissza](./)
+[Vissza](../)

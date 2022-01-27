@@ -6,4 +6,4 @@ description: Berettyóújfalu
 
 {% include settlementHTMLs/Berettyoouujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

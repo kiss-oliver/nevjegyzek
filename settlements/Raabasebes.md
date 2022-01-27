@@ -6,4 +6,4 @@ description: Rábasebes
 
 {% include settlementHTMLs/Raabasebes.html %}
 
-[Vissza](./)
+[Vissza](../)

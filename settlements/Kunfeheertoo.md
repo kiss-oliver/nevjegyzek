@@ -6,4 +6,4 @@ description: Kunfehértó
 
 {% include settlementHTMLs/Kunfeheertoo.html %}
 
-[Vissza](./)
+[Vissza](../)

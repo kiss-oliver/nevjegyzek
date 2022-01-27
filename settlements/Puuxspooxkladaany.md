@@ -6,4 +6,4 @@ description: Püspökladány
 
 {% include settlementHTMLs/Puuxspooxkladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

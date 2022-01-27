@@ -6,4 +6,4 @@ description: Szabolcs
 
 {% include settlementHTMLs/Szabolcs.html %}
 
-[Vissza](./)
+[Vissza](../)

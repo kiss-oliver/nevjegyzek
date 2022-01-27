@@ -6,4 +6,4 @@ description: Pusztamagyaród
 
 {% include settlementHTMLs/Pusztamagyarood.html %}
 
-[Vissza](./)
+[Vissza](../)

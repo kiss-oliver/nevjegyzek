@@ -6,4 +6,4 @@ description: Uszka
 
 {% include settlementHTMLs/Uszka.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Röszke
 
 {% include settlementHTMLs/Rooxszke.html %}
 
-[Vissza](./)
+[Vissza](../)

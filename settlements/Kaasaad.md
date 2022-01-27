@@ -6,4 +6,4 @@ description: Kásád
 
 {% include settlementHTMLs/Kaasaad.html %}
 
-[Vissza](./)
+[Vissza](../)

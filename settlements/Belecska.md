@@ -6,4 +6,4 @@ description: Belecska
 
 {% include settlementHTMLs/Belecska.html %}
 
-[Vissza](./)
+[Vissza](../)

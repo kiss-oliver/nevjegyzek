@@ -6,4 +6,4 @@ description: Barnag
 
 {% include settlementHTMLs/Barnag.html %}
 
-[Vissza](./)
+[Vissza](../)

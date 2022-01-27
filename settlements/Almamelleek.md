@@ -6,4 +6,4 @@ description: Almamellék
 
 {% include settlementHTMLs/Almamelleek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kamond
 
 {% include settlementHTMLs/Kamond.html %}
 
-[Vissza](./)
+[Vissza](../)

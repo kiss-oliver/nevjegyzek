@@ -6,4 +6,4 @@ description: Bagod
 
 {% include settlementHTMLs/Bagod.html %}
 
-[Vissza](./)
+[Vissza](../)

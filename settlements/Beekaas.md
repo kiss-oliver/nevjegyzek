@@ -6,4 +6,4 @@ description: Békás
 
 {% include settlementHTMLs/Beekaas.html %}
 
-[Vissza](./)
+[Vissza](../)

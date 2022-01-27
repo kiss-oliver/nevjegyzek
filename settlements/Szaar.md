@@ -6,4 +6,4 @@ description: Szár
 
 {% include settlementHTMLs/Szaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kazincbarcika
 
 {% include settlementHTMLs/Kazincbarcika.html %}
 
-[Vissza](./)
+[Vissza](../)

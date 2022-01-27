@@ -6,4 +6,4 @@ description: Isztimér
 
 {% include settlementHTMLs/Isztimeer.html %}
 
-[Vissza](./)
+[Vissza](../)

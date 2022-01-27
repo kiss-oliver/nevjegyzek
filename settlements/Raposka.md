@@ -6,4 +6,4 @@ description: Raposka
 
 {% include settlementHTMLs/Raposka.html %}
 
-[Vissza](./)
+[Vissza](../)

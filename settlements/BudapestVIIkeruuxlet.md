@@ -6,4 +6,4 @@ description: Budapest VII. kerület
 
 {% include settlementHTMLs/BudapestVIIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

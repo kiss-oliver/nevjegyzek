@@ -6,4 +6,4 @@ description: Kiskunmajsa
 
 {% include settlementHTMLs/Kiskunmajsa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zsebeháza
 
 {% include settlementHTMLs/Zsebehaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

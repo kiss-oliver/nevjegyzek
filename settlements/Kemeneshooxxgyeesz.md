@@ -6,4 +6,4 @@ description: Kemeneshőgyész
 
 {% include settlementHTMLs/Kemeneshooxxgyeesz.html %}
 
-[Vissza](./)
+[Vissza](../)

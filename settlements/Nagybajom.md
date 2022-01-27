@@ -6,4 +6,4 @@ description: Nagybajom
 
 {% include settlementHTMLs/Nagybajom.html %}
 
-[Vissza](./)
+[Vissza](../)

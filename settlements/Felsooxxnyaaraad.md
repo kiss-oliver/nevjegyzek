@@ -6,4 +6,4 @@ description: Felsőnyárád
 
 {% include settlementHTMLs/Felsooxxnyaaraad.html %}
 
-[Vissza](./)
+[Vissza](../)

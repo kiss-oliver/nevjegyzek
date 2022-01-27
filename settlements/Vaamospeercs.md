@@ -6,4 +6,4 @@ description: Vámospércs
 
 {% include settlementHTMLs/Vaamospeercs.html %}
 
-[Vissza](./)
+[Vissza](../)

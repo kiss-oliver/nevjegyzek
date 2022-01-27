@@ -6,4 +6,4 @@ description: Felsőkelecsény
 
 {% include settlementHTMLs/Felsooxxkelecseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

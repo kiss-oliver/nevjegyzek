@@ -6,4 +6,4 @@ description: Egerbocs
 
 {% include settlementHTMLs/Egerbocs.html %}
 
-[Vissza](./)
+[Vissza](../)

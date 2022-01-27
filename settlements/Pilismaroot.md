@@ -6,4 +6,4 @@ description: Pilismarót
 
 {% include settlementHTMLs/Pilismaroot.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kerékteleki
 
 {% include settlementHTMLs/Kereekteleki.html %}
 
-[Vissza](./)
+[Vissza](../)

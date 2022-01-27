@@ -6,4 +6,4 @@ description: Nemesbőd
 
 {% include settlementHTMLs/Nemesbooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

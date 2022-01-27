@@ -6,4 +6,4 @@ description: Ölbő
 
 {% include settlementHTMLs/OOXlbooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

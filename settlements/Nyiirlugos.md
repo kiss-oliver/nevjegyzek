@@ -6,4 +6,4 @@ description: Nyírlugos
 
 {% include settlementHTMLs/Nyiirlugos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mosonudvar
 
 {% include settlementHTMLs/Mosonudvar.html %}
 
-[Vissza](./)
+[Vissza](../)

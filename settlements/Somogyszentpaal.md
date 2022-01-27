@@ -6,4 +6,4 @@ description: Somogyszentpál
 
 {% include settlementHTMLs/Somogyszentpaal.html %}
 
-[Vissza](./)
+[Vissza](../)

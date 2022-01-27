@@ -6,4 +6,4 @@ description: Ebes
 
 {% include settlementHTMLs/Ebes.html %}
 
-[Vissza](./)
+[Vissza](../)

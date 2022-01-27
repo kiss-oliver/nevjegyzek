@@ -6,4 +6,4 @@ description: Orbányosfa
 
 {% include settlementHTMLs/Orbaanyosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tótszerdahely
 
 {% include settlementHTMLs/Tootszerdahely.html %}
 
-[Vissza](./)
+[Vissza](../)

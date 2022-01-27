@@ -6,4 +6,4 @@ description: Pilisszántó
 
 {% include settlementHTMLs/Pilisszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

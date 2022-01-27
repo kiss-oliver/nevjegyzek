@@ -6,4 +6,4 @@ description: Erdősmecske
 
 {% include settlementHTMLs/Erdooxxsmecske.html %}
 
-[Vissza](./)
+[Vissza](../)

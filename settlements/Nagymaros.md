@@ -6,4 +6,4 @@ description: Nagymaros
 
 {% include settlementHTMLs/Nagymaros.html %}
 
-[Vissza](./)
+[Vissza](../)

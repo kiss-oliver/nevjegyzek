@@ -6,4 +6,4 @@ description: Sajóvelezd
 
 {% include settlementHTMLs/Sajoovelezd.html %}
 
-[Vissza](./)
+[Vissza](../)

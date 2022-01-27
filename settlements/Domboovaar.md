@@ -6,4 +6,4 @@ description: Dombóvár
 
 {% include settlementHTMLs/Domboovaar.html %}
 
-[Vissza](./)
+[Vissza](../)

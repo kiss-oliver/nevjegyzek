@@ -6,4 +6,4 @@ description: Szigetmonostor
 
 {% include settlementHTMLs/Szigetmonostor.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Magyarszecsőd
 
 {% include settlementHTMLs/Magyarszecsooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

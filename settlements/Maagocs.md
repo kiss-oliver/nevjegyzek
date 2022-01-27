@@ -6,4 +6,4 @@ description: Mágocs
 
 {% include settlementHTMLs/Maagocs.html %}
 
-[Vissza](./)
+[Vissza](../)

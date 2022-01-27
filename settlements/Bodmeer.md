@@ -6,4 +6,4 @@ description: Bodmér
 
 {% include settlementHTMLs/Bodmeer.html %}
 
-[Vissza](./)
+[Vissza](../)

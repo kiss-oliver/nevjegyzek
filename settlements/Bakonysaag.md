@@ -6,4 +6,4 @@ description: Bakonyság
 
 {% include settlementHTMLs/Bakonysaag.html %}
 
-[Vissza](./)
+[Vissza](../)

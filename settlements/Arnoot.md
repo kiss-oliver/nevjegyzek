@@ -6,4 +6,4 @@ description: Arnót
 
 {% include settlementHTMLs/Arnoot.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Karcsa
 
 {% include settlementHTMLs/Karcsa.html %}
 
-[Vissza](./)
+[Vissza](../)

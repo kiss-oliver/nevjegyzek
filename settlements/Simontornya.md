@@ -6,4 +6,4 @@ description: Simontornya
 
 {% include settlementHTMLs/Simontornya.html %}
 
-[Vissza](./)
+[Vissza](../)

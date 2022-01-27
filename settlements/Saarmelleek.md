@@ -6,4 +6,4 @@ description: Sármellék
 
 {% include settlementHTMLs/Saarmelleek.html %}
 
-[Vissza](./)
+[Vissza](../)

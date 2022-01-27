@@ -6,4 +6,4 @@ description: Feketeerdő
 
 {% include settlementHTMLs/Feketeerdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

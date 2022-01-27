@@ -6,4 +6,4 @@ description: Debercsény
 
 {% include settlementHTMLs/Debercseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

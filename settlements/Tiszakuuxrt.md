@@ -6,4 +6,4 @@ description: Tiszakürt
 
 {% include settlementHTMLs/Tiszakuuxrt.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rábaszentmihály
 
 {% include settlementHTMLs/Raabaszentmihaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

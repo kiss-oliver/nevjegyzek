@@ -6,4 +6,4 @@ description: Tiszaszalka
 
 {% include settlementHTMLs/Tiszaszalka.html %}
 
-[Vissza](./)
+[Vissza](../)

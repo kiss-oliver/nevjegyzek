@@ -6,4 +6,4 @@ description: Liszó
 
 {% include settlementHTMLs/Liszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

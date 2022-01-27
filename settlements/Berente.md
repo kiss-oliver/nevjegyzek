@@ -6,4 +6,4 @@ description: Berente
 
 {% include settlementHTMLs/Berente.html %}
 
-[Vissza](./)
+[Vissza](../)

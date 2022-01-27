@@ -6,4 +6,4 @@ description: Tarján
 
 {% include settlementHTMLs/Tarjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

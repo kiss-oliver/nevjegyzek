@@ -6,4 +6,4 @@ description: Tengőd
 
 {% include settlementHTMLs/Tengooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bükkzsérc
 
 {% include settlementHTMLs/Buuxkkzseerc.html %}
 
-[Vissza](./)
+[Vissza](../)

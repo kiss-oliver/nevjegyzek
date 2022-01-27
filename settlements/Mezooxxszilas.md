@@ -6,4 +6,4 @@ description: Mezőszilas
 
 {% include settlementHTMLs/Mezooxxszilas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csabdi
 
 {% include settlementHTMLs/Csabdi.html %}
 
-[Vissza](./)
+[Vissza](../)

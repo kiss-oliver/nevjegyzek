@@ -6,4 +6,4 @@ description: Mezőszemere
 
 {% include settlementHTMLs/Mezooxxszemere.html %}
 
-[Vissza](./)
+[Vissza](../)

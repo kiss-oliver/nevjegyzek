@@ -6,4 +6,4 @@ description: Csesztreg
 
 {% include settlementHTMLs/Csesztreg.html %}
 
-[Vissza](./)
+[Vissza](../)

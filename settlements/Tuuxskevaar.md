@@ -6,4 +6,4 @@ description: Tüskevár
 
 {% include settlementHTMLs/Tuuxskevaar.html %}
 
-[Vissza](./)
+[Vissza](../)

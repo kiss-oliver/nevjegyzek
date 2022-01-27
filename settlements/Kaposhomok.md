@@ -6,4 +6,4 @@ description: Kaposhomok
 
 {% include settlementHTMLs/Kaposhomok.html %}
 
-[Vissza](./)
+[Vissza](../)

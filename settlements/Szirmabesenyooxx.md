@@ -6,4 +6,4 @@ description: Szirmabesenyő
 
 {% include settlementHTMLs/Szirmabesenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

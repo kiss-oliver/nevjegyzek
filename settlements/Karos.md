@@ -6,4 +6,4 @@ description: Karos
 
 {% include settlementHTMLs/Karos.html %}
 
-[Vissza](./)
+[Vissza](../)

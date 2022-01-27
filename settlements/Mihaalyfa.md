@@ -6,4 +6,4 @@ description: Mihályfa
 
 {% include settlementHTMLs/Mihaalyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

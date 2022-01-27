@@ -6,4 +6,4 @@ description: Aka
 
 {% include settlementHTMLs/Aka.html %}
 
-[Vissza](./)
+[Vissza](../)

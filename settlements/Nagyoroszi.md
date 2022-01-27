@@ -6,4 +6,4 @@ description: Nagyoroszi
 
 {% include settlementHTMLs/Nagyoroszi.html %}
 
-[Vissza](./)
+[Vissza](../)

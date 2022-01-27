@@ -6,4 +6,4 @@ description: Ipolydamásd
 
 {% include settlementHTMLs/Ipolydamaasd.html %}
 
-[Vissza](./)
+[Vissza](../)

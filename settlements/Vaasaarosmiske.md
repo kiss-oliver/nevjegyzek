@@ -6,4 +6,4 @@ description: Vásárosmiske
 
 {% include settlementHTMLs/Vaasaarosmiske.html %}
 
-[Vissza](./)
+[Vissza](../)

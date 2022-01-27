@@ -6,4 +6,4 @@ description: Bocska
 
 {% include settlementHTMLs/Bocska.html %}
 
-[Vissza](./)
+[Vissza](../)

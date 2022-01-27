@@ -6,4 +6,4 @@ description: Lendvadedes
 
 {% include settlementHTMLs/Lendvadedes.html %}
 
-[Vissza](./)
+[Vissza](../)

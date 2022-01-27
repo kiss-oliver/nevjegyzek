@@ -6,4 +6,4 @@ description: Tiszabercel
 
 {% include settlementHTMLs/Tiszabercel.html %}
 
-[Vissza](./)
+[Vissza](../)

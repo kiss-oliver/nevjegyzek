@@ -6,4 +6,4 @@ description: Pinnye
 
 {% include settlementHTMLs/Pinnye.html %}
 
-[Vissza](./)
+[Vissza](../)

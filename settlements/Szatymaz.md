@@ -6,4 +6,4 @@ description: Szatymaz
 
 {% include settlementHTMLs/Szatymaz.html %}
 
-[Vissza](./)
+[Vissza](../)

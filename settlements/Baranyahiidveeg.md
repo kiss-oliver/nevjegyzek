@@ -6,4 +6,4 @@ description: Baranyahídvég
 
 {% include settlementHTMLs/Baranyahiidveeg.html %}
 
-[Vissza](./)
+[Vissza](../)

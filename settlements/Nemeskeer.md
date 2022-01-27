@@ -6,4 +6,4 @@ description: Nemeskér
 
 {% include settlementHTMLs/Nemeskeer.html %}
 
-[Vissza](./)
+[Vissza](../)

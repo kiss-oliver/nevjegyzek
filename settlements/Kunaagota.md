@@ -6,4 +6,4 @@ description: Kunágota
 
 {% include settlementHTMLs/Kunaagota.html %}
 
-[Vissza](./)
+[Vissza](../)

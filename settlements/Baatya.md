@@ -6,4 +6,4 @@ description: Bátya
 
 {% include settlementHTMLs/Baatya.html %}
 
-[Vissza](./)
+[Vissza](../)

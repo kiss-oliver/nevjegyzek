@@ -6,4 +6,4 @@ description: Nagyszénás
 
 {% include settlementHTMLs/Nagyszeenaas.html %}
 
-[Vissza](./)
+[Vissza](../)

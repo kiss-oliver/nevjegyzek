@@ -6,4 +6,4 @@ description: Tetétlen
 
 {% include settlementHTMLs/Teteetlen.html %}
 
-[Vissza](./)
+[Vissza](../)

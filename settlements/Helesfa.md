@@ -6,4 +6,4 @@ description: Helesfa
 
 {% include settlementHTMLs/Helesfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kerekharaszt
 
 {% include settlementHTMLs/Kerekharaszt.html %}
 
-[Vissza](./)
+[Vissza](../)

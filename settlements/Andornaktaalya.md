@@ -6,4 +6,4 @@ description: Andornaktálya
 
 {% include settlementHTMLs/Andornaktaalya.html %}
 
-[Vissza](./)
+[Vissza](../)

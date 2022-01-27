@@ -6,4 +6,4 @@ description: Tápiógyörgye
 
 {% include settlementHTMLs/Taapioogyooxrgye.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szentistván
 
 {% include settlementHTMLs/Szentistvaan.html %}
 
-[Vissza](./)
+[Vissza](../)

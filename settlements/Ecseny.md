@@ -6,4 +6,4 @@ description: Ecseny
 
 {% include settlementHTMLs/Ecseny.html %}
 
-[Vissza](./)
+[Vissza](../)

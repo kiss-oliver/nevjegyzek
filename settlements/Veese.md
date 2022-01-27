@@ -6,4 +6,4 @@ description: Vése
 
 {% include settlementHTMLs/Veese.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zalaerdőd
 
 {% include settlementHTMLs/Zalaerdooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bodrog
 
 {% include settlementHTMLs/Bodrog.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vindornyaszőlős
 
 {% include settlementHTMLs/Vindornyaszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

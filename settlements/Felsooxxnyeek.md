@@ -6,4 +6,4 @@ description: Felsőnyék
 
 {% include settlementHTMLs/Felsooxxnyeek.html %}
 
-[Vissza](./)
+[Vissza](../)

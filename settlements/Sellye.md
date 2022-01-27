@@ -6,4 +6,4 @@ description: Sellye
 
 {% include settlementHTMLs/Sellye.html %}
 
-[Vissza](./)
+[Vissza](../)

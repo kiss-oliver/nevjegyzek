@@ -6,4 +6,4 @@ description: Cún
 
 {% include settlementHTMLs/Cuun.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ágasegyháza
 
 {% include settlementHTMLs/AAgasegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

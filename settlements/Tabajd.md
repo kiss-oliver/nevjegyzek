@@ -6,4 +6,4 @@ description: Tabajd
 
 {% include settlementHTMLs/Tabajd.html %}
 
-[Vissza](./)
+[Vissza](../)

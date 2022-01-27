@@ -6,4 +6,4 @@ description: Erzsébet
 
 {% include settlementHTMLs/Erzseebet.html %}
 
-[Vissza](./)
+[Vissza](../)

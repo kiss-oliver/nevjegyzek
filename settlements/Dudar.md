@@ -6,4 +6,4 @@ description: Dudar
 
 {% include settlementHTMLs/Dudar.html %}
 
-[Vissza](./)
+[Vissza](../)

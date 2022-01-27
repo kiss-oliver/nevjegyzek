@@ -6,4 +6,4 @@ description: Fényeslitke
 
 {% include settlementHTMLs/Feenyeslitke.html %}
 
-[Vissza](./)
+[Vissza](../)

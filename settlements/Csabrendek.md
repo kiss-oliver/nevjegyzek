@@ -6,4 +6,4 @@ description: Csabrendek
 
 {% include settlementHTMLs/Csabrendek.html %}
 
-[Vissza](./)
+[Vissza](../)

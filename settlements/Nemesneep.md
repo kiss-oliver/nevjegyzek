@@ -6,4 +6,4 @@ description: Nemesnép
 
 {% include settlementHTMLs/Nemesneep.html %}
 
-[Vissza](./)
+[Vissza](../)

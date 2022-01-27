@@ -6,4 +6,4 @@ description: Vasad
 
 {% include settlementHTMLs/Vasad.html %}
 
-[Vissza](./)
+[Vissza](../)

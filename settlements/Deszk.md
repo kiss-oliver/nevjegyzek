@@ -6,4 +6,4 @@ description: Deszk
 
 {% include settlementHTMLs/Deszk.html %}
 
-[Vissza](./)
+[Vissza](../)

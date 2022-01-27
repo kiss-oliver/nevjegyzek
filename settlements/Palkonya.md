@@ -6,4 +6,4 @@ description: Palkonya
 
 {% include settlementHTMLs/Palkonya.html %}
 
-[Vissza](./)
+[Vissza](../)

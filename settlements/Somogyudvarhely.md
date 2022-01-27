@@ -6,4 +6,4 @@ description: Somogyudvarhely
 
 {% include settlementHTMLs/Somogyudvarhely.html %}
 
-[Vissza](./)
+[Vissza](../)

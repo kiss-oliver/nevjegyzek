@@ -6,4 +6,4 @@ description: Medgyesegyháza
 
 {% include settlementHTMLs/Medgyesegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

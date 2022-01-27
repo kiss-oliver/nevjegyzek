@@ -6,4 +6,4 @@ description: Sajóvámos
 
 {% include settlementHTMLs/Sajoovaamos.html %}
 
-[Vissza](./)
+[Vissza](../)

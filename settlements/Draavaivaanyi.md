@@ -6,4 +6,4 @@ description: Drávaiványi
 
 {% include settlementHTMLs/Draavaivaanyi.html %}
 
-[Vissza](./)
+[Vissza](../)

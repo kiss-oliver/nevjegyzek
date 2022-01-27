@@ -6,4 +6,4 @@ description: Kulcs
 
 {% include settlementHTMLs/Kulcs.html %}
 
-[Vissza](./)
+[Vissza](../)

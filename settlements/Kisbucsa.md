@@ -6,4 +6,4 @@ description: Kisbucsa
 
 {% include settlementHTMLs/Kisbucsa.html %}
 
-[Vissza](./)
+[Vissza](../)

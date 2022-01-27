@@ -6,4 +6,4 @@ description: Kiskinizs
 
 {% include settlementHTMLs/Kiskinizs.html %}
 
-[Vissza](./)
+[Vissza](../)

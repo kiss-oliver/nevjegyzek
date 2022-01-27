@@ -6,4 +6,4 @@ description: Nógrádsipek
 
 {% include settlementHTMLs/Noograadsipek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Demjén
 
 {% include settlementHTMLs/Demjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

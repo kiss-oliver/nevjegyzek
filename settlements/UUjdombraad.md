@@ -6,4 +6,4 @@ description: Újdombrád
 
 {% include settlementHTMLs/UUjdombraad.html %}
 
-[Vissza](./)
+[Vissza](../)

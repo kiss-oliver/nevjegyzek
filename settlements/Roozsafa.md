@@ -6,4 +6,4 @@ description: Rózsafa
 
 {% include settlementHTMLs/Roozsafa.html %}
 
-[Vissza](./)
+[Vissza](../)

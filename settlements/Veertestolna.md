@@ -6,4 +6,4 @@ description: Vértestolna
 
 {% include settlementHTMLs/Veertestolna.html %}
 
-[Vissza](./)
+[Vissza](../)

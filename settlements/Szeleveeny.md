@@ -6,4 +6,4 @@ description: Szelevény
 
 {% include settlementHTMLs/Szeleveeny.html %}
 
-[Vissza](./)
+[Vissza](../)

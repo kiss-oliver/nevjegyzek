@@ -6,4 +6,4 @@ description: Taksony
 
 {% include settlementHTMLs/Taksony.html %}
 
-[Vissza](./)
+[Vissza](../)

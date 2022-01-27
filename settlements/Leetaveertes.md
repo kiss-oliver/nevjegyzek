@@ -6,4 +6,4 @@ description: Létavértes
 
 {% include settlementHTMLs/Leetaveertes.html %}
 
-[Vissza](./)
+[Vissza](../)

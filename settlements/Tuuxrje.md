@@ -6,4 +6,4 @@ description: Türje
 
 {% include settlementHTMLs/Tuuxrje.html %}
 
-[Vissza](./)
+[Vissza](../)

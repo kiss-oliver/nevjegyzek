@@ -6,4 +6,4 @@ description: Fülesd
 
 {% include settlementHTMLs/Fuuxlesd.html %}
 
-[Vissza](./)
+[Vissza](../)

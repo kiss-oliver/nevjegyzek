@@ -6,4 +6,4 @@ description: Csokvaomány
 
 {% include settlementHTMLs/Csokvaomaany.html %}
 
-[Vissza](./)
+[Vissza](../)

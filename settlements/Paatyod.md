@@ -6,4 +6,4 @@ description: Pátyod
 
 {% include settlementHTMLs/Paatyod.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újpetre
 
 {% include settlementHTMLs/UUjpetre.html %}
 
-[Vissza](./)
+[Vissza](../)

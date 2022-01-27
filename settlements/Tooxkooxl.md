@@ -6,4 +6,4 @@ description: Tököl
 
 {% include settlementHTMLs/Tooxkooxl.html %}
 
-[Vissza](./)
+[Vissza](../)

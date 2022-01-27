@@ -6,4 +6,4 @@ description: Rábapaty
 
 {% include settlementHTMLs/Raabapaty.html %}
 
-[Vissza](./)
+[Vissza](../)

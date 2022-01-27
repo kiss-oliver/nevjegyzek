@@ -6,4 +6,4 @@ description: Szentimrefalva
 
 {% include settlementHTMLs/Szentimrefalva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újfehértó
 
 {% include settlementHTMLs/UUjfeheertoo.html %}
 
-[Vissza](./)
+[Vissza](../)

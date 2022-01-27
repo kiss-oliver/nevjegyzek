@@ -6,4 +6,4 @@ description: Pálfa
 
 {% include settlementHTMLs/Paalfa.html %}
 
-[Vissza](./)
+[Vissza](../)

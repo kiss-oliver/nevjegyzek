@@ -6,4 +6,4 @@ description: Nagynyárád
 
 {% include settlementHTMLs/Nagynyaaraad.html %}
 
-[Vissza](./)
+[Vissza](../)

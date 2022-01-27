@@ -6,4 +6,4 @@ description: Székkutas
 
 {% include settlementHTMLs/Szeekkutas.html %}
 
-[Vissza](./)
+[Vissza](../)

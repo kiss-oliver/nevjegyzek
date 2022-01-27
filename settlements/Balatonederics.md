@@ -6,4 +6,4 @@ description: Balatonederics
 
 {% include settlementHTMLs/Balatonederics.html %}
 
-[Vissza](./)
+[Vissza](../)

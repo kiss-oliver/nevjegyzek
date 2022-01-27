@@ -6,4 +6,4 @@ description: Bózsva
 
 {% include settlementHTMLs/Boozsva.html %}
 
-[Vissza](./)
+[Vissza](../)

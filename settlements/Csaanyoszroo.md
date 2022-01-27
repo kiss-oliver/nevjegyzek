@@ -6,4 +6,4 @@ description: Csányoszró
 
 {% include settlementHTMLs/Csaanyoszroo.html %}
 
-[Vissza](./)
+[Vissza](../)

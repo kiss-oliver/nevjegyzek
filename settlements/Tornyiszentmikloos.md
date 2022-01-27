@@ -6,4 +6,4 @@ description: Tornyiszentmiklós
 
 {% include settlementHTMLs/Tornyiszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

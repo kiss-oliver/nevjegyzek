@@ -6,4 +6,4 @@ description: Medgyesbodzás
 
 {% include settlementHTMLs/Medgyesbodzaas.html %}
 
-[Vissza](./)
+[Vissza](../)

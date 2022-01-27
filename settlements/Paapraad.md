@@ -6,4 +6,4 @@ description: Páprád
 
 {% include settlementHTMLs/Paapraad.html %}
 
-[Vissza](./)
+[Vissza](../)

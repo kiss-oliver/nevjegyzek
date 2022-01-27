@@ -6,4 +6,4 @@ description: Bábolna
 
 {% include settlementHTMLs/Baabolna.html %}
 
-[Vissza](./)
+[Vissza](../)

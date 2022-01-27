@@ -6,4 +6,4 @@ description: Valkó
 
 {% include settlementHTMLs/Valkoo.html %}
 
-[Vissza](./)
+[Vissza](../)

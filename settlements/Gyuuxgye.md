@@ -6,4 +6,4 @@ description: Gyügye
 
 {% include settlementHTMLs/Gyuuxgye.html %}
 
-[Vissza](./)
+[Vissza](../)

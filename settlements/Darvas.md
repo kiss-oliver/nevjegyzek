@@ -6,4 +6,4 @@ description: Darvas
 
 {% include settlementHTMLs/Darvas.html %}
 
-[Vissza](./)
+[Vissza](../)

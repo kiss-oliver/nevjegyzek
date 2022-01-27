@@ -6,4 +6,4 @@ description: Jánkmajtis
 
 {% include settlementHTMLs/Jaankmajtis.html %}
 
-[Vissza](./)
+[Vissza](../)

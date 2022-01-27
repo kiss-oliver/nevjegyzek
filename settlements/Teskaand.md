@@ -6,4 +6,4 @@ description: Teskánd
 
 {% include settlementHTMLs/Teskaand.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szerecseny
 
 {% include settlementHTMLs/Szerecseny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Dalmand
 
 {% include settlementHTMLs/Dalmand.html %}
 
-[Vissza](./)
+[Vissza](../)

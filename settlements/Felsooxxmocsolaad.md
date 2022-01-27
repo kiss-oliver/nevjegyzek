@@ -6,4 +6,4 @@ description: Felsőmocsolád
 
 {% include settlementHTMLs/Felsooxxmocsolaad.html %}
 
-[Vissza](./)
+[Vissza](../)

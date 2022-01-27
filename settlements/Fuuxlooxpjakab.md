@@ -6,4 +6,4 @@ description: Fülöpjakab
 
 {% include settlementHTMLs/Fuuxlooxpjakab.html %}
 
-[Vissza](./)
+[Vissza](../)

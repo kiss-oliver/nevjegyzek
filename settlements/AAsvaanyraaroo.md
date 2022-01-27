@@ -6,4 +6,4 @@ description: Ásványráró
 
 {% include settlementHTMLs/AAsvaanyraaroo.html %}
 
-[Vissza](./)
+[Vissza](../)

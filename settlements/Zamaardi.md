@@ -6,4 +6,4 @@ description: Zamárdi
 
 {% include settlementHTMLs/Zamaardi.html %}
 
-[Vissza](./)
+[Vissza](../)

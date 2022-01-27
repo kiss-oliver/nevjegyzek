@@ -6,4 +6,4 @@ description: Ramocsaháza
 
 {% include settlementHTMLs/Ramocsahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

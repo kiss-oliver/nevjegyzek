@@ -6,4 +6,4 @@ description: Kisasszond
 
 {% include settlementHTMLs/Kisasszond.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vértessomló
 
 {% include settlementHTMLs/Veertessomloo.html %}
 
-[Vissza](./)
+[Vissza](../)

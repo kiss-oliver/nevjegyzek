@@ -6,4 +6,4 @@ description: Balsa
 
 {% include settlementHTMLs/Balsa.html %}
 
-[Vissza](./)
+[Vissza](../)

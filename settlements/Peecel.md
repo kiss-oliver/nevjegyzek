@@ -6,4 +6,4 @@ description: Pécel
 
 {% include settlementHTMLs/Peecel.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Potony
 
 {% include settlementHTMLs/Potony.html %}
 
-[Vissza](./)
+[Vissza](../)

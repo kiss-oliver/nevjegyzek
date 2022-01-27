@@ -6,4 +6,4 @@ description: Tápiószele
 
 {% include settlementHTMLs/Taapiooszele.html %}
 
-[Vissza](./)
+[Vissza](../)

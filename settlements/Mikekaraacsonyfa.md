@@ -6,4 +6,4 @@ description: Mikekarácsonyfa
 
 {% include settlementHTMLs/Mikekaraacsonyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gyöngyösoroszi
 
 {% include settlementHTMLs/Gyooxngyooxsoroszi.html %}
 
-[Vissza](./)
+[Vissza](../)

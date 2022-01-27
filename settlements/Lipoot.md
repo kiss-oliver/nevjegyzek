@@ -6,4 +6,4 @@ description: Lipót
 
 {% include settlementHTMLs/Lipoot.html %}
 
-[Vissza](./)
+[Vissza](../)

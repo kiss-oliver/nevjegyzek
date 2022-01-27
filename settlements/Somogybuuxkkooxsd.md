@@ -6,4 +6,4 @@ description: Somogybükkösd
 
 {% include settlementHTMLs/Somogybuuxkkooxsd.html %}
 
-[Vissza](./)
+[Vissza](../)

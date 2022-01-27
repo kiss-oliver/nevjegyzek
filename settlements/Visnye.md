@@ -6,4 +6,4 @@ description: Visnye
 
 {% include settlementHTMLs/Visnye.html %}
 
-[Vissza](./)
+[Vissza](../)

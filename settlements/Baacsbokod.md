@@ -6,4 +6,4 @@ description: Bácsbokod
 
 {% include settlementHTMLs/Baacsbokod.html %}
 
-[Vissza](./)
+[Vissza](../)

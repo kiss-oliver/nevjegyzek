@@ -6,4 +6,4 @@ description: Kissziget
 
 {% include settlementHTMLs/Kissziget.html %}
 
-[Vissza](./)
+[Vissza](../)

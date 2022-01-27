@@ -6,4 +6,4 @@ description: Ráksi
 
 {% include settlementHTMLs/Raaksi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kovácsszénája
 
 {% include settlementHTMLs/Kovaacsszeenaaja.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zákányszék
 
 {% include settlementHTMLs/Zaakaanyszeek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bánhorváti
 
 {% include settlementHTMLs/Baanhorvaati.html %}
 
-[Vissza](./)
+[Vissza](../)

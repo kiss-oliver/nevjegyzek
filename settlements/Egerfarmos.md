@@ -6,4 +6,4 @@ description: Egerfarmos
 
 {% include settlementHTMLs/Egerfarmos.html %}
 
-[Vissza](./)
+[Vissza](../)

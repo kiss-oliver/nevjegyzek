@@ -6,4 +6,4 @@ description: Bér
 
 {% include settlementHTMLs/Beer.html %}
 
-[Vissza](./)
+[Vissza](../)

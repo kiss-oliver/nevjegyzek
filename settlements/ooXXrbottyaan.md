@@ -6,4 +6,4 @@ description: Őrbottyán
 
 {% include settlementHTMLs/ooXXrbottyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vasszilvágy
 
 {% include settlementHTMLs/Vasszilvaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Edelény
 
 {% include settlementHTMLs/Edeleeny.html %}
 
-[Vissza](./)
+[Vissza](../)

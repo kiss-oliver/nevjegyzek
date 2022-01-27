@@ -6,4 +6,4 @@ description: Cece
 
 {% include settlementHTMLs/Cece.html %}
 
-[Vissza](./)
+[Vissza](../)

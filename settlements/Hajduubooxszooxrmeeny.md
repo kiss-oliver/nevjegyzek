@@ -6,4 +6,4 @@ description: Hajdúböszörmény
 
 {% include settlementHTMLs/Hajduubooxszooxrmeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

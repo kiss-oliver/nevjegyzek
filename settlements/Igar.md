@@ -6,4 +6,4 @@ description: Igar
 
 {% include settlementHTMLs/Igar.html %}
 
-[Vissza](./)
+[Vissza](../)

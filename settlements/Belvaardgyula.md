@@ -6,4 +6,4 @@ description: Belvárdgyula
 
 {% include settlementHTMLs/Belvaardgyula.html %}
 
-[Vissza](./)
+[Vissza](../)

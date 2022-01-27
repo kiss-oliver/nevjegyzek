@@ -6,4 +6,4 @@ description: Aranyosgadány
 
 {% include settlementHTMLs/Aranyosgadaany.html %}
 
-[Vissza](./)
+[Vissza](../)

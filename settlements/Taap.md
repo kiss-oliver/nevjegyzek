@@ -6,4 +6,4 @@ description: Táp
 
 {% include settlementHTMLs/Taap.html %}
 
-[Vissza](./)
+[Vissza](../)

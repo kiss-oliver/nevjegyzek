@@ -6,4 +6,4 @@ description: Fülpösdaróc
 
 {% include settlementHTMLs/Fuuxlpooxsdarooc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szolnok
 
 {% include settlementHTMLs/Szolnok.html %}
 
-[Vissza](./)
+[Vissza](../)

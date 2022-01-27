@@ -6,4 +6,4 @@ description: Endrőc
 
 {% include settlementHTMLs/Endrooxxc.html %}
 
-[Vissza](./)
+[Vissza](../)

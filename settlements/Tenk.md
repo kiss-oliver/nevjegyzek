@@ -6,4 +6,4 @@ description: Tenk
 
 {% include settlementHTMLs/Tenk.html %}
 
-[Vissza](./)
+[Vissza](../)

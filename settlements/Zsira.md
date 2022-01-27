@@ -6,4 +6,4 @@ description: Zsira
 
 {% include settlementHTMLs/Zsira.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Siklósbodony
 
 {% include settlementHTMLs/Sikloosbodony.html %}
 
-[Vissza](./)
+[Vissza](../)

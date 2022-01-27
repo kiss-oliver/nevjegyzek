@@ -6,4 +6,4 @@ description: Hevesvezekény
 
 {% include settlementHTMLs/Hevesvezekeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szemere
 
 {% include settlementHTMLs/Szemere.html %}
 
-[Vissza](./)
+[Vissza](../)

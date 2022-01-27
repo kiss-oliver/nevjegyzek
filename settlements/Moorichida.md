@@ -6,4 +6,4 @@ description: Mórichida
 
 {% include settlementHTMLs/Moorichida.html %}
 
-[Vissza](./)
+[Vissza](../)

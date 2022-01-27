@@ -6,4 +6,4 @@ description: Szulimán
 
 {% include settlementHTMLs/Szulimaan.html %}
 
-[Vissza](./)
+[Vissza](../)

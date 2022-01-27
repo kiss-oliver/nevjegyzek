@@ -6,4 +6,4 @@ description: Csehimindszent
 
 {% include settlementHTMLs/Csehimindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vértesboglár
 
 {% include settlementHTMLs/Veertesboglaar.html %}
 
-[Vissza](./)
+[Vissza](../)

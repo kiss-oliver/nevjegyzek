@@ -6,4 +6,4 @@ description: Hirics
 
 {% include settlementHTMLs/Hirics.html %}
 
-[Vissza](./)
+[Vissza](../)

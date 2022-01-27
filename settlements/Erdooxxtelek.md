@@ -6,4 +6,4 @@ description: Erdőtelek
 
 {% include settlementHTMLs/Erdooxxtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

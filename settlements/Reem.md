@@ -6,4 +6,4 @@ description: Rém
 
 {% include settlementHTMLs/Reem.html %}
 
-[Vissza](./)
+[Vissza](../)

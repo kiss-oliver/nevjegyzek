@@ -6,4 +6,4 @@ description: Simonfa
 
 {% include settlementHTMLs/Simonfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rakamaz
 
 {% include settlementHTMLs/Rakamaz.html %}
 
-[Vissza](./)
+[Vissza](../)

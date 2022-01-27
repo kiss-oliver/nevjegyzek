@@ -6,4 +6,4 @@ description: Diósberény
 
 {% include settlementHTMLs/Dioosbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

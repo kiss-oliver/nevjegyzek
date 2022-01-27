@@ -6,4 +6,4 @@ description: Babót
 
 {% include settlementHTMLs/Baboot.html %}
 
-[Vissza](./)
+[Vissza](../)

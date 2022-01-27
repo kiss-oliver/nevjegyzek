@@ -6,4 +6,4 @@ description: Izsófalva
 
 {% include settlementHTMLs/Izsoofalva.html %}
 
-[Vissza](./)
+[Vissza](../)

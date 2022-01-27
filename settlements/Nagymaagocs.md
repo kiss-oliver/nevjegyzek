@@ -6,4 +6,4 @@ description: Nagymágocs
 
 {% include settlementHTMLs/Nagymaagocs.html %}
 
-[Vissza](./)
+[Vissza](../)

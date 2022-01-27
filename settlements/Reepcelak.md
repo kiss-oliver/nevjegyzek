@@ -6,4 +6,4 @@ description: Répcelak
 
 {% include settlementHTMLs/Reepcelak.html %}
 
-[Vissza](./)
+[Vissza](../)

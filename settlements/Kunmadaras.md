@@ -6,4 +6,4 @@ description: Kunmadaras
 
 {% include settlementHTMLs/Kunmadaras.html %}
 
-[Vissza](./)
+[Vissza](../)

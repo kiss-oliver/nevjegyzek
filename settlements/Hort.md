@@ -6,4 +6,4 @@ description: Hort
 
 {% include settlementHTMLs/Hort.html %}
 
-[Vissza](./)
+[Vissza](../)

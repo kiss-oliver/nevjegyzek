@@ -6,4 +6,4 @@ description: Kacsóta
 
 {% include settlementHTMLs/Kacsoota.html %}
 
-[Vissza](./)
+[Vissza](../)

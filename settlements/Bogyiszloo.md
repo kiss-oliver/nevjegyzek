@@ -6,4 +6,4 @@ description: Bogyiszló
 
 {% include settlementHTMLs/Bogyiszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

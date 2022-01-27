@@ -6,4 +6,4 @@ description: Bodrogkisfalud
 
 {% include settlementHTMLs/Bodrogkisfalud.html %}
 
-[Vissza](./)
+[Vissza](../)

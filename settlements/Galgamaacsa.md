@@ -6,4 +6,4 @@ description: Galgamácsa
 
 {% include settlementHTMLs/Galgamaacsa.html %}
 
-[Vissza](./)
+[Vissza](../)

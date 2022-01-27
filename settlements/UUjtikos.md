@@ -6,4 +6,4 @@ description: Újtikos
 
 {% include settlementHTMLs/UUjtikos.html %}
 
-[Vissza](./)
+[Vissza](../)

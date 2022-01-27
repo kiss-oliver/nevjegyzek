@@ -6,4 +6,4 @@ description: Aszód
 
 {% include settlementHTMLs/Aszood.html %}
 
-[Vissza](./)
+[Vissza](../)

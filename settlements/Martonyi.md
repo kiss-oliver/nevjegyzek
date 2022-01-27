@@ -6,4 +6,4 @@ description: Martonyi
 
 {% include settlementHTMLs/Martonyi.html %}
 
-[Vissza](./)
+[Vissza](../)

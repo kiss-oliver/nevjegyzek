@@ -6,4 +6,4 @@ description: Felsőszentmárton
 
 {% include settlementHTMLs/Felsooxxszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

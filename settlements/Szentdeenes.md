@@ -6,4 +6,4 @@ description: Szentdénes
 
 {% include settlementHTMLs/Szentdeenes.html %}
 
-[Vissza](./)
+[Vissza](../)

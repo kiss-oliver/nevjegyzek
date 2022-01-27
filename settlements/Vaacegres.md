@@ -6,4 +6,4 @@ description: Vácegres
 
 {% include settlementHTMLs/Vaacegres.html %}
 
-[Vissza](./)
+[Vissza](../)

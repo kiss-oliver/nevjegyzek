@@ -6,4 +6,4 @@ description: Jákó
 
 {% include settlementHTMLs/Jaakoo.html %}
 
-[Vissza](./)
+[Vissza](../)

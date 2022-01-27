@@ -6,4 +6,4 @@ description: Magyarlukafa
 
 {% include settlementHTMLs/Magyarlukafa.html %}
 
-[Vissza](./)
+[Vissza](../)

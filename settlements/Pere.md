@@ -6,4 +6,4 @@ description: Pere
 
 {% include settlementHTMLs/Pere.html %}
 
-[Vissza](./)
+[Vissza](../)

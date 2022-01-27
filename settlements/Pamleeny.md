@@ -6,4 +6,4 @@ description: Pamlény
 
 {% include settlementHTMLs/Pamleeny.html %}
 
-[Vissza](./)
+[Vissza](../)

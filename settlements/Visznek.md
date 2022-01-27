@@ -6,4 +6,4 @@ description: Visznek
 
 {% include settlementHTMLs/Visznek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Karakószörcsök
 
 {% include settlementHTMLs/Karakooszooxrcsooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

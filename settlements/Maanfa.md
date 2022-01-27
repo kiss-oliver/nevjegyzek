@@ -6,4 +6,4 @@ description: Mánfa
 
 {% include settlementHTMLs/Maanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyúl
 
 {% include settlementHTMLs/Nyuul.html %}
 
-[Vissza](./)
+[Vissza](../)

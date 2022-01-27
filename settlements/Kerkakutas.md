@@ -6,4 +6,4 @@ description: Kerkakutas
 
 {% include settlementHTMLs/Kerkakutas.html %}
 
-[Vissza](./)
+[Vissza](../)

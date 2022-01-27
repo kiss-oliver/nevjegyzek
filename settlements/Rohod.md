@@ -6,4 +6,4 @@ description: Rohod
 
 {% include settlementHTMLs/Rohod.html %}
 
-[Vissza](./)
+[Vissza](../)

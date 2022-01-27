@@ -6,4 +6,4 @@ description: Pécsbagota
 
 {% include settlementHTMLs/Peecsbagota.html %}
 
-[Vissza](./)
+[Vissza](../)

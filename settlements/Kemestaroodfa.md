@@ -6,4 +6,4 @@ description: Kemestaródfa
 
 {% include settlementHTMLs/Kemestaroodfa.html %}
 
-[Vissza](./)
+[Vissza](../)

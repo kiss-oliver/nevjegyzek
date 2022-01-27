@@ -6,4 +6,4 @@ description: Nagyréde
 
 {% include settlementHTMLs/Nagyreede.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Németfalu
 
 {% include settlementHTMLs/Neemetfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

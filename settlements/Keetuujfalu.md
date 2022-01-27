@@ -6,4 +6,4 @@ description: Kétújfalu
 
 {% include settlementHTMLs/Keetuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

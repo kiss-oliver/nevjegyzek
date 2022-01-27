@@ -6,4 +6,4 @@ description: Tunyogmatolcs
 
 {% include settlementHTMLs/Tunyogmatolcs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tarnaméra
 
 {% include settlementHTMLs/Tarnameera.html %}
 
-[Vissza](./)
+[Vissza](../)

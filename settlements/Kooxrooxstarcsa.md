@@ -6,4 +6,4 @@ description: Köröstarcsa
 
 {% include settlementHTMLs/Kooxrooxstarcsa.html %}
 
-[Vissza](./)
+[Vissza](../)

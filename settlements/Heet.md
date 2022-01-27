@@ -6,4 +6,4 @@ description: Hét
 
 {% include settlementHTMLs/Heet.html %}
 
-[Vissza](./)
+[Vissza](../)

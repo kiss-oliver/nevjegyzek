@@ -6,4 +6,4 @@ description: Sióagárd
 
 {% include settlementHTMLs/Siooagaard.html %}
 
-[Vissza](./)
+[Vissza](../)

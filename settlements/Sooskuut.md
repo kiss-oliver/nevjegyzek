@@ -6,4 +6,4 @@ description: Sóskút
 
 {% include settlementHTMLs/Sooskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

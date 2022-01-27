@@ -6,4 +6,4 @@ description: Gór
 
 {% include settlementHTMLs/Goor.html %}
 
-[Vissza](./)
+[Vissza](../)

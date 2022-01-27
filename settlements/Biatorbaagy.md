@@ -6,4 +6,4 @@ description: Biatorbágy
 
 {% include settlementHTMLs/Biatorbaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

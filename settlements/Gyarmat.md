@@ -6,4 +6,4 @@ description: Gyarmat
 
 {% include settlementHTMLs/Gyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Milejszeg
 
 {% include settlementHTMLs/Milejszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

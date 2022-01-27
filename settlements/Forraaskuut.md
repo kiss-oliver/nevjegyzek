@@ -6,4 +6,4 @@ description: Forráskút
 
 {% include settlementHTMLs/Forraaskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

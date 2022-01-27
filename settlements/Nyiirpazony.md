@@ -6,4 +6,4 @@ description: Nyírpazony
 
 {% include settlementHTMLs/Nyiirpazony.html %}
 
-[Vissza](./)
+[Vissza](../)

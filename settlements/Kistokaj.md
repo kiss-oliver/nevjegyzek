@@ -6,4 +6,4 @@ description: Kistokaj
 
 {% include settlementHTMLs/Kistokaj.html %}
 
-[Vissza](./)
+[Vissza](../)

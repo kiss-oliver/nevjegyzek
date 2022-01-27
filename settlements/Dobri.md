@@ -6,4 +6,4 @@ description: Dobri
 
 {% include settlementHTMLs/Dobri.html %}
 
-[Vissza](./)
+[Vissza](../)

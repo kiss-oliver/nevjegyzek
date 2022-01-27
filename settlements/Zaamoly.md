@@ -6,4 +6,4 @@ description: Zámoly
 
 {% include settlementHTMLs/Zaamoly.html %}
 
-[Vissza](./)
+[Vissza](../)

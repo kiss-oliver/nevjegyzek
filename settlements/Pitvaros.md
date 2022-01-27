@@ -6,4 +6,4 @@ description: Pitvaros
 
 {% include settlementHTMLs/Pitvaros.html %}
 
-[Vissza](./)
+[Vissza](../)

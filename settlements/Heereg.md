@@ -6,4 +6,4 @@ description: Héreg
 
 {% include settlementHTMLs/Heereg.html %}
 
-[Vissza](./)
+[Vissza](../)

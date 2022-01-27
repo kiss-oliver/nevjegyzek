@@ -6,4 +6,4 @@ description: Császló
 
 {% include settlementHTMLs/Csaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

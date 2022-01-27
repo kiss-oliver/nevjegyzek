@@ -6,4 +6,4 @@ description: Pálosvörösmart
 
 {% include settlementHTMLs/Paalosvooxrooxsmart.html %}
 
-[Vissza](./)
+[Vissza](../)

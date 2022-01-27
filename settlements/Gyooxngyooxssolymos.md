@@ -6,4 +6,4 @@ description: Gyöngyössolymos
 
 {% include settlementHTMLs/Gyooxngyooxssolymos.html %}
 
-[Vissza](./)
+[Vissza](../)

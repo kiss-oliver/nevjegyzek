@@ -6,4 +6,4 @@ description: Fácánkert
 
 {% include settlementHTMLs/Faacaankert.html %}
 
-[Vissza](./)
+[Vissza](../)

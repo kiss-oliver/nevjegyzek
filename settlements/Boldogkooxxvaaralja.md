@@ -6,4 +6,4 @@ description: Boldogkőváralja
 
 {% include settlementHTMLs/Boldogkooxxvaaralja.html %}
 
-[Vissza](./)
+[Vissza](../)

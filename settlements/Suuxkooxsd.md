@@ -6,4 +6,4 @@ description: Sükösd
 
 {% include settlementHTMLs/Suuxkooxsd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hernádszurdok
 
 {% include settlementHTMLs/Hernaadszurdok.html %}
 
-[Vissza](./)
+[Vissza](../)

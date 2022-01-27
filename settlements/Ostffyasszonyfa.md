@@ -6,4 +6,4 @@ description: Ostffyasszonyfa
 
 {% include settlementHTMLs/Ostffyasszonyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

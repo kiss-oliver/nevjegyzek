@@ -6,4 +6,4 @@ description: Harkány
 
 {% include settlementHTMLs/Harkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

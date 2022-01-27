@@ -6,4 +6,4 @@ description: Pilis
 
 {% include settlementHTMLs/Pilis.html %}
 
-[Vissza](./)
+[Vissza](../)

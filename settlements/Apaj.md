@@ -6,4 +6,4 @@ description: Apaj
 
 {% include settlementHTMLs/Apaj.html %}
 
-[Vissza](./)
+[Vissza](../)

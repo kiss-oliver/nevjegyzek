@@ -6,4 +6,4 @@ description: Szabadszentkirály
 
 {% include settlementHTMLs/Szabadszentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

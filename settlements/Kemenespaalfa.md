@@ -6,4 +6,4 @@ description: Kemenespálfa
 
 {% include settlementHTMLs/Kemenespaalfa.html %}
 
-[Vissza](./)
+[Vissza](../)

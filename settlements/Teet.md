@@ -6,4 +6,4 @@ description: Tét
 
 {% include settlementHTMLs/Teet.html %}
 
-[Vissza](./)
+[Vissza](../)

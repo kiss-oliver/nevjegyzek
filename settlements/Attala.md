@@ -6,4 +6,4 @@ description: Attala
 
 {% include settlementHTMLs/Attala.html %}
 
-[Vissza](./)
+[Vissza](../)

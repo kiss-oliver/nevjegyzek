@@ -6,4 +6,4 @@ description: Rakacaszend
 
 {% include settlementHTMLs/Rakacaszend.html %}
 
-[Vissza](./)
+[Vissza](../)

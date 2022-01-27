@@ -6,4 +6,4 @@ description: Felsőörs
 
 {% include settlementHTMLs/Felsooxxooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

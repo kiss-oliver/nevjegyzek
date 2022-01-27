@@ -6,4 +6,4 @@ description: Ludas
 
 {% include settlementHTMLs/Ludas.html %}
 
-[Vissza](./)
+[Vissza](../)

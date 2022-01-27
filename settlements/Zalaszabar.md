@@ -6,4 +6,4 @@ description: Zalaszabar
 
 {% include settlementHTMLs/Zalaszabar.html %}
 
-[Vissza](./)
+[Vissza](../)

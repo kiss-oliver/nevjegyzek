@@ -6,4 +6,4 @@ description: Tömörd
 
 {% include settlementHTMLs/Tooxmooxrd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vaja
 
 {% include settlementHTMLs/Vaja.html %}
 
-[Vissza](./)
+[Vissza](../)

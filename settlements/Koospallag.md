@@ -6,4 +6,4 @@ description: Kóspallag
 
 {% include settlementHTMLs/Koospallag.html %}
 
-[Vissza](./)
+[Vissza](../)

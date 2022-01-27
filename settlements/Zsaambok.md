@@ -6,4 +6,4 @@ description: Zsámbok
 
 {% include settlementHTMLs/Zsaambok.html %}
 
-[Vissza](./)
+[Vissza](../)

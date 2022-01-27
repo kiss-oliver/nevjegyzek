@@ -6,4 +6,4 @@ description: Kóka
 
 {% include settlementHTMLs/Kooka.html %}
 
-[Vissza](./)
+[Vissza](../)

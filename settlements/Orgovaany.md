@@ -6,4 +6,4 @@ description: Orgovány
 
 {% include settlementHTMLs/Orgovaany.html %}
 
-[Vissza](./)
+[Vissza](../)

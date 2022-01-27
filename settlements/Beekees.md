@@ -6,4 +6,4 @@ description: Békés
 
 {% include settlementHTMLs/Beekees.html %}
 
-[Vissza](./)
+[Vissza](../)

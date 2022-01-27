@@ -6,4 +6,4 @@ description: Tiszaderzs
 
 {% include settlementHTMLs/Tiszaderzs.html %}
 
-[Vissza](./)
+[Vissza](../)

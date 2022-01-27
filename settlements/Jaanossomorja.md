@@ -6,4 +6,4 @@ description: Jánossomorja
 
 {% include settlementHTMLs/Jaanossomorja.html %}
 
-[Vissza](./)
+[Vissza](../)

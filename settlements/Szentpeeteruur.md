@@ -6,4 +6,4 @@ description: Szentpéterúr
 
 {% include settlementHTMLs/Szentpeeteruur.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonszőlős
 
 {% include settlementHTMLs/Balatonszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

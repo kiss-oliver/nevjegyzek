@@ -6,4 +6,4 @@ description: Kisecset
 
 {% include settlementHTMLs/Kisecset.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csaroda
 
 {% include settlementHTMLs/Csaroda.html %}
 
-[Vissza](./)
+[Vissza](../)

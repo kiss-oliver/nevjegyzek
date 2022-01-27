@@ -6,4 +6,4 @@ description: Nemeskisfalud
 
 {% include settlementHTMLs/Nemeskisfalud.html %}
 
-[Vissza](./)
+[Vissza](../)

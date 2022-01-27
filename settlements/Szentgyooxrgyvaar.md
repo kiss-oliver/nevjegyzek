@@ -6,4 +6,4 @@ description: Szentgyörgyvár
 
 {% include settlementHTMLs/Szentgyooxrgyvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

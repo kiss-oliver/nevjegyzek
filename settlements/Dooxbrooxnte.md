@@ -6,4 +6,4 @@ description: Döbrönte
 
 {% include settlementHTMLs/Dooxbrooxnte.html %}
 
-[Vissza](./)
+[Vissza](../)

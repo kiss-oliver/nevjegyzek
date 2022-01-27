@@ -6,4 +6,4 @@ description: Magyarkeresztúr
 
 {% include settlementHTMLs/Magyarkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Úri
 
 {% include settlementHTMLs/UUri.html %}
 
-[Vissza](./)
+[Vissza](../)

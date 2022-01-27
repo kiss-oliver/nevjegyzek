@@ -6,4 +6,4 @@ description: Harasztifalu
 
 {% include settlementHTMLs/Harasztifalu.html %}
 
-[Vissza](./)
+[Vissza](../)

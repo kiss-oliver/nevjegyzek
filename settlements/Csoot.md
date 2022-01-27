@@ -6,4 +6,4 @@ description: Csót
 
 {% include settlementHTMLs/Csoot.html %}
 
-[Vissza](./)
+[Vissza](../)

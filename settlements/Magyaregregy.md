@@ -6,4 +6,4 @@ description: Magyaregregy
 
 {% include settlementHTMLs/Magyaregregy.html %}
 
-[Vissza](./)
+[Vissza](../)

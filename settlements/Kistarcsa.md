@@ -6,4 +6,4 @@ description: Kistarcsa
 
 {% include settlementHTMLs/Kistarcsa.html %}
 
-[Vissza](./)
+[Vissza](../)

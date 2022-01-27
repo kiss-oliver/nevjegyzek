@@ -6,4 +6,4 @@ description: Hunya
 
 {% include settlementHTMLs/Hunya.html %}
 
-[Vissza](./)
+[Vissza](../)

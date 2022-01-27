@@ -6,4 +6,4 @@ description: Hőgyész
 
 {% include settlementHTMLs/Hooxxgyeesz.html %}
 
-[Vissza](./)
+[Vissza](../)

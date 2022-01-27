@@ -6,4 +6,4 @@ description: Sátoraljaújhely
 
 {% include settlementHTMLs/Saatoraljauujhely.html %}
 
-[Vissza](./)
+[Vissza](../)

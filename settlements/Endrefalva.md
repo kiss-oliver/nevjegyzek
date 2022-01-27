@@ -6,4 +6,4 @@ description: Endrefalva
 
 {% include settlementHTMLs/Endrefalva.html %}
 
-[Vissza](./)
+[Vissza](../)

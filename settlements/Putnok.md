@@ -6,4 +6,4 @@ description: Putnok
 
 {% include settlementHTMLs/Putnok.html %}
 
-[Vissza](./)
+[Vissza](../)

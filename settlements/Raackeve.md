@@ -6,4 +6,4 @@ description: Ráckeve
 
 {% include settlementHTMLs/Raackeve.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonberény
 
 {% include settlementHTMLs/Balatonbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

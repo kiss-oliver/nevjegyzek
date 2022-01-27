@@ -6,4 +6,4 @@ description: Gersekarát
 
 {% include settlementHTMLs/Gersekaraat.html %}
 
-[Vissza](./)
+[Vissza](../)

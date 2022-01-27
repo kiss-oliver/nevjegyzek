@@ -6,4 +6,4 @@ description: Bögöt
 
 {% include settlementHTMLs/Booxgooxt.html %}
 
-[Vissza](./)
+[Vissza](../)

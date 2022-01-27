@@ -6,4 +6,4 @@ description: Rábakecöl
 
 {% include settlementHTMLs/Raabakecooxl.html %}
 
-[Vissza](./)
+[Vissza](../)

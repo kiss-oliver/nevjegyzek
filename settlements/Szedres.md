@@ -6,4 +6,4 @@ description: Szedres
 
 {% include settlementHTMLs/Szedres.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gyalóka
 
 {% include settlementHTMLs/Gyalooka.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szatta
 
 {% include settlementHTMLs/Szatta.html %}
 
-[Vissza](./)
+[Vissza](../)

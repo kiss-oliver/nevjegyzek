@@ -6,4 +6,4 @@ description: Keszü
 
 {% include settlementHTMLs/Keszuux.html %}
 
-[Vissza](./)
+[Vissza](../)

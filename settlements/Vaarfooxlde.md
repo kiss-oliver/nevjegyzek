@@ -6,4 +6,4 @@ description: Várfölde
 
 {% include settlementHTMLs/Vaarfooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

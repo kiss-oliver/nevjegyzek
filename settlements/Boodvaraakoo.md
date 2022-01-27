@@ -6,4 +6,4 @@ description: Bódvarákó
 
 {% include settlementHTMLs/Boodvaraakoo.html %}
 
-[Vissza](./)
+[Vissza](../)

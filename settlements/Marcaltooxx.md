@@ -6,4 +6,4 @@ description: Marcaltő
 
 {% include settlementHTMLs/Marcaltooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

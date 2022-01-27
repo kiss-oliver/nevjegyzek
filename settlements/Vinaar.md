@@ -6,4 +6,4 @@ description: Vinár
 
 {% include settlementHTMLs/Vinaar.html %}
 
-[Vissza](./)
+[Vissza](../)

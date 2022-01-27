@@ -6,4 +6,4 @@ description: Gérce
 
 {% include settlementHTMLs/Geerce.html %}
 
-[Vissza](./)
+[Vissza](../)

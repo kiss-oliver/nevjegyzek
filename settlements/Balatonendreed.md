@@ -6,4 +6,4 @@ description: Balatonendréd
 
 {% include settlementHTMLs/Balatonendreed.html %}
 
-[Vissza](./)
+[Vissza](../)

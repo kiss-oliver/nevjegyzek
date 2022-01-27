@@ -6,4 +6,4 @@ description: Gomba
 
 {% include settlementHTMLs/Gomba.html %}
 
-[Vissza](./)
+[Vissza](../)

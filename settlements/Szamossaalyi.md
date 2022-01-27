@@ -6,4 +6,4 @@ description: Szamossályi
 
 {% include settlementHTMLs/Szamossaalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

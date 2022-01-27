@@ -6,4 +6,4 @@ description: Sajóörös
 
 {% include settlementHTMLs/Sajooooxrooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

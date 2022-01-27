@@ -6,4 +6,4 @@ description: Királyegyháza
 
 {% include settlementHTMLs/Kiraalyegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rinyaszentkirály
 
 {% include settlementHTMLs/Rinyaszentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Göncruszka
 
 {% include settlementHTMLs/Gooxncruszka.html %}
 
-[Vissza](./)
+[Vissza](../)

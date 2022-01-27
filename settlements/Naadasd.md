@@ -6,4 +6,4 @@ description: Nádasd
 
 {% include settlementHTMLs/Naadasd.html %}
 
-[Vissza](./)
+[Vissza](../)

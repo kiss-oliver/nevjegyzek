@@ -6,4 +6,4 @@ description: Csepreg
 
 {% include settlementHTMLs/Csepreg.html %}
 
-[Vissza](./)
+[Vissza](../)

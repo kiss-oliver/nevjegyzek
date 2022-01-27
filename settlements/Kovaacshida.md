@@ -6,4 +6,4 @@ description: Kovácshida
 
 {% include settlementHTMLs/Kovaacshida.html %}
 
-[Vissza](./)
+[Vissza](../)

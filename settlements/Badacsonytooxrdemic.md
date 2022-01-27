@@ -6,4 +6,4 @@ description: Badacsonytördemic
 
 {% include settlementHTMLs/Badacsonytooxrdemic.html %}
 
-[Vissza](./)
+[Vissza](../)

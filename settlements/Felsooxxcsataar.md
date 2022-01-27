@@ -6,4 +6,4 @@ description: Felsőcsatár
 
 {% include settlementHTMLs/Felsooxxcsataar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nemesrádó
 
 {% include settlementHTMLs/Nemesraadoo.html %}
 
-[Vissza](./)
+[Vissza](../)

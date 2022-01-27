@@ -6,4 +6,4 @@ description: Recsk
 
 {% include settlementHTMLs/Recsk.html %}
 
-[Vissza](./)
+[Vissza](../)

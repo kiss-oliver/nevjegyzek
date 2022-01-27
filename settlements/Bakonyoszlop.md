@@ -6,4 +6,4 @@ description: Bakonyoszlop
 
 {% include settlementHTMLs/Bakonyoszlop.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Babarcszőlős
 
 {% include settlementHTMLs/Babarcszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

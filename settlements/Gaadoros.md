@@ -6,4 +6,4 @@ description: Gádoros
 
 {% include settlementHTMLs/Gaadoros.html %}
 
-[Vissza](./)
+[Vissza](../)

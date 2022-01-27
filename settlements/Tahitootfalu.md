@@ -6,4 +6,4 @@ description: Tahitótfalu
 
 {% include settlementHTMLs/Tahitootfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

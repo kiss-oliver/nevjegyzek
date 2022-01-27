@@ -6,4 +6,4 @@ description: Piliny
 
 {% include settlementHTMLs/Piliny.html %}
 
-[Vissza](./)
+[Vissza](../)

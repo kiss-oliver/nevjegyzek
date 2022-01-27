@@ -6,4 +6,4 @@ description: Pinkamindszent
 
 {% include settlementHTMLs/Pinkamindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

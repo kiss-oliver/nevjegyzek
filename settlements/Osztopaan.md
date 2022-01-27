@@ -6,4 +6,4 @@ description: Osztopán
 
 {% include settlementHTMLs/Osztopaan.html %}
 
-[Vissza](./)
+[Vissza](../)

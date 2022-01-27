@@ -6,4 +6,4 @@ description: Mezőkovácsháza
 
 {% include settlementHTMLs/Mezooxxkovaacshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

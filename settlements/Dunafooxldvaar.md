@@ -6,4 +6,4 @@ description: Dunaföldvár
 
 {% include settlementHTMLs/Dunafooxldvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

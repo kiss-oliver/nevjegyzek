@@ -6,4 +6,4 @@ description: Tikos
 
 {% include settlementHTMLs/Tikos.html %}
 
-[Vissza](./)
+[Vissza](../)

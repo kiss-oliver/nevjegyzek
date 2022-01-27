@@ -6,4 +6,4 @@ description: Sajóivánka
 
 {% include settlementHTMLs/Sajooivaanka.html %}
 
-[Vissza](./)
+[Vissza](../)

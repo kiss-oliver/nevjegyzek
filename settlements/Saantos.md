@@ -6,4 +6,4 @@ description: Sántos
 
 {% include settlementHTMLs/Saantos.html %}
 
-[Vissza](./)
+[Vissza](../)

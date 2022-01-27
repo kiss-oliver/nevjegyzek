@@ -6,4 +6,4 @@ description: Orosháza
 
 {% include settlementHTMLs/Oroshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

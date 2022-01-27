@@ -6,4 +6,4 @@ description: Szigetcsép
 
 {% include settlementHTMLs/Szigetcseep.html %}
 
-[Vissza](./)
+[Vissza](../)

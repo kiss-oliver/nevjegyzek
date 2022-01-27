@@ -6,4 +6,4 @@ description: Gadány
 
 {% include settlementHTMLs/Gadaany.html %}
 
-[Vissza](./)
+[Vissza](../)

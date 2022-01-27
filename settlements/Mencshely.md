@@ -6,4 +6,4 @@ description: Mencshely
 
 {% include settlementHTMLs/Mencshely.html %}
 
-[Vissza](./)
+[Vissza](../)

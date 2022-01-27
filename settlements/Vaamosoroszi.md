@@ -6,4 +6,4 @@ description: Vámosoroszi
 
 {% include settlementHTMLs/Vaamosoroszi.html %}
 
-[Vissza](./)
+[Vissza](../)

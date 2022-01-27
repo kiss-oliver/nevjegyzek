@@ -6,4 +6,4 @@ description: Szárazd
 
 {% include settlementHTMLs/Szaarazd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Annavölgy
 
 {% include settlementHTMLs/Annavooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

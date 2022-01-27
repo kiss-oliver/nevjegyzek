@@ -6,4 +6,4 @@ description: Szalafő
 
 {% include settlementHTMLs/Szalafooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

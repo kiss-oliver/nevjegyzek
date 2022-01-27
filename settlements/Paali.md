@@ -6,4 +6,4 @@ description: Páli
 
 {% include settlementHTMLs/Paali.html %}
 
-[Vissza](./)
+[Vissza](../)

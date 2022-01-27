@@ -6,4 +6,4 @@ description: Tótújfalu
 
 {% include settlementHTMLs/Tootuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

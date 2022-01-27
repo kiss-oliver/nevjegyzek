@@ -6,4 +6,4 @@ description: Kisbárapáti
 
 {% include settlementHTMLs/Kisbaarapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

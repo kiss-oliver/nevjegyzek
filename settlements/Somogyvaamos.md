@@ -6,4 +6,4 @@ description: Somogyvámos
 
 {% include settlementHTMLs/Somogyvaamos.html %}
 
-[Vissza](./)
+[Vissza](../)

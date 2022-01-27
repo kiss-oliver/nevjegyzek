@@ -6,4 +6,4 @@ description: Rákóczibánya
 
 {% include settlementHTMLs/Raakooczibaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

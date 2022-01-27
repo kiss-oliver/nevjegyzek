@@ -6,4 +6,4 @@ description: Kelevíz
 
 {% include settlementHTMLs/Keleviiz.html %}
 
-[Vissza](./)
+[Vissza](../)

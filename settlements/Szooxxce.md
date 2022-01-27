@@ -6,4 +6,4 @@ description: Szőce
 
 {% include settlementHTMLs/Szooxxce.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Polgárdi
 
 {% include settlementHTMLs/Polgaardi.html %}
 
-[Vissza](./)
+[Vissza](../)

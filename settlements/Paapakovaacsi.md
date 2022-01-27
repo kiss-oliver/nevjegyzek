@@ -6,4 +6,4 @@ description: Pápakovácsi
 
 {% include settlementHTMLs/Paapakovaacsi.html %}
 
-[Vissza](./)
+[Vissza](../)

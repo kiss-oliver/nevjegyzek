@@ -6,4 +6,4 @@ description: Jéke
 
 {% include settlementHTMLs/Jeeke.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pakod
 
 {% include settlementHTMLs/Pakod.html %}
 
-[Vissza](./)
+[Vissza](../)

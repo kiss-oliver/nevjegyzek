@@ -6,4 +6,4 @@ description: Alsónána
 
 {% include settlementHTMLs/Alsoonaana.html %}
 
-[Vissza](./)
+[Vissza](../)

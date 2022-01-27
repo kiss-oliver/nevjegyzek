@@ -6,4 +6,4 @@ description: Orfalu
 
 {% include settlementHTMLs/Orfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

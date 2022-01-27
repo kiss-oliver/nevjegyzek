@@ -6,4 +6,4 @@ description: Nagytarcsa
 
 {% include settlementHTMLs/Nagytarcsa.html %}
 
-[Vissza](./)
+[Vissza](../)

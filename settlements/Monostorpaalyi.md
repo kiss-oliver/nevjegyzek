@@ -6,4 +6,4 @@ description: Monostorpályi
 
 {% include settlementHTMLs/Monostorpaalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

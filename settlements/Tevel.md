@@ -6,4 +6,4 @@ description: Tevel
 
 {% include settlementHTMLs/Tevel.html %}
 
-[Vissza](./)
+[Vissza](../)

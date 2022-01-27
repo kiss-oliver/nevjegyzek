@@ -6,4 +6,4 @@ description: Bodolyabér
 
 {% include settlementHTMLs/Bodolyabeer.html %}
 
-[Vissza](./)
+[Vissza](../)

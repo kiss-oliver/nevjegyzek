@@ -6,4 +6,4 @@ description: Csömend
 
 {% include settlementHTMLs/Csooxmend.html %}
 
-[Vissza](./)
+[Vissza](../)

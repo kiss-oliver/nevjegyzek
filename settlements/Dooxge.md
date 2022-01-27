@@ -6,4 +6,4 @@ description: Döge
 
 {% include settlementHTMLs/Dooxge.html %}
 
-[Vissza](./)
+[Vissza](../)

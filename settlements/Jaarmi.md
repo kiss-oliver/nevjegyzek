@@ -6,4 +6,4 @@ description: Jármi
 
 {% include settlementHTMLs/Jaarmi.html %}
 
-[Vissza](./)
+[Vissza](../)

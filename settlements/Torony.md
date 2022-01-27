@@ -6,4 +6,4 @@ description: Torony
 
 {% include settlementHTMLs/Torony.html %}
 
-[Vissza](./)
+[Vissza](../)

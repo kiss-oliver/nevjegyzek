@@ -6,4 +6,4 @@ description: Pörböly
 
 {% include settlementHTMLs/Pooxrbooxly.html %}
 
-[Vissza](./)
+[Vissza](../)

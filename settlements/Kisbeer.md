@@ -6,4 +6,4 @@ description: Kisbér
 
 {% include settlementHTMLs/Kisbeer.html %}
 
-[Vissza](./)
+[Vissza](../)

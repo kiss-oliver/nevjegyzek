@@ -6,4 +6,4 @@ description: Kétbodony
 
 {% include settlementHTMLs/Keetbodony.html %}
 
-[Vissza](./)
+[Vissza](../)

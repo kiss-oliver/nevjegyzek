@@ -6,4 +6,4 @@ description: Potyond
 
 {% include settlementHTMLs/Potyond.html %}
 
-[Vissza](./)
+[Vissza](../)

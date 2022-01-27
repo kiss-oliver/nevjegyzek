@@ -6,4 +6,4 @@ description: Kisbodak
 
 {% include settlementHTMLs/Kisbodak.html %}
 
-[Vissza](./)
+[Vissza](../)

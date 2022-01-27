@@ -6,4 +6,4 @@ description: Oszkó
 
 {% include settlementHTMLs/Oszkoo.html %}
 
-[Vissza](./)
+[Vissza](../)

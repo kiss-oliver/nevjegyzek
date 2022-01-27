@@ -6,4 +6,4 @@ description: Szatmárcseke
 
 {% include settlementHTMLs/Szatmaarcseke.html %}
 
-[Vissza](./)
+[Vissza](../)

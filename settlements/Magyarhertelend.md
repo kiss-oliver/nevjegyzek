@@ -6,4 +6,4 @@ description: Magyarhertelend
 
 {% include settlementHTMLs/Magyarhertelend.html %}
 
-[Vissza](./)
+[Vissza](../)

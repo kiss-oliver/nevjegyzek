@@ -6,4 +6,4 @@ description: Pocsaj
 
 {% include settlementHTMLs/Pocsaj.html %}
 
-[Vissza](./)
+[Vissza](../)

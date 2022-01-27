@@ -6,4 +6,4 @@ description: Balkány
 
 {% include settlementHTMLs/Balkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

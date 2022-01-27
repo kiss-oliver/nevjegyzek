@@ -6,4 +6,4 @@ description: Pély
 
 {% include settlementHTMLs/Peely.html %}
 
-[Vissza](./)
+[Vissza](../)

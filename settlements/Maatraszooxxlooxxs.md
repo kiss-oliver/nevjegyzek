@@ -6,4 +6,4 @@ description: Mátraszőlős
 
 {% include settlementHTMLs/Maatraszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

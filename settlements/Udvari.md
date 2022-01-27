@@ -6,4 +6,4 @@ description: Udvari
 
 {% include settlementHTMLs/Udvari.html %}
 
-[Vissza](./)
+[Vissza](../)

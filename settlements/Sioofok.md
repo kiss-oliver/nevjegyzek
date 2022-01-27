@@ -6,4 +6,4 @@ description: Siófok
 
 {% include settlementHTMLs/Sioofok.html %}
 
-[Vissza](./)
+[Vissza](../)

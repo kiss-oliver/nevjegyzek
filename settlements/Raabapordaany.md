@@ -6,4 +6,4 @@ description: Rábapordány
 
 {% include settlementHTMLs/Raabapordaany.html %}
 
-[Vissza](./)
+[Vissza](../)

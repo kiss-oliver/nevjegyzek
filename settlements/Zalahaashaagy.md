@@ -6,4 +6,4 @@ description: Zalaháshágy
 
 {% include settlementHTMLs/Zalahaashaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hedrehely
 
 {% include settlementHTMLs/Hedrehely.html %}
 
-[Vissza](./)
+[Vissza](../)

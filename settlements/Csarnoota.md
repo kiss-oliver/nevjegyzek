@@ -6,4 +6,4 @@ description: Csarnóta
 
 {% include settlementHTMLs/Csarnoota.html %}
 
-[Vissza](./)
+[Vissza](../)

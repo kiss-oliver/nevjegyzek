@@ -6,4 +6,4 @@ description: Szőlősgyörök
 
 {% include settlementHTMLs/Szooxxlooxxsgyooxrooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

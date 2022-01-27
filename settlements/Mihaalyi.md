@@ -6,4 +6,4 @@ description: Mihályi
 
 {% include settlementHTMLs/Mihaalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gic
 
 {% include settlementHTMLs/Gic.html %}
 
-[Vissza](./)
+[Vissza](../)

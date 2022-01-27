@@ -6,4 +6,4 @@ description: Beszterec
 
 {% include settlementHTMLs/Beszterec.html %}
 
-[Vissza](./)
+[Vissza](../)

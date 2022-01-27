@@ -6,4 +6,4 @@ description: Szilsárkány
 
 {% include settlementHTMLs/Szilsaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

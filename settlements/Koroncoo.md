@@ -6,4 +6,4 @@ description: Koroncó
 
 {% include settlementHTMLs/Koroncoo.html %}
 
-[Vissza](./)
+[Vissza](../)

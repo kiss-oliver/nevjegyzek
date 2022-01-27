@@ -6,4 +6,4 @@ description: Padár
 
 {% include settlementHTMLs/Padaar.html %}
 
-[Vissza](./)
+[Vissza](../)

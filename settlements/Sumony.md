@@ -6,4 +6,4 @@ description: Sumony
 
 {% include settlementHTMLs/Sumony.html %}
 
-[Vissza](./)
+[Vissza](../)

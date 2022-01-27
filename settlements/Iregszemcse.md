@@ -6,4 +6,4 @@ description: Iregszemcse
 
 {% include settlementHTMLs/Iregszemcse.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Villánykövesd
 
 {% include settlementHTMLs/Villaanykooxvesd.html %}
 
-[Vissza](./)
+[Vissza](../)

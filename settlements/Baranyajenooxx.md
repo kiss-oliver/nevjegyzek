@@ -6,4 +6,4 @@ description: Baranyajenő
 
 {% include settlementHTMLs/Baranyajenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

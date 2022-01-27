@@ -6,4 +6,4 @@ description: Sima
 
 {% include settlementHTMLs/Sima.html %}
 
-[Vissza](./)
+[Vissza](../)

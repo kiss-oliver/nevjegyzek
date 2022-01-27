@@ -6,4 +6,4 @@ description: Sámsonháza
 
 {% include settlementHTMLs/Saamsonhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Uszód
 
 {% include settlementHTMLs/Uszood.html %}
 
-[Vissza](./)
+[Vissza](../)

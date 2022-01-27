@@ -6,4 +6,4 @@ description: Semjén
 
 {% include settlementHTMLs/Semjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyírmada
 
 {% include settlementHTMLs/Nyiirmada.html %}
 
-[Vissza](./)
+[Vissza](../)

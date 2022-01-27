@@ -6,4 +6,4 @@ description: Madaras
 
 {% include settlementHTMLs/Madaras.html %}
 
-[Vissza](./)
+[Vissza](../)

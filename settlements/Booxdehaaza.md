@@ -6,4 +6,4 @@ description: Bödeháza
 
 {% include settlementHTMLs/Booxdehaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rinyakovácsi
 
 {% include settlementHTMLs/Rinyakovaacsi.html %}
 
-[Vissza](./)
+[Vissza](../)

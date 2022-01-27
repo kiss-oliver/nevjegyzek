@@ -6,4 +6,4 @@ description: Kistapolca
 
 {% include settlementHTMLs/Kistapolca.html %}
 
-[Vissza](./)
+[Vissza](../)

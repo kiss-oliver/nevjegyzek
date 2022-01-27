@@ -6,4 +6,4 @@ description: Vaszar
 
 {% include settlementHTMLs/Vaszar.html %}
 
-[Vissza](./)
+[Vissza](../)

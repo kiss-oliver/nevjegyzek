@@ -6,4 +6,4 @@ description: Bekölce
 
 {% include settlementHTMLs/Bekooxlce.html %}
 
-[Vissza](./)
+[Vissza](../)

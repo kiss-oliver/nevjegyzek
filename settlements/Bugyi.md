@@ -6,4 +6,4 @@ description: Bugyi
 
 {% include settlementHTMLs/Bugyi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vaskút
 
 {% include settlementHTMLs/Vaskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

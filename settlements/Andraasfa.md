@@ -6,4 +6,4 @@ description: Andrásfa
 
 {% include settlementHTMLs/Andraasfa.html %}
 
-[Vissza](./)
+[Vissza](../)

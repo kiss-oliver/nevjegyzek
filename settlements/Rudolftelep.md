@@ -6,4 +6,4 @@ description: Rudolftelep
 
 {% include settlementHTMLs/Rudolftelep.html %}
 
-[Vissza](./)
+[Vissza](../)

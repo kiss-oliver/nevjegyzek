@@ -6,4 +6,4 @@ description: Monorierdő
 
 {% include settlementHTMLs/Monorierdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

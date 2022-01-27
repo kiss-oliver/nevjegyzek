@@ -6,4 +6,4 @@ description: Balaton
 
 {% include settlementHTMLs/Balaton.html %}
 
-[Vissza](./)
+[Vissza](../)

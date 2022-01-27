@@ -6,4 +6,4 @@ description: Újkígyós
 
 {% include settlementHTMLs/UUjkiigyoos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Fűzvölgy
 
 {% include settlementHTMLs/Fuuxxzvooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

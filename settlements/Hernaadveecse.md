@@ -6,4 +6,4 @@ description: Hernádvécse
 
 {% include settlementHTMLs/Hernaadveecse.html %}
 
-[Vissza](./)
+[Vissza](../)

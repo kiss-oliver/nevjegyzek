@@ -6,4 +6,4 @@ description: Tekenye
 
 {% include settlementHTMLs/Tekenye.html %}
 
-[Vissza](./)
+[Vissza](../)

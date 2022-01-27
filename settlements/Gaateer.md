@@ -6,4 +6,4 @@ description: Gátér
 
 {% include settlementHTMLs/Gaateer.html %}
 
-[Vissza](./)
+[Vissza](../)

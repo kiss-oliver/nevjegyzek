@@ -6,4 +6,4 @@ description: Hidvégardó
 
 {% include settlementHTMLs/Hidveegardoo.html %}
 
-[Vissza](./)
+[Vissza](../)

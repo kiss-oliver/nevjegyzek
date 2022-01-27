@@ -6,4 +6,4 @@ description: Bükkszék
 
 {% include settlementHTMLs/Buuxkkszeek.html %}
 
-[Vissza](./)
+[Vissza](../)

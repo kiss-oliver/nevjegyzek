@@ -6,4 +6,4 @@ description: Taktaharkány
 
 {% include settlementHTMLs/Taktaharkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

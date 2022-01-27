@@ -6,4 +6,4 @@ description: Berzék
 
 {% include settlementHTMLs/Berzeek.html %}
 
-[Vissza](./)
+[Vissza](../)

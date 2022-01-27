@@ -6,4 +6,4 @@ description: Pusztaradvány
 
 {% include settlementHTMLs/Pusztaradvaany.html %}
 
-[Vissza](./)
+[Vissza](../)

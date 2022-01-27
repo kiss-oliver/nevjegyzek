@@ -6,4 +6,4 @@ description: Gombosszeg
 
 {% include settlementHTMLs/Gombosszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

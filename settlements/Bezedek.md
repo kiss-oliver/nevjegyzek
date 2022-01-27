@@ -6,4 +6,4 @@ description: Bezedek
 
 {% include settlementHTMLs/Bezedek.html %}
 
-[Vissza](./)
+[Vissza](../)

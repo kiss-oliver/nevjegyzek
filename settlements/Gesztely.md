@@ -6,4 +6,4 @@ description: Gesztely
 
 {% include settlementHTMLs/Gesztely.html %}
 
-[Vissza](./)
+[Vissza](../)

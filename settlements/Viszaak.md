@@ -6,4 +6,4 @@ description: Viszák
 
 {% include settlementHTMLs/Viszaak.html %}
 
-[Vissza](./)
+[Vissza](../)

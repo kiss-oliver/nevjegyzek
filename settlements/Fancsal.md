@@ -6,4 +6,4 @@ description: Fancsal
 
 {% include settlementHTMLs/Fancsal.html %}
 
-[Vissza](./)
+[Vissza](../)

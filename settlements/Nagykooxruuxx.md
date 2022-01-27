@@ -6,4 +6,4 @@ description: Nagykörű
 
 {% include settlementHTMLs/Nagykooxruuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

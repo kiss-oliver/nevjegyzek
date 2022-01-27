@@ -6,4 +6,4 @@ description: Pátka
 
 {% include settlementHTMLs/Paatka.html %}
 
-[Vissza](./)
+[Vissza](../)

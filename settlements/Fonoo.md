@@ -6,4 +6,4 @@ description: Fonó
 
 {% include settlementHTMLs/Fonoo.html %}
 
-[Vissza](./)
+[Vissza](../)

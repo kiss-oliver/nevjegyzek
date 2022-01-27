@@ -6,4 +6,4 @@ description: Alsószölnök
 
 {% include settlementHTMLs/Alsooszooxlnooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

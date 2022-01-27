@@ -6,4 +6,4 @@ description: Pápoc
 
 {% include settlementHTMLs/Paapoc.html %}
 
-[Vissza](./)
+[Vissza](../)

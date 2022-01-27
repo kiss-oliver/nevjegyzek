@@ -6,4 +6,4 @@ description: Juta
 
 {% include settlementHTMLs/Juta.html %}
 
-[Vissza](./)
+[Vissza](../)

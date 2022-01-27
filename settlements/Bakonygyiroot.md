@@ -6,4 +6,4 @@ description: Bakonygyirót
 
 {% include settlementHTMLs/Bakonygyiroot.html %}
 
-[Vissza](./)
+[Vissza](../)

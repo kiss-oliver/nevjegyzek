@@ -6,4 +6,4 @@ description: Eszteregnye
 
 {% include settlementHTMLs/Eszteregnye.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Velence
 
 {% include settlementHTMLs/Velence.html %}
 
-[Vissza](./)
+[Vissza](../)

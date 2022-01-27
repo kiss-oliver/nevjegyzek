@@ -6,4 +6,4 @@ description: Mátraszentimre
 
 {% include settlementHTMLs/Maatraszentimre.html %}
 
-[Vissza](./)
+[Vissza](../)

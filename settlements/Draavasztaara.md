@@ -6,4 +6,4 @@ description: Drávasztára
 
 {% include settlementHTMLs/Draavasztaara.html %}
 
-[Vissza](./)
+[Vissza](../)

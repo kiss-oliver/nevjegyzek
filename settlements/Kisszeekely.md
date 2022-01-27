@@ -6,4 +6,4 @@ description: Kisszékely
 
 {% include settlementHTMLs/Kisszeekely.html %}
 
-[Vissza](./)
+[Vissza](../)

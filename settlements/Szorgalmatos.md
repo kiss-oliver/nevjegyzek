@@ -6,4 +6,4 @@ description: Szorgalmatos
 
 {% include settlementHTMLs/Szorgalmatos.html %}
 
-[Vissza](./)
+[Vissza](../)

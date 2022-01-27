@@ -6,4 +6,4 @@ description: Nagyszentjános
 
 {% include settlementHTMLs/Nagyszentjaanos.html %}
 
-[Vissza](./)
+[Vissza](../)

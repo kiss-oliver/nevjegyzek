@@ -6,4 +6,4 @@ description: Drávatamási
 
 {% include settlementHTMLs/Draavatamaasi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Serényfalva
 
 {% include settlementHTMLs/Sereenyfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

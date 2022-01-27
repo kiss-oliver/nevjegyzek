@@ -6,4 +6,4 @@ description: Vajszló
 
 {% include settlementHTMLs/Vajszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

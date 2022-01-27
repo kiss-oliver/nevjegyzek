@@ -6,4 +6,4 @@ description: Porrog
 
 {% include settlementHTMLs/Porrog.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Salgótarján
 
 {% include settlementHTMLs/Salgootarjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

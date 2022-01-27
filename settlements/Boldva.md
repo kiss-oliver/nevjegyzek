@@ -6,4 +6,4 @@ description: Boldva
 
 {% include settlementHTMLs/Boldva.html %}
 
-[Vissza](./)
+[Vissza](../)

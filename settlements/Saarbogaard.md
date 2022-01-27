@@ -6,4 +6,4 @@ description: Sárbogárd
 
 {% include settlementHTMLs/Saarbogaard.html %}
 
-[Vissza](./)
+[Vissza](../)

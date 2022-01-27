@@ -6,4 +6,4 @@ description: Und
 
 {% include settlementHTMLs/Und.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lakócsa
 
 {% include settlementHTMLs/Lakoocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

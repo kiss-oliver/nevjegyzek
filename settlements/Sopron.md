@@ -6,4 +6,4 @@ description: Sopron
 
 {% include settlementHTMLs/Sopron.html %}
 
-[Vissza](./)
+[Vissza](../)

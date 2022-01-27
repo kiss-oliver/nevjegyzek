@@ -6,4 +6,4 @@ description: Jásd
 
 {% include settlementHTMLs/Jaasd.html %}
 
-[Vissza](./)
+[Vissza](../)

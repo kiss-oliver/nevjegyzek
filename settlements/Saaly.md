@@ -6,4 +6,4 @@ description: Sály
 
 {% include settlementHTMLs/Saaly.html %}
 
-[Vissza](./)
+[Vissza](../)

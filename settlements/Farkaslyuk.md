@@ -6,4 +6,4 @@ description: Farkaslyuk
 
 {% include settlementHTMLs/Farkaslyuk.html %}
 
-[Vissza](./)
+[Vissza](../)

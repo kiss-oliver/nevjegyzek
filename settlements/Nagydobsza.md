@@ -6,4 +6,4 @@ description: Nagydobsza
 
 {% include settlementHTMLs/Nagydobsza.html %}
 
-[Vissza](./)
+[Vissza](../)

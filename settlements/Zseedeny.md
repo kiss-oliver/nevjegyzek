@@ -6,4 +6,4 @@ description: Zsédeny
 
 {% include settlementHTMLs/Zseedeny.html %}
 
-[Vissza](./)
+[Vissza](../)

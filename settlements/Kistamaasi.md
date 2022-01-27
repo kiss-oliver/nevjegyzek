@@ -6,4 +6,4 @@ description: Kistamási
 
 {% include settlementHTMLs/Kistamaasi.html %}
 
-[Vissza](./)
+[Vissza](../)

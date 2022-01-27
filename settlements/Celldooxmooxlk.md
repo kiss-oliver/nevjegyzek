@@ -6,4 +6,4 @@ description: Celldömölk
 
 {% include settlementHTMLs/Celldooxmooxlk.html %}
 
-[Vissza](./)
+[Vissza](../)

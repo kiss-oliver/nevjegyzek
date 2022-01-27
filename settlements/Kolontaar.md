@@ -6,4 +6,4 @@ description: Kolontár
 
 {% include settlementHTMLs/Kolontaar.html %}
 
-[Vissza](./)
+[Vissza](../)

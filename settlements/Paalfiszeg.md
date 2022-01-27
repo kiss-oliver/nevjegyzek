@@ -6,4 +6,4 @@ description: Pálfiszeg
 
 {% include settlementHTMLs/Paalfiszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

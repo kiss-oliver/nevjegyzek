@@ -6,4 +6,4 @@ description: Ormándlak
 
 {% include settlementHTMLs/Ormaandlak.html %}
 
-[Vissza](./)
+[Vissza](../)

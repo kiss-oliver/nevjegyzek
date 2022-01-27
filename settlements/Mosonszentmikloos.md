@@ -6,4 +6,4 @@ description: Mosonszentmiklós
 
 {% include settlementHTMLs/Mosonszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

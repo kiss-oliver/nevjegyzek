@@ -6,4 +6,4 @@ description: Besenyszög
 
 {% include settlementHTMLs/Besenyszooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

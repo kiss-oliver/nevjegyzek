@@ -6,4 +6,4 @@ description: Bihardancsháza
 
 {% include settlementHTMLs/Bihardancshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

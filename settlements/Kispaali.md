@@ -6,4 +6,4 @@ description: Kispáli
 
 {% include settlementHTMLs/Kispaali.html %}
 
-[Vissza](./)
+[Vissza](../)

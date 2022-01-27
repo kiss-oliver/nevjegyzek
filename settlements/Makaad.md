@@ -6,4 +6,4 @@ description: Makád
 
 {% include settlementHTMLs/Makaad.html %}
 
-[Vissza](./)
+[Vissza](../)

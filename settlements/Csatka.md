@@ -6,4 +6,4 @@ description: Csatka
 
 {% include settlementHTMLs/Csatka.html %}
 
-[Vissza](./)
+[Vissza](../)

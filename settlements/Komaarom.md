@@ -6,4 +6,4 @@ description: Komárom
 
 {% include settlementHTMLs/Komaarom.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mezőnyárád
 
 {% include settlementHTMLs/Mezooxxnyaaraad.html %}
 
-[Vissza](./)
+[Vissza](../)

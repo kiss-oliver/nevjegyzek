@@ -6,4 +6,4 @@ description: Vámosgyörk
 
 {% include settlementHTMLs/Vaamosgyooxrk.html %}
 
-[Vissza](./)
+[Vissza](../)

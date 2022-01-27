@@ -6,4 +6,4 @@ description: Gelse
 
 {% include settlementHTMLs/Gelse.html %}
 
-[Vissza](./)
+[Vissza](../)

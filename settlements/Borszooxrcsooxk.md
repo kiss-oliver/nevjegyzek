@@ -6,4 +6,4 @@ description: Borszörcsök
 
 {% include settlementHTMLs/Borszooxrcsooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

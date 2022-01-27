@@ -6,4 +6,4 @@ description: Tarnalelesz
 
 {% include settlementHTMLs/Tarnalelesz.html %}
 
-[Vissza](./)
+[Vissza](../)

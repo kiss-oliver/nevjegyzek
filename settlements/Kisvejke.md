@@ -6,4 +6,4 @@ description: Kisvejke
 
 {% include settlementHTMLs/Kisvejke.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bejcgyertyános
 
 {% include settlementHTMLs/Bejcgyertyaanos.html %}
 
-[Vissza](./)
+[Vissza](../)

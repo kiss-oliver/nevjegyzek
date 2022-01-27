@@ -6,4 +6,4 @@ description: Vassurány
 
 {% include settlementHTMLs/Vassuraany.html %}
 
-[Vissza](./)
+[Vissza](../)

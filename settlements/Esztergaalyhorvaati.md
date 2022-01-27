@@ -6,4 +6,4 @@ description: Esztergályhorváti
 
 {% include settlementHTMLs/Esztergaalyhorvaati.html %}
 
-[Vissza](./)
+[Vissza](../)

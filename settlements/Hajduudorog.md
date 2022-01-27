@@ -6,4 +6,4 @@ description: Hajdúdorog
 
 {% include settlementHTMLs/Hajduudorog.html %}
 
-[Vissza](./)
+[Vissza](../)

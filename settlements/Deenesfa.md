@@ -6,4 +6,4 @@ description: Dénesfa
 
 {% include settlementHTMLs/Deenesfa.html %}
 
-[Vissza](./)
+[Vissza](../)

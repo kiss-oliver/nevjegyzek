@@ -6,4 +6,4 @@ description: Szilágy
 
 {% include settlementHTMLs/Szilaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

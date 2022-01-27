@@ -6,4 +6,4 @@ description: Görgeteg
 
 {% include settlementHTMLs/Gooxrgeteg.html %}
 
-[Vissza](./)
+[Vissza](../)

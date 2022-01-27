@@ -6,4 +6,4 @@ description: Zalaszentlőrinc
 
 {% include settlementHTMLs/Zalaszentlooxxrinc.html %}
 
-[Vissza](./)
+[Vissza](../)

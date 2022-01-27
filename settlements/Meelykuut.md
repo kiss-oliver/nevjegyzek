@@ -6,4 +6,4 @@ description: Mélykút
 
 {% include settlementHTMLs/Meelykuut.html %}
 
-[Vissza](./)
+[Vissza](../)

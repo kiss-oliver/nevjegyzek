@@ -6,4 +6,4 @@ description: Ipacsfa
 
 {% include settlementHTMLs/Ipacsfa.html %}
 
-[Vissza](./)
+[Vissza](../)

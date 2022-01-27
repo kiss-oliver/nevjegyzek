@@ -6,4 +6,4 @@ description: Rádóckölked
 
 {% include settlementHTMLs/Raadoockooxlked.html %}
 
-[Vissza](./)
+[Vissza](../)

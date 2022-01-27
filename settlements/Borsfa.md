@@ -6,4 +6,4 @@ description: Borsfa
 
 {% include settlementHTMLs/Borsfa.html %}
 
-[Vissza](./)
+[Vissza](../)

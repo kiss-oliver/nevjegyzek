@@ -6,4 +6,4 @@ description: Nagykorpád
 
 {% include settlementHTMLs/Nagykorpaad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszavárkony
 
 {% include settlementHTMLs/Tiszavaarkony.html %}
 
-[Vissza](./)
+[Vissza](../)

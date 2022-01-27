@@ -6,4 +6,4 @@ description: Gégény
 
 {% include settlementHTMLs/Geegeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

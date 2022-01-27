@@ -6,4 +6,4 @@ description: Misefa
 
 {% include settlementHTMLs/Misefa.html %}
 
-[Vissza](./)
+[Vissza](../)

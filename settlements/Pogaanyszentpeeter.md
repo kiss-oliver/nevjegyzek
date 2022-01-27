@@ -6,4 +6,4 @@ description: Pogányszentpéter
 
 {% include settlementHTMLs/Pogaanyszentpeeter.html %}
 
-[Vissza](./)
+[Vissza](../)

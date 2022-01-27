@@ -6,4 +6,4 @@ description: Petőfibánya
 
 {% include settlementHTMLs/Petooxxfibaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

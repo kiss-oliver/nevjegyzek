@@ -6,4 +6,4 @@ description: Ecser
 
 {% include settlementHTMLs/Ecser.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Dabrony
 
 {% include settlementHTMLs/Dabrony.html %}
 
-[Vissza](./)
+[Vissza](../)

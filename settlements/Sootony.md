@@ -6,4 +6,4 @@ description: Sótony
 
 {% include settlementHTMLs/Sootony.html %}
 
-[Vissza](./)
+[Vissza](../)

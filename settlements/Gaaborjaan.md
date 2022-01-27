@@ -6,4 +6,4 @@ description: Gáborján
 
 {% include settlementHTMLs/Gaaborjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

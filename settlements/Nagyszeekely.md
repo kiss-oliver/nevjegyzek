@@ -6,4 +6,4 @@ description: Nagyszékely
 
 {% include settlementHTMLs/Nagyszeekely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vajdácska
 
 {% include settlementHTMLs/Vajdaacska.html %}
 
-[Vissza](./)
+[Vissza](../)

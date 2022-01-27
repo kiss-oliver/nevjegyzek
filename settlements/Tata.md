@@ -6,4 +6,4 @@ description: Tata
 
 {% include settlementHTMLs/Tata.html %}
 
-[Vissza](./)
+[Vissza](../)

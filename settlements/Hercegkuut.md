@@ -6,4 +6,4 @@ description: Hercegkút
 
 {% include settlementHTMLs/Hercegkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

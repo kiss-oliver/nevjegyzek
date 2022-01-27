@@ -6,4 +6,4 @@ description: Lak
 
 {% include settlementHTMLs/Lak.html %}
 
-[Vissza](./)
+[Vissza](../)

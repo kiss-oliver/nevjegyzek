@@ -6,4 +6,4 @@ description: Nick
 
 {% include settlementHTMLs/Nick.html %}
 
-[Vissza](./)
+[Vissza](../)

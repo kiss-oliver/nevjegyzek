@@ -6,4 +6,4 @@ description: Mersevát
 
 {% include settlementHTMLs/Mersevaat.html %}
 
-[Vissza](./)
+[Vissza](../)

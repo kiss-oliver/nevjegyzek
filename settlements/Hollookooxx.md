@@ -6,4 +6,4 @@ description: Hollókő
 
 {% include settlementHTMLs/Hollookooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

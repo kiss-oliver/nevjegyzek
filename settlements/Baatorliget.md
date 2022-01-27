@@ -6,4 +6,4 @@ description: Bátorliget
 
 {% include settlementHTMLs/Baatorliget.html %}
 
-[Vissza](./)
+[Vissza](../)

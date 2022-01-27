@@ -6,4 +6,4 @@ description: Tékes
 
 {% include settlementHTMLs/Teekes.html %}
 
-[Vissza](./)
+[Vissza](../)

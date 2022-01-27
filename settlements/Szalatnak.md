@@ -6,4 +6,4 @@ description: Szalatnak
 
 {% include settlementHTMLs/Szalatnak.html %}
 
-[Vissza](./)
+[Vissza](../)

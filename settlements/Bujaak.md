@@ -6,4 +6,4 @@ description: Buják
 
 {% include settlementHTMLs/Bujaak.html %}
 
-[Vissza](./)
+[Vissza](../)

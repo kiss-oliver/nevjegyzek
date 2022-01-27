@@ -6,4 +6,4 @@ description: Tarcal
 
 {% include settlementHTMLs/Tarcal.html %}
 
-[Vissza](./)
+[Vissza](../)

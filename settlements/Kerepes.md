@@ -6,4 +6,4 @@ description: Kerepes
 
 {% include settlementHTMLs/Kerepes.html %}
 
-[Vissza](./)
+[Vissza](../)

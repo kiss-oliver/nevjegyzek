@@ -6,4 +6,4 @@ description: Nóráp
 
 {% include settlementHTMLs/Nooraap.html %}
 
-[Vissza](./)
+[Vissza](../)

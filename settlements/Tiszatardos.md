@@ -6,4 +6,4 @@ description: Tiszatardos
 
 {% include settlementHTMLs/Tiszatardos.html %}
 
-[Vissza](./)
+[Vissza](../)

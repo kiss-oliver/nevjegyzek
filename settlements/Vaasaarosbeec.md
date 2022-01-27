@@ -6,4 +6,4 @@ description: Vásárosbéc
 
 {% include settlementHTMLs/Vaasaarosbeec.html %}
 
-[Vissza](./)
+[Vissza](../)

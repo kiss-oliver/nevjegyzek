@@ -6,4 +6,4 @@ description: Siklósnagyfalu
 
 {% include settlementHTMLs/Sikloosnagyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

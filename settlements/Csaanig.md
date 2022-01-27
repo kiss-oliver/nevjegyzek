@@ -6,4 +6,4 @@ description: Csánig
 
 {% include settlementHTMLs/Csaanig.html %}
 
-[Vissza](./)
+[Vissza](../)

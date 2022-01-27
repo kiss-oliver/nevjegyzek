@@ -6,4 +6,4 @@ description: Zsombó
 
 {% include settlementHTMLs/Zsomboo.html %}
 
-[Vissza](./)
+[Vissza](../)

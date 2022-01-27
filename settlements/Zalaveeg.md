@@ -6,4 +6,4 @@ description: Zalavég
 
 {% include settlementHTMLs/Zalaveeg.html %}
 
-[Vissza](./)
+[Vissza](../)

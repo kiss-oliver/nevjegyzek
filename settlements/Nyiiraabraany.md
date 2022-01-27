@@ -6,4 +6,4 @@ description: Nyírábrány
 
 {% include settlementHTMLs/Nyiiraabraany.html %}
 
-[Vissza](./)
+[Vissza](../)

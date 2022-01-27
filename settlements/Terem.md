@@ -6,4 +6,4 @@ description: Terem
 
 {% include settlementHTMLs/Terem.html %}
 
-[Vissza](./)
+[Vissza](../)

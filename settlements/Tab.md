@@ -6,4 +6,4 @@ description: Tab
 
 {% include settlementHTMLs/Tab.html %}
 
-[Vissza](./)
+[Vissza](../)

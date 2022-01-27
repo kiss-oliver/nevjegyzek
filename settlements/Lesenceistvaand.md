@@ -6,4 +6,4 @@ description: Lesenceistvánd
 
 {% include settlementHTMLs/Lesenceistvaand.html %}
 
-[Vissza](./)
+[Vissza](../)

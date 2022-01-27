@@ -6,4 +6,4 @@ description: Nemesbikk
 
 {% include settlementHTMLs/Nemesbikk.html %}
 
-[Vissza](./)
+[Vissza](../)

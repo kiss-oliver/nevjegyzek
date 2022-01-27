@@ -6,4 +6,4 @@ description: Grábóc
 
 {% include settlementHTMLs/Graabooc.html %}
 
-[Vissza](./)
+[Vissza](../)

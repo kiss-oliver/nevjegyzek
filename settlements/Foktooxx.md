@@ -6,4 +6,4 @@ description: Foktő
 
 {% include settlementHTMLs/Foktooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

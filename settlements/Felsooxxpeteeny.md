@@ -6,4 +6,4 @@ description: Felsőpetény
 
 {% include settlementHTMLs/Felsooxxpeteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nőtincs
 
 {% include settlementHTMLs/Nooxxtincs.html %}
 
-[Vissza](./)
+[Vissza](../)

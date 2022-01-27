@@ -6,4 +6,4 @@ description: Nagyhuta
 
 {% include settlementHTMLs/Nagyhuta.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mesterszállás
 
 {% include settlementHTMLs/Mesterszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

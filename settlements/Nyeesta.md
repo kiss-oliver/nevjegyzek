@@ -6,4 +6,4 @@ description: Nyésta
 
 {% include settlementHTMLs/Nyeesta.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Sajómercse
 
 {% include settlementHTMLs/Sajoomercse.html %}
 
-[Vissza](./)
+[Vissza](../)

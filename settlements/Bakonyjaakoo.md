@@ -6,4 +6,4 @@ description: Bakonyjákó
 
 {% include settlementHTMLs/Bakonyjaakoo.html %}
 
-[Vissza](./)
+[Vissza](../)

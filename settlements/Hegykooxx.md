@@ -6,4 +6,4 @@ description: Hegykő
 
 {% include settlementHTMLs/Hegykooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zalagyömörő
 
 {% include settlementHTMLs/Zalagyooxmooxrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

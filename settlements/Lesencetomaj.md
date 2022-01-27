@@ -6,4 +6,4 @@ description: Lesencetomaj
 
 {% include settlementHTMLs/Lesencetomaj.html %}
 
-[Vissza](./)
+[Vissza](../)

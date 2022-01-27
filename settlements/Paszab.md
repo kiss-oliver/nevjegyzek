@@ -6,4 +6,4 @@ description: Paszab
 
 {% include settlementHTMLs/Paszab.html %}
 
-[Vissza](./)
+[Vissza](../)

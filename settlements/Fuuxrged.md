@@ -6,4 +6,4 @@ description: Fürged
 
 {% include settlementHTMLs/Fuuxrged.html %}
 
-[Vissza](./)
+[Vissza](../)

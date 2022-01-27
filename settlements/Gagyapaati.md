@@ -6,4 +6,4 @@ description: Gagyapáti
 
 {% include settlementHTMLs/Gagyapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

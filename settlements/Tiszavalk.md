@@ -6,4 +6,4 @@ description: Tiszavalk
 
 {% include settlementHTMLs/Tiszavalk.html %}
 
-[Vissza](./)
+[Vissza](../)

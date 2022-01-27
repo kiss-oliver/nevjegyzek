@@ -6,4 +6,4 @@ description: Kiskunhalas
 
 {% include settlementHTMLs/Kiskunhalas.html %}
 
-[Vissza](./)
+[Vissza](../)

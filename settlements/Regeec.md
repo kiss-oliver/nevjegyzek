@@ -6,4 +6,4 @@ description: Regéc
 
 {% include settlementHTMLs/Regeec.html %}
 
-[Vissza](./)
+[Vissza](../)

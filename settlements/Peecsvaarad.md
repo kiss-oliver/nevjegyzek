@@ -6,4 +6,4 @@ description: Pécsvárad
 
 {% include settlementHTMLs/Peecsvaarad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szegerdő
 
 {% include settlementHTMLs/Szegerdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

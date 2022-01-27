@@ -6,4 +6,4 @@ description: Dejtár
 
 {% include settlementHTMLs/Dejtaar.html %}
 
-[Vissza](./)
+[Vissza](../)

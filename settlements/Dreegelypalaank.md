@@ -6,4 +6,4 @@ description: Drégelypalánk
 
 {% include settlementHTMLs/Dreegelypalaank.html %}
 
-[Vissza](./)
+[Vissza](../)

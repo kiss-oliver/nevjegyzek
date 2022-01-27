@@ -6,4 +6,4 @@ description: Szentbékkálla
 
 {% include settlementHTMLs/Szentbeekkaalla.html %}
 
-[Vissza](./)
+[Vissza](../)

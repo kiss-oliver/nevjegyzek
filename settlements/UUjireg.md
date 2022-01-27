@@ -6,4 +6,4 @@ description: Újireg
 
 {% include settlementHTMLs/UUjireg.html %}
 
-[Vissza](./)
+[Vissza](../)

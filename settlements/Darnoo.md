@@ -6,4 +6,4 @@ description: Darnó
 
 {% include settlementHTMLs/Darnoo.html %}
 
-[Vissza](./)
+[Vissza](../)

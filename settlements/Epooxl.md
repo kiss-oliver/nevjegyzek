@@ -6,4 +6,4 @@ description: Epöl
 
 {% include settlementHTMLs/Epooxl.html %}
 
-[Vissza](./)
+[Vissza](../)

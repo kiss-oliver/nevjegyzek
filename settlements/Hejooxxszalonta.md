@@ -6,4 +6,4 @@ description: Hejőszalonta
 
 {% include settlementHTMLs/Hejooxxszalonta.html %}
 
-[Vissza](./)
+[Vissza](../)

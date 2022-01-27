@@ -6,4 +6,4 @@ description: Csökmő
 
 {% include settlementHTMLs/Csooxkmooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

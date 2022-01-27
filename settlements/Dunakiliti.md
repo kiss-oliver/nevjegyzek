@@ -6,4 +6,4 @@ description: Dunakiliti
 
 {% include settlementHTMLs/Dunakiliti.html %}
 
-[Vissza](./)
+[Vissza](../)

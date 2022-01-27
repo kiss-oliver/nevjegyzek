@@ -6,4 +6,4 @@ description: Meggyeskovácsi
 
 {% include settlementHTMLs/Meggyeskovaacsi.html %}
 
-[Vissza](./)
+[Vissza](../)

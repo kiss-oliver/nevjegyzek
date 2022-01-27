@@ -6,4 +6,4 @@ description: Bakonynána
 
 {% include settlementHTMLs/Bakonynaana.html %}
 
-[Vissza](./)
+[Vissza](../)

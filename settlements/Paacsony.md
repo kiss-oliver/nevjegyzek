@@ -6,4 +6,4 @@ description: Pácsony
 
 {% include settlementHTMLs/Paacsony.html %}
 
-[Vissza](./)
+[Vissza](../)

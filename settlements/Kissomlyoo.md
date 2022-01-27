@@ -6,4 +6,4 @@ description: Kissomlyó
 
 {% include settlementHTMLs/Kissomlyoo.html %}
 
-[Vissza](./)
+[Vissza](../)

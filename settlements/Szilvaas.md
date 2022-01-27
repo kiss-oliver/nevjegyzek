@@ -6,4 +6,4 @@ description: Szilvás
 
 {% include settlementHTMLs/Szilvaas.html %}
 
-[Vissza](./)
+[Vissza](../)

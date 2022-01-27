@@ -6,4 +6,4 @@ description: Zalaszombatfa
 
 {% include settlementHTMLs/Zalaszombatfa.html %}
 
-[Vissza](./)
+[Vissza](../)

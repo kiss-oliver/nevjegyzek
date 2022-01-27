@@ -6,4 +6,4 @@ description: Somogyszil
 
 {% include settlementHTMLs/Somogyszil.html %}
 
-[Vissza](./)
+[Vissza](../)

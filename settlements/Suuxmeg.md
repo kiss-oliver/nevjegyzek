@@ -6,4 +6,4 @@ description: Sümeg
 
 {% include settlementHTMLs/Suuxmeg.html %}
 
-[Vissza](./)
+[Vissza](../)

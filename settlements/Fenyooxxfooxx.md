@@ -6,4 +6,4 @@ description: Fenyőfő
 
 {% include settlementHTMLs/Fenyooxxfooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

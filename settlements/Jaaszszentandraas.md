@@ -6,4 +6,4 @@ description: Jászszentandrás
 
 {% include settlementHTMLs/Jaaszszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

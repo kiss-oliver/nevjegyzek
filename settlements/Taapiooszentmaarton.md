@@ -6,4 +6,4 @@ description: Tápiószentmárton
 
 {% include settlementHTMLs/Taapiooszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

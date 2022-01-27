@@ -6,4 +6,4 @@ description: Budapest XV. kerület
 
 {% include settlementHTMLs/BudapestXVkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

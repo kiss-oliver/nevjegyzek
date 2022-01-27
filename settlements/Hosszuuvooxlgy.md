@@ -6,4 +6,4 @@ description: Hosszúvölgy
 
 {% include settlementHTMLs/Hosszuuvooxlgy.html %}
 
-[Vissza](./)
+[Vissza](../)

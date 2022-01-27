@@ -6,4 +6,4 @@ description: Magyarszék
 
 {% include settlementHTMLs/Magyarszeek.html %}
 
-[Vissza](./)
+[Vissza](../)

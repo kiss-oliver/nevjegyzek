@@ -6,4 +6,4 @@ description: Fehérvárcsurgó
 
 {% include settlementHTMLs/Feheervaarcsurgoo.html %}
 
-[Vissza](./)
+[Vissza](../)

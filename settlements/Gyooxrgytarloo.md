@@ -6,4 +6,4 @@ description: Györgytarló
 
 {% include settlementHTMLs/Gyooxrgytarloo.html %}
 
-[Vissza](./)
+[Vissza](../)

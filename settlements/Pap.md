@@ -6,4 +6,4 @@ description: Pap
 
 {% include settlementHTMLs/Pap.html %}
 
-[Vissza](./)
+[Vissza](../)

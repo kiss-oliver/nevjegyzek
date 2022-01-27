@@ -6,4 +6,4 @@ description: Törökszentmiklós
 
 {% include settlementHTMLs/Tooxrooxkszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

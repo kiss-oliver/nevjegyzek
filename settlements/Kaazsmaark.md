@@ -6,4 +6,4 @@ description: Kázsmárk
 
 {% include settlementHTMLs/Kaazsmaark.html %}
 
-[Vissza](./)
+[Vissza](../)

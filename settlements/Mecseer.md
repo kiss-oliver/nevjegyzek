@@ -6,4 +6,4 @@ description: Mecsér
 
 {% include settlementHTMLs/Mecseer.html %}
 
-[Vissza](./)
+[Vissza](../)

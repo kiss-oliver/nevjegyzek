@@ -6,4 +6,4 @@ description: Áta
 
 {% include settlementHTMLs/AAta.html %}
 
-[Vissza](./)
+[Vissza](../)

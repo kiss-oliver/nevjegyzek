@@ -6,4 +6,4 @@ description: Nagydém
 
 {% include settlementHTMLs/Nagydeem.html %}
 
-[Vissza](./)
+[Vissza](../)

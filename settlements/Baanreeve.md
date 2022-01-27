@@ -6,4 +6,4 @@ description: Bánréve
 
 {% include settlementHTMLs/Baanreeve.html %}
 
-[Vissza](./)
+[Vissza](../)

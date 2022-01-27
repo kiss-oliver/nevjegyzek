@@ -6,4 +6,4 @@ description: Kisnána
 
 {% include settlementHTMLs/Kisnaana.html %}
 
-[Vissza](./)
+[Vissza](../)

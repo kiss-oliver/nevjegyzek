@@ -6,4 +6,4 @@ description: Nagyvisnyó
 
 {% include settlementHTMLs/Nagyvisnyoo.html %}
 
-[Vissza](./)
+[Vissza](../)

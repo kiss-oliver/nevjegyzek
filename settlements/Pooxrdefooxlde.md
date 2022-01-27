@@ -6,4 +6,4 @@ description: Pördefölde
 
 {% include settlementHTMLs/Pooxrdefooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

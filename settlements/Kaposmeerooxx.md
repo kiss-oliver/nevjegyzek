@@ -6,4 +6,4 @@ description: Kaposmérő
 
 {% include settlementHTMLs/Kaposmeerooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

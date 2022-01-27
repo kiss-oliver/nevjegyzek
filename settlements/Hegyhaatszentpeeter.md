@@ -6,4 +6,4 @@ description: Hegyhátszentpéter
 
 {% include settlementHTMLs/Hegyhaatszentpeeter.html %}
 
-[Vissza](./)
+[Vissza](../)

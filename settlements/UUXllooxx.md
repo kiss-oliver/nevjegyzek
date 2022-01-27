@@ -6,4 +6,4 @@ description: Üllő
 
 {% include settlementHTMLs/UUXllooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Körmend
 
 {% include settlementHTMLs/Kooxrmend.html %}
 
-[Vissza](./)
+[Vissza](../)

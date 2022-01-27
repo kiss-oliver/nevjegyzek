@@ -6,4 +6,4 @@ description: Máriapócs
 
 {% include settlementHTMLs/Maariapoocs.html %}
 
-[Vissza](./)
+[Vissza](../)

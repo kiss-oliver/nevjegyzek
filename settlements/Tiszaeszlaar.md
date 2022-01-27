@@ -6,4 +6,4 @@ description: Tiszaeszlár
 
 {% include settlementHTMLs/Tiszaeszlaar.html %}
 
-[Vissza](./)
+[Vissza](../)

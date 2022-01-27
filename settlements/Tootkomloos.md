@@ -6,4 +6,4 @@ description: Tótkomlós
 
 {% include settlementHTMLs/Tootkomloos.html %}
 
-[Vissza](./)
+[Vissza](../)

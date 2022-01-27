@@ -6,4 +6,4 @@ description: Horváthertelend
 
 {% include settlementHTMLs/Horvaathertelend.html %}
 
-[Vissza](./)
+[Vissza](../)

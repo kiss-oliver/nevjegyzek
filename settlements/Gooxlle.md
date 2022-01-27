@@ -6,4 +6,4 @@ description: Gölle
 
 {% include settlementHTMLs/Gooxlle.html %}
 
-[Vissza](./)
+[Vissza](../)

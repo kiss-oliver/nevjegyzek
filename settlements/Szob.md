@@ -6,4 +6,4 @@ description: Szob
 
 {% include settlementHTMLs/Szob.html %}
 
-[Vissza](./)
+[Vissza](../)

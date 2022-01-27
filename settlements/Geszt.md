@@ -6,4 +6,4 @@ description: Geszt
 
 {% include settlementHTMLs/Geszt.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Borjád
 
 {% include settlementHTMLs/Borjaad.html %}
 
-[Vissza](./)
+[Vissza](../)

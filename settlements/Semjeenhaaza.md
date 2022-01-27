@@ -6,4 +6,4 @@ description: Semjénháza
 
 {% include settlementHTMLs/Semjeenhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

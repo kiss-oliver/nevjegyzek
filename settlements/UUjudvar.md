@@ -6,4 +6,4 @@ description: Újudvar
 
 {% include settlementHTMLs/UUjudvar.html %}
 
-[Vissza](./)
+[Vissza](../)

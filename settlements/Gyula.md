@@ -6,4 +6,4 @@ description: Gyula
 
 {% include settlementHTMLs/Gyula.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Káld
 
 {% include settlementHTMLs/Kaald.html %}
 
-[Vissza](./)
+[Vissza](../)

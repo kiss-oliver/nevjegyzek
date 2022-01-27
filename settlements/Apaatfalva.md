@@ -6,4 +6,4 @@ description: Apátfalva
 
 {% include settlementHTMLs/Apaatfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Abaújszolnok
 
 {% include settlementHTMLs/Abauujszolnok.html %}
 
-[Vissza](./)
+[Vissza](../)

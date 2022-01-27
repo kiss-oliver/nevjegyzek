@@ -6,4 +6,4 @@ description: Tolcsva
 
 {% include settlementHTMLs/Tolcsva.html %}
 
-[Vissza](./)
+[Vissza](../)

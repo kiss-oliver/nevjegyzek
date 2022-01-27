@@ -6,4 +6,4 @@ description: Csenger
 
 {% include settlementHTMLs/Csenger.html %}
 
-[Vissza](./)
+[Vissza](../)

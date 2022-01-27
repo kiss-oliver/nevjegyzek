@@ -6,4 +6,4 @@ description: Dóc
 
 {% include settlementHTMLs/Dooc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Harsány
 
 {% include settlementHTMLs/Harsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

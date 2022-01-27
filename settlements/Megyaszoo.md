@@ -6,4 +6,4 @@ description: Megyaszó
 
 {% include settlementHTMLs/Megyaszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

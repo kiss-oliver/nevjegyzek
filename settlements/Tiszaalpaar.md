@@ -6,4 +6,4 @@ description: Tiszaalpár
 
 {% include settlementHTMLs/Tiszaalpaar.html %}
 
-[Vissza](./)
+[Vissza](../)

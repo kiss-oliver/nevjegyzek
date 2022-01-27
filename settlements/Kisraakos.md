@@ -6,4 +6,4 @@ description: Kisrákos
 
 {% include settlementHTMLs/Kisraakos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisjakabfalva
 
 {% include settlementHTMLs/Kisjakabfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

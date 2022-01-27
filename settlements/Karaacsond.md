@@ -6,4 +6,4 @@ description: Karácsond
 
 {% include settlementHTMLs/Karaacsond.html %}
 
-[Vissza](./)
+[Vissza](../)

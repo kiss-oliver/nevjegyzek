@@ -6,4 +6,4 @@ description: Kunbaracs
 
 {% include settlementHTMLs/Kunbaracs.html %}
 
-[Vissza](./)
+[Vissza](../)

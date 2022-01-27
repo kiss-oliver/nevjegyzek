@@ -6,4 +6,4 @@ description: Küngös
 
 {% include settlementHTMLs/Kuuxngooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

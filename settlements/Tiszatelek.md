@@ -6,4 +6,4 @@ description: Tiszatelek
 
 {% include settlementHTMLs/Tiszatelek.html %}
 
-[Vissza](./)
+[Vissza](../)

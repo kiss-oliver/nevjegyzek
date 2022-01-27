@@ -6,4 +6,4 @@ description: Királyhegyes
 
 {% include settlementHTMLs/Kiraalyhegyes.html %}
 
-[Vissza](./)
+[Vissza](../)

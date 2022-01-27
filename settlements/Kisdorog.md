@@ -6,4 +6,4 @@ description: Kisdorog
 
 {% include settlementHTMLs/Kisdorog.html %}
 
-[Vissza](./)
+[Vissza](../)

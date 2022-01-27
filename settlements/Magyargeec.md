@@ -6,4 +6,4 @@ description: Magyargéc
 
 {% include settlementHTMLs/Magyargeec.html %}
 
-[Vissza](./)
+[Vissza](../)

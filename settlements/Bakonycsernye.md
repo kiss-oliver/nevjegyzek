@@ -6,4 +6,4 @@ description: Bakonycsernye
 
 {% include settlementHTMLs/Bakonycsernye.html %}
 
-[Vissza](./)
+[Vissza](../)

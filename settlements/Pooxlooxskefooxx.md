@@ -6,4 +6,4 @@ description: Pölöskefő
 
 {% include settlementHTMLs/Pooxlooxskefooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

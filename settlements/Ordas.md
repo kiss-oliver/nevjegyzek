@@ -6,4 +6,4 @@ description: Ordas
 
 {% include settlementHTMLs/Ordas.html %}
 
-[Vissza](./)
+[Vissza](../)

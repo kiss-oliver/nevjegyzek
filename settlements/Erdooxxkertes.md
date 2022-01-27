@@ -6,4 +6,4 @@ description: Erdőkertes
 
 {% include settlementHTMLs/Erdooxxkertes.html %}
 
-[Vissza](./)
+[Vissza](../)

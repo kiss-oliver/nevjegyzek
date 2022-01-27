@@ -6,4 +6,4 @@ description: Kerkateskánd
 
 {% include settlementHTMLs/Kerkateskaand.html %}
 
-[Vissza](./)
+[Vissza](../)

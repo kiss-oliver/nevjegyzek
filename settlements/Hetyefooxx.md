@@ -6,4 +6,4 @@ description: Hetyefő
 
 {% include settlementHTMLs/Hetyefooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

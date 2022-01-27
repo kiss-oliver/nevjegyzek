@@ -6,4 +6,4 @@ description: Drávaszerdahely
 
 {% include settlementHTMLs/Draavaszerdahely.html %}
 
-[Vissza](./)
+[Vissza](../)

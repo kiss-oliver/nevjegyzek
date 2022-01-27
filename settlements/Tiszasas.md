@@ -6,4 +6,4 @@ description: Tiszasas
 
 {% include settlementHTMLs/Tiszasas.html %}
 
-[Vissza](./)
+[Vissza](../)

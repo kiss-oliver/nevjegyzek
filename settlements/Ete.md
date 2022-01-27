@@ -6,4 +6,4 @@ description: Ete
 
 {% include settlementHTMLs/Ete.html %}
 
-[Vissza](./)
+[Vissza](../)

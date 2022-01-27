@@ -6,4 +6,4 @@ description: Kishuta
 
 {% include settlementHTMLs/Kishuta.html %}
 
-[Vissza](./)
+[Vissza](../)

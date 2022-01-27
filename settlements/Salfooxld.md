@@ -6,4 +6,4 @@ description: Salföld
 
 {% include settlementHTMLs/Salfooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Baktakék
 
 {% include settlementHTMLs/Baktakeek.html %}
 
-[Vissza](./)
+[Vissza](../)

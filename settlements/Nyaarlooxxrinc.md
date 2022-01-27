@@ -6,4 +6,4 @@ description: Nyárlőrinc
 
 {% include settlementHTMLs/Nyaarlooxxrinc.html %}
 
-[Vissza](./)
+[Vissza](../)

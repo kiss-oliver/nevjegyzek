@@ -6,4 +6,4 @@ description: Bakonyszücs
 
 {% include settlementHTMLs/Bakonyszuuxcs.html %}
 
-[Vissza](./)
+[Vissza](../)

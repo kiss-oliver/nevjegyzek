@@ -6,4 +6,4 @@ description: Sajóhídvég
 
 {% include settlementHTMLs/Sajoohiidveeg.html %}
 
-[Vissza](./)
+[Vissza](../)

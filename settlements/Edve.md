@@ -6,4 +6,4 @@ description: Edve
 
 {% include settlementHTMLs/Edve.html %}
 
-[Vissza](./)
+[Vissza](../)

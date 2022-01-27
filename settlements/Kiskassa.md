@@ -6,4 +6,4 @@ description: Kiskassa
 
 {% include settlementHTMLs/Kiskassa.html %}
 
-[Vissza](./)
+[Vissza](../)

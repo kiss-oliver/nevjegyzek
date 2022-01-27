@@ -6,4 +6,4 @@ description: Balástya
 
 {% include settlementHTMLs/Balaastya.html %}
 
-[Vissza](./)
+[Vissza](../)

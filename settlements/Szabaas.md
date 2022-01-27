@@ -6,4 +6,4 @@ description: Szabás
 
 {% include settlementHTMLs/Szabaas.html %}
 
-[Vissza](./)
+[Vissza](../)

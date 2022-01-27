@@ -6,4 +6,4 @@ description: Szava
 
 {% include settlementHTMLs/Szava.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Barabás
 
 {% include settlementHTMLs/Barabaas.html %}
 
-[Vissza](./)
+[Vissza](../)

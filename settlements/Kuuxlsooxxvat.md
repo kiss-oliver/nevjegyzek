@@ -6,4 +6,4 @@ description: Külsővat
 
 {% include settlementHTMLs/Kuuxlsooxxvat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Várkesző
 
 {% include settlementHTMLs/Vaarkeszooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

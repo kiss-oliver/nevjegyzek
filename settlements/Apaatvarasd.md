@@ -6,4 +6,4 @@ description: Apátvarasd
 
 {% include settlementHTMLs/Apaatvarasd.html %}
 
-[Vissza](./)
+[Vissza](../)

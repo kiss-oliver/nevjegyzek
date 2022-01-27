@@ -6,4 +6,4 @@ description: Jászladány
 
 {% include settlementHTMLs/Jaaszladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

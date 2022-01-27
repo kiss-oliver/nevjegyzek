@@ -6,4 +6,4 @@ description: Megyer
 
 {% include settlementHTMLs/Megyer.html %}
 
-[Vissza](./)
+[Vissza](../)

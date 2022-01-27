@@ -6,4 +6,4 @@ description: Nagyhalász
 
 {% include settlementHTMLs/Nagyhalaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

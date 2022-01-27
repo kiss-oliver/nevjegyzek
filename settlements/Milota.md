@@ -6,4 +6,4 @@ description: Milota
 
 {% include settlementHTMLs/Milota.html %}
 
-[Vissza](./)
+[Vissza](../)

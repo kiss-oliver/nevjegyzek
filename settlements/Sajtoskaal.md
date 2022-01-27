@@ -6,4 +6,4 @@ description: Sajtoskál
 
 {% include settlementHTMLs/Sajtoskaal.html %}
 
-[Vissza](./)
+[Vissza](../)

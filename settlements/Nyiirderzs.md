@@ -6,4 +6,4 @@ description: Nyírderzs
 
 {% include settlementHTMLs/Nyiirderzs.html %}
 
-[Vissza](./)
+[Vissza](../)

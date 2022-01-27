@@ -6,4 +6,4 @@ description: Kemse
 
 {% include settlementHTMLs/Kemse.html %}
 
-[Vissza](./)
+[Vissza](../)

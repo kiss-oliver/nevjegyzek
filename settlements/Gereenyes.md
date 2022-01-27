@@ -6,4 +6,4 @@ description: Gerényes
 
 {% include settlementHTMLs/Gereenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Halogy
 
 {% include settlementHTMLs/Halogy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hajmáskér
 
 {% include settlementHTMLs/Hajmaaskeer.html %}
 
-[Vissza](./)
+[Vissza](../)

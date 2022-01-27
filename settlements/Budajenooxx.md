@@ -6,4 +6,4 @@ description: Budajenő
 
 {% include settlementHTMLs/Budajenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

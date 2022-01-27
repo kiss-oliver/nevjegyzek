@@ -6,4 +6,4 @@ description: Tiszapalkonya
 
 {% include settlementHTMLs/Tiszapalkonya.html %}
 
-[Vissza](./)
+[Vissza](../)

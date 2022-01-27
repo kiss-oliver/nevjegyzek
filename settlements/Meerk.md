@@ -6,4 +6,4 @@ description: Mérk
 
 {% include settlementHTMLs/Meerk.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Jákfa
 
 {% include settlementHTMLs/Jaakfa.html %}
 
-[Vissza](./)
+[Vissza](../)

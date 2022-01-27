@@ -6,4 +6,4 @@ description: Nemesmedves
 
 {% include settlementHTMLs/Nemesmedves.html %}
 
-[Vissza](./)
+[Vissza](../)

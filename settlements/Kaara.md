@@ -6,4 +6,4 @@ description: Kára
 
 {% include settlementHTMLs/Kaara.html %}
 
-[Vissza](./)
+[Vissza](../)

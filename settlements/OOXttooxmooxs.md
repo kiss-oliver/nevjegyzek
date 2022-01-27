@@ -6,4 +6,4 @@ description: Öttömös
 
 {% include settlementHTMLs/OOXttooxmooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

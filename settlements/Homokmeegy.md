@@ -6,4 +6,4 @@ description: Homokmégy
 
 {% include settlementHTMLs/Homokmeegy.html %}
 
-[Vissza](./)
+[Vissza](../)

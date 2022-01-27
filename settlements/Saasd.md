@@ -6,4 +6,4 @@ description: Sásd
 
 {% include settlementHTMLs/Saasd.html %}
 
-[Vissza](./)
+[Vissza](../)

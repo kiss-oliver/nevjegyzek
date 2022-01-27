@@ -6,4 +6,4 @@ description: Ercsi
 
 {% include settlementHTMLs/Ercsi.html %}
 
-[Vissza](./)
+[Vissza](../)

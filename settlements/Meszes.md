@@ -6,4 +6,4 @@ description: Meszes
 
 {% include settlementHTMLs/Meszes.html %}
 
-[Vissza](./)
+[Vissza](../)

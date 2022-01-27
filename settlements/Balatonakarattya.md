@@ -6,4 +6,4 @@ description: Balatonakarattya
 
 {% include settlementHTMLs/Balatonakarattya.html %}
 
-[Vissza](./)
+[Vissza](../)

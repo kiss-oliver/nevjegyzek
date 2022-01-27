@@ -6,4 +6,4 @@ description: Sopronnémeti
 
 {% include settlementHTMLs/Sopronneemeti.html %}
 
-[Vissza](./)
+[Vissza](../)

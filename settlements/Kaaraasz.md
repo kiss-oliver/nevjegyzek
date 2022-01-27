@@ -6,4 +6,4 @@ description: Kárász
 
 {% include settlementHTMLs/Kaaraasz.html %}
 
-[Vissza](./)
+[Vissza](../)

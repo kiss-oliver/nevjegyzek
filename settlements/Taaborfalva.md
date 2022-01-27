@@ -6,4 +6,4 @@ description: Táborfalva
 
 {% include settlementHTMLs/Taaborfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

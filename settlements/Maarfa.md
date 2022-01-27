@@ -6,4 +6,4 @@ description: Márfa
 
 {% include settlementHTMLs/Maarfa.html %}
 
-[Vissza](./)
+[Vissza](../)

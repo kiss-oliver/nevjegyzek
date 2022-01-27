@@ -6,4 +6,4 @@ description: Valkonya
 
 {% include settlementHTMLs/Valkonya.html %}
 
-[Vissza](./)
+[Vissza](../)

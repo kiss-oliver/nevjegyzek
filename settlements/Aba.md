@@ -6,4 +6,4 @@ description: Aba
 
 {% include settlementHTMLs/Aba.html %}
 
-[Vissza](./)
+[Vissza](../)

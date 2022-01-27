@@ -6,4 +6,4 @@ description: Mogyoród
 
 {% include settlementHTMLs/Mogyorood.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Jászárokszállás
 
 {% include settlementHTMLs/Jaaszaarokszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

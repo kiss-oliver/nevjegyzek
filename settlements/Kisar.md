@@ -6,4 +6,4 @@ description: Kisar
 
 {% include settlementHTMLs/Kisar.html %}
 
-[Vissza](./)
+[Vissza](../)

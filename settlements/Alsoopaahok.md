@@ -6,4 +6,4 @@ description: Alsópáhok
 
 {% include settlementHTMLs/Alsoopaahok.html %}
 
-[Vissza](./)
+[Vissza](../)

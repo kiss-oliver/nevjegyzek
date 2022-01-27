@@ -6,4 +6,4 @@ description: Hottó
 
 {% include settlementHTMLs/Hottoo.html %}
 
-[Vissza](./)
+[Vissza](../)

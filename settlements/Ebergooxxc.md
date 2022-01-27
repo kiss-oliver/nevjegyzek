@@ -6,4 +6,4 @@ description: Ebergőc
 
 {% include settlementHTMLs/Ebergooxxc.html %}
 
-[Vissza](./)
+[Vissza](../)

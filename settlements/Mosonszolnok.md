@@ -6,4 +6,4 @@ description: Mosonszolnok
 
 {% include settlementHTMLs/Mosonszolnok.html %}
 
-[Vissza](./)
+[Vissza](../)

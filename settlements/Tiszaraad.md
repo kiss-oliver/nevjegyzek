@@ -6,4 +6,4 @@ description: Tiszarád
 
 {% include settlementHTMLs/Tiszaraad.html %}
 
-[Vissza](./)
+[Vissza](../)

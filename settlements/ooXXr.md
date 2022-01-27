@@ -6,4 +6,4 @@ description: Őr
 
 {% include settlementHTMLs/ooXXr.html %}
 
-[Vissza](./)
+[Vissza](../)

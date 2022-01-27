@@ -6,4 +6,4 @@ description: Máriahalom
 
 {% include settlementHTMLs/Maariahalom.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Őrtilos
 
 {% include settlementHTMLs/ooXXrtilos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagykáta
 
 {% include settlementHTMLs/Nagykaata.html %}
 
-[Vissza](./)
+[Vissza](../)

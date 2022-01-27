@@ -6,4 +6,4 @@ description: Makó
 
 {% include settlementHTMLs/Makoo.html %}
 
-[Vissza](./)
+[Vissza](../)

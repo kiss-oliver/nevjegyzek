@@ -6,4 +6,4 @@ description: Ózd
 
 {% include settlementHTMLs/OOzd.html %}
 
-[Vissza](./)
+[Vissza](../)

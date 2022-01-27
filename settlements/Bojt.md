@@ -6,4 +6,4 @@ description: Bojt
 
 {% include settlementHTMLs/Bojt.html %}
 
-[Vissza](./)
+[Vissza](../)

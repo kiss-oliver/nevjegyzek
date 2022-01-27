@@ -6,4 +6,4 @@ description: Pécsdevecser
 
 {% include settlementHTMLs/Peecsdevecser.html %}
 
-[Vissza](./)
+[Vissza](../)

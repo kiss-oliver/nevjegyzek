@@ -6,4 +6,4 @@ description: Acsa
 
 {% include settlementHTMLs/Acsa.html %}
 
-[Vissza](./)
+[Vissza](../)

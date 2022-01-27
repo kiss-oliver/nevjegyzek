@@ -6,4 +6,4 @@ description: Gyál
 
 {% include settlementHTMLs/Gyaal.html %}
 
-[Vissza](./)
+[Vissza](../)

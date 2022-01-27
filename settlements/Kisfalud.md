@@ -6,4 +6,4 @@ description: Kisfalud
 
 {% include settlementHTMLs/Kisfalud.html %}
 
-[Vissza](./)
+[Vissza](../)

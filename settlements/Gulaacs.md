@@ -6,4 +6,4 @@ description: Gulács
 
 {% include settlementHTMLs/Gulaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

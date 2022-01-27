@@ -6,4 +6,4 @@ description: Dobronhegy
 
 {% include settlementHTMLs/Dobronhegy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Töltéstava
 
 {% include settlementHTMLs/Tooxlteestava.html %}
 
-[Vissza](./)
+[Vissza](../)

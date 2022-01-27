@@ -6,4 +6,4 @@ description: Tass
 
 {% include settlementHTMLs/Tass.html %}
 
-[Vissza](./)
+[Vissza](../)

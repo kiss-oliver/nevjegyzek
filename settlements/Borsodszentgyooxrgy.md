@@ -6,4 +6,4 @@ description: Borsodszentgyörgy
 
 {% include settlementHTMLs/Borsodszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

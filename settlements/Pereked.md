@@ -6,4 +6,4 @@ description: Pereked
 
 {% include settlementHTMLs/Pereked.html %}
 
-[Vissza](./)
+[Vissza](../)

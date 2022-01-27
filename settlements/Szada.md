@@ -6,4 +6,4 @@ description: Szada
 
 {% include settlementHTMLs/Szada.html %}
 
-[Vissza](./)
+[Vissza](../)

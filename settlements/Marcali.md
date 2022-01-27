@@ -6,4 +6,4 @@ description: Marcali
 
 {% include settlementHTMLs/Marcali.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szárliget
 
 {% include settlementHTMLs/Szaarliget.html %}
 
-[Vissza](./)
+[Vissza](../)

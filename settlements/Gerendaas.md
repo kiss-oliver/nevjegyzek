@@ -6,4 +6,4 @@ description: Gerendás
 
 {% include settlementHTMLs/Gerendaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Galgahévíz
 
 {% include settlementHTMLs/Galgaheeviiz.html %}
 
-[Vissza](./)
+[Vissza](../)

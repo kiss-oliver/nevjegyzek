@@ -6,4 +6,4 @@ description: Átány
 
 {% include settlementHTMLs/AAtaany.html %}
 
-[Vissza](./)
+[Vissza](../)

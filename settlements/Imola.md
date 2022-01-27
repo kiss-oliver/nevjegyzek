@@ -6,4 +6,4 @@ description: Imola
 
 {% include settlementHTMLs/Imola.html %}
 
-[Vissza](./)
+[Vissza](../)

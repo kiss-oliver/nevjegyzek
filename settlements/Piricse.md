@@ -6,4 +6,4 @@ description: Piricse
 
 {% include settlementHTMLs/Piricse.html %}
 
-[Vissza](./)
+[Vissza](../)

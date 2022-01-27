@@ -6,4 +6,4 @@ description: Oszlár
 
 {% include settlementHTMLs/Oszlaar.html %}
 
-[Vissza](./)
+[Vissza](../)

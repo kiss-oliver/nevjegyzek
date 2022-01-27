@@ -6,4 +6,4 @@ description: Resznek
 
 {% include settlementHTMLs/Resznek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tuzsér
 
 {% include settlementHTMLs/Tuzseer.html %}
 
-[Vissza](./)
+[Vissza](../)

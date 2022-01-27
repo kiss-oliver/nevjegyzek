@@ -6,4 +6,4 @@ description: Vének
 
 {% include settlementHTMLs/Veenek.html %}
 
-[Vissza](./)
+[Vissza](../)

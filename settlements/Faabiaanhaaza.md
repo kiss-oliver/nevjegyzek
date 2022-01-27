@@ -6,4 +6,4 @@ description: Fábiánháza
 
 {% include settlementHTMLs/Faabiaanhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

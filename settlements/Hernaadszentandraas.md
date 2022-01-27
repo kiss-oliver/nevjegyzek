@@ -6,4 +6,4 @@ description: Hernádszentandrás
 
 {% include settlementHTMLs/Hernaadszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

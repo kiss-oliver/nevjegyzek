@@ -6,4 +6,4 @@ description: Kővágószőlős
 
 {% include settlementHTMLs/Kooxxvaagooszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

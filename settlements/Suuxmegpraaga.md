@@ -6,4 +6,4 @@ description: Sümegprága
 
 {% include settlementHTMLs/Suuxmegpraaga.html %}
 
-[Vissza](./)
+[Vissza](../)

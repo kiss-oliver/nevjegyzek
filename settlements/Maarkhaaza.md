@@ -6,4 +6,4 @@ description: Márkháza
 
 {% include settlementHTMLs/Maarkhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

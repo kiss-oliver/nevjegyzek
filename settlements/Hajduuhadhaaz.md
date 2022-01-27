@@ -6,4 +6,4 @@ description: Hajdúhadház
 
 {% include settlementHTMLs/Hajduuhadhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

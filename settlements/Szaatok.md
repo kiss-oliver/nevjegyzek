@@ -6,4 +6,4 @@ description: Szátok
 
 {% include settlementHTMLs/Szaatok.html %}
 
-[Vissza](./)
+[Vissza](../)

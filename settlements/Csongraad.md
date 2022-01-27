@@ -6,4 +6,4 @@ description: Csongrád
 
 {% include settlementHTMLs/Csongraad.html %}
 
-[Vissza](./)
+[Vissza](../)

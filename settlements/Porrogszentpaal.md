@@ -6,4 +6,4 @@ description: Porrogszentpál
 
 {% include settlementHTMLs/Porrogszentpaal.html %}
 
-[Vissza](./)
+[Vissza](../)

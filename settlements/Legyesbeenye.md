@@ -6,4 +6,4 @@ description: Legyesbénye
 
 {% include settlementHTMLs/Legyesbeenye.html %}
 
-[Vissza](./)
+[Vissza](../)

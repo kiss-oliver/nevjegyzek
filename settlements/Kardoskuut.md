@@ -6,4 +6,4 @@ description: Kardoskút
 
 {% include settlementHTMLs/Kardoskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

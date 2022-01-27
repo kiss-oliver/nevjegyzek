@@ -6,4 +6,4 @@ description: Magyarszerdahely
 
 {% include settlementHTMLs/Magyarszerdahely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kincsesbánya
 
 {% include settlementHTMLs/Kincsesbaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

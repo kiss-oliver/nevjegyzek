@@ -6,4 +6,4 @@ description: Fülöp
 
 {% include settlementHTMLs/Fuuxlooxp.html %}
 
-[Vissza](./)
+[Vissza](../)

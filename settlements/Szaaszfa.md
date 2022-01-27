@@ -6,4 +6,4 @@ description: Szászfa
 
 {% include settlementHTMLs/Szaaszfa.html %}
 
-[Vissza](./)
+[Vissza](../)

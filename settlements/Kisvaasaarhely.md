@@ -6,4 +6,4 @@ description: Kisvásárhely
 
 {% include settlementHTMLs/Kisvaasaarhely.html %}
 
-[Vissza](./)
+[Vissza](../)

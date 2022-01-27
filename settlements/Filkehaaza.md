@@ -6,4 +6,4 @@ description: Filkeháza
 
 {% include settlementHTMLs/Filkehaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

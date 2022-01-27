@@ -6,4 +6,4 @@ description: Gyermely
 
 {% include settlementHTMLs/Gyermely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Túrony
 
 {% include settlementHTMLs/Tuurony.html %}
 
-[Vissza](./)
+[Vissza](../)

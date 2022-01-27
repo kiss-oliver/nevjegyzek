@@ -6,4 +6,4 @@ description: Kiszombor
 
 {% include settlementHTMLs/Kiszombor.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szepetnek
 
 {% include settlementHTMLs/Szepetnek.html %}
 
-[Vissza](./)
+[Vissza](../)

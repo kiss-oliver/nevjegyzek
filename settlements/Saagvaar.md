@@ -6,4 +6,4 @@ description: Ságvár
 
 {% include settlementHTMLs/Saagvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

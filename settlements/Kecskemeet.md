@@ -6,4 +6,4 @@ description: Kecskemét
 
 {% include settlementHTMLs/Kecskemeet.html %}
 
-[Vissza](./)
+[Vissza](../)

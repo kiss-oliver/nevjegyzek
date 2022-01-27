@@ -6,4 +6,4 @@ description: Somogyacsa
 
 {% include settlementHTMLs/Somogyacsa.html %}
 
-[Vissza](./)
+[Vissza](../)

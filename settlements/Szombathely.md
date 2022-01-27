@@ -6,4 +6,4 @@ description: Szombathely
 
 {% include settlementHTMLs/Szombathely.html %}
 
-[Vissza](./)
+[Vissza](../)

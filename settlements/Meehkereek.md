@@ -6,4 +6,4 @@ description: Méhkerék
 
 {% include settlementHTMLs/Meehkereek.html %}
 
-[Vissza](./)
+[Vissza](../)

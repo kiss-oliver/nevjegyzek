@@ -6,4 +6,4 @@ description: Pácin
 
 {% include settlementHTMLs/Paacin.html %}
 
-[Vissza](./)
+[Vissza](../)

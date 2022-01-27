@@ -6,4 +6,4 @@ description: Mozsgó
 
 {% include settlementHTMLs/Mozsgoo.html %}
 
-[Vissza](./)
+[Vissza](../)

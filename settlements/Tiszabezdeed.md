@@ -6,4 +6,4 @@ description: Tiszabezdéd
 
 {% include settlementHTMLs/Tiszabezdeed.html %}
 
-[Vissza](./)
+[Vissza](../)

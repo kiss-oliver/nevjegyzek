@@ -6,4 +6,4 @@ description: Ivándárda
 
 {% include settlementHTMLs/Ivaandaarda.html %}
 
-[Vissza](./)
+[Vissza](../)

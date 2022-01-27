@@ -6,4 +6,4 @@ description: Lapáncsa
 
 {% include settlementHTMLs/Lapaancsa.html %}
 
-[Vissza](./)
+[Vissza](../)

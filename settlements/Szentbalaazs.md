@@ -6,4 +6,4 @@ description: Szentbalázs
 
 {% include settlementHTMLs/Szentbalaazs.html %}
 
-[Vissza](./)
+[Vissza](../)

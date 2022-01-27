@@ -6,4 +6,4 @@ description: Dubicsány
 
 {% include settlementHTMLs/Dubicsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

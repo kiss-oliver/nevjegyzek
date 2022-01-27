@@ -6,4 +6,4 @@ description: Rábatamási
 
 {% include settlementHTMLs/Raabatamaasi.html %}
 
-[Vissza](./)
+[Vissza](../)

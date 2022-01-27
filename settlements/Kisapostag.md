@@ -6,4 +6,4 @@ description: Kisapostag
 
 {% include settlementHTMLs/Kisapostag.html %}
 
-[Vissza](./)
+[Vissza](../)

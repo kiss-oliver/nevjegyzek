@@ -6,4 +6,4 @@ description: Bárna
 
 {% include settlementHTMLs/Baarna.html %}
 
-[Vissza](./)
+[Vissza](../)

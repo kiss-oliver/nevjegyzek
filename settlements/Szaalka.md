@@ -6,4 +6,4 @@ description: Szálka
 
 {% include settlementHTMLs/Szaalka.html %}
 
-[Vissza](./)
+[Vissza](../)

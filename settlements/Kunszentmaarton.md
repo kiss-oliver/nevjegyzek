@@ -6,4 +6,4 @@ description: Kunszentmárton
 
 {% include settlementHTMLs/Kunszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

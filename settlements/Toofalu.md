@@ -6,4 +6,4 @@ description: Tófalu
 
 {% include settlementHTMLs/Toofalu.html %}
 
-[Vissza](./)
+[Vissza](../)

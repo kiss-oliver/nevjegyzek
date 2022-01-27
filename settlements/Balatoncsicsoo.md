@@ -6,4 +6,4 @@ description: Balatoncsicsó
 
 {% include settlementHTMLs/Balatoncsicsoo.html %}
 
-[Vissza](./)
+[Vissza](../)

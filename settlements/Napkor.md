@@ -6,4 +6,4 @@ description: Napkor
 
 {% include settlementHTMLs/Napkor.html %}
 
-[Vissza](./)
+[Vissza](../)

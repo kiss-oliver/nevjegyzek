@@ -6,4 +6,4 @@ description: Maglóca
 
 {% include settlementHTMLs/Maglooca.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rápolt
 
 {% include settlementHTMLs/Raapolt.html %}
 
-[Vissza](./)
+[Vissza](../)

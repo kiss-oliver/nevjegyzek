@@ -6,4 +6,4 @@ description: Dombiratos
 
 {% include settlementHTMLs/Dombiratos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hollóháza
 
 {% include settlementHTMLs/Holloohaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Magyarcsanád
 
 {% include settlementHTMLs/Magyarcsanaad.html %}
 
-[Vissza](./)
+[Vissza](../)

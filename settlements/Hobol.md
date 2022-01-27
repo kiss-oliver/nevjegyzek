@@ -6,4 +6,4 @@ description: Hobol
 
 {% include settlementHTMLs/Hobol.html %}
 
-[Vissza](./)
+[Vissza](../)

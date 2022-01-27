@@ -6,4 +6,4 @@ description: Dömsöd
 
 {% include settlementHTMLs/Dooxmsooxd.html %}
 
-[Vissza](./)
+[Vissza](../)

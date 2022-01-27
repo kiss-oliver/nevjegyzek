@@ -6,4 +6,4 @@ description: Győrzámoly
 
 {% include settlementHTMLs/Gyooxxrzaamoly.html %}
 
-[Vissza](./)
+[Vissza](../)

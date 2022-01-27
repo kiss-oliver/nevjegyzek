@@ -6,4 +6,4 @@ description: Gyanógeregye
 
 {% include settlementHTMLs/Gyanoogeregye.html %}
 
-[Vissza](./)
+[Vissza](../)

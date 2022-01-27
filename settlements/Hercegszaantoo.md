@@ -6,4 +6,4 @@ description: Hercegszántó
 
 {% include settlementHTMLs/Hercegszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

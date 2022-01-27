@@ -6,4 +6,4 @@ description: Jenő
 
 {% include settlementHTMLs/Jenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

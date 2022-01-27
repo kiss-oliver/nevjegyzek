@@ -6,4 +6,4 @@ description: Mátyásdomb
 
 {% include settlementHTMLs/Maatyaasdomb.html %}
 
-[Vissza](./)
+[Vissza](../)

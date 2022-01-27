@@ -6,4 +6,4 @@ description: Vaspör
 
 {% include settlementHTMLs/Vaspooxr.html %}
 
-[Vissza](./)
+[Vissza](../)

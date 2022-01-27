@@ -6,4 +6,4 @@ description: Kemenesmagasi
 
 {% include settlementHTMLs/Kemenesmagasi.html %}
 
-[Vissza](./)
+[Vissza](../)

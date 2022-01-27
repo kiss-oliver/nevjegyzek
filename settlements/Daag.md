@@ -6,4 +6,4 @@ description: Dág
 
 {% include settlementHTMLs/Daag.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pusztahencse
 
 {% include settlementHTMLs/Pusztahencse.html %}
 
-[Vissza](./)
+[Vissza](../)

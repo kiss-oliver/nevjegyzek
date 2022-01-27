@@ -6,4 +6,4 @@ description: Oroszlány
 
 {% include settlementHTMLs/Oroszlaany.html %}
 
-[Vissza](./)
+[Vissza](../)

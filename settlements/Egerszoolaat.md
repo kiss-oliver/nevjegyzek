@@ -6,4 +6,4 @@ description: Egerszólát
 
 {% include settlementHTMLs/Egerszoolaat.html %}
 
-[Vissza](./)
+[Vissza](../)

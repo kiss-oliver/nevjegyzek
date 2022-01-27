@@ -6,4 +6,4 @@ description: Bonyhádvarasd
 
 {% include settlementHTMLs/Bonyhaadvarasd.html %}
 
-[Vissza](./)
+[Vissza](../)

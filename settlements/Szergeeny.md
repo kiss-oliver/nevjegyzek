@@ -6,4 +6,4 @@ description: Szergény
 
 {% include settlementHTMLs/Szergeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

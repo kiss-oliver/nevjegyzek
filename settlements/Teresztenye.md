@@ -6,4 +6,4 @@ description: Teresztenye
 
 {% include settlementHTMLs/Teresztenye.html %}
 
-[Vissza](./)
+[Vissza](../)

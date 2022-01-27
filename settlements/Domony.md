@@ -6,4 +6,4 @@ description: Domony
 
 {% include settlementHTMLs/Domony.html %}
 
-[Vissza](./)
+[Vissza](../)

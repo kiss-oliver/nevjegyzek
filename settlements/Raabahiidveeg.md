@@ -6,4 +6,4 @@ description: Rábahídvég
 
 {% include settlementHTMLs/Raabahiidveeg.html %}
 
-[Vissza](./)
+[Vissza](../)

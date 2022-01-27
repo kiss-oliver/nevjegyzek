@@ -6,4 +6,4 @@ description: Karancskeszi
 
 {% include settlementHTMLs/Karancskeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bár
 
 {% include settlementHTMLs/Baar.html %}
 
-[Vissza](./)
+[Vissza](../)

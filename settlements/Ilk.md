@@ -6,4 +6,4 @@ description: Ilk
 
 {% include settlementHTMLs/Ilk.html %}
 
-[Vissza](./)
+[Vissza](../)

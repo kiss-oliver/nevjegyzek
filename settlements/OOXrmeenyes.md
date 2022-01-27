@@ -6,4 +6,4 @@ description: Örményes
 
 {% include settlementHTMLs/OOXrmeenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Veszprémfajsz
 
 {% include settlementHTMLs/Veszpreemfajsz.html %}
 
-[Vissza](./)
+[Vissza](../)

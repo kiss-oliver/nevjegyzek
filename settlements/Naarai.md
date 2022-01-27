@@ -6,4 +6,4 @@ description: Nárai
 
 {% include settlementHTMLs/Naarai.html %}
 
-[Vissza](./)
+[Vissza](../)

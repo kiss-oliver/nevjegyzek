@@ -6,4 +6,4 @@ description: Csincse
 
 {% include settlementHTMLs/Csincse.html %}
 
-[Vissza](./)
+[Vissza](../)

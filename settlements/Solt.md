@@ -6,4 +6,4 @@ description: Solt
 
 {% include settlementHTMLs/Solt.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Győröcske
 
 {% include settlementHTMLs/Gyooxxrooxcske.html %}
 
-[Vissza](./)
+[Vissza](../)

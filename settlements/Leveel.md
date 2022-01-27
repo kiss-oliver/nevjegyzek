@@ -6,4 +6,4 @@ description: Levél
 
 {% include settlementHTMLs/Leveel.html %}
 
-[Vissza](./)
+[Vissza](../)

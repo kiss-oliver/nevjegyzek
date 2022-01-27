@@ -6,4 +6,4 @@ description: Nádasdladány
 
 {% include settlementHTMLs/Naadasdladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

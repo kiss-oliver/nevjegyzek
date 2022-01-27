@@ -6,4 +6,4 @@ description: Sátorhely
 
 {% include settlementHTMLs/Saatorhely.html %}
 
-[Vissza](./)
+[Vissza](../)

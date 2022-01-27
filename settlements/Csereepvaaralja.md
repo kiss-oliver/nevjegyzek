@@ -6,4 +6,4 @@ description: Cserépváralja
 
 {% include settlementHTMLs/Csereepvaaralja.html %}
 
-[Vissza](./)
+[Vissza](../)

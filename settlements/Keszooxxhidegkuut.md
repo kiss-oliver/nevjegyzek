@@ -6,4 +6,4 @@ description: Keszőhidegkút
 
 {% include settlementHTMLs/Keszooxxhidegkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

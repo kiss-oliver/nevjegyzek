@@ -6,4 +6,4 @@ description: Tarnazsadány
 
 {% include settlementHTMLs/Tarnazsadaany.html %}
 
-[Vissza](./)
+[Vissza](../)

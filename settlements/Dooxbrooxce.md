@@ -6,4 +6,4 @@ description: Döbröce
 
 {% include settlementHTMLs/Dooxbrooxce.html %}
 
-[Vissza](./)
+[Vissza](../)

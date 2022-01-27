@@ -6,4 +6,4 @@ description: Sajószentpéter
 
 {% include settlementHTMLs/Sajooszentpeeter.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Monostorapáti
 
 {% include settlementHTMLs/Monostorapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

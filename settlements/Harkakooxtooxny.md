@@ -6,4 +6,4 @@ description: Harkakötöny
 
 {% include settlementHTMLs/Harkakooxtooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

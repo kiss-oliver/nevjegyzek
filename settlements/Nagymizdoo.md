@@ -6,4 +6,4 @@ description: Nagymizdó
 
 {% include settlementHTMLs/Nagymizdoo.html %}
 
-[Vissza](./)
+[Vissza](../)

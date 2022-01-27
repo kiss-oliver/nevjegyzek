@@ -6,4 +6,4 @@ description: Tákos
 
 {% include settlementHTMLs/Taakos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ják
 
 {% include settlementHTMLs/Jaak.html %}
 
-[Vissza](./)
+[Vissza](../)

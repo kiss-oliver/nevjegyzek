@@ -6,4 +6,4 @@ description: Bázakerettye
 
 {% include settlementHTMLs/Baazakerettye.html %}
 
-[Vissza](./)
+[Vissza](../)

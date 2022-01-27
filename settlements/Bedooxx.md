@@ -6,4 +6,4 @@ description: Bedő
 
 {% include settlementHTMLs/Bedooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

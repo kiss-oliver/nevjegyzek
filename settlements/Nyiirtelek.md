@@ -6,4 +6,4 @@ description: Nyírtelek
 
 {% include settlementHTMLs/Nyiirtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

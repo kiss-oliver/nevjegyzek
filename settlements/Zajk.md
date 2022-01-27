@@ -6,4 +6,4 @@ description: Zajk
 
 {% include settlementHTMLs/Zajk.html %}
 
-[Vissza](./)
+[Vissza](../)

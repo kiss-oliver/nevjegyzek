@@ -6,4 +6,4 @@ description: Vezseny
 
 {% include settlementHTMLs/Vezseny.html %}
 
-[Vissza](./)
+[Vissza](../)

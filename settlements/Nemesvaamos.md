@@ -6,4 +6,4 @@ description: Nemesvámos
 
 {% include settlementHTMLs/Nemesvaamos.html %}
 
-[Vissza](./)
+[Vissza](../)

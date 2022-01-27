@@ -6,4 +6,4 @@ description: Mogyorósbánya
 
 {% include settlementHTMLs/Mogyoroosbaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Körösszegapáti
 
 {% include settlementHTMLs/Kooxrooxsszegapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

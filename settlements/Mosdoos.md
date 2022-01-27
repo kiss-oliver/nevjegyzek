@@ -6,4 +6,4 @@ description: Mosdós
 
 {% include settlementHTMLs/Mosdoos.html %}
 
-[Vissza](./)
+[Vissza](../)

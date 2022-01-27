@@ -6,4 +6,4 @@ description: Tatabánya
 
 {% include settlementHTMLs/Tatabaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

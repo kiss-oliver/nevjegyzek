@@ -6,4 +6,4 @@ description: Kozárd
 
 {% include settlementHTMLs/Kozaard.html %}
 
-[Vissza](./)
+[Vissza](../)

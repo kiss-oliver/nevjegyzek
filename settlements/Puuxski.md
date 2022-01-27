@@ -6,4 +6,4 @@ description: Püski
 
 {% include settlementHTMLs/Puuxski.html %}
 
-[Vissza](./)
+[Vissza](../)

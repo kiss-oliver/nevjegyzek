@@ -6,4 +6,4 @@ description: Csanádapáca
 
 {% include settlementHTMLs/Csanaadapaaca.html %}
 
-[Vissza](./)
+[Vissza](../)

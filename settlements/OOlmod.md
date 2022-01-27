@@ -6,4 +6,4 @@ description: Ólmod
 
 {% include settlementHTMLs/OOlmod.html %}
 
-[Vissza](./)
+[Vissza](../)

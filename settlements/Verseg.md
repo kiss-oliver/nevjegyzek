@@ -6,4 +6,4 @@ description: Verseg
 
 {% include settlementHTMLs/Verseg.html %}
 
-[Vissza](./)
+[Vissza](../)

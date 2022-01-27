@@ -6,4 +6,4 @@ description: Zemplénagárd
 
 {% include settlementHTMLs/Zempleenagaard.html %}
 
-[Vissza](./)
+[Vissza](../)

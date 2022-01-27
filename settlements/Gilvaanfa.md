@@ -6,4 +6,4 @@ description: Gilvánfa
 
 {% include settlementHTMLs/Gilvaanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

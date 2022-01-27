@@ -6,4 +6,4 @@ description: Iszkáz
 
 {% include settlementHTMLs/Iszkaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

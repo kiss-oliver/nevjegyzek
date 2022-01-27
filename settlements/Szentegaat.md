@@ -6,4 +6,4 @@ description: Szentegát
 
 {% include settlementHTMLs/Szentegaat.html %}
 
-[Vissza](./)
+[Vissza](../)

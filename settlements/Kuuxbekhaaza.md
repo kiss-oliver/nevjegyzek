@@ -6,4 +6,4 @@ description: Kübekháza
 
 {% include settlementHTMLs/Kuuxbekhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

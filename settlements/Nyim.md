@@ -6,4 +6,4 @@ description: Nyim
 
 {% include settlementHTMLs/Nyim.html %}
 
-[Vissza](./)
+[Vissza](../)

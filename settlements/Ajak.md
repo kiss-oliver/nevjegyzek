@@ -6,4 +6,4 @@ description: Ajak
 
 {% include settlementHTMLs/Ajak.html %}
 
-[Vissza](./)
+[Vissza](../)

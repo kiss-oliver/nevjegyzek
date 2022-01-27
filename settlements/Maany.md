@@ -6,4 +6,4 @@ description: Mány
 
 {% include settlementHTMLs/Maany.html %}
 
-[Vissza](./)
+[Vissza](../)

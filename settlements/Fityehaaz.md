@@ -6,4 +6,4 @@ description: Fityeház
 
 {% include settlementHTMLs/Fityehaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

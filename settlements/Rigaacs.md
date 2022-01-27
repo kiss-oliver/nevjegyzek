@@ -6,4 +6,4 @@ description: Rigács
 
 {% include settlementHTMLs/Rigaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

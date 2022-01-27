@@ -6,4 +6,4 @@ description: Patosfa
 
 {% include settlementHTMLs/Patosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

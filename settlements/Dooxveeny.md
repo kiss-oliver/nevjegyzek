@@ -6,4 +6,4 @@ description: Dövény
 
 {% include settlementHTMLs/Dooxveeny.html %}
 
-[Vissza](./)
+[Vissza](../)

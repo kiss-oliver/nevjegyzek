@@ -6,4 +6,4 @@ description: Tiszaroff
 
 {% include settlementHTMLs/Tiszaroff.html %}
 
-[Vissza](./)
+[Vissza](../)

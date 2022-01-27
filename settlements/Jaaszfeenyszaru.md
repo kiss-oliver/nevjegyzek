@@ -6,4 +6,4 @@ description: Jászfényszaru
 
 {% include settlementHTMLs/Jaaszfeenyszaru.html %}
 
-[Vissza](./)
+[Vissza](../)

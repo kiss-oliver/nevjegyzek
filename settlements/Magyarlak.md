@@ -6,4 +6,4 @@ description: Magyarlak
 
 {% include settlementHTMLs/Magyarlak.html %}
 
-[Vissza](./)
+[Vissza](../)

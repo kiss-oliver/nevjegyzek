@@ -6,4 +6,4 @@ description: Zselicszentpál
 
 {% include settlementHTMLs/Zselicszentpaal.html %}
 
-[Vissza](./)
+[Vissza](../)

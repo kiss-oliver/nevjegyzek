@@ -6,4 +6,4 @@ description: Igrici
 
 {% include settlementHTMLs/Igrici.html %}
 
-[Vissza](./)
+[Vissza](../)

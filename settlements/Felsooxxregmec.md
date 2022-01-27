@@ -6,4 +6,4 @@ description: Felsőregmec
 
 {% include settlementHTMLs/Felsooxxregmec.html %}
 
-[Vissza](./)
+[Vissza](../)

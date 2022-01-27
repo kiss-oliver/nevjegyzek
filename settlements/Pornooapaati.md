@@ -6,4 +6,4 @@ description: Pornóapáti
 
 {% include settlementHTMLs/Pornooapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

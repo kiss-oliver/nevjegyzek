@@ -6,4 +6,4 @@ description: Istenmezeje
 
 {% include settlementHTMLs/Istenmezeje.html %}
 
-[Vissza](./)
+[Vissza](../)

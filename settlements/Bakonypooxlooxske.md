@@ -6,4 +6,4 @@ description: Bakonypölöske
 
 {% include settlementHTMLs/Bakonypooxlooxske.html %}
 
-[Vissza](./)
+[Vissza](../)

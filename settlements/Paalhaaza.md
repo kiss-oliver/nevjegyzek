@@ -6,4 +6,4 @@ description: Pálháza
 
 {% include settlementHTMLs/Paalhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

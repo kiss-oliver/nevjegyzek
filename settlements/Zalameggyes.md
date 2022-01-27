@@ -6,4 +6,4 @@ description: Zalameggyes
 
 {% include settlementHTMLs/Zalameggyes.html %}
 
-[Vissza](./)
+[Vissza](../)

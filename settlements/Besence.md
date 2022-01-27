@@ -6,4 +6,4 @@ description: Besence
 
 {% include settlementHTMLs/Besence.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kislőd
 
 {% include settlementHTMLs/Kislooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

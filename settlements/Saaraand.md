@@ -6,4 +6,4 @@ description: Sáránd
 
 {% include settlementHTMLs/Saaraand.html %}
 
-[Vissza](./)
+[Vissza](../)

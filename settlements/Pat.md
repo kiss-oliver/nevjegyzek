@@ -6,4 +6,4 @@ description: Pat
 
 {% include settlementHTMLs/Pat.html %}
 
-[Vissza](./)
+[Vissza](../)

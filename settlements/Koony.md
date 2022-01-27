@@ -6,4 +6,4 @@ description: Kóny
 
 {% include settlementHTMLs/Koony.html %}
 
-[Vissza](./)
+[Vissza](../)

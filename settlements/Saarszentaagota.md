@@ -6,4 +6,4 @@ description: Sárszentágota
 
 {% include settlementHTMLs/Saarszentaagota.html %}
 
-[Vissza](./)
+[Vissza](../)

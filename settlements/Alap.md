@@ -6,4 +6,4 @@ description: Alap
 
 {% include settlementHTMLs/Alap.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zala
 
 {% include settlementHTMLs/Zala.html %}
 
-[Vissza](./)
+[Vissza](../)

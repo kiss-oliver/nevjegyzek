@@ -6,4 +6,4 @@ description: Kőszegszerdahely
 
 {% include settlementHTMLs/Kooxxszegszerdahely.html %}
 
-[Vissza](./)
+[Vissza](../)

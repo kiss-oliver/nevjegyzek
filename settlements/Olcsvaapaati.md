@@ -6,4 +6,4 @@ description: Olcsvaapáti
 
 {% include settlementHTMLs/Olcsvaapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

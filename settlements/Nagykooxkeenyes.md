@@ -6,4 +6,4 @@ description: Nagykökényes
 
 {% include settlementHTMLs/Nagykooxkeenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

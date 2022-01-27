@@ -6,4 +6,4 @@ description: Somogygeszti
 
 {% include settlementHTMLs/Somogygeszti.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hejce
 
 {% include settlementHTMLs/Hejce.html %}
 
-[Vissza](./)
+[Vissza](../)

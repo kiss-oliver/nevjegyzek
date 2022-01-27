@@ -6,4 +6,4 @@ description: Romhány
 
 {% include settlementHTMLs/Romhaany.html %}
 
-[Vissza](./)
+[Vissza](../)

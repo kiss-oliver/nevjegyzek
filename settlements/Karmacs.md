@@ -6,4 +6,4 @@ description: Karmacs
 
 {% include settlementHTMLs/Karmacs.html %}
 
-[Vissza](./)
+[Vissza](../)

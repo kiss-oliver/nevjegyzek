@@ -6,4 +6,4 @@ description: Homorúd
 
 {% include settlementHTMLs/Homoruud.html %}
 
-[Vissza](./)
+[Vissza](../)

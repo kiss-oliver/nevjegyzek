@@ -6,4 +6,4 @@ description: Bölcske
 
 {% include settlementHTMLs/Booxlcske.html %}
 
-[Vissza](./)
+[Vissza](../)

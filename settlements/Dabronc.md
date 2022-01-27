@@ -6,4 +6,4 @@ description: Dabronc
 
 {% include settlementHTMLs/Dabronc.html %}
 
-[Vissza](./)
+[Vissza](../)

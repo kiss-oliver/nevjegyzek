@@ -6,4 +6,4 @@ description: Táska
 
 {% include settlementHTMLs/Taaska.html %}
 
-[Vissza](./)
+[Vissza](../)

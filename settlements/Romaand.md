@@ -6,4 +6,4 @@ description: Románd
 
 {% include settlementHTMLs/Romaand.html %}
 
-[Vissza](./)
+[Vissza](../)

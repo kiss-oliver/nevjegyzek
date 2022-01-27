@@ -6,4 +6,4 @@ description: Borsosberény
 
 {% include settlementHTMLs/Borsosbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

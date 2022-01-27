@@ -6,4 +6,4 @@ description: Rábacsanak
 
 {% include settlementHTMLs/Raabacsanak.html %}
 
-[Vissza](./)
+[Vissza](../)

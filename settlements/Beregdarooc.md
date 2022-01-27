@@ -6,4 +6,4 @@ description: Beregdaróc
 
 {% include settlementHTMLs/Beregdarooc.html %}
 
-[Vissza](./)
+[Vissza](../)

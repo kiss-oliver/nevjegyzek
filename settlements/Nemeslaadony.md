@@ -6,4 +6,4 @@ description: Nemesládony
 
 {% include settlementHTMLs/Nemeslaadony.html %}
 
-[Vissza](./)
+[Vissza](../)

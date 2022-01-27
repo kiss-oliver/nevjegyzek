@@ -6,4 +6,4 @@ description: Balatonszemes
 
 {% include settlementHTMLs/Balatonszemes.html %}
 
-[Vissza](./)
+[Vissza](../)

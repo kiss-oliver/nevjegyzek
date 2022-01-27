@@ -6,4 +6,4 @@ description: Iváncsa
 
 {% include settlementHTMLs/Ivaancsa.html %}
 
-[Vissza](./)
+[Vissza](../)

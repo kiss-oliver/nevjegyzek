@@ -6,4 +6,4 @@ description: Majs
 
 {% include settlementHTMLs/Majs.html %}
 
-[Vissza](./)
+[Vissza](../)

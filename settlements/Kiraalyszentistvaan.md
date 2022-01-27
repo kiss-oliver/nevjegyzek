@@ -6,4 +6,4 @@ description: Királyszentistván
 
 {% include settlementHTMLs/Kiraalyszentistvaan.html %}
 
-[Vissza](./)
+[Vissza](../)

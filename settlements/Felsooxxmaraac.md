@@ -6,4 +6,4 @@ description: Felsőmarác
 
 {% include settlementHTMLs/Felsooxxmaraac.html %}
 
-[Vissza](./)
+[Vissza](../)

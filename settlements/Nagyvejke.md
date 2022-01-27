@@ -6,4 +6,4 @@ description: Nagyvejke
 
 {% include settlementHTMLs/Nagyvejke.html %}
 
-[Vissza](./)
+[Vissza](../)

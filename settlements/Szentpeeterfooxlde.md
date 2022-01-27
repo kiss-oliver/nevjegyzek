@@ -6,4 +6,4 @@ description: Szentpéterfölde
 
 {% include settlementHTMLs/Szentpeeterfooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

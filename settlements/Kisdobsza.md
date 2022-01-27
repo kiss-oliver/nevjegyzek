@@ -6,4 +6,4 @@ description: Kisdobsza
 
 {% include settlementHTMLs/Kisdobsza.html %}
 
-[Vissza](./)
+[Vissza](../)

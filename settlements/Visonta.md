@@ -6,4 +6,4 @@ description: Visonta
 
 {% include settlementHTMLs/Visonta.html %}
 
-[Vissza](./)
+[Vissza](../)

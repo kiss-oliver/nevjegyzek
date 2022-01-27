@@ -6,4 +6,4 @@ description: Szécsisziget
 
 {% include settlementHTMLs/Szeecsisziget.html %}
 
-[Vissza](./)
+[Vissza](../)

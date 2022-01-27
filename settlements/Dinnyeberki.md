@@ -6,4 +6,4 @@ description: Dinnyeberki
 
 {% include settlementHTMLs/Dinnyeberki.html %}
 
-[Vissza](./)
+[Vissza](../)

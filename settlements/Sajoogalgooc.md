@@ -6,4 +6,4 @@ description: Sajógalgóc
 
 {% include settlementHTMLs/Sajoogalgooc.html %}
 
-[Vissza](./)
+[Vissza](../)

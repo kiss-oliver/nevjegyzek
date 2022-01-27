@@ -6,4 +6,4 @@ description: Kaskantyú
 
 {% include settlementHTMLs/Kaskantyuu.html %}
 
-[Vissza](./)
+[Vissza](../)

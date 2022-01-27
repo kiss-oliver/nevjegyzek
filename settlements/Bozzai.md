@@ -6,4 +6,4 @@ description: Bozzai
 
 {% include settlementHTMLs/Bozzai.html %}
 
-[Vissza](./)
+[Vissza](../)

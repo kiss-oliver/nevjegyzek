@@ -6,4 +6,4 @@ description: Füzér
 
 {% include settlementHTMLs/Fuuxzeer.html %}
 
-[Vissza](./)
+[Vissza](../)

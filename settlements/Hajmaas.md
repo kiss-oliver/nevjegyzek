@@ -6,4 +6,4 @@ description: Hajmás
 
 {% include settlementHTMLs/Hajmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Alsószentmárton
 
 {% include settlementHTMLs/Alsooszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

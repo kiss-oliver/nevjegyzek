@@ -6,4 +6,4 @@ description: Tésenfa
 
 {% include settlementHTMLs/Teesenfa.html %}
 
-[Vissza](./)
+[Vissza](../)

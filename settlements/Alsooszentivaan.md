@@ -6,4 +6,4 @@ description: Alsószentiván
 
 {% include settlementHTMLs/Alsooszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

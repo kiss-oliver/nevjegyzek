@@ -6,4 +6,4 @@ description: Bakonysárkány
 
 {% include settlementHTMLs/Bakonysaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszaladány
 
 {% include settlementHTMLs/Tiszaladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

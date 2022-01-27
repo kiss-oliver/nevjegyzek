@@ -6,4 +6,4 @@ description: Keménfa
 
 {% include settlementHTMLs/Kemeenfa.html %}
 
-[Vissza](./)
+[Vissza](../)

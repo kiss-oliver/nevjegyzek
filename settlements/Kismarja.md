@@ -6,4 +6,4 @@ description: Kismarja
 
 {% include settlementHTMLs/Kismarja.html %}
 
-[Vissza](./)
+[Vissza](../)

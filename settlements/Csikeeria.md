@@ -6,4 +6,4 @@ description: Csikéria
 
 {% include settlementHTMLs/Csikeeria.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kocsola
 
 {% include settlementHTMLs/Kocsola.html %}
 
-[Vissza](./)
+[Vissza](../)

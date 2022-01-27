@@ -6,4 +6,4 @@ description: Rásonysápberencs
 
 {% include settlementHTMLs/Raasonysaapberencs.html %}
 
-[Vissza](./)
+[Vissza](../)

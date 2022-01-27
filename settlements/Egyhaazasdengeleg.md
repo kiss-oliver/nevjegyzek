@@ -6,4 +6,4 @@ description: Egyházasdengeleg
 
 {% include settlementHTMLs/Egyhaazasdengeleg.html %}
 
-[Vissza](./)
+[Vissza](../)

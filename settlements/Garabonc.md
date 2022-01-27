@@ -6,4 +6,4 @@ description: Garabonc
 
 {% include settlementHTMLs/Garabonc.html %}
 
-[Vissza](./)
+[Vissza](../)

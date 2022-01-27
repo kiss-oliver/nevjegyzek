@@ -6,4 +6,4 @@ description: Fony
 
 {% include settlementHTMLs/Fony.html %}
 
-[Vissza](./)
+[Vissza](../)

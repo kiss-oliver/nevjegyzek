@@ -6,4 +6,4 @@ description: Ceglédbercel
 
 {% include settlementHTMLs/Cegleedbercel.html %}
 
-[Vissza](./)
+[Vissza](../)

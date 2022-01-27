@@ -6,4 +6,4 @@ description: Golop
 
 {% include settlementHTMLs/Golop.html %}
 
-[Vissza](./)
+[Vissza](../)

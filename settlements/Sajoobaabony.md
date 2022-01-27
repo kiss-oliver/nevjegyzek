@@ -6,4 +6,4 @@ description: Sajóbábony
 
 {% include settlementHTMLs/Sajoobaabony.html %}
 
-[Vissza](./)
+[Vissza](../)

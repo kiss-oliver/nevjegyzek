@@ -6,4 +6,4 @@ description: Végegyháza
 
 {% include settlementHTMLs/Veegegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

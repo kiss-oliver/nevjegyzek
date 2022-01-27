@@ -6,4 +6,4 @@ description: Bátor
 
 {% include settlementHTMLs/Baator.html %}
 
-[Vissza](./)
+[Vissza](../)

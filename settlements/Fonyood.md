@@ -6,4 +6,4 @@ description: Fonyód
 
 {% include settlementHTMLs/Fonyood.html %}
 
-[Vissza](./)
+[Vissza](../)

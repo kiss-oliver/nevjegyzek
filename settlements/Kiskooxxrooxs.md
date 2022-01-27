@@ -6,4 +6,4 @@ description: Kiskőrös
 
 {% include settlementHTMLs/Kiskooxxrooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

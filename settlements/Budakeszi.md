@@ -6,4 +6,4 @@ description: Budakeszi
 
 {% include settlementHTMLs/Budakeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

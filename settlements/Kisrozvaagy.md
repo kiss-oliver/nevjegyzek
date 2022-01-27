@@ -6,4 +6,4 @@ description: Kisrozvágy
 
 {% include settlementHTMLs/Kisrozvaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Döbörhegy
 
 {% include settlementHTMLs/Dooxbooxrhegy.html %}
 
-[Vissza](./)
+[Vissza](../)

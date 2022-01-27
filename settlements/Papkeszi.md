@@ -6,4 +6,4 @@ description: Papkeszi
 
 {% include settlementHTMLs/Papkeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Maróc
 
 {% include settlementHTMLs/Marooc.html %}
 
-[Vissza](./)
+[Vissza](../)

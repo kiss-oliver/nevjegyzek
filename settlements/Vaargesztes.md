@@ -6,4 +6,4 @@ description: Várgesztes
 
 {% include settlementHTMLs/Vaargesztes.html %}
 
-[Vissza](./)
+[Vissza](../)

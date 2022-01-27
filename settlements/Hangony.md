@@ -6,4 +6,4 @@ description: Hangony
 
 {% include settlementHTMLs/Hangony.html %}
 
-[Vissza](./)
+[Vissza](../)

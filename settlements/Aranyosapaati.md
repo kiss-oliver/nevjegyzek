@@ -6,4 +6,4 @@ description: Aranyosapáti
 
 {% include settlementHTMLs/Aranyosapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

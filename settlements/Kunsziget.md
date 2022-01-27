@@ -6,4 +6,4 @@ description: Kunsziget
 
 {% include settlementHTMLs/Kunsziget.html %}
 
-[Vissza](./)
+[Vissza](../)

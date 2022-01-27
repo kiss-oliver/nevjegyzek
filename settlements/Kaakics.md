@@ -6,4 +6,4 @@ description: Kákics
 
 {% include settlementHTMLs/Kaakics.html %}
 
-[Vissza](./)
+[Vissza](../)

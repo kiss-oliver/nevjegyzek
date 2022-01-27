@@ -6,4 +6,4 @@ description: Homokszentgyörgy
 
 {% include settlementHTMLs/Homokszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

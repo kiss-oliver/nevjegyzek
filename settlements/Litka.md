@@ -6,4 +6,4 @@ description: Litka
 
 {% include settlementHTMLs/Litka.html %}
 
-[Vissza](./)
+[Vissza](../)

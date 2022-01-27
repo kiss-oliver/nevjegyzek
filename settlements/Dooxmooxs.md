@@ -6,4 +6,4 @@ description: Dömös
 
 {% include settlementHTMLs/Dooxmooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

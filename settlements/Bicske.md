@@ -6,4 +6,4 @@ description: Bicske
 
 {% include settlementHTMLs/Bicske.html %}
 
-[Vissza](./)
+[Vissza](../)

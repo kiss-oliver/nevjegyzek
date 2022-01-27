@@ -6,4 +6,4 @@ description: Letenye
 
 {% include settlementHTMLs/Letenye.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonboglár
 
 {% include settlementHTMLs/Balatonboglaar.html %}
 
-[Vissza](./)
+[Vissza](../)

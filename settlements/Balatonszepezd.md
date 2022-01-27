@@ -6,4 +6,4 @@ description: Balatonszepezd
 
 {% include settlementHTMLs/Balatonszepezd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ferencszállás
 
 {% include settlementHTMLs/Ferencszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bercel
 
 {% include settlementHTMLs/Bercel.html %}
 
-[Vissza](./)
+[Vissza](../)

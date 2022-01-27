@@ -6,4 +6,4 @@ description: Hatvan
 
 {% include settlementHTMLs/Hatvan.html %}
 
-[Vissza](./)
+[Vissza](../)

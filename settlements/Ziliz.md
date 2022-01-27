@@ -6,4 +6,4 @@ description: Ziliz
 
 {% include settlementHTMLs/Ziliz.html %}
 
-[Vissza](./)
+[Vissza](../)

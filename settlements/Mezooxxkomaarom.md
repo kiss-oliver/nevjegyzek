@@ -6,4 +6,4 @@ description: Mezőkomárom
 
 {% include settlementHTMLs/Mezooxxkomaarom.html %}
 
-[Vissza](./)
+[Vissza](../)

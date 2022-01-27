@@ -6,4 +6,4 @@ description: Marócsa
 
 {% include settlementHTMLs/Maroocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

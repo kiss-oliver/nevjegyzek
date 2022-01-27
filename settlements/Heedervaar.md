@@ -6,4 +6,4 @@ description: Hédervár
 
 {% include settlementHTMLs/Heedervaar.html %}
 
-[Vissza](./)
+[Vissza](../)

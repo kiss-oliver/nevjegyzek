@@ -6,4 +6,4 @@ description: Gige
 
 {% include settlementHTMLs/Gige.html %}
 
-[Vissza](./)
+[Vissza](../)

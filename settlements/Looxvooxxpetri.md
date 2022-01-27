@@ -6,4 +6,4 @@ description: Lövőpetri
 
 {% include settlementHTMLs/Looxvooxxpetri.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Keléd
 
 {% include settlementHTMLs/Keleed.html %}
 
-[Vissza](./)
+[Vissza](../)

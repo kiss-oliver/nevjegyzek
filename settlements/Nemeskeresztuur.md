@@ -6,4 +6,4 @@ description: Nemeskeresztúr
 
 {% include settlementHTMLs/Nemeskeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

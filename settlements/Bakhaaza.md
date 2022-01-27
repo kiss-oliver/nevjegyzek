@@ -6,4 +6,4 @@ description: Bakháza
 
 {% include settlementHTMLs/Bakhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

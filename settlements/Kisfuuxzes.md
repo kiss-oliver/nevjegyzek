@@ -6,4 +6,4 @@ description: Kisfüzes
 
 {% include settlementHTMLs/Kisfuuxzes.html %}
 
-[Vissza](./)
+[Vissza](../)

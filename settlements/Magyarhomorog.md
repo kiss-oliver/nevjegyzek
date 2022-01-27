@@ -6,4 +6,4 @@ description: Magyarhomorog
 
 {% include settlementHTMLs/Magyarhomorog.html %}
 
-[Vissza](./)
+[Vissza](../)

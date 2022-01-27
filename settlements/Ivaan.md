@@ -6,4 +6,4 @@ description: Iván
 
 {% include settlementHTMLs/Ivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zselickisfalud
 
 {% include settlementHTMLs/Zselickisfalud.html %}
 
-[Vissza](./)
+[Vissza](../)

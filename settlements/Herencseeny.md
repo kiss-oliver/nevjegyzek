@@ -6,4 +6,4 @@ description: Herencsény
 
 {% include settlementHTMLs/Herencseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

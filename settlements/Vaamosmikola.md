@@ -6,4 +6,4 @@ description: Vámosmikola
 
 {% include settlementHTMLs/Vaamosmikola.html %}
 
-[Vissza](./)
+[Vissza](../)

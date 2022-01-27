@@ -6,4 +6,4 @@ description: Herceghalom
 
 {% include settlementHTMLs/Herceghalom.html %}
 
-[Vissza](./)
+[Vissza](../)

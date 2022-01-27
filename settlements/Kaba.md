@@ -6,4 +6,4 @@ description: Kaba
 
 {% include settlementHTMLs/Kaba.html %}
 
-[Vissza](./)
+[Vissza](../)

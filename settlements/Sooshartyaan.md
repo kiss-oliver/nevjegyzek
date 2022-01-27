@@ -6,4 +6,4 @@ description: Sóshartyán
 
 {% include settlementHTMLs/Sooshartyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

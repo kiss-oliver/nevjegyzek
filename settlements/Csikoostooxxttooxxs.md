@@ -6,4 +6,4 @@ description: Csikóstőttős
 
 {% include settlementHTMLs/Csikoostooxxttooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

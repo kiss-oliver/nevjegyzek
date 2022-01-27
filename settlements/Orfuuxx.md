@@ -6,4 +6,4 @@ description: Orfű
 
 {% include settlementHTMLs/Orfuuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

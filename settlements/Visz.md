@@ -6,4 +6,4 @@ description: Visz
 
 {% include settlementHTMLs/Visz.html %}
 
-[Vissza](./)
+[Vissza](../)

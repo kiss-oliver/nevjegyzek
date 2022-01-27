@@ -6,4 +6,4 @@ description: Vásárosnamény
 
 {% include settlementHTMLs/Vaasaarosnameeny.html %}
 
-[Vissza](./)
+[Vissza](../)

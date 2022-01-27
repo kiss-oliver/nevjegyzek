@@ -6,4 +6,4 @@ description: Sámod
 
 {% include settlementHTMLs/Saamod.html %}
 
-[Vissza](./)
+[Vissza](../)

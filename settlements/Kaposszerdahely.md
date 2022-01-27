@@ -6,4 +6,4 @@ description: Kaposszerdahely
 
 {% include settlementHTMLs/Kaposszerdahely.html %}
 
-[Vissza](./)
+[Vissza](../)

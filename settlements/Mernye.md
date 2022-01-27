@@ -6,4 +6,4 @@ description: Mernye
 
 {% include settlementHTMLs/Mernye.html %}
 
-[Vissza](./)
+[Vissza](../)

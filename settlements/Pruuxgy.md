@@ -6,4 +6,4 @@ description: Prügy
 
 {% include settlementHTMLs/Pruuxgy.html %}
 
-[Vissza](./)
+[Vissza](../)

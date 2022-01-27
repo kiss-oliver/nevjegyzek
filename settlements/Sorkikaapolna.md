@@ -6,4 +6,4 @@ description: Sorkikápolna
 
 {% include settlementHTMLs/Sorkikaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

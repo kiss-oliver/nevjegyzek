@@ -6,4 +6,4 @@ description: Tatárszentgyörgy
 
 {% include settlementHTMLs/Tataarszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

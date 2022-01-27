@@ -6,4 +6,4 @@ description: Köblény
 
 {% include settlementHTMLs/Kooxbleeny.html %}
 
-[Vissza](./)
+[Vissza](../)

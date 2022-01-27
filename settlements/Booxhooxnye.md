@@ -6,4 +6,4 @@ description: Böhönye
 
 {% include settlementHTMLs/Booxhooxnye.html %}
 
-[Vissza](./)
+[Vissza](../)

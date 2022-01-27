@@ -6,4 +6,4 @@ description: Szentmargitfalva
 
 {% include settlementHTMLs/Szentmargitfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

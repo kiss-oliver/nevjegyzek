@@ -6,4 +6,4 @@ description: Kapuvár
 
 {% include settlementHTMLs/Kapuvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

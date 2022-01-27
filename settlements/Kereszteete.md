@@ -6,4 +6,4 @@ description: Keresztéte
 
 {% include settlementHTMLs/Kereszteete.html %}
 
-[Vissza](./)
+[Vissza](../)

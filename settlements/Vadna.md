@@ -6,4 +6,4 @@ description: Vadna
 
 {% include settlementHTMLs/Vadna.html %}
 
-[Vissza](./)
+[Vissza](../)

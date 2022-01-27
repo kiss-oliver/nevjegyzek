@@ -6,4 +6,4 @@ description: Szendrőlád
 
 {% include settlementHTMLs/Szendrooxxlaad.html %}
 
-[Vissza](./)
+[Vissza](../)

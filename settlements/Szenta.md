@@ -6,4 +6,4 @@ description: Szenta
 
 {% include settlementHTMLs/Szenta.html %}
 
-[Vissza](./)
+[Vissza](../)

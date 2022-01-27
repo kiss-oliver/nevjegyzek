@@ -6,4 +6,4 @@ description: Nikla
 
 {% include settlementHTMLs/Nikla.html %}
 
-[Vissza](./)
+[Vissza](../)

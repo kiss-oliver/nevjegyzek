@@ -6,4 +6,4 @@ description: Szentistvánbaksa
 
 {% include settlementHTMLs/Szentistvaanbaksa.html %}
 
-[Vissza](./)
+[Vissza](../)

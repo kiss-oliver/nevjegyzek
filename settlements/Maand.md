@@ -6,4 +6,4 @@ description: Mánd
 
 {% include settlementHTMLs/Maand.html %}
 
-[Vissza](./)
+[Vissza](../)

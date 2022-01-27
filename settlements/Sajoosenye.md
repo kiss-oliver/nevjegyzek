@@ -6,4 +6,4 @@ description: Sajósenye
 
 {% include settlementHTMLs/Sajoosenye.html %}
 
-[Vissza](./)
+[Vissza](../)

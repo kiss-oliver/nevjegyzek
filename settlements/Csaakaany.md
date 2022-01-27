@@ -6,4 +6,4 @@ description: Csákány
 
 {% include settlementHTMLs/Csaakaany.html %}
 
-[Vissza](./)
+[Vissza](../)

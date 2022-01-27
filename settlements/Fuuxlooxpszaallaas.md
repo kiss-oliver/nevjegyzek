@@ -6,4 +6,4 @@ description: Fülöpszállás
 
 {% include settlementHTMLs/Fuuxlooxpszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gógánfa
 
 {% include settlementHTMLs/Googaanfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Verőce
 
 {% include settlementHTMLs/Verooxxce.html %}
 
-[Vissza](./)
+[Vissza](../)

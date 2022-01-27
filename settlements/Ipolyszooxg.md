@@ -6,4 +6,4 @@ description: Ipolyszög
 
 {% include settlementHTMLs/Ipolyszooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

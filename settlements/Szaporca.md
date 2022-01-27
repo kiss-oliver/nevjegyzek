@@ -6,4 +6,4 @@ description: Szaporca
 
 {% include settlementHTMLs/Szaporca.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Botpalád
 
 {% include settlementHTMLs/Botpalaad.html %}
 
-[Vissza](./)
+[Vissza](../)

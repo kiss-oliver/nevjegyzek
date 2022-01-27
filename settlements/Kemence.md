@@ -6,4 +6,4 @@ description: Kemence
 
 {% include settlementHTMLs/Kemence.html %}
 
-[Vissza](./)
+[Vissza](../)

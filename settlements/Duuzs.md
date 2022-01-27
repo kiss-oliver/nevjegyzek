@@ -6,4 +6,4 @@ description: Dúzs
 
 {% include settlementHTMLs/Duuzs.html %}
 
-[Vissza](./)
+[Vissza](../)

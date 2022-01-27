@@ -6,4 +6,4 @@ description: Görcsönydoboka
 
 {% include settlementHTMLs/Gooxrcsooxnydoboka.html %}
 
-[Vissza](./)
+[Vissza](../)

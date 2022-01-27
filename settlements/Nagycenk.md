@@ -6,4 +6,4 @@ description: Nagycenk
 
 {% include settlementHTMLs/Nagycenk.html %}
 
-[Vissza](./)
+[Vissza](../)

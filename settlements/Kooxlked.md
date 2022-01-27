@@ -6,4 +6,4 @@ description: Kölked
 
 {% include settlementHTMLs/Kooxlked.html %}
 
-[Vissza](./)
+[Vissza](../)

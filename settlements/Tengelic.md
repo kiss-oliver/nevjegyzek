@@ -6,4 +6,4 @@ description: Tengelic
 
 {% include settlementHTMLs/Tengelic.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Drávagárdony
 
 {% include settlementHTMLs/Draavagaardony.html %}
 
-[Vissza](./)
+[Vissza](../)

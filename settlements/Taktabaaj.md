@@ -6,4 +6,4 @@ description: Taktabáj
 
 {% include settlementHTMLs/Taktabaaj.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rátót
 
 {% include settlementHTMLs/Raatoot.html %}
 
-[Vissza](./)
+[Vissza](../)

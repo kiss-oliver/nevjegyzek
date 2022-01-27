@@ -6,4 +6,4 @@ description: Szank
 
 {% include settlementHTMLs/Szank.html %}
 
-[Vissza](./)
+[Vissza](../)

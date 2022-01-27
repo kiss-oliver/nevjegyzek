@@ -6,4 +6,4 @@ description: Bársonyos
 
 {% include settlementHTMLs/Baarsonyos.html %}
 
-[Vissza](./)
+[Vissza](../)

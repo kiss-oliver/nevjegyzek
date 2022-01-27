@@ -6,4 +6,4 @@ description: Záhony
 
 {% include settlementHTMLs/Zaahony.html %}
 
-[Vissza](./)
+[Vissza](../)

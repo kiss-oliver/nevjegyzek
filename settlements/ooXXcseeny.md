@@ -6,4 +6,4 @@ description: Őcsény
 
 {% include settlementHTMLs/ooXXcseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

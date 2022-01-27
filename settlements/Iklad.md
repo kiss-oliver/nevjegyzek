@@ -6,4 +6,4 @@ description: Iklad
 
 {% include settlementHTMLs/Iklad.html %}
 
-[Vissza](./)
+[Vissza](../)

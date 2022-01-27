@@ -6,4 +6,4 @@ description: Csomád
 
 {% include settlementHTMLs/Csomaad.html %}
 
-[Vissza](./)
+[Vissza](../)

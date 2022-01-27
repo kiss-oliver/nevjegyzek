@@ -6,4 +6,4 @@ description: Martonfa
 
 {% include settlementHTMLs/Martonfa.html %}
 
-[Vissza](./)
+[Vissza](../)

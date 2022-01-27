@@ -6,4 +6,4 @@ description: Berzence
 
 {% include settlementHTMLs/Berzence.html %}
 
-[Vissza](./)
+[Vissza](../)

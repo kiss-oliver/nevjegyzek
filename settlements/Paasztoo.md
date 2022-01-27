@@ -6,4 +6,4 @@ description: Pásztó
 
 {% include settlementHTMLs/Paasztoo.html %}
 
-[Vissza](./)
+[Vissza](../)

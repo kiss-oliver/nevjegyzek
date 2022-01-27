@@ -6,4 +6,4 @@ description: Kapoly
 
 {% include settlementHTMLs/Kapoly.html %}
 
-[Vissza](./)
+[Vissza](../)

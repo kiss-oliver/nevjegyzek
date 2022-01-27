@@ -6,4 +6,4 @@ description: Albertirsa
 
 {% include settlementHTMLs/Albertirsa.html %}
 
-[Vissza](./)
+[Vissza](../)

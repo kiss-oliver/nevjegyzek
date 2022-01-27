@@ -6,4 +6,4 @@ description: Szigetszentmárton
 
 {% include settlementHTMLs/Szigetszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vácduka
 
 {% include settlementHTMLs/Vaacduka.html %}
 
-[Vissza](./)
+[Vissza](../)

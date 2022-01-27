@@ -6,4 +6,4 @@ description: Budapest II. kerület
 
 {% include settlementHTMLs/BudapestIIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

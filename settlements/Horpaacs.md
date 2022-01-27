@@ -6,4 +6,4 @@ description: Horpács
 
 {% include settlementHTMLs/Horpaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

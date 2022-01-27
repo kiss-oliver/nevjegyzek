@@ -6,4 +6,4 @@ description: Szakáld
 
 {% include settlementHTMLs/Szakaald.html %}
 
-[Vissza](./)
+[Vissza](../)

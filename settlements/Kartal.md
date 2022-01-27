@@ -6,4 +6,4 @@ description: Kartal
 
 {% include settlementHTMLs/Kartal.html %}
 
-[Vissza](./)
+[Vissza](../)

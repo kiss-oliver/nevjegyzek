@@ -6,4 +6,4 @@ description: Vasboldogasszony
 
 {% include settlementHTMLs/Vasboldogasszony.html %}
 
-[Vissza](./)
+[Vissza](../)

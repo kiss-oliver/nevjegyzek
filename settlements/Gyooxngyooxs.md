@@ -6,4 +6,4 @@ description: Gyöngyös
 
 {% include settlementHTMLs/Gyooxngyooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

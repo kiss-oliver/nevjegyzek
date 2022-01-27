@@ -6,4 +6,4 @@ description: Kisasszonyfa
 
 {% include settlementHTMLs/Kisasszonyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

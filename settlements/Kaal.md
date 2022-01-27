@@ -6,4 +6,4 @@ description: Kál
 
 {% include settlementHTMLs/Kaal.html %}
 
-[Vissza](./)
+[Vissza](../)

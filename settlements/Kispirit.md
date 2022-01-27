@@ -6,4 +6,4 @@ description: Kispirit
 
 {% include settlementHTMLs/Kispirit.html %}
 
-[Vissza](./)
+[Vissza](../)

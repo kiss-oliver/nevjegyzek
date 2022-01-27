@@ -6,4 +6,4 @@ description: Cserkút
 
 {% include settlementHTMLs/Cserkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

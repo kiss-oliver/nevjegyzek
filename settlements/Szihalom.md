@@ -6,4 +6,4 @@ description: Szihalom
 
 {% include settlementHTMLs/Szihalom.html %}
 
-[Vissza](./)
+[Vissza](../)

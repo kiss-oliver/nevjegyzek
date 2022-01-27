@@ -6,4 +6,4 @@ description: Mezőtárkány
 
 {% include settlementHTMLs/Mezooxxtaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

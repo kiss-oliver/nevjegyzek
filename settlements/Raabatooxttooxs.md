@@ -6,4 +6,4 @@ description: Rábatöttös
 
 {% include settlementHTMLs/Raabatooxttooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

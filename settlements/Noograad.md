@@ -6,4 +6,4 @@ description: Nógrád
 
 {% include settlementHTMLs/Noograad.html %}
 
-[Vissza](./)
+[Vissza](../)

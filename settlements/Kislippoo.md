@@ -6,4 +6,4 @@ description: Kislippó
 
 {% include settlementHTMLs/Kislippoo.html %}
 
-[Vissza](./)
+[Vissza](../)

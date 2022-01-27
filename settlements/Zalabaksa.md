@@ -6,4 +6,4 @@ description: Zalabaksa
 
 {% include settlementHTMLs/Zalabaksa.html %}
 
-[Vissza](./)
+[Vissza](../)

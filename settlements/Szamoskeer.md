@@ -6,4 +6,4 @@ description: Szamoskér
 
 {% include settlementHTMLs/Szamoskeer.html %}
 
-[Vissza](./)
+[Vissza](../)

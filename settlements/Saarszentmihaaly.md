@@ -6,4 +6,4 @@ description: Sárszentmihály
 
 {% include settlementHTMLs/Saarszentmihaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ófehértó
 
 {% include settlementHTMLs/OOfeheertoo.html %}
 
-[Vissza](./)
+[Vissza](../)

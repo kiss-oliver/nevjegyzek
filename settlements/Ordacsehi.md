@@ -6,4 +6,4 @@ description: Ordacsehi
 
 {% include settlementHTMLs/Ordacsehi.html %}
 
-[Vissza](./)
+[Vissza](../)

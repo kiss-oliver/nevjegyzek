@@ -6,4 +6,4 @@ description: Zalaistvánd
 
 {% include settlementHTMLs/Zalaistvaand.html %}
 
-[Vissza](./)
+[Vissza](../)

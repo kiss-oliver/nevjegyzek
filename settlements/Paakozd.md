@@ -6,4 +6,4 @@ description: Pákozd
 
 {% include settlementHTMLs/Paakozd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Velemér
 
 {% include settlementHTMLs/Velemeer.html %}
 
-[Vissza](./)
+[Vissza](../)

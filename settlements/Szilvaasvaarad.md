@@ -6,4 +6,4 @@ description: Szilvásvárad
 
 {% include settlementHTMLs/Szilvaasvaarad.html %}
 
-[Vissza](./)
+[Vissza](../)

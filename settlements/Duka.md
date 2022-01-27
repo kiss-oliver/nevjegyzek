@@ -6,4 +6,4 @@ description: Duka
 
 {% include settlementHTMLs/Duka.html %}
 
-[Vissza](./)
+[Vissza](../)

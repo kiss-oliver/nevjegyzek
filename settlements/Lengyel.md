@@ -6,4 +6,4 @@ description: Lengyel
 
 {% include settlementHTMLs/Lengyel.html %}
 
-[Vissza](./)
+[Vissza](../)

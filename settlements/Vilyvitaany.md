@@ -6,4 +6,4 @@ description: Vilyvitány
 
 {% include settlementHTMLs/Vilyvitaany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lad
 
 {% include settlementHTMLs/Lad.html %}
 
-[Vissza](./)
+[Vissza](../)

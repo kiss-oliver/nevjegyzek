@@ -6,4 +6,4 @@ description: Závod
 
 {% include settlementHTMLs/Zaavod.html %}
 
-[Vissza](./)
+[Vissza](../)

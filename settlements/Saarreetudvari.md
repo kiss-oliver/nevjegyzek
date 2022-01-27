@@ -6,4 +6,4 @@ description: Sárrétudvari
 
 {% include settlementHTMLs/Saarreetudvari.html %}
 
-[Vissza](./)
+[Vissza](../)

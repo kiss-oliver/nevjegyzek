@@ -6,4 +6,4 @@ description: Eplény
 
 {% include settlementHTMLs/Epleeny.html %}
 
-[Vissza](./)
+[Vissza](../)

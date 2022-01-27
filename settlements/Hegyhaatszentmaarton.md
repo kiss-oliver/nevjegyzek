@@ -6,4 +6,4 @@ description: Hegyhátszentmárton
 
 {% include settlementHTMLs/Hegyhaatszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

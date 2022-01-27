@@ -6,4 +6,4 @@ description: Ráckeresztúr
 
 {% include settlementHTMLs/Raackeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagyrákos
 
 {% include settlementHTMLs/Nagyraakos.html %}
 
-[Vissza](./)
+[Vissza](../)

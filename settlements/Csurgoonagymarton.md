@@ -6,4 +6,4 @@ description: Csurgónagymarton
 
 {% include settlementHTMLs/Csurgoonagymarton.html %}
 
-[Vissza](./)
+[Vissza](../)

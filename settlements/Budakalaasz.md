@@ -6,4 +6,4 @@ description: Budakalász
 
 {% include settlementHTMLs/Budakalaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

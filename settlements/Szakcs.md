@@ -6,4 +6,4 @@ description: Szakcs
 
 {% include settlementHTMLs/Szakcs.html %}
 
-[Vissza](./)
+[Vissza](../)

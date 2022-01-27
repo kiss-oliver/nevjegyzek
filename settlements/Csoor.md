@@ -6,4 +6,4 @@ description: Csór
 
 {% include settlementHTMLs/Csoor.html %}
 
-[Vissza](./)
+[Vissza](../)

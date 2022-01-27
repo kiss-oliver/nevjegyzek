@@ -6,4 +6,4 @@ description: Hernádkak
 
 {% include settlementHTMLs/Hernaadkak.html %}
 
-[Vissza](./)
+[Vissza](../)

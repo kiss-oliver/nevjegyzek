@@ -6,4 +6,4 @@ description: Csősz
 
 {% include settlementHTMLs/Csooxxsz.html %}
 
-[Vissza](./)
+[Vissza](../)

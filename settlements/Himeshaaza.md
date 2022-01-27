@@ -6,4 +6,4 @@ description: Himesháza
 
 {% include settlementHTMLs/Himeshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

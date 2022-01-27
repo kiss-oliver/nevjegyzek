@@ -6,4 +6,4 @@ description: Beled
 
 {% include settlementHTMLs/Beled.html %}
 
-[Vissza](./)
+[Vissza](../)

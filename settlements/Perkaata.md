@@ -6,4 +6,4 @@ description: Perkáta
 
 {% include settlementHTMLs/Perkaata.html %}
 
-[Vissza](./)
+[Vissza](../)

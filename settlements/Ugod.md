@@ -6,4 +6,4 @@ description: Ugod
 
 {% include settlementHTMLs/Ugod.html %}
 
-[Vissza](./)
+[Vissza](../)

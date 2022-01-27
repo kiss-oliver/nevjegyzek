@@ -6,4 +6,4 @@ description: Nyirád
 
 {% include settlementHTMLs/Nyiraad.html %}
 
-[Vissza](./)
+[Vissza](../)

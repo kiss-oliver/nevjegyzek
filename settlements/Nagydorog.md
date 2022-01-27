@@ -6,4 +6,4 @@ description: Nagydorog
 
 {% include settlementHTMLs/Nagydorog.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zádorfalva
 
 {% include settlementHTMLs/Zaadorfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

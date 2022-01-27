@@ -6,4 +6,4 @@ description: Csatár
 
 {% include settlementHTMLs/Csataar.html %}
 
-[Vissza](./)
+[Vissza](../)

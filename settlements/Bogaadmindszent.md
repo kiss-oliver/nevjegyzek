@@ -6,4 +6,4 @@ description: Bogádmindszent
 
 {% include settlementHTMLs/Bogaadmindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Györköny
 
 {% include settlementHTMLs/Gyooxrkooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

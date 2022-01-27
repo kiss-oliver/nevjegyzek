@@ -6,4 +6,4 @@ description: Garáb
 
 {% include settlementHTMLs/Garaab.html %}
 
-[Vissza](./)
+[Vissza](../)

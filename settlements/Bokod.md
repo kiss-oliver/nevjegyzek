@@ -6,4 +6,4 @@ description: Bokod
 
 {% include settlementHTMLs/Bokod.html %}
 
-[Vissza](./)
+[Vissza](../)

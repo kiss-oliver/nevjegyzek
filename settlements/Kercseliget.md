@@ -6,4 +6,4 @@ description: Kercseliget
 
 {% include settlementHTMLs/Kercseliget.html %}
 
-[Vissza](./)
+[Vissza](../)

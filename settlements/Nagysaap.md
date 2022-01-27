@@ -6,4 +6,4 @@ description: Nagysáp
 
 {% include settlementHTMLs/Nagysaap.html %}
 
-[Vissza](./)
+[Vissza](../)

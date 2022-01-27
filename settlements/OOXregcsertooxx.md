@@ -6,4 +6,4 @@ description: Öregcsertő
 
 {% include settlementHTMLs/OOXregcsertooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

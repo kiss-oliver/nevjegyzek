@@ -6,4 +6,4 @@ description: Gemzse
 
 {% include settlementHTMLs/Gemzse.html %}
 
-[Vissza](./)
+[Vissza](../)

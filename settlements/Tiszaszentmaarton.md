@@ -6,4 +6,4 @@ description: Tiszaszentmárton
 
 {% include settlementHTMLs/Tiszaszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

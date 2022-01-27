@@ -6,4 +6,4 @@ description: Sáska
 
 {% include settlementHTMLs/Saaska.html %}
 
-[Vissza](./)
+[Vissza](../)

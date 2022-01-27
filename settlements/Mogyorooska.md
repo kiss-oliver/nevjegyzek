@@ -6,4 +6,4 @@ description: Mogyoróska
 
 {% include settlementHTMLs/Mogyorooska.html %}
 
-[Vissza](./)
+[Vissza](../)

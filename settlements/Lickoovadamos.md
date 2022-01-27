@@ -6,4 +6,4 @@ description: Lickóvadamos
 
 {% include settlementHTMLs/Lickoovadamos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bárdudvarnok
 
 {% include settlementHTMLs/Baardudvarnok.html %}
 
-[Vissza](./)
+[Vissza](../)

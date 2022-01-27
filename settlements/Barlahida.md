@@ -6,4 +6,4 @@ description: Barlahida
 
 {% include settlementHTMLs/Barlahida.html %}
 
-[Vissza](./)
+[Vissza](../)

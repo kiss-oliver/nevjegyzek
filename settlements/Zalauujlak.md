@@ -6,4 +6,4 @@ description: Zalaújlak
 
 {% include settlementHTMLs/Zalauujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

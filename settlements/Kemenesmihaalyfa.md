@@ -6,4 +6,4 @@ description: Kemenesmihályfa
 
 {% include settlementHTMLs/Kemenesmihaalyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

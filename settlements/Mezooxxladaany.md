@@ -6,4 +6,4 @@ description: Mezőladány
 
 {% include settlementHTMLs/Mezooxxladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

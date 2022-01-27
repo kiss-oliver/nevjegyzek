@@ -6,4 +6,4 @@ description: Tiszavasvári
 
 {% include settlementHTMLs/Tiszavasvaari.html %}
 
-[Vissza](./)
+[Vissza](../)

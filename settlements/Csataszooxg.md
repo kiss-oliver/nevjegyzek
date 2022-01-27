@@ -6,4 +6,4 @@ description: Csataszög
 
 {% include settlementHTMLs/Csataszooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Budapest XVI. kerület
 
 {% include settlementHTMLs/BudapestXVIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

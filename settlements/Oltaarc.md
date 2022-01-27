@@ -6,4 +6,4 @@ description: Oltárc
 
 {% include settlementHTMLs/Oltaarc.html %}
 
-[Vissza](./)
+[Vissza](../)

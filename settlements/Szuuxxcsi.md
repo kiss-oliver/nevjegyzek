@@ -6,4 +6,4 @@ description: Szűcsi
 
 {% include settlementHTMLs/Szuuxxcsi.html %}
 
-[Vissza](./)
+[Vissza](../)

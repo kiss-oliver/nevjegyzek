@@ -6,4 +6,4 @@ description: Magyarsarlós
 
 {% include settlementHTMLs/Magyarsarloos.html %}
 
-[Vissza](./)
+[Vissza](../)

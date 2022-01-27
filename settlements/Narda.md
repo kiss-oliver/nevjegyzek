@@ -6,4 +6,4 @@ description: Narda
 
 {% include settlementHTMLs/Narda.html %}
 
-[Vissza](./)
+[Vissza](../)

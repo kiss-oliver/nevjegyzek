@@ -6,4 +6,4 @@ description: Cserdi
 
 {% include settlementHTMLs/Cserdi.html %}
 
-[Vissza](./)
+[Vissza](../)

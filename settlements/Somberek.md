@@ -6,4 +6,4 @@ description: Somberek
 
 {% include settlementHTMLs/Somberek.html %}
 
-[Vissza](./)
+[Vissza](../)

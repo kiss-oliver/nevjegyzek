@@ -6,4 +6,4 @@ description: Lothárd
 
 {% include settlementHTMLs/Lothaard.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rozsály
 
 {% include settlementHTMLs/Rozsaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

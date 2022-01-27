@@ -6,4 +6,4 @@ description: Vasegerszeg
 
 {% include settlementHTMLs/Vasegerszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Zalaszentlászló
 
 {% include settlementHTMLs/Zalaszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

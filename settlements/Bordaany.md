@@ -6,4 +6,4 @@ description: Bordány
 
 {% include settlementHTMLs/Bordaany.html %}
 
-[Vissza](./)
+[Vissza](../)

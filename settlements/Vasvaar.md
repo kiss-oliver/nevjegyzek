@@ -6,4 +6,4 @@ description: Vasvár
 
 {% include settlementHTMLs/Vasvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

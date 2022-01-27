@@ -6,4 +6,4 @@ description: Békéscsaba
 
 {% include settlementHTMLs/Beekeescsaba.html %}
 
-[Vissza](./)
+[Vissza](../)

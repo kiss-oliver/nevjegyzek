@@ -6,4 +6,4 @@ description: Görbeháza
 
 {% include settlementHTMLs/Gooxrbehaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

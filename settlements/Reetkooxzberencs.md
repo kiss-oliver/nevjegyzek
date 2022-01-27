@@ -6,4 +6,4 @@ description: Rétközberencs
 
 {% include settlementHTMLs/Reetkooxzberencs.html %}
 
-[Vissza](./)
+[Vissza](../)

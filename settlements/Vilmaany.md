@@ -6,4 +6,4 @@ description: Vilmány
 
 {% include settlementHTMLs/Vilmaany.html %}
 
-[Vissza](./)
+[Vissza](../)

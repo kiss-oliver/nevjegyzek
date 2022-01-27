@@ -6,4 +6,4 @@ description: Kisgörbő
 
 {% include settlementHTMLs/Kisgooxrbooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

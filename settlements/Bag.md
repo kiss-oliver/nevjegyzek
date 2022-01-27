@@ -6,4 +6,4 @@ description: Bag
 
 {% include settlementHTMLs/Bag.html %}
 
-[Vissza](./)
+[Vissza](../)

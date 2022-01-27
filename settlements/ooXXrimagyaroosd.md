@@ -6,4 +6,4 @@ description: Őrimagyarósd
 
 {% include settlementHTMLs/ooXXrimagyaroosd.html %}
 
-[Vissza](./)
+[Vissza](../)

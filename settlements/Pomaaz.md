@@ -6,4 +6,4 @@ description: Pomáz
 
 {% include settlementHTMLs/Pomaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

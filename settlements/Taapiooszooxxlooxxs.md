@@ -6,4 +6,4 @@ description: Tápiószőlős
 
 {% include settlementHTMLs/Taapiooszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

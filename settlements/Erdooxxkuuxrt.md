@@ -6,4 +6,4 @@ description: Erdőkürt
 
 {% include settlementHTMLs/Erdooxxkuuxrt.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nemeskocs
 
 {% include settlementHTMLs/Nemeskocs.html %}
 
-[Vissza](./)
+[Vissza](../)

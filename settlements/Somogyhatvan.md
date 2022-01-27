@@ -6,4 +6,4 @@ description: Somogyhatvan
 
 {% include settlementHTMLs/Somogyhatvan.html %}
 
-[Vissza](./)
+[Vissza](../)

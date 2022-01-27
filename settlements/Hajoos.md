@@ -6,4 +6,4 @@ description: Hajós
 
 {% include settlementHTMLs/Hajoos.html %}
 
-[Vissza](./)
+[Vissza](../)

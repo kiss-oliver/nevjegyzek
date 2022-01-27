@@ -6,4 +6,4 @@ description: Noszvaj
 
 {% include settlementHTMLs/Noszvaj.html %}
 
-[Vissza](./)
+[Vissza](../)

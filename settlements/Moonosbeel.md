@@ -6,4 +6,4 @@ description: Mónosbél
 
 {% include settlementHTMLs/Moonosbeel.html %}
 
-[Vissza](./)
+[Vissza](../)

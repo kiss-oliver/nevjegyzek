@@ -6,4 +6,4 @@ description: Ág
 
 {% include settlementHTMLs/AAg.html %}
 
-[Vissza](./)
+[Vissza](../)

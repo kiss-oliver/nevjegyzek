@@ -6,4 +6,4 @@ description: Kondó
 
 {% include settlementHTMLs/Kondoo.html %}
 
-[Vissza](./)
+[Vissza](../)

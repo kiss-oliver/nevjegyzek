@@ -6,4 +6,4 @@ description: Hodász
 
 {% include settlementHTMLs/Hodaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

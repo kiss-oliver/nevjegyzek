@@ -6,4 +6,4 @@ description: Kisbabot
 
 {% include settlementHTMLs/Kisbabot.html %}
 
-[Vissza](./)
+[Vissza](../)

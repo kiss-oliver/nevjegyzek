@@ -6,4 +6,4 @@ description: Kisbágyon
 
 {% include settlementHTMLs/Kisbaagyon.html %}
 
-[Vissza](./)
+[Vissza](../)

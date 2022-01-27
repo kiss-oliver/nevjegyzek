@@ -6,4 +6,4 @@ description: Miháld
 
 {% include settlementHTMLs/Mihaald.html %}
 
-[Vissza](./)
+[Vissza](../)

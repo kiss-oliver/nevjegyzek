@@ -6,4 +6,4 @@ description: Vitnyéd
 
 {% include settlementHTMLs/Vitnyeed.html %}
 
-[Vissza](./)
+[Vissza](../)

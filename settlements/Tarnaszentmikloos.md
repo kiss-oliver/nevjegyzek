@@ -6,4 +6,4 @@ description: Tarnaszentmiklós
 
 {% include settlementHTMLs/Tarnaszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

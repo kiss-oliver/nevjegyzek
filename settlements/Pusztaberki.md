@@ -6,4 +6,4 @@ description: Pusztaberki
 
 {% include settlementHTMLs/Pusztaberki.html %}
 
-[Vissza](./)
+[Vissza](../)

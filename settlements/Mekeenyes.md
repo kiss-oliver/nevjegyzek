@@ -6,4 +6,4 @@ description: Mekényes
 
 {% include settlementHTMLs/Mekeenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

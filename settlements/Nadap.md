@@ -6,4 +6,4 @@ description: Nadap
 
 {% include settlementHTMLs/Nadap.html %}
 
-[Vissza](./)
+[Vissza](../)

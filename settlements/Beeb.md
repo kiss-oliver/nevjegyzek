@@ -6,4 +6,4 @@ description: Béb
 
 {% include settlementHTMLs/Beeb.html %}
 
-[Vissza](./)
+[Vissza](../)

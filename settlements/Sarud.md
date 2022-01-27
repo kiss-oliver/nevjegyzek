@@ -6,4 +6,4 @@ description: Sarud
 
 {% include settlementHTMLs/Sarud.html %}
 
-[Vissza](./)
+[Vissza](../)

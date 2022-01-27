@@ -6,4 +6,4 @@ description: Remeteszőlős
 
 {% include settlementHTMLs/Remeteszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

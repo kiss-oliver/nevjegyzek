@@ -6,4 +6,4 @@ description: Erk
 
 {% include settlementHTMLs/Erk.html %}
 
-[Vissza](./)
+[Vissza](../)

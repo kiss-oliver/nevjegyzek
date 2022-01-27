@@ -6,4 +6,4 @@ description: Dunaegyháza
 
 {% include settlementHTMLs/Dunaegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

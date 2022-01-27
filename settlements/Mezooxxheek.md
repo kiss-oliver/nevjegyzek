@@ -6,4 +6,4 @@ description: Mezőhék
 
 {% include settlementHTMLs/Mezooxxheek.html %}
 
-[Vissza](./)
+[Vissza](../)

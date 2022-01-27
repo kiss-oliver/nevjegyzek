@@ -6,4 +6,4 @@ description: Nagyszakácsi
 
 {% include settlementHTMLs/Nagyszakaacsi.html %}
 
-[Vissza](./)
+[Vissza](../)

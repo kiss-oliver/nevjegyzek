@@ -6,4 +6,4 @@ description: Veszprémgalsa
 
 {% include settlementHTMLs/Veszpreemgalsa.html %}
 
-[Vissza](./)
+[Vissza](../)

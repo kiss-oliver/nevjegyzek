@@ -6,4 +6,4 @@ description: Érsekcsanád
 
 {% include settlementHTMLs/EErsekcsanaad.html %}
 
-[Vissza](./)
+[Vissza](../)

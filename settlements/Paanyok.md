@@ -6,4 +6,4 @@ description: Pányok
 
 {% include settlementHTMLs/Paanyok.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Martfű
 
 {% include settlementHTMLs/Martfuuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

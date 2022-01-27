@@ -6,4 +6,4 @@ description: Nyírlövő
 
 {% include settlementHTMLs/Nyiirlooxvooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

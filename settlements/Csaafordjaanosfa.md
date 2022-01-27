@@ -6,4 +6,4 @@ description: Csáfordjánosfa
 
 {% include settlementHTMLs/Csaafordjaanosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

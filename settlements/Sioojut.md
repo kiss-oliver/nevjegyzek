@@ -6,4 +6,4 @@ description: Siójut
 
 {% include settlementHTMLs/Sioojut.html %}
 
-[Vissza](./)
+[Vissza](../)

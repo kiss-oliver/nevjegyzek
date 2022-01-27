@@ -6,4 +6,4 @@ description: Taktaszada
 
 {% include settlementHTMLs/Taktaszada.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyírmihálydi
 
 {% include settlementHTMLs/Nyiirmihaalydi.html %}
 
-[Vissza](./)
+[Vissza](../)

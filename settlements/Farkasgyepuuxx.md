@@ -6,4 +6,4 @@ description: Farkasgyepű
 
 {% include settlementHTMLs/Farkasgyepuuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Monyoród
 
 {% include settlementHTMLs/Monyorood.html %}
 
-[Vissza](./)
+[Vissza](../)

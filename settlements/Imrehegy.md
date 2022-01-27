@@ -6,4 +6,4 @@ description: Imrehegy
 
 {% include settlementHTMLs/Imrehegy.html %}
 
-[Vissza](./)
+[Vissza](../)

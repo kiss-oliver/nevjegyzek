@@ -6,4 +6,4 @@ description: Balatonakali
 
 {% include settlementHTMLs/Balatonakali.html %}
 
-[Vissza](./)
+[Vissza](../)

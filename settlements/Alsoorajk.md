@@ -6,4 +6,4 @@ description: Alsórajk
 
 {% include settlementHTMLs/Alsoorajk.html %}
 
-[Vissza](./)
+[Vissza](../)

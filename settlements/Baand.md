@@ -6,4 +6,4 @@ description: Bánd
 
 {% include settlementHTMLs/Baand.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Abaújkér
 
 {% include settlementHTMLs/Abauujkeer.html %}
 
-[Vissza](./)
+[Vissza](../)

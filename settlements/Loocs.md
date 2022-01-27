@@ -6,4 +6,4 @@ description: Lócs
 
 {% include settlementHTMLs/Loocs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Garé
 
 {% include settlementHTMLs/Garee.html %}
 
-[Vissza](./)
+[Vissza](../)

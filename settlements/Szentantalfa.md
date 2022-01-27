@@ -6,4 +6,4 @@ description: Szentantalfa
 
 {% include settlementHTMLs/Szentantalfa.html %}
 
-[Vissza](./)
+[Vissza](../)

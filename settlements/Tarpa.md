@@ -6,4 +6,4 @@ description: Tarpa
 
 {% include settlementHTMLs/Tarpa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyomár
 
 {% include settlementHTMLs/Nyomaar.html %}
 
-[Vissza](./)
+[Vissza](../)

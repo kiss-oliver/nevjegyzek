@@ -6,4 +6,4 @@ description: Zsujta
 
 {% include settlementHTMLs/Zsujta.html %}
 
-[Vissza](./)
+[Vissza](../)

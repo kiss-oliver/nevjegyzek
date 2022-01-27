@@ -6,4 +6,4 @@ description: Tolmács
 
 {% include settlementHTMLs/Tolmaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

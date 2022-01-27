@@ -6,4 +6,4 @@ description: Tormafölde
 
 {% include settlementHTMLs/Tormafooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Murony
 
 {% include settlementHTMLs/Murony.html %}
 
-[Vissza](./)
+[Vissza](../)

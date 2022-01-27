@@ -6,4 +6,4 @@ description: Cserépfalu
 
 {% include settlementHTMLs/Csereepfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

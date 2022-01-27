@@ -6,4 +6,4 @@ description: Gyékényes
 
 {% include settlementHTMLs/Gyeekeenyes.html %}
 
-[Vissza](./)
+[Vissza](../)

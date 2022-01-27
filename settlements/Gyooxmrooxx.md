@@ -6,4 +6,4 @@ description: Gyömrő
 
 {% include settlementHTMLs/Gyooxmrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

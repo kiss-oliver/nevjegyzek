@@ -6,4 +6,4 @@ description: Fertőd
 
 {% include settlementHTMLs/Fertooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

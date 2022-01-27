@@ -6,4 +6,4 @@ description: Lácacséke
 
 {% include settlementHTMLs/Laacacseeke.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Budapest XIX. kerület
 
 {% include settlementHTMLs/BudapestXIXkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

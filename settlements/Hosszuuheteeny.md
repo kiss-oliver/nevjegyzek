@@ -6,4 +6,4 @@ description: Hosszúhetény
 
 {% include settlementHTMLs/Hosszuuheteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszakerecseny
 
 {% include settlementHTMLs/Tiszakerecseny.html %}
 
-[Vissza](./)
+[Vissza](../)

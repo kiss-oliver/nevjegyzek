@@ -6,4 +6,4 @@ description: Szerep
 
 {% include settlementHTMLs/Szerep.html %}
 
-[Vissza](./)
+[Vissza](../)

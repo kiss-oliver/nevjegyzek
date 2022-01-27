@@ -6,4 +6,4 @@ description: Székesfehérvár
 
 {% include settlementHTMLs/Szeekesfeheervaar.html %}
 
-[Vissza](./)
+[Vissza](../)

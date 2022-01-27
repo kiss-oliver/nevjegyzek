@@ -6,4 +6,4 @@ description: Bakonyszentlászló
 
 {% include settlementHTMLs/Bakonyszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

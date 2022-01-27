@@ -6,4 +6,4 @@ description: Csókakő
 
 {% include settlementHTMLs/Csookakooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

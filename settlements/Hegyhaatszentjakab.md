@@ -6,4 +6,4 @@ description: Hegyhátszentjakab
 
 {% include settlementHTMLs/Hegyhaatszentjakab.html %}
 
-[Vissza](./)
+[Vissza](../)

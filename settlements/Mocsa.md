@@ -6,4 +6,4 @@ description: Mocsa
 
 {% include settlementHTMLs/Mocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

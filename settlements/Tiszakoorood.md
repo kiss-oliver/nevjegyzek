@@ -6,4 +6,4 @@ description: Tiszakóród
 
 {% include settlementHTMLs/Tiszakoorood.html %}
 
-[Vissza](./)
+[Vissza](../)

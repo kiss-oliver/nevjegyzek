@@ -6,4 +6,4 @@ description: Rétság
 
 {% include settlementHTMLs/Reetsaag.html %}
 
-[Vissza](./)
+[Vissza](../)

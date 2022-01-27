@@ -6,4 +6,4 @@ description: Abasár
 
 {% include settlementHTMLs/Abasaar.html %}
 
-[Vissza](./)
+[Vissza](../)

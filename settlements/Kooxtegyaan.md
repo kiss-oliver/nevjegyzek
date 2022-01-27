@@ -6,4 +6,4 @@ description: Kötegyán
 
 {% include settlementHTMLs/Kooxtegyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

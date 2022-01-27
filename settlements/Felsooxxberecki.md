@@ -6,4 +6,4 @@ description: Felsőberecki
 
 {% include settlementHTMLs/Felsooxxberecki.html %}
 
-[Vissza](./)
+[Vissza](../)

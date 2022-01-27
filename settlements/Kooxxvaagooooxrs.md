@@ -6,4 +6,4 @@ description: Kővágóörs
 
 {% include settlementHTMLs/Kooxxvaagooooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

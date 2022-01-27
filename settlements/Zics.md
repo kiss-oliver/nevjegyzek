@@ -6,4 +6,4 @@ description: Zics
 
 {% include settlementHTMLs/Zics.html %}
 
-[Vissza](./)
+[Vissza](../)

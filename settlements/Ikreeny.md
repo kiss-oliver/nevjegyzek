@@ -6,4 +6,4 @@ description: Ikrény
 
 {% include settlementHTMLs/Ikreeny.html %}
 
-[Vissza](./)
+[Vissza](../)

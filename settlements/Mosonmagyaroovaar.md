@@ -6,4 +6,4 @@ description: Mosonmagyaróvár
 
 {% include settlementHTMLs/Mosonmagyaroovaar.html %}
 
-[Vissza](./)
+[Vissza](../)

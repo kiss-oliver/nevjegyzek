@@ -6,4 +6,4 @@ description: Egyházashetye
 
 {% include settlementHTMLs/Egyhaazashetye.html %}
 
-[Vissza](./)
+[Vissza](../)

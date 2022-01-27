@@ -6,4 +6,4 @@ description: Gerjen
 
 {% include settlementHTMLs/Gerjen.html %}
 
-[Vissza](./)
+[Vissza](../)

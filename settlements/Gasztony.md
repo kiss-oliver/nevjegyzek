@@ -6,4 +6,4 @@ description: Gasztony
 
 {% include settlementHTMLs/Gasztony.html %}
 
-[Vissza](./)
+[Vissza](../)

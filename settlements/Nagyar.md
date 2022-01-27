@@ -6,4 +6,4 @@ description: Nagyar
 
 {% include settlementHTMLs/Nagyar.html %}
 
-[Vissza](./)
+[Vissza](../)

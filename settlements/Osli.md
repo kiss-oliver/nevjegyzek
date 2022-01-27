@@ -6,4 +6,4 @@ description: Osli
 
 {% include settlementHTMLs/Osli.html %}
 
-[Vissza](./)
+[Vissza](../)

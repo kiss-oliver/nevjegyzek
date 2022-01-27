@@ -6,4 +6,4 @@ description: Nógrádszakál
 
 {% include settlementHTMLs/Noograadszakaal.html %}
 
-[Vissza](./)
+[Vissza](../)

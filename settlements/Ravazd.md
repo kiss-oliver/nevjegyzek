@@ -6,4 +6,4 @@ description: Ravazd
 
 {% include settlementHTMLs/Ravazd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Papos
 
 {% include settlementHTMLs/Papos.html %}
 
-[Vissza](./)
+[Vissza](../)

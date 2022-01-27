@@ -6,4 +6,4 @@ description: Rédics
 
 {% include settlementHTMLs/Reedics.html %}
 
-[Vissza](./)
+[Vissza](../)

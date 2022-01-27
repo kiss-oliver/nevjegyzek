@@ -6,4 +6,4 @@ description: Magyarszombatfa
 
 {% include settlementHTMLs/Magyarszombatfa.html %}
 
-[Vissza](./)
+[Vissza](../)

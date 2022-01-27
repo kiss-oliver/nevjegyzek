@@ -6,4 +6,4 @@ description: Zalakaros
 
 {% include settlementHTMLs/Zalakaros.html %}
 
-[Vissza](./)
+[Vissza](../)

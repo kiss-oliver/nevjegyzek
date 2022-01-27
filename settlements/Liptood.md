@@ -6,4 +6,4 @@ description: Liptód
 
 {% include settlementHTMLs/Liptood.html %}
 
-[Vissza](./)
+[Vissza](../)

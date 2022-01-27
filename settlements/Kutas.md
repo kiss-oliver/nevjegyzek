@@ -6,4 +6,4 @@ description: Kutas
 
 {% include settlementHTMLs/Kutas.html %}
 
-[Vissza](./)
+[Vissza](../)

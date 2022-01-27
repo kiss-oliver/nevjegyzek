@@ -6,4 +6,4 @@ description: Nekézseny
 
 {% include settlementHTMLs/Nekeezseny.html %}
 
-[Vissza](./)
+[Vissza](../)

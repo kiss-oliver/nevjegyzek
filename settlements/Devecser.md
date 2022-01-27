@@ -6,4 +6,4 @@ description: Devecser
 
 {% include settlementHTMLs/Devecser.html %}
 
-[Vissza](./)
+[Vissza](../)

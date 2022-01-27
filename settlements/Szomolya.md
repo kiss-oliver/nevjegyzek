@@ -6,4 +6,4 @@ description: Szomolya
 
 {% include settlementHTMLs/Szomolya.html %}
 
-[Vissza](./)
+[Vissza](../)

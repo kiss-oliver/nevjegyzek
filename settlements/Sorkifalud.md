@@ -6,4 +6,4 @@ description: Sorkifalud
 
 {% include settlementHTMLs/Sorkifalud.html %}
 
-[Vissza](./)
+[Vissza](../)

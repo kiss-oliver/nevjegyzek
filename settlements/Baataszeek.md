@@ -6,4 +6,4 @@ description: Bátaszék
 
 {% include settlementHTMLs/Baataszeek.html %}
 
-[Vissza](./)
+[Vissza](../)

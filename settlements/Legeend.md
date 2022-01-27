@@ -6,4 +6,4 @@ description: Legénd
 
 {% include settlementHTMLs/Legeend.html %}
 
-[Vissza](./)
+[Vissza](../)

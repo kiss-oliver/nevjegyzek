@@ -6,4 +6,4 @@ description: Csákvár
 
 {% include settlementHTMLs/Csaakvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vejti
 
 {% include settlementHTMLs/Vejti.html %}
 
-[Vissza](./)
+[Vissza](../)

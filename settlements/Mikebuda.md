@@ -6,4 +6,4 @@ description: Mikebuda
 
 {% include settlementHTMLs/Mikebuda.html %}
 
-[Vissza](./)
+[Vissza](../)

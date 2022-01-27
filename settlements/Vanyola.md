@@ -6,4 +6,4 @@ description: Vanyola
 
 {% include settlementHTMLs/Vanyola.html %}
 
-[Vissza](./)
+[Vissza](../)

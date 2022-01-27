@@ -6,4 +6,4 @@ description: Kéleshalom
 
 {% include settlementHTMLs/Keeleshalom.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szűr
 
 {% include settlementHTMLs/Szuuxxr.html %}
 
-[Vissza](./)
+[Vissza](../)

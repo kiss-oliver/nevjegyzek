@@ -6,4 +6,4 @@ description: Nyalka
 
 {% include settlementHTMLs/Nyalka.html %}
 
-[Vissza](./)
+[Vissza](../)

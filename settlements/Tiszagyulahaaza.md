@@ -6,4 +6,4 @@ description: Tiszagyulaháza
 
 {% include settlementHTMLs/Tiszagyulahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

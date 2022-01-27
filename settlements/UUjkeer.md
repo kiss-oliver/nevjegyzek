@@ -6,4 +6,4 @@ description: Újkér
 
 {% include settlementHTMLs/UUjkeer.html %}
 
-[Vissza](./)
+[Vissza](../)

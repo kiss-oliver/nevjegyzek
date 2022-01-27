@@ -6,4 +6,4 @@ description: Batyk
 
 {% include settlementHTMLs/Batyk.html %}
 
-[Vissza](./)
+[Vissza](../)

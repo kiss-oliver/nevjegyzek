@@ -6,4 +6,4 @@ description: Almáskamarás
 
 {% include settlementHTMLs/Almaaskamaraas.html %}
 
-[Vissza](./)
+[Vissza](../)

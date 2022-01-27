@@ -6,4 +6,4 @@ description: Jákfalva
 
 {% include settlementHTMLs/Jaakfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

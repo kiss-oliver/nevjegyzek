@@ -6,4 +6,4 @@ description: Méhtelek
 
 {% include settlementHTMLs/Meehtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

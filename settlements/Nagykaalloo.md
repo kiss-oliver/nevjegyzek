@@ -6,4 +6,4 @@ description: Nagykálló
 
 {% include settlementHTMLs/Nagykaalloo.html %}
 
-[Vissza](./)
+[Vissza](../)

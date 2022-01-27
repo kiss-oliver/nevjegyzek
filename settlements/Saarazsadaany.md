@@ -6,4 +6,4 @@ description: Sárazsadány
 
 {% include settlementHTMLs/Saarazsadaany.html %}
 
-[Vissza](./)
+[Vissza](../)

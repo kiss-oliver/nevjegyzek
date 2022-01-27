@@ -6,4 +6,4 @@ description: Bátmonostor
 
 {% include settlementHTMLs/Baatmonostor.html %}
 
-[Vissza](./)
+[Vissza](../)

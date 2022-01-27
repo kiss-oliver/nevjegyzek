@@ -6,4 +6,4 @@ description: Hernád
 
 {% include settlementHTMLs/Hernaad.html %}
 
-[Vissza](./)
+[Vissza](../)

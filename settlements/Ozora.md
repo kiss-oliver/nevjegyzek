@@ -6,4 +6,4 @@ description: Ozora
 
 {% include settlementHTMLs/Ozora.html %}
 
-[Vissza](./)
+[Vissza](../)

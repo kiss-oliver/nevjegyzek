@@ -6,4 +6,4 @@ description: Drávaszabolcs
 
 {% include settlementHTMLs/Draavaszabolcs.html %}
 
-[Vissza](./)
+[Vissza](../)

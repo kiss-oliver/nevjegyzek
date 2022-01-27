@@ -6,4 +6,4 @@ description: Boconád
 
 {% include settlementHTMLs/Boconaad.html %}
 
-[Vissza](./)
+[Vissza](../)

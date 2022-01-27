@@ -6,4 +6,4 @@ description: Börzönce
 
 {% include settlementHTMLs/Booxrzooxnce.html %}
 
-[Vissza](./)
+[Vissza](../)

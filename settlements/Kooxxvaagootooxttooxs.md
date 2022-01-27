@@ -6,4 +6,4 @@ description: Kővágótöttös
 
 {% include settlementHTMLs/Kooxxvaagootooxttooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

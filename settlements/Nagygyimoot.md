@@ -6,4 +6,4 @@ description: Nagygyimót
 
 {% include settlementHTMLs/Nagygyimoot.html %}
 
-[Vissza](./)
+[Vissza](../)

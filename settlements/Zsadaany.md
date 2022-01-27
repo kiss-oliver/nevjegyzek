@@ -6,4 +6,4 @@ description: Zsadány
 
 {% include settlementHTMLs/Zsadaany.html %}
 
-[Vissza](./)
+[Vissza](../)

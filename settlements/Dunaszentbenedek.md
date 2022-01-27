@@ -6,4 +6,4 @@ description: Dunaszentbenedek
 
 {% include settlementHTMLs/Dunaszentbenedek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyíribrony
 
 {% include settlementHTMLs/Nyiiribrony.html %}
 
-[Vissza](./)
+[Vissza](../)

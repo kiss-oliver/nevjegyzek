@@ -6,4 +6,4 @@ description: Balatonudvari
 
 {% include settlementHTMLs/Balatonudvari.html %}
 
-[Vissza](./)
+[Vissza](../)

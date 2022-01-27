@@ -6,4 +6,4 @@ description: Pócsa
 
 {% include settlementHTMLs/Poocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Salköveskút
 
 {% include settlementHTMLs/Salkooxveskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

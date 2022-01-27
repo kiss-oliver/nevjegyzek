@@ -6,4 +6,4 @@ description: Karakó
 
 {% include settlementHTMLs/Karakoo.html %}
 
-[Vissza](./)
+[Vissza](../)

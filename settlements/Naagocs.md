@@ -6,4 +6,4 @@ description: Nágocs
 
 {% include settlementHTMLs/Naagocs.html %}
 
-[Vissza](./)
+[Vissza](../)

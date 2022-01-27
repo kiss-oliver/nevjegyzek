@@ -6,4 +6,4 @@ description: Györe
 
 {% include settlementHTMLs/Gyooxre.html %}
 
-[Vissza](./)
+[Vissza](../)

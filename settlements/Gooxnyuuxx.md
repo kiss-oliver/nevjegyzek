@@ -6,4 +6,4 @@ description: Gönyű
 
 {% include settlementHTMLs/Gooxnyuuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

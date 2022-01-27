@@ -6,4 +6,4 @@ description: Rábacsécsény
 
 {% include settlementHTMLs/Raabacseecseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

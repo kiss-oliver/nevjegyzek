@@ -6,4 +6,4 @@ description: Páty
 
 {% include settlementHTMLs/Paaty.html %}
 
-[Vissza](./)
+[Vissza](../)

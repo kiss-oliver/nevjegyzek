@@ -6,4 +6,4 @@ description: Kisszekeres
 
 {% include settlementHTMLs/Kisszekeres.html %}
 
-[Vissza](./)
+[Vissza](../)

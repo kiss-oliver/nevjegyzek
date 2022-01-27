@@ -6,4 +6,4 @@ description: Sülysáp
 
 {% include settlementHTMLs/Suuxlysaap.html %}
 
-[Vissza](./)
+[Vissza](../)

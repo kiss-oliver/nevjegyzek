@@ -6,4 +6,4 @@ description: Dorog
 
 {% include settlementHTMLs/Dorog.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újszentiván
 
 {% include settlementHTMLs/UUjszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

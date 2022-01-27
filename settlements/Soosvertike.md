@@ -6,4 +6,4 @@ description: Sósvertike
 
 {% include settlementHTMLs/Soosvertike.html %}
 
-[Vissza](./)
+[Vissza](../)

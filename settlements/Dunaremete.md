@@ -6,4 +6,4 @@ description: Dunaremete
 
 {% include settlementHTMLs/Dunaremete.html %}
 
-[Vissza](./)
+[Vissza](../)

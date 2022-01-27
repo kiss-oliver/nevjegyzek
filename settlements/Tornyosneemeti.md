@@ -6,4 +6,4 @@ description: Tornyosnémeti
 
 {% include settlementHTMLs/Tornyosneemeti.html %}
 
-[Vissza](./)
+[Vissza](../)

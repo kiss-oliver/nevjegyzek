@@ -6,4 +6,4 @@ description: Iklanberény
 
 {% include settlementHTMLs/Iklanbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szentjakabfa
 
 {% include settlementHTMLs/Szentjakabfa.html %}
 
-[Vissza](./)
+[Vissza](../)

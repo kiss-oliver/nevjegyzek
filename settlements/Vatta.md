@@ -6,4 +6,4 @@ description: Vatta
 
 {% include settlementHTMLs/Vatta.html %}
 
-[Vissza](./)
+[Vissza](../)

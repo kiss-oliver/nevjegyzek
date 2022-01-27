@@ -6,4 +6,4 @@ description: Pusztaszer
 
 {% include settlementHTMLs/Pusztaszer.html %}
 
-[Vissza](./)
+[Vissza](../)

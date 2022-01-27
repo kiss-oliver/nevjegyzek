@@ -6,4 +6,4 @@ description: Ukk
 
 {% include settlementHTMLs/Ukk.html %}
 
-[Vissza](./)
+[Vissza](../)

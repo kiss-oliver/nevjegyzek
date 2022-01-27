@@ -6,4 +6,4 @@ description: Mezőörs
 
 {% include settlementHTMLs/Mezooxxooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

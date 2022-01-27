@@ -6,4 +6,4 @@ description: Gelej
 
 {% include settlementHTMLs/Gelej.html %}
 
-[Vissza](./)
+[Vissza](../)

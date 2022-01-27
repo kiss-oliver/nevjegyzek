@@ -6,4 +6,4 @@ description: Vértesszőlős
 
 {% include settlementHTMLs/Veertesszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

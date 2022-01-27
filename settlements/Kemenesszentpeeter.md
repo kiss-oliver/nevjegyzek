@@ -6,4 +6,4 @@ description: Kemenesszentpéter
 
 {% include settlementHTMLs/Kemenesszentpeeter.html %}
 
-[Vissza](./)
+[Vissza](../)

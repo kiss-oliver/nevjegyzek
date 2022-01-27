@@ -6,4 +6,4 @@ description: Forró
 
 {% include settlementHTMLs/Forroo.html %}
 
-[Vissza](./)
+[Vissza](../)

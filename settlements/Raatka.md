@@ -6,4 +6,4 @@ description: Rátka
 
 {% include settlementHTMLs/Raatka.html %}
 
-[Vissza](./)
+[Vissza](../)

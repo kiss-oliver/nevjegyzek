@@ -6,4 +6,4 @@ description: Nyírmártonfalva
 
 {% include settlementHTMLs/Nyiirmaartonfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Óbudavár
 
 {% include settlementHTMLs/OObudavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

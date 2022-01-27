@@ -6,4 +6,4 @@ description: Nagyacsád
 
 {% include settlementHTMLs/Nagyacsaad.html %}
 
-[Vissza](./)
+[Vissza](../)

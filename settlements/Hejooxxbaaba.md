@@ -6,4 +6,4 @@ description: Hejőbába
 
 {% include settlementHTMLs/Hejooxxbaaba.html %}
 
-[Vissza](./)
+[Vissza](../)

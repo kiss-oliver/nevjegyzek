@@ -6,4 +6,4 @@ description: Győrság
 
 {% include settlementHTMLs/Gyooxxrsaag.html %}
 
-[Vissza](./)
+[Vissza](../)

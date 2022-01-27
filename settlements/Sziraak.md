@@ -6,4 +6,4 @@ description: Szirák
 
 {% include settlementHTMLs/Sziraak.html %}
 
-[Vissza](./)
+[Vissza](../)

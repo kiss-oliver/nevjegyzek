@@ -6,4 +6,4 @@ description: Magyarszentmiklós
 
 {% include settlementHTMLs/Magyarszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

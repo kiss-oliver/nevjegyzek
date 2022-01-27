@@ -6,4 +6,4 @@ description: Márianosztra
 
 {% include settlementHTMLs/Maarianosztra.html %}
 
-[Vissza](./)
+[Vissza](../)

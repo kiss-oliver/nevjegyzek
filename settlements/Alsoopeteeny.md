@@ -6,4 +6,4 @@ description: Alsópetény
 
 {% include settlementHTMLs/Alsoopeteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

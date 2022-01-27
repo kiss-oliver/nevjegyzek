@@ -6,4 +6,4 @@ description: Fazekasboda
 
 {% include settlementHTMLs/Fazekasboda.html %}
 
-[Vissza](./)
+[Vissza](../)

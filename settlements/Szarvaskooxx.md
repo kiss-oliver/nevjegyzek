@@ -6,4 +6,4 @@ description: Szarvaskő
 
 {% include settlementHTMLs/Szarvaskooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

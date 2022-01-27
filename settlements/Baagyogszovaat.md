@@ -6,4 +6,4 @@ description: Bágyogszovát
 
 {% include settlementHTMLs/Baagyogszovaat.html %}
 
-[Vissza](./)
+[Vissza](../)

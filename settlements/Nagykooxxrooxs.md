@@ -6,4 +6,4 @@ description: Nagykőrös
 
 {% include settlementHTMLs/Nagykooxxrooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

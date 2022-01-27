@@ -6,4 +6,4 @@ description: Csanádalberti
 
 {% include settlementHTMLs/Csanaadalberti.html %}
 
-[Vissza](./)
+[Vissza](../)

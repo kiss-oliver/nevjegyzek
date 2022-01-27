@@ -6,4 +6,4 @@ description: Levelek
 
 {% include settlementHTMLs/Levelek.html %}
 
-[Vissza](./)
+[Vissza](../)

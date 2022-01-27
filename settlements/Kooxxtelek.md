@@ -6,4 +6,4 @@ description: Kőtelek
 
 {% include settlementHTMLs/Kooxxtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

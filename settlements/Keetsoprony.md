@@ -6,4 +6,4 @@ description: Kétsoprony
 
 {% include settlementHTMLs/Keetsoprony.html %}
 
-[Vissza](./)
+[Vissza](../)

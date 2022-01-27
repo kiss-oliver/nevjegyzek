@@ -6,4 +6,4 @@ description: Dunafalva
 
 {% include settlementHTMLs/Dunafalva.html %}
 
-[Vissza](./)
+[Vissza](../)

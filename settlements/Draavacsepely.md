@@ -6,4 +6,4 @@ description: Drávacsepely
 
 {% include settlementHTMLs/Draavacsepely.html %}
 
-[Vissza](./)
+[Vissza](../)

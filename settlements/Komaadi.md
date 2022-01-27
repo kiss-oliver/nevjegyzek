@@ -6,4 +6,4 @@ description: Komádi
 
 {% include settlementHTMLs/Komaadi.html %}
 
-[Vissza](./)
+[Vissza](../)

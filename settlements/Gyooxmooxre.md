@@ -6,4 +6,4 @@ description: Gyömöre
 
 {% include settlementHTMLs/Gyooxmooxre.html %}
 
-[Vissza](./)
+[Vissza](../)

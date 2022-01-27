@@ -6,4 +6,4 @@ description: Somogyapáti
 
 {% include settlementHTMLs/Somogyapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

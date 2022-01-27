@@ -6,4 +6,4 @@ description: Somlószőlős
 
 {% include settlementHTMLs/Somlooszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

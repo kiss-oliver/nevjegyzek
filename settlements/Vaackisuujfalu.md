@@ -6,4 +6,4 @@ description: Váckisújfalu
 
 {% include settlementHTMLs/Vaackisuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

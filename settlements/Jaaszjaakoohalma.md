@@ -6,4 +6,4 @@ description: Jászjákóhalma
 
 {% include settlementHTMLs/Jaaszjaakoohalma.html %}
 
-[Vissza](./)
+[Vissza](../)

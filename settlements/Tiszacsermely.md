@@ -6,4 +6,4 @@ description: Tiszacsermely
 
 {% include settlementHTMLs/Tiszacsermely.html %}
 
-[Vissza](./)
+[Vissza](../)

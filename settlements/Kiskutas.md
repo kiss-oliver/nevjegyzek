@@ -6,4 +6,4 @@ description: Kiskutas
 
 {% include settlementHTMLs/Kiskutas.html %}
 
-[Vissza](./)
+[Vissza](../)

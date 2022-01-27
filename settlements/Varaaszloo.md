@@ -6,4 +6,4 @@ description: Varászló
 
 {% include settlementHTMLs/Varaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

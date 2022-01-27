@@ -6,4 +6,4 @@ description: Dunapataj
 
 {% include settlementHTMLs/Dunapataj.html %}
 
-[Vissza](./)
+[Vissza](../)

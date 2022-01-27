@@ -6,4 +6,4 @@ description: Csemő
 
 {% include settlementHTMLs/Csemooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kenderes
 
 {% include settlementHTMLs/Kenderes.html %}
 
-[Vissza](./)
+[Vissza](../)

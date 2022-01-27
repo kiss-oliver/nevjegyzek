@@ -6,4 +6,4 @@ description: Esztár
 
 {% include settlementHTMLs/Esztaar.html %}
 
-[Vissza](./)
+[Vissza](../)

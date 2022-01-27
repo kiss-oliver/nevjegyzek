@@ -6,4 +6,4 @@ description: Pécsely
 
 {% include settlementHTMLs/Peecsely.html %}
 
-[Vissza](./)
+[Vissza](../)

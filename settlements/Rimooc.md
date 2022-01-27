@@ -6,4 +6,4 @@ description: Rimóc
 
 {% include settlementHTMLs/Rimooc.html %}
 
-[Vissza](./)
+[Vissza](../)

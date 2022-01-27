@@ -6,4 +6,4 @@ description: Vácrátót
 
 {% include settlementHTMLs/Vaacraatoot.html %}
 
-[Vissza](./)
+[Vissza](../)

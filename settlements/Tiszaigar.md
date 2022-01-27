@@ -6,4 +6,4 @@ description: Tiszaigar
 
 {% include settlementHTMLs/Tiszaigar.html %}
 
-[Vissza](./)
+[Vissza](../)

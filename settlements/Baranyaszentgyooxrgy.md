@@ -6,4 +6,4 @@ description: Baranyaszentgyörgy
 
 {% include settlementHTMLs/Baranyaszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

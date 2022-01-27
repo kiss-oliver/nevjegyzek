@@ -6,4 +6,4 @@ description: Zebegény
 
 {% include settlementHTMLs/Zebegeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

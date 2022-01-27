@@ -6,4 +6,4 @@ description: Tárnok
 
 {% include settlementHTMLs/Taarnok.html %}
 
-[Vissza](./)
+[Vissza](../)

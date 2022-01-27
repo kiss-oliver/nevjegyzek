@@ -6,4 +6,4 @@ description: Zalaszentmárton
 
 {% include settlementHTMLs/Zalaszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

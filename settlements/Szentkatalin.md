@@ -6,4 +6,4 @@ description: Szentkatalin
 
 {% include settlementHTMLs/Szentkatalin.html %}
 
-[Vissza](./)
+[Vissza](../)

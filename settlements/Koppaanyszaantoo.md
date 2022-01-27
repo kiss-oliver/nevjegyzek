@@ -6,4 +6,4 @@ description: Koppányszántó
 
 {% include settlementHTMLs/Koppaanyszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

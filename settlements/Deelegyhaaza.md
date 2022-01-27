@@ -6,4 +6,4 @@ description: Délegyháza
 
 {% include settlementHTMLs/Deelegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

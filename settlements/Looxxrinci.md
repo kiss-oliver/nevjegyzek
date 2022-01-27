@@ -6,4 +6,4 @@ description: Lőrinci
 
 {% include settlementHTMLs/Looxxrinci.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lövő
 
 {% include settlementHTMLs/Looxvooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

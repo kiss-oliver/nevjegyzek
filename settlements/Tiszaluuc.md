@@ -6,4 +6,4 @@ description: Tiszalúc
 
 {% include settlementHTMLs/Tiszaluuc.html %}
 
-[Vissza](./)
+[Vissza](../)

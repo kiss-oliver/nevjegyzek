@@ -6,4 +6,4 @@ description: Baksa
 
 {% include settlementHTMLs/Baksa.html %}
 
-[Vissza](./)
+[Vissza](../)

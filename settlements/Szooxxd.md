@@ -6,4 +6,4 @@ description: Sződ
 
 {% include settlementHTMLs/Szooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

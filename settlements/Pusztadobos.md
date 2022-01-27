@@ -6,4 +6,4 @@ description: Pusztadobos
 
 {% include settlementHTMLs/Pusztadobos.html %}
 
-[Vissza](./)
+[Vissza](../)

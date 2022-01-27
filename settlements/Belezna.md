@@ -6,4 +6,4 @@ description: Belezna
 
 {% include settlementHTMLs/Belezna.html %}
 
-[Vissza](./)
+[Vissza](../)

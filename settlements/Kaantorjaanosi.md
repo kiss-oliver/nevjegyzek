@@ -6,4 +6,4 @@ description: Kántorjánosi
 
 {% include settlementHTMLs/Kaantorjaanosi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bezeréd
 
 {% include settlementHTMLs/Bezereed.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vámosatya
 
 {% include settlementHTMLs/Vaamosatya.html %}
 
-[Vissza](./)
+[Vissza](../)

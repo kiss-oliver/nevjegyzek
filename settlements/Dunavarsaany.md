@@ -6,4 +6,4 @@ description: Dunavarsány
 
 {% include settlementHTMLs/Dunavarsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rajka
 
 {% include settlementHTMLs/Rajka.html %}
 
-[Vissza](./)
+[Vissza](../)

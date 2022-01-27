@@ -6,4 +6,4 @@ description: Beleg
 
 {% include settlementHTMLs/Beleg.html %}
 
-[Vissza](./)
+[Vissza](../)

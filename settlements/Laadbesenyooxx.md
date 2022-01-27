@@ -6,4 +6,4 @@ description: Ládbesenyő
 
 {% include settlementHTMLs/Laadbesenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

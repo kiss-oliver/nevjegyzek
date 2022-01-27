@@ -6,4 +6,4 @@ description: Soponya
 
 {% include settlementHTMLs/Soponya.html %}
 
-[Vissza](./)
+[Vissza](../)

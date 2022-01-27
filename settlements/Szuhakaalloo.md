@@ -6,4 +6,4 @@ description: Szuhakálló
 
 {% include settlementHTMLs/Szuhakaalloo.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szeremle
 
 {% include settlementHTMLs/Szeremle.html %}
 
-[Vissza](./)
+[Vissza](../)

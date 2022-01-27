@@ -6,4 +6,4 @@ description: Hévíz
 
 {% include settlementHTMLs/Heeviiz.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lendvajakabfa
 
 {% include settlementHTMLs/Lendvajakabfa.html %}
 
-[Vissza](./)
+[Vissza](../)

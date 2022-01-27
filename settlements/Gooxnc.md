@@ -6,4 +6,4 @@ description: Gönc
 
 {% include settlementHTMLs/Gooxnc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatongyörök
 
 {% include settlementHTMLs/Balatongyooxrooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

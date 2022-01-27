@@ -6,4 +6,4 @@ description: Egyházaskesző
 
 {% include settlementHTMLs/Egyhaazaskeszooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

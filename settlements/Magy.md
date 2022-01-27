@@ -6,4 +6,4 @@ description: Magy
 
 {% include settlementHTMLs/Magy.html %}
 
-[Vissza](./)
+[Vissza](../)

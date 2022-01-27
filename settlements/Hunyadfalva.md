@@ -6,4 +6,4 @@ description: Hunyadfalva
 
 {% include settlementHTMLs/Hunyadfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gelsesziget
 
 {% include settlementHTMLs/Gelsesziget.html %}
 
-[Vissza](./)
+[Vissza](../)

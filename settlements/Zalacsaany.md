@@ -6,4 +6,4 @@ description: Zalacsány
 
 {% include settlementHTMLs/Zalacsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

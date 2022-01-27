@@ -6,4 +6,4 @@ description: Géberjén
 
 {% include settlementHTMLs/Geeberjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

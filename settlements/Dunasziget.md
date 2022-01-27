@@ -6,4 +6,4 @@ description: Dunasziget
 
 {% include settlementHTMLs/Dunasziget.html %}
 
-[Vissza](./)
+[Vissza](../)

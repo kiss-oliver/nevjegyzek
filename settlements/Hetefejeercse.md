@@ -6,4 +6,4 @@ description: Hetefejércse
 
 {% include settlementHTMLs/Hetefejeercse.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Súr
 
 {% include settlementHTMLs/Suur.html %}
 
-[Vissza](./)
+[Vissza](../)

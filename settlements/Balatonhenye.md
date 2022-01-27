@@ -6,4 +6,4 @@ description: Balatonhenye
 
 {% include settlementHTMLs/Balatonhenye.html %}
 
-[Vissza](./)
+[Vissza](../)

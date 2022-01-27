@@ -6,4 +6,4 @@ description: Tokod
 
 {% include settlementHTMLs/Tokod.html %}
 
-[Vissza](./)
+[Vissza](../)

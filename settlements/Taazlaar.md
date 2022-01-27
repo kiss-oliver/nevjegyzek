@@ -6,4 +6,4 @@ description: Tázlár
 
 {% include settlementHTMLs/Taazlaar.html %}
 
-[Vissza](./)
+[Vissza](../)

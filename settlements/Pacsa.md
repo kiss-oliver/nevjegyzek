@@ -6,4 +6,4 @@ description: Pacsa
 
 {% include settlementHTMLs/Pacsa.html %}
 
-[Vissza](./)
+[Vissza](../)

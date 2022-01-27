@@ -6,4 +6,4 @@ description: Mezőfalva
 
 {% include settlementHTMLs/Mezooxxfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

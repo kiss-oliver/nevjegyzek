@@ -6,4 +6,4 @@ description: Homokbödöge
 
 {% include settlementHTMLs/Homokbooxdooxge.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tarnaörs
 
 {% include settlementHTMLs/Tarnaooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kelebia
 
 {% include settlementHTMLs/Kelebia.html %}
 
-[Vissza](./)
+[Vissza](../)

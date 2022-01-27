@@ -6,4 +6,4 @@ description: Pula
 
 {% include settlementHTMLs/Pula.html %}
 
-[Vissza](./)
+[Vissza](../)

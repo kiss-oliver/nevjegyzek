@@ -6,4 +6,4 @@ description: Kerta
 
 {% include settlementHTMLs/Kerta.html %}
 
-[Vissza](./)
+[Vissza](../)

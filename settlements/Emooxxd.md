@@ -6,4 +6,4 @@ description: Emőd
 
 {% include settlementHTMLs/Emooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

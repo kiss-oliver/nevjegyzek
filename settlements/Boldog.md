@@ -6,4 +6,4 @@ description: Boldog
 
 {% include settlementHTMLs/Boldog.html %}
 
-[Vissza](./)
+[Vissza](../)

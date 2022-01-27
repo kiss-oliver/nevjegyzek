@@ -6,4 +6,4 @@ description: Pannonhalma
 
 {% include settlementHTMLs/Pannonhalma.html %}
 
-[Vissza](./)
+[Vissza](../)

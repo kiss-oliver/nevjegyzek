@@ -6,4 +6,4 @@ description: Dánszentmiklós
 
 {% include settlementHTMLs/Daanszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

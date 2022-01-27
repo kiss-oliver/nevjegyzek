@@ -6,4 +6,4 @@ description: Hernádpetri
 
 {% include settlementHTMLs/Hernaadpetri.html %}
 
-[Vissza](./)
+[Vissza](../)

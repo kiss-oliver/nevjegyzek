@@ -6,4 +6,4 @@ description: Taktakenéz
 
 {% include settlementHTMLs/Taktakeneez.html %}
 
-[Vissza](./)
+[Vissza](../)

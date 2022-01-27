@@ -6,4 +6,4 @@ description: Kemenessömjén
 
 {% include settlementHTMLs/Kemenessooxmjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

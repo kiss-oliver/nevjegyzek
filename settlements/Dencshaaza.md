@@ -6,4 +6,4 @@ description: Dencsháza
 
 {% include settlementHTMLs/Dencshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

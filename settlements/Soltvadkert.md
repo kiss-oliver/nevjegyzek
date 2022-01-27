@@ -6,4 +6,4 @@ description: Soltvadkert
 
 {% include settlementHTMLs/Soltvadkert.html %}
 
-[Vissza](./)
+[Vissza](../)

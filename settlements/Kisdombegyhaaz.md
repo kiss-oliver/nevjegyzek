@@ -6,4 +6,4 @@ description: Kisdombegyház
 
 {% include settlementHTMLs/Kisdombegyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

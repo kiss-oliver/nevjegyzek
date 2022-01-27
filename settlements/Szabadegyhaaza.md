@@ -6,4 +6,4 @@ description: Szabadegyháza
 
 {% include settlementHTMLs/Szabadegyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

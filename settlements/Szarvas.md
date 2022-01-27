@@ -6,4 +6,4 @@ description: Szarvas
 
 {% include settlementHTMLs/Szarvas.html %}
 
-[Vissza](./)
+[Vissza](../)

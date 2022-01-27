@@ -6,4 +6,4 @@ description: Kehidakustány
 
 {% include settlementHTMLs/Kehidakustaany.html %}
 
-[Vissza](./)
+[Vissza](../)

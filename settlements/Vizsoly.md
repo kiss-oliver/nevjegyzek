@@ -6,4 +6,4 @@ description: Vizsoly
 
 {% include settlementHTMLs/Vizsoly.html %}
 
-[Vissza](./)
+[Vissza](../)

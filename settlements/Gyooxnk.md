@@ -6,4 +6,4 @@ description: Gyönk
 
 {% include settlementHTMLs/Gyooxnk.html %}
 
-[Vissza](./)
+[Vissza](../)

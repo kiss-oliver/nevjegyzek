@@ -6,4 +6,4 @@ description: Múcsony
 
 {% include settlementHTMLs/Muucsony.html %}
 
-[Vissza](./)
+[Vissza](../)

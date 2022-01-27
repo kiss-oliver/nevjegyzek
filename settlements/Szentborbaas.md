@@ -6,4 +6,4 @@ description: Szentborbás
 
 {% include settlementHTMLs/Szentborbaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagydobos
 
 {% include settlementHTMLs/Nagydobos.html %}
 
-[Vissza](./)
+[Vissza](../)

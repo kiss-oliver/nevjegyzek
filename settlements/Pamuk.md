@@ -6,4 +6,4 @@ description: Pamuk
 
 {% include settlementHTMLs/Pamuk.html %}
 
-[Vissza](./)
+[Vissza](../)

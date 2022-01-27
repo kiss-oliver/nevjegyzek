@@ -6,4 +6,4 @@ description: Kisvarsány
 
 {% include settlementHTMLs/Kisvarsaany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tokorcs
 
 {% include settlementHTMLs/Tokorcs.html %}
 
-[Vissza](./)
+[Vissza](../)

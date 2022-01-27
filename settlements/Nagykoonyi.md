@@ -6,4 +6,4 @@ description: Nagykónyi
 
 {% include settlementHTMLs/Nagykoonyi.html %}
 
-[Vissza](./)
+[Vissza](../)

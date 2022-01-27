@@ -6,4 +6,4 @@ description: Fehértó
 
 {% include settlementHTMLs/Feheertoo.html %}
 
-[Vissza](./)
+[Vissza](../)

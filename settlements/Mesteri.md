@@ -6,4 +6,4 @@ description: Mesteri
 
 {% include settlementHTMLs/Mesteri.html %}
 
-[Vissza](./)
+[Vissza](../)

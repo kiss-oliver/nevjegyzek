@@ -6,4 +6,4 @@ description: Bakonyszentkirály
 
 {% include settlementHTMLs/Bakonyszentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

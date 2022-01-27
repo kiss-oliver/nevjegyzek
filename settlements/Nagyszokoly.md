@@ -6,4 +6,4 @@ description: Nagyszokoly
 
 {% include settlementHTMLs/Nagyszokoly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Sárospatak
 
 {% include settlementHTMLs/Saarospatak.html %}
 
-[Vissza](./)
+[Vissza](../)

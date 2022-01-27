@@ -6,4 +6,4 @@ description: Kömpöc
 
 {% include settlementHTMLs/Kooxmpooxc.html %}
 
-[Vissza](./)
+[Vissza](../)

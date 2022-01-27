@@ -6,4 +6,4 @@ description: Becsvölgye
 
 {% include settlementHTMLs/Becsvooxlgye.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szilvásszentmárton
 
 {% include settlementHTMLs/Szilvaasszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

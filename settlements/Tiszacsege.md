@@ -6,4 +6,4 @@ description: Tiszacsege
 
 {% include settlementHTMLs/Tiszacsege.html %}
 
-[Vissza](./)
+[Vissza](../)

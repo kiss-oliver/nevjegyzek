@@ -6,4 +6,4 @@ description: Csákánydoroszló
 
 {% include settlementHTMLs/Csaakaanydoroszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

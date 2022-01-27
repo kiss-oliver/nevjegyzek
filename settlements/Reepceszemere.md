@@ -6,4 +6,4 @@ description: Répceszemere
 
 {% include settlementHTMLs/Reepceszemere.html %}
 
-[Vissza](./)
+[Vissza](../)

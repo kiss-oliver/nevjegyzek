@@ -6,4 +6,4 @@ description: Cered
 
 {% include settlementHTMLs/Cered.html %}
 
-[Vissza](./)
+[Vissza](../)

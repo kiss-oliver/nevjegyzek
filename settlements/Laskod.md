@@ -6,4 +6,4 @@ description: Laskod
 
 {% include settlementHTMLs/Laskod.html %}
 
-[Vissza](./)
+[Vissza](../)

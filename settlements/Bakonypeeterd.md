@@ -6,4 +6,4 @@ description: Bakonypéterd
 
 {% include settlementHTMLs/Bakonypeeterd.html %}
 
-[Vissza](./)
+[Vissza](../)

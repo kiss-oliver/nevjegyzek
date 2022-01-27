@@ -6,4 +6,4 @@ description: Tömörkény
 
 {% include settlementHTMLs/Tooxmooxrkeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

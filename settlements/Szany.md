@@ -6,4 +6,4 @@ description: Szany
 
 {% include settlementHTMLs/Szany.html %}
 
-[Vissza](./)
+[Vissza](../)

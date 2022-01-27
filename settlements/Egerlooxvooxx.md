@@ -6,4 +6,4 @@ description: Egerlövő
 
 {% include settlementHTMLs/Egerlooxvooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

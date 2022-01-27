@@ -6,4 +6,4 @@ description: Kercaszomor
 
 {% include settlementHTMLs/Kercaszomor.html %}
 
-[Vissza](./)
+[Vissza](../)

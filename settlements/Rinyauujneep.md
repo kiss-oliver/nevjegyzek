@@ -6,4 +6,4 @@ description: Rinyaújnép
 
 {% include settlementHTMLs/Rinyauujneep.html %}
 
-[Vissza](./)
+[Vissza](../)

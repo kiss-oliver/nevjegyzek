@@ -6,4 +6,4 @@ description: Kismányok
 
 {% include settlementHTMLs/Kismaanyok.html %}
 
-[Vissza](./)
+[Vissza](../)

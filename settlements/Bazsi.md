@@ -6,4 +6,4 @@ description: Bazsi
 
 {% include settlementHTMLs/Bazsi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyíracsád
 
 {% include settlementHTMLs/Nyiiracsaad.html %}
 
-[Vissza](./)
+[Vissza](../)

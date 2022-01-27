@@ -6,4 +6,4 @@ description: Kisnamény
 
 {% include settlementHTMLs/Kisnameeny.html %}
 
-[Vissza](./)
+[Vissza](../)

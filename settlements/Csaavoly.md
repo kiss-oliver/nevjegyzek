@@ -6,4 +6,4 @@ description: Csávoly
 
 {% include settlementHTMLs/Csaavoly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Abaújlak
 
 {% include settlementHTMLs/Abauujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

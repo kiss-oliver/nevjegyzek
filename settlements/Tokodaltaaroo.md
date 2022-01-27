@@ -6,4 +6,4 @@ description: Tokodaltáró
 
 {% include settlementHTMLs/Tokodaltaaroo.html %}
 
-[Vissza](./)
+[Vissza](../)

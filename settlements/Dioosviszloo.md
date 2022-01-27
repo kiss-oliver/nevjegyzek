@@ -6,4 +6,4 @@ description: Diósviszló
 
 {% include settlementHTMLs/Dioosviszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

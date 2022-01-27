@@ -6,4 +6,4 @@ description: Olaszliszka
 
 {% include settlementHTMLs/Olaszliszka.html %}
 
-[Vissza](./)
+[Vissza](../)

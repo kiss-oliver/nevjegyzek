@@ -6,4 +6,4 @@ description: Ináncs
 
 {% include settlementHTMLs/Inaancs.html %}
 
-[Vissza](./)
+[Vissza](../)

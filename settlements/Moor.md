@@ -6,4 +6,4 @@ description: Mór
 
 {% include settlementHTMLs/Moor.html %}
 
-[Vissza](./)
+[Vissza](../)

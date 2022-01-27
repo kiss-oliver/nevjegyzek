@@ -6,4 +6,4 @@ description: Kalocsa
 
 {% include settlementHTMLs/Kalocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

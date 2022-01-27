@@ -6,4 +6,4 @@ description: Perkupa
 
 {% include settlementHTMLs/Perkupa.html %}
 
-[Vissza](./)
+[Vissza](../)

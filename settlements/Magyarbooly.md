@@ -6,4 +6,4 @@ description: Magyarbóly
 
 {% include settlementHTMLs/Magyarbooly.html %}
 
-[Vissza](./)
+[Vissza](../)

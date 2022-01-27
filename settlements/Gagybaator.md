@@ -6,4 +6,4 @@ description: Gagybátor
 
 {% include settlementHTMLs/Gagybaator.html %}
 
-[Vissza](./)
+[Vissza](../)

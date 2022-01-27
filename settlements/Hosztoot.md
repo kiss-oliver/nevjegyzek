@@ -6,4 +6,4 @@ description: Hosztót
 
 {% include settlementHTMLs/Hosztoot.html %}
 
-[Vissza](./)
+[Vissza](../)

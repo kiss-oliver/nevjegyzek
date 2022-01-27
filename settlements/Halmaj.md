@@ -6,4 +6,4 @@ description: Halmaj
 
 {% include settlementHTMLs/Halmaj.html %}
 
-[Vissza](./)
+[Vissza](../)

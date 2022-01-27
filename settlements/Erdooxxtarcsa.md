@@ -6,4 +6,4 @@ description: Erdőtarcsa
 
 {% include settlementHTMLs/Erdooxxtarcsa.html %}
 
-[Vissza](./)
+[Vissza](../)

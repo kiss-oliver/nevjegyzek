@@ -6,4 +6,4 @@ description: Várdomb
 
 {% include settlementHTMLs/Vaardomb.html %}
 
-[Vissza](./)
+[Vissza](../)

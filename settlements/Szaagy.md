@@ -6,4 +6,4 @@ description: Szágy
 
 {% include settlementHTMLs/Szaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Öcsöd
 
 {% include settlementHTMLs/OOXcsooxd.html %}
 
-[Vissza](./)
+[Vissza](../)

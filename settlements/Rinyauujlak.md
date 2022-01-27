@@ -6,4 +6,4 @@ description: Rinyaújlak
 
 {% include settlementHTMLs/Rinyauujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

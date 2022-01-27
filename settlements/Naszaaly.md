@@ -6,4 +6,4 @@ description: Naszály
 
 {% include settlementHTMLs/Naszaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagyberény
 
 {% include settlementHTMLs/Nagybereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

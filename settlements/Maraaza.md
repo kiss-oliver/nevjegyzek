@@ -6,4 +6,4 @@ description: Maráza
 
 {% include settlementHTMLs/Maraaza.html %}
 
-[Vissza](./)
+[Vissza](../)

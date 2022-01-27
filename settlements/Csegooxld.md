@@ -6,4 +6,4 @@ description: Csegöld
 
 {% include settlementHTMLs/Csegooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

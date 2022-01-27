@@ -6,4 +6,4 @@ description: Nemesrempehollós
 
 {% include settlementHTMLs/Nemesrempeholloos.html %}
 
-[Vissza](./)
+[Vissza](../)

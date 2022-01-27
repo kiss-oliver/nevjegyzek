@@ -6,4 +6,4 @@ description: Tiszafüred
 
 {% include settlementHTMLs/Tiszafuuxred.html %}
 
-[Vissza](./)
+[Vissza](../)

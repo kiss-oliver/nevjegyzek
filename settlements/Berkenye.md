@@ -6,4 +6,4 @@ description: Berkenye
 
 {% include settlementHTMLs/Berkenye.html %}
 
-[Vissza](./)
+[Vissza](../)

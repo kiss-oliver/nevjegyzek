@@ -6,4 +6,4 @@ description: Nemeshetés
 
 {% include settlementHTMLs/Nemeshetees.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gödöllő
 
 {% include settlementHTMLs/Gooxdooxllooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

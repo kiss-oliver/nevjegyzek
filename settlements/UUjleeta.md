@@ -6,4 +6,4 @@ description: Újléta
 
 {% include settlementHTMLs/UUjleeta.html %}
 
-[Vissza](./)
+[Vissza](../)

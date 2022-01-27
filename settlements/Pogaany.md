@@ -6,4 +6,4 @@ description: Pogány
 
 {% include settlementHTMLs/Pogaany.html %}
 
-[Vissza](./)
+[Vissza](../)

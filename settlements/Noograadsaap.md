@@ -6,4 +6,4 @@ description: Nógrádsáp
 
 {% include settlementHTMLs/Noograadsaap.html %}
 
-[Vissza](./)
+[Vissza](../)

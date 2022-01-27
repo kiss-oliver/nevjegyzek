@@ -6,4 +6,4 @@ description: Petőfiszállás
 
 {% include settlementHTMLs/Petooxxfiszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

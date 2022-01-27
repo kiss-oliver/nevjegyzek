@@ -6,4 +6,4 @@ description: Harc
 
 {% include settlementHTMLs/Harc.html %}
 
-[Vissza](./)
+[Vissza](../)

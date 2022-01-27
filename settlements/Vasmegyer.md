@@ -6,4 +6,4 @@ description: Vasmegyer
 
 {% include settlementHTMLs/Vasmegyer.html %}
 
-[Vissza](./)
+[Vissza](../)

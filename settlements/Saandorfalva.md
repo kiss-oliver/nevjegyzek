@@ -6,4 +6,4 @@ description: Sándorfalva
 
 {% include settlementHTMLs/Saandorfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

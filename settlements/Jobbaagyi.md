@@ -6,4 +6,4 @@ description: Jobbágyi
 
 {% include settlementHTMLs/Jobbaagyi.html %}
 
-[Vissza](./)
+[Vissza](../)

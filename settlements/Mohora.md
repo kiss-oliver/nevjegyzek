@@ -6,4 +6,4 @@ description: Mohora
 
 {% include settlementHTMLs/Mohora.html %}
 
-[Vissza](./)
+[Vissza](../)

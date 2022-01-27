@@ -6,4 +6,4 @@ description: Vép
 
 {% include settlementHTMLs/Veep.html %}
 
-[Vissza](./)
+[Vissza](../)

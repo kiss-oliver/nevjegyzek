@@ -6,4 +6,4 @@ description: Tengeri
 
 {% include settlementHTMLs/Tengeri.html %}
 
-[Vissza](./)
+[Vissza](../)

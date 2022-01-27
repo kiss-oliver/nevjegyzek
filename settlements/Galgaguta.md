@@ -6,4 +6,4 @@ description: Galgaguta
 
 {% include settlementHTMLs/Galgaguta.html %}
 
-[Vissza](./)
+[Vissza](../)

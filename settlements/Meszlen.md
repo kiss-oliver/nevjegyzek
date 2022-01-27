@@ -6,4 +6,4 @@ description: Meszlen
 
 {% include settlementHTMLs/Meszlen.html %}
 
-[Vissza](./)
+[Vissza](../)

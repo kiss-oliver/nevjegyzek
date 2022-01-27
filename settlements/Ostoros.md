@@ -6,4 +6,4 @@ description: Ostoros
 
 {% include settlementHTMLs/Ostoros.html %}
 
-[Vissza](./)
+[Vissza](../)

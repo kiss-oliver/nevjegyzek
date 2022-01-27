@@ -6,4 +6,4 @@ description: Mezőgyán
 
 {% include settlementHTMLs/Mezooxxgyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

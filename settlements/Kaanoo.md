@@ -6,4 +6,4 @@ description: Kánó
 
 {% include settlementHTMLs/Kaanoo.html %}
 
-[Vissza](./)
+[Vissza](../)

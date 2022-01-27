@@ -6,4 +6,4 @@ description: Varga
 
 {% include settlementHTMLs/Varga.html %}
 
-[Vissza](./)
+[Vissza](../)

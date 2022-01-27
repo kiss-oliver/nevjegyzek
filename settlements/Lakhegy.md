@@ -6,4 +6,4 @@ description: Lakhegy
 
 {% include settlementHTMLs/Lakhegy.html %}
 
-[Vissza](./)
+[Vissza](../)

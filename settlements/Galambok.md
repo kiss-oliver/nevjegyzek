@@ -6,4 +6,4 @@ description: Galambok
 
 {% include settlementHTMLs/Galambok.html %}
 
-[Vissza](./)
+[Vissza](../)

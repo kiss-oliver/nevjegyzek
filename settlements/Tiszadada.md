@@ -6,4 +6,4 @@ description: Tiszadada
 
 {% include settlementHTMLs/Tiszadada.html %}
 
-[Vissza](./)
+[Vissza](../)

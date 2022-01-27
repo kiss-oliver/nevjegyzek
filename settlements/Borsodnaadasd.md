@@ -6,4 +6,4 @@ description: Borsodnádasd
 
 {% include settlementHTMLs/Borsodnaadasd.html %}
 
-[Vissza](./)
+[Vissza](../)

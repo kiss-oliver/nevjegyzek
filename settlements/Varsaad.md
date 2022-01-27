@@ -6,4 +6,4 @@ description: Varsád
 
 {% include settlementHTMLs/Varsaad.html %}
 
-[Vissza](./)
+[Vissza](../)

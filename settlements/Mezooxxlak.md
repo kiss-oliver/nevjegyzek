@@ -6,4 +6,4 @@ description: Mezőlak
 
 {% include settlementHTMLs/Mezooxxlak.html %}
 
-[Vissza](./)
+[Vissza](../)

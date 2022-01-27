@@ -6,4 +6,4 @@ description: Bodrogkeresztúr
 
 {% include settlementHTMLs/Bodrogkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

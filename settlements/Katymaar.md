@@ -6,4 +6,4 @@ description: Katymár
 
 {% include settlementHTMLs/Katymaar.html %}
 
-[Vissza](./)
+[Vissza](../)

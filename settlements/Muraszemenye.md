@@ -6,4 +6,4 @@ description: Muraszemenye
 
 {% include settlementHTMLs/Muraszemenye.html %}
 
-[Vissza](./)
+[Vissza](../)

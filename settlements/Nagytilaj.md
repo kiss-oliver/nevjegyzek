@@ -6,4 +6,4 @@ description: Nagytilaj
 
 {% include settlementHTMLs/Nagytilaj.html %}
 
-[Vissza](./)
+[Vissza](../)

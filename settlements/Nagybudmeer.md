@@ -6,4 +6,4 @@ description: Nagybudmér
 
 {% include settlementHTMLs/Nagybudmeer.html %}
 
-[Vissza](./)
+[Vissza](../)

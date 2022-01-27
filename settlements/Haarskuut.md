@@ -6,4 +6,4 @@ description: Hárskút
 
 {% include settlementHTMLs/Haarskuut.html %}
 
-[Vissza](./)
+[Vissza](../)

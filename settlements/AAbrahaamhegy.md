@@ -6,4 +6,4 @@ description: Ábrahámhegy
 
 {% include settlementHTMLs/AAbrahaamhegy.html %}
 
-[Vissza](./)
+[Vissza](../)

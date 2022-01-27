@@ -6,4 +6,4 @@ description: Berkesz
 
 {% include settlementHTMLs/Berkesz.html %}
 
-[Vissza](./)
+[Vissza](../)

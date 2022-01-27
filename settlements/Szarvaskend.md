@@ -6,4 +6,4 @@ description: Szarvaskend
 
 {% include settlementHTMLs/Szarvaskend.html %}
 
-[Vissza](./)
+[Vissza](../)

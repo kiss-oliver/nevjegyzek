@@ -6,4 +6,4 @@ description: Szügy
 
 {% include settlementHTMLs/Szuuxgy.html %}
 
-[Vissza](./)
+[Vissza](../)

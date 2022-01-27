@@ -6,4 +6,4 @@ description: Szomor
 
 {% include settlementHTMLs/Szomor.html %}
 
-[Vissza](./)
+[Vissza](../)

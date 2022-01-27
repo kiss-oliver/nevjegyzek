@@ -6,4 +6,4 @@ description: Vilonya
 
 {% include settlementHTMLs/Vilonya.html %}
 
-[Vissza](./)
+[Vissza](../)

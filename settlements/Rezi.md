@@ -6,4 +6,4 @@ description: Rezi
 
 {% include settlementHTMLs/Rezi.html %}
 
-[Vissza](./)
+[Vissza](../)

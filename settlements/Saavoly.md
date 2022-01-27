@@ -6,4 +6,4 @@ description: Sávoly
 
 {% include settlementHTMLs/Saavoly.html %}
 
-[Vissza](./)
+[Vissza](../)

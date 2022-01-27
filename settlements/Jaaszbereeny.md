@@ -6,4 +6,4 @@ description: Jászberény
 
 {% include settlementHTMLs/Jaaszbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

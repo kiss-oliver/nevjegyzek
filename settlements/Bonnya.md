@@ -6,4 +6,4 @@ description: Bonnya
 
 {% include settlementHTMLs/Bonnya.html %}
 
-[Vissza](./)
+[Vissza](../)

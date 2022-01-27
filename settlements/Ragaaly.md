@@ -6,4 +6,4 @@ description: Ragály
 
 {% include settlementHTMLs/Ragaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

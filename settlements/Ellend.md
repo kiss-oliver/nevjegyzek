@@ -6,4 +6,4 @@ description: Ellend
 
 {% include settlementHTMLs/Ellend.html %}
 
-[Vissza](./)
+[Vissza](../)

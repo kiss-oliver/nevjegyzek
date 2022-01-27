@@ -6,4 +6,4 @@ description: Bélmegyer
 
 {% include settlementHTMLs/Beelmegyer.html %}
 
-[Vissza](./)
+[Vissza](../)

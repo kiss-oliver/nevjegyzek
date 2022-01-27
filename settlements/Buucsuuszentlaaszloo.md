@@ -6,4 +6,4 @@ description: Búcsúszentlászló
 
 {% include settlementHTMLs/Buucsuuszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

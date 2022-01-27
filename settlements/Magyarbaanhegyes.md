@@ -6,4 +6,4 @@ description: Magyarbánhegyes
 
 {% include settlementHTMLs/Magyarbaanhegyes.html %}
 
-[Vissza](./)
+[Vissza](../)

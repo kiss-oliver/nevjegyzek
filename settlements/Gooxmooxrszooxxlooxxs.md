@@ -6,4 +6,4 @@ description: Gömörszőlős
 
 {% include settlementHTMLs/Gooxmooxrszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

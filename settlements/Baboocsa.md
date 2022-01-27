@@ -6,4 +6,4 @@ description: Babócsa
 
 {% include settlementHTMLs/Baboocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

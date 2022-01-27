@@ -6,4 +6,4 @@ description: Ádánd
 
 {% include settlementHTMLs/AAdaand.html %}
 
-[Vissza](./)
+[Vissza](../)

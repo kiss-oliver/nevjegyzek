@@ -6,4 +6,4 @@ description: Petrivente
 
 {% include settlementHTMLs/Petrivente.html %}
 
-[Vissza](./)
+[Vissza](../)

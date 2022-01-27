@@ -6,4 +6,4 @@ description: Nyírtét
 
 {% include settlementHTMLs/Nyiirteet.html %}
 
-[Vissza](./)
+[Vissza](../)

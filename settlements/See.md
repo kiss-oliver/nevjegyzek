@@ -6,4 +6,4 @@ description: Sé
 
 {% include settlementHTMLs/See.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kosd
 
 {% include settlementHTMLs/Kosd.html %}
 
-[Vissza](./)
+[Vissza](../)

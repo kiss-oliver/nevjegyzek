@@ -6,4 +6,4 @@ description: Rábcakapi
 
 {% include settlementHTMLs/Raabcakapi.html %}
 
-[Vissza](./)
+[Vissza](../)

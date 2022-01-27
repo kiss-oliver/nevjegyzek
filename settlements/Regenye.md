@@ -6,4 +6,4 @@ description: Regenye
 
 {% include settlementHTMLs/Regenye.html %}
 
-[Vissza](./)
+[Vissza](../)

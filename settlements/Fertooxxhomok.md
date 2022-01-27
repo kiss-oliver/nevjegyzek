@@ -6,4 +6,4 @@ description: Fertőhomok
 
 {% include settlementHTMLs/Fertooxxhomok.html %}
 
-[Vissza](./)
+[Vissza](../)

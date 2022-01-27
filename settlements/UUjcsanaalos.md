@@ -6,4 +6,4 @@ description: Újcsanálos
 
 {% include settlementHTMLs/UUjcsanaalos.html %}
 
-[Vissza](./)
+[Vissza](../)

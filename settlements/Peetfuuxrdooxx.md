@@ -6,4 +6,4 @@ description: Pétfürdő
 
 {% include settlementHTMLs/Peetfuuxrdooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

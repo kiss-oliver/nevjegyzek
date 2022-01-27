@@ -6,4 +6,4 @@ description: Ruzsa
 
 {% include settlementHTMLs/Ruzsa.html %}
 
-[Vissza](./)
+[Vissza](../)

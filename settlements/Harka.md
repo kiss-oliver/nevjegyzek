@@ -6,4 +6,4 @@ description: Harka
 
 {% include settlementHTMLs/Harka.html %}
 
-[Vissza](./)
+[Vissza](../)

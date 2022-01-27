@@ -6,4 +6,4 @@ description: Bihartorda
 
 {% include settlementHTMLs/Bihartorda.html %}
 
-[Vissza](./)
+[Vissza](../)

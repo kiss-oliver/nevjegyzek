@@ -6,4 +6,4 @@ description: Szentkozmadombja
 
 {% include settlementHTMLs/Szentkozmadombja.html %}
 
-[Vissza](./)
+[Vissza](../)

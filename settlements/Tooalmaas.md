@@ -6,4 +6,4 @@ description: Tóalmás
 
 {% include settlementHTMLs/Tooalmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Alsónémedi
 
 {% include settlementHTMLs/Alsooneemedi.html %}
 
-[Vissza](./)
+[Vissza](../)

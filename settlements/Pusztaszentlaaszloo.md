@@ -6,4 +6,4 @@ description: Pusztaszentlászló
 
 {% include settlementHTMLs/Pusztaszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

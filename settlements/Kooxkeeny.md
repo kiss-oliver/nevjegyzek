@@ -6,4 +6,4 @@ description: Kökény
 
 {% include settlementHTMLs/Kooxkeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

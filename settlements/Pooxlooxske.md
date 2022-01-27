@@ -6,4 +6,4 @@ description: Pölöske
 
 {% include settlementHTMLs/Pooxlooxske.html %}
 
-[Vissza](./)
+[Vissza](../)

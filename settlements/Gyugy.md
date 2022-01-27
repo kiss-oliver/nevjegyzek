@@ -6,4 +6,4 @@ description: Gyugy
 
 {% include settlementHTMLs/Gyugy.html %}
 
-[Vissza](./)
+[Vissza](../)

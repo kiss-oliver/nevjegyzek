@@ -6,4 +6,4 @@ description: Lippó
 
 {% include settlementHTMLs/Lippoo.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nyíri
 
 {% include settlementHTMLs/Nyiiri.html %}
 
-[Vissza](./)
+[Vissza](../)

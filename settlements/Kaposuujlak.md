@@ -6,4 +6,4 @@ description: Kaposújlak
 
 {% include settlementHTMLs/Kaposuujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

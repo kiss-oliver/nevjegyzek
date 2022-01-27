@@ -6,4 +6,4 @@ description: Vajta
 
 {% include settlementHTMLs/Vajta.html %}
 
-[Vissza](./)
+[Vissza](../)

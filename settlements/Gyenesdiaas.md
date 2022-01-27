@@ -6,4 +6,4 @@ description: Gyenesdiás
 
 {% include settlementHTMLs/Gyenesdiaas.html %}
 
-[Vissza](./)
+[Vissza](../)

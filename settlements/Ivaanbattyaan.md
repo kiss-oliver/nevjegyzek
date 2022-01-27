@@ -6,4 +6,4 @@ description: Ivánbattyán
 
 {% include settlementHTMLs/Ivaanbattyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tök
 
 {% include settlementHTMLs/Tooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

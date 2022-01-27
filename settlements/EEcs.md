@@ -6,4 +6,4 @@ description: Écs
 
 {% include settlementHTMLs/EEcs.html %}
 
-[Vissza](./)
+[Vissza](../)

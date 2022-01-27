@@ -6,4 +6,4 @@ description: Nagykapornak
 
 {% include settlementHTMLs/Nagykapornak.html %}
 
-[Vissza](./)
+[Vissza](../)

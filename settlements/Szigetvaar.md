@@ -6,4 +6,4 @@ description: Szigetvár
 
 {% include settlementHTMLs/Szigetvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lakitelek
 
 {% include settlementHTMLs/Lakitelek.html %}
 
-[Vissza](./)
+[Vissza](../)

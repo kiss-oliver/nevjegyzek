@@ -6,4 +6,4 @@ description: Tataháza
 
 {% include settlementHTMLs/Tatahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

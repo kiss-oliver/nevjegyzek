@@ -6,4 +6,4 @@ description: Varbó
 
 {% include settlementHTMLs/Varboo.html %}
 
-[Vissza](./)
+[Vissza](../)

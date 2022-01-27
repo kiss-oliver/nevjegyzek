@@ -6,4 +6,4 @@ description: Várbalog
 
 {% include settlementHTMLs/Vaarbalog.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Révfülöp
 
 {% include settlementHTMLs/Reevfuuxlooxp.html %}
 
-[Vissza](./)
+[Vissza](../)

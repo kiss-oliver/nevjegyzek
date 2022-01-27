@@ -6,4 +6,4 @@ description: Zalaigrice
 
 {% include settlementHTMLs/Zalaigrice.html %}
 
-[Vissza](./)
+[Vissza](../)

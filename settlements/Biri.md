@@ -6,4 +6,4 @@ description: Biri
 
 {% include settlementHTMLs/Biri.html %}
 
-[Vissza](./)
+[Vissza](../)

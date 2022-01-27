@@ -6,4 +6,4 @@ description: Kölcse
 
 {% include settlementHTMLs/Kooxlcse.html %}
 
-[Vissza](./)
+[Vissza](../)

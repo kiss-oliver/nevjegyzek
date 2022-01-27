@@ -6,4 +6,4 @@ description: Csénye
 
 {% include settlementHTMLs/Cseenye.html %}
 
-[Vissza](./)
+[Vissza](../)

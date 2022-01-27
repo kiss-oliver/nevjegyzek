@@ -6,4 +6,4 @@ description: Parád
 
 {% include settlementHTMLs/Paraad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ibrány
 
 {% include settlementHTMLs/Ibraany.html %}
 
-[Vissza](./)
+[Vissza](../)

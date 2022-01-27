@@ -6,4 +6,4 @@ description: Balatonfenyves
 
 {% include settlementHTMLs/Balatonfenyves.html %}
 
-[Vissza](./)
+[Vissza](../)

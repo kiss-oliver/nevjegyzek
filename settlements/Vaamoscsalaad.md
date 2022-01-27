@@ -6,4 +6,4 @@ description: Vámoscsalád
 
 {% include settlementHTMLs/Vaamoscsalaad.html %}
 
-[Vissza](./)
+[Vissza](../)

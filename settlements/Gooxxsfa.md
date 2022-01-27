@@ -6,4 +6,4 @@ description: Gősfa
 
 {% include settlementHTMLs/Gooxxsfa.html %}
 
-[Vissza](./)
+[Vissza](../)

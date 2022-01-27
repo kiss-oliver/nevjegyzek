@@ -6,4 +6,4 @@ description: Nyáregyháza
 
 {% include settlementHTMLs/Nyaaregyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

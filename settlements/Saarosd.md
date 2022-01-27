@@ -6,4 +6,4 @@ description: Sárosd
 
 {% include settlementHTMLs/Saarosd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Berkesd
 
 {% include settlementHTMLs/Berkesd.html %}
 
-[Vissza](./)
+[Vissza](../)

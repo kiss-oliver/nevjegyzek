@@ -6,4 +6,4 @@ description: Hegyhátmaróc
 
 {% include settlementHTMLs/Hegyhaatmarooc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Apagy
 
 {% include settlementHTMLs/Apagy.html %}
 
-[Vissza](./)
+[Vissza](../)

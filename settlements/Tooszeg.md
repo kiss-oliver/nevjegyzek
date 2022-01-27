@@ -6,4 +6,4 @@ description: Tószeg
 
 {% include settlementHTMLs/Tooszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

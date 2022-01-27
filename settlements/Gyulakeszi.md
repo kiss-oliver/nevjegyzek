@@ -6,4 +6,4 @@ description: Gyulakeszi
 
 {% include settlementHTMLs/Gyulakeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

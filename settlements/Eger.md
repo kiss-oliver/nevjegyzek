@@ -6,4 +6,4 @@ description: Eger
 
 {% include settlementHTMLs/Eger.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Marcalgergelyi
 
 {% include settlementHTMLs/Marcalgergelyi.html %}
 
-[Vissza](./)
+[Vissza](../)

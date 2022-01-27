@@ -6,4 +6,4 @@ description: Dormánd
 
 {% include settlementHTMLs/Dormaand.html %}
 
-[Vissza](./)
+[Vissza](../)

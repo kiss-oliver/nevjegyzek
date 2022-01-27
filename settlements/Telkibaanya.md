@@ -6,4 +6,4 @@ description: Telkibánya
 
 {% include settlementHTMLs/Telkibaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

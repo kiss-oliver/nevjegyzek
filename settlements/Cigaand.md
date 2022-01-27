@@ -6,4 +6,4 @@ description: Cigánd
 
 {% include settlementHTMLs/Cigaand.html %}
 
-[Vissza](./)
+[Vissza](../)

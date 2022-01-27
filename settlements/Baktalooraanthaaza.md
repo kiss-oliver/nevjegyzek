@@ -6,4 +6,4 @@ description: Baktalórántháza
 
 {% include settlementHTMLs/Baktalooraanthaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

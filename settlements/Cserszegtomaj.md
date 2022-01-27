@@ -6,4 +6,4 @@ description: Cserszegtomaj
 
 {% include settlementHTMLs/Cserszegtomaj.html %}
 
-[Vissza](./)
+[Vissza](../)

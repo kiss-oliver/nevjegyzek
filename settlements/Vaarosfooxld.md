@@ -6,4 +6,4 @@ description: Városföld
 
 {% include settlementHTMLs/Vaarosfooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

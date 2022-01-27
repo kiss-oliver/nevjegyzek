@@ -6,4 +6,4 @@ description: Patapoklosi
 
 {% include settlementHTMLs/Patapoklosi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Maglód
 
 {% include settlementHTMLs/Maglood.html %}
 
-[Vissza](./)
+[Vissza](../)

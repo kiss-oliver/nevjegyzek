@@ -6,4 +6,4 @@ description: Lénárddaróc
 
 {% include settlementHTMLs/Leenaarddarooc.html %}
 
-[Vissza](./)
+[Vissza](../)

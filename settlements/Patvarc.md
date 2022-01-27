@@ -6,4 +6,4 @@ description: Patvarc
 
 {% include settlementHTMLs/Patvarc.html %}
 
-[Vissza](./)
+[Vissza](../)

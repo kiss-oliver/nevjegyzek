@@ -6,4 +6,4 @@ description: Szikszó
 
 {% include settlementHTMLs/Szikszoo.html %}
 
-[Vissza](./)
+[Vissza](../)

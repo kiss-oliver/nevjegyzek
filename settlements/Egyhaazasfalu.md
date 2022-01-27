@@ -6,4 +6,4 @@ description: Egyházasfalu
 
 {% include settlementHTMLs/Egyhaazasfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Fedémes
 
 {% include settlementHTMLs/Fedeemes.html %}
 
-[Vissza](./)
+[Vissza](../)

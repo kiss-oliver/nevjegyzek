@@ -6,4 +6,4 @@ description: Csér
 
 {% include settlementHTMLs/Cseer.html %}
 
-[Vissza](./)
+[Vissza](../)

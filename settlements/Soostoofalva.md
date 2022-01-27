@@ -6,4 +6,4 @@ description: Sóstófalva
 
 {% include settlementHTMLs/Soostoofalva.html %}
 
-[Vissza](./)
+[Vissza](../)

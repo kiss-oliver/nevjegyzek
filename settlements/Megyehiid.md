@@ -6,4 +6,4 @@ description: Megyehíd
 
 {% include settlementHTMLs/Megyehiid.html %}
 
-[Vissza](./)
+[Vissza](../)

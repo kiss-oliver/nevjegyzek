@@ -6,4 +6,4 @@ description: Keszeg
 
 {% include settlementHTMLs/Keszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Taliándörögd
 
 {% include settlementHTMLs/Taliaandooxrooxgd.html %}
 
-[Vissza](./)
+[Vissza](../)

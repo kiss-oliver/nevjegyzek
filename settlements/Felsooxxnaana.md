@@ -6,4 +6,4 @@ description: Felsőnána
 
 {% include settlementHTMLs/Felsooxxnaana.html %}
 
-[Vissza](./)
+[Vissza](../)

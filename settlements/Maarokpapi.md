@@ -6,4 +6,4 @@ description: Márokpapi
 
 {% include settlementHTMLs/Maarokpapi.html %}
 
-[Vissza](./)
+[Vissza](../)

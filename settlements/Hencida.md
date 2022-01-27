@@ -6,4 +6,4 @@ description: Hencida
 
 {% include settlementHTMLs/Hencida.html %}
 
-[Vissza](./)
+[Vissza](../)

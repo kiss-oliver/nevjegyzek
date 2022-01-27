@@ -6,4 +6,4 @@ description: Karancsalja
 
 {% include settlementHTMLs/Karancsalja.html %}
 
-[Vissza](./)
+[Vissza](../)

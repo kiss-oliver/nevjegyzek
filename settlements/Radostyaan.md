@@ -6,4 +6,4 @@ description: Radostyán
 
 {% include settlementHTMLs/Radostyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

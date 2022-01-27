@@ -6,4 +6,4 @@ description: Velem
 
 {% include settlementHTMLs/Velem.html %}
 
-[Vissza](./)
+[Vissza](../)

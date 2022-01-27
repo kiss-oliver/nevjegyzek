@@ -6,4 +6,4 @@ description: Csonkamindszent
 
 {% include settlementHTMLs/Csonkamindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

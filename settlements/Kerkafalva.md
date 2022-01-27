@@ -6,4 +6,4 @@ description: Kerkafalva
 
 {% include settlementHTMLs/Kerkafalva.html %}
 
-[Vissza](./)
+[Vissza](../)

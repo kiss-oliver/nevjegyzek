@@ -6,4 +6,4 @@ description: Szakmár
 
 {% include settlementHTMLs/Szakmaar.html %}
 
-[Vissza](./)
+[Vissza](../)

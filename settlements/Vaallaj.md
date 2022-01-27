@@ -6,4 +6,4 @@ description: Vállaj
 
 {% include settlementHTMLs/Vaallaj.html %}
 
-[Vissza](./)
+[Vissza](../)

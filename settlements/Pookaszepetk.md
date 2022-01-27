@@ -6,4 +6,4 @@ description: Pókaszepetk
 
 {% include settlementHTMLs/Pookaszepetk.html %}
 
-[Vissza](./)
+[Vissza](../)

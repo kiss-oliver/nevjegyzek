@@ -6,4 +6,4 @@ description: Gyöngyöstarján
 
 {% include settlementHTMLs/Gyooxngyooxstarjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

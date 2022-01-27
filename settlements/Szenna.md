@@ -6,4 +6,4 @@ description: Szenna
 
 {% include settlementHTMLs/Szenna.html %}
 
-[Vissza](./)
+[Vissza](../)

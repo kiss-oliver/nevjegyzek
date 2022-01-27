@@ -6,4 +6,4 @@ description: Felsőszölnök
 
 {% include settlementHTMLs/Felsooxxszooxlnooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

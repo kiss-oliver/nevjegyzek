@@ -6,4 +6,4 @@ description: Ófalu
 
 {% include settlementHTMLs/OOfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

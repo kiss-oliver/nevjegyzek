@@ -6,4 +6,4 @@ description: Szamosangyalos
 
 {% include settlementHTMLs/Szamosangyalos.html %}
 
-[Vissza](./)
+[Vissza](../)

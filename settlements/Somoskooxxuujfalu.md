@@ -6,4 +6,4 @@ description: Somoskőújfalu
 
 {% include settlementHTMLs/Somoskooxxuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

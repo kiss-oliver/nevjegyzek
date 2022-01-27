@@ -6,4 +6,4 @@ description: Felsődobsza
 
 {% include settlementHTMLs/Felsooxxdobsza.html %}
 
-[Vissza](./)
+[Vissza](../)

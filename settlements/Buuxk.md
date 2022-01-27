@@ -6,4 +6,4 @@ description: Bük
 
 {% include settlementHTMLs/Buuxk.html %}
 
-[Vissza](./)
+[Vissza](../)

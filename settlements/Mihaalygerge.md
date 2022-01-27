@@ -6,4 +6,4 @@ description: Mihálygerge
 
 {% include settlementHTMLs/Mihaalygerge.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vásárosfalu
 
 {% include settlementHTMLs/Vaasaarosfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

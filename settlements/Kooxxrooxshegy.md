@@ -6,4 +6,4 @@ description: Kőröshegy
 
 {% include settlementHTMLs/Kooxxrooxshegy.html %}
 
-[Vissza](./)
+[Vissza](../)

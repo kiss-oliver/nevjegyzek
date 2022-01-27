@@ -6,4 +6,4 @@ description: Szentdomonkos
 
 {% include settlementHTMLs/Szentdomonkos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Újszilvás
 
 {% include settlementHTMLs/UUjszilvaas.html %}
 
-[Vissza](./)
+[Vissza](../)

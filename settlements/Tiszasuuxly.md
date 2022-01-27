@@ -6,4 +6,4 @@ description: Tiszasüly
 
 {% include settlementHTMLs/Tiszasuuxly.html %}
 
-[Vissza](./)
+[Vissza](../)

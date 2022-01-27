@@ -6,4 +6,4 @@ description: Ököritófülpös
 
 {% include settlementHTMLs/OOXkooxritoofuuxlpooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

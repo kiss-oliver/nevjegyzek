@@ -6,4 +6,4 @@ description: Abaliget
 
 {% include settlementHTMLs/Abaliget.html %}
 
-[Vissza](./)
+[Vissza](../)

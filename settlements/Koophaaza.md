@@ -6,4 +6,4 @@ description: Kópháza
 
 {% include settlementHTMLs/Koophaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

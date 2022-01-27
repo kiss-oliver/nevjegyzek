@@ -6,4 +6,4 @@ description: Basal
 
 {% include settlementHTMLs/Basal.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszasziget
 
 {% include settlementHTMLs/Tiszasziget.html %}
 
-[Vissza](./)
+[Vissza](../)

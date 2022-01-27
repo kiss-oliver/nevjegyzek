@@ -6,4 +6,4 @@ description: Szegi
 
 {% include settlementHTMLs/Szegi.html %}
 
-[Vissza](./)
+[Vissza](../)

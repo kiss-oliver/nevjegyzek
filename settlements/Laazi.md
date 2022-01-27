@@ -6,4 +6,4 @@ description: Lázi
 
 {% include settlementHTMLs/Laazi.html %}
 
-[Vissza](./)
+[Vissza](../)

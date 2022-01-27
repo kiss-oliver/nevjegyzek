@@ -6,4 +6,4 @@ description: Meződ
 
 {% include settlementHTMLs/Mezooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

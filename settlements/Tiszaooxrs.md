@@ -6,4 +6,4 @@ description: Tiszaörs
 
 {% include settlementHTMLs/Tiszaooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

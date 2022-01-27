@@ -6,4 +6,4 @@ description: Nagyecsed
 
 {% include settlementHTMLs/Nagyecsed.html %}
 
-[Vissza](./)
+[Vissza](../)

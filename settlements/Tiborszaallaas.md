@@ -6,4 +6,4 @@ description: Tiborszállás
 
 {% include settlementHTMLs/Tiborszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

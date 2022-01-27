@@ -6,4 +6,4 @@ description: Bakonytamási
 
 {% include settlementHTMLs/Bakonytamaasi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Füzérradvány
 
 {% include settlementHTMLs/Fuuxzeerradvaany.html %}
 
-[Vissza](./)
+[Vissza](../)

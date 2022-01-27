@@ -6,4 +6,4 @@ description: Bodroghalom
 
 {% include settlementHTMLs/Bodroghalom.html %}
 
-[Vissza](./)
+[Vissza](../)

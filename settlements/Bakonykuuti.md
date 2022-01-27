@@ -6,4 +6,4 @@ description: Bakonykúti
 
 {% include settlementHTMLs/Bakonykuuti.html %}
 
-[Vissza](./)
+[Vissza](../)

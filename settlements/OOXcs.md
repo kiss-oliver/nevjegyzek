@@ -6,4 +6,4 @@ description: Öcs
 
 {% include settlementHTMLs/OOXcs.html %}
 
-[Vissza](./)
+[Vissza](../)

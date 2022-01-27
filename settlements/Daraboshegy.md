@@ -6,4 +6,4 @@ description: Daraboshegy
 
 {% include settlementHTMLs/Daraboshegy.html %}
 
-[Vissza](./)
+[Vissza](../)

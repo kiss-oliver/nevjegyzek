@@ -6,4 +6,4 @@ description: Karancslapujtő
 
 {% include settlementHTMLs/Karancslapujtooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

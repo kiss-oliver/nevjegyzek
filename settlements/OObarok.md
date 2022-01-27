@@ -6,4 +6,4 @@ description: Óbarok
 
 {% include settlementHTMLs/OObarok.html %}
 
-[Vissza](./)
+[Vissza](../)

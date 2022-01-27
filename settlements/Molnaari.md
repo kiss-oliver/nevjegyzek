@@ -6,4 +6,4 @@ description: Molnári
 
 {% include settlementHTMLs/Molnaari.html %}
 
-[Vissza](./)
+[Vissza](../)

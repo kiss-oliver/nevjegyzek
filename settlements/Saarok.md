@@ -6,4 +6,4 @@ description: Sárok
 
 {% include settlementHTMLs/Saarok.html %}
 
-[Vissza](./)
+[Vissza](../)

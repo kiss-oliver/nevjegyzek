@@ -6,4 +6,4 @@ description: Károlyháza
 
 {% include settlementHTMLs/Kaarolyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Magyardombegyház
 
 {% include settlementHTMLs/Magyardombegyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

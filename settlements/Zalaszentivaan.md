@@ -6,4 +6,4 @@ description: Zalaszentiván
 
 {% include settlementHTMLs/Zalaszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

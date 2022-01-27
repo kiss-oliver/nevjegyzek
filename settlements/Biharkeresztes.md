@@ -6,4 +6,4 @@ description: Biharkeresztes
 
 {% include settlementHTMLs/Biharkeresztes.html %}
 
-[Vissza](./)
+[Vissza](../)

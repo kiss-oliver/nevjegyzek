@@ -6,4 +6,4 @@ description: Győrladamér
 
 {% include settlementHTMLs/Gyooxxrladameer.html %}
 
-[Vissza](./)
+[Vissza](../)

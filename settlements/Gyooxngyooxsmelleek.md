@@ -6,4 +6,4 @@ description: Gyöngyösmellék
 
 {% include settlementHTMLs/Gyooxngyooxsmelleek.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szerencs
 
 {% include settlementHTMLs/Szerencs.html %}
 
-[Vissza](./)
+[Vissza](../)

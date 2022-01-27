@@ -6,4 +6,4 @@ description: Kocsér
 
 {% include settlementHTMLs/Kocseer.html %}
 
-[Vissza](./)
+[Vissza](../)

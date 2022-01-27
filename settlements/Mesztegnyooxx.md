@@ -6,4 +6,4 @@ description: Mesztegnyő
 
 {% include settlementHTMLs/Mesztegnyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

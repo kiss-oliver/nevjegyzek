@@ -6,4 +6,4 @@ description: Somlójenő
 
 {% include settlementHTMLs/Somloojenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

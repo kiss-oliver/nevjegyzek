@@ -6,4 +6,4 @@ description: Kőszárhegy
 
 {% include settlementHTMLs/Kooxxszaarhegy.html %}
 
-[Vissza](./)
+[Vissza](../)

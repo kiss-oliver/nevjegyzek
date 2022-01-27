@@ -6,4 +6,4 @@ description: Böde
 
 {% include settlementHTMLs/Booxde.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Aggtelek
 
 {% include settlementHTMLs/Aggtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

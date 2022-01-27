@@ -6,4 +6,4 @@ description: Kisoroszi
 
 {% include settlementHTMLs/Kisoroszi.html %}
 
-[Vissza](./)
+[Vissza](../)

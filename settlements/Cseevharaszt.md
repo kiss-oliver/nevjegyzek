@@ -6,4 +6,4 @@ description: Csévharaszt
 
 {% include settlementHTMLs/Cseevharaszt.html %}
 
-[Vissza](./)
+[Vissza](../)

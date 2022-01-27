@@ -6,4 +6,4 @@ description: Nádudvar
 
 {% include settlementHTMLs/Naadudvar.html %}
 
-[Vissza](./)
+[Vissza](../)

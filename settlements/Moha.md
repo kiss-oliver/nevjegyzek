@@ -6,4 +6,4 @@ description: Moha
 
 {% include settlementHTMLs/Moha.html %}
 
-[Vissza](./)
+[Vissza](../)

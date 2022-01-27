@@ -6,4 +6,4 @@ description: Kalaznó
 
 {% include settlementHTMLs/Kalaznoo.html %}
 
-[Vissza](./)
+[Vissza](../)

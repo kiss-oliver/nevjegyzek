@@ -6,4 +6,4 @@ description: Hernyék
 
 {% include settlementHTMLs/Hernyeek.html %}
 
-[Vissza](./)
+[Vissza](../)

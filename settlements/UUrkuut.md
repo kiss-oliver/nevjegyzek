@@ -6,4 +6,4 @@ description: Úrkút
 
 {% include settlementHTMLs/UUrkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

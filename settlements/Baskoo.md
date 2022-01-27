@@ -6,4 +6,4 @@ description: Baskó
 
 {% include settlementHTMLs/Baskoo.html %}
 
-[Vissza](./)
+[Vissza](../)

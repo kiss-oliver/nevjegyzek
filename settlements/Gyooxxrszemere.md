@@ -6,4 +6,4 @@ description: Győrszemere
 
 {% include settlementHTMLs/Gyooxxrszemere.html %}
 
-[Vissza](./)
+[Vissza](../)

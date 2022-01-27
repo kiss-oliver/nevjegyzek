@@ -6,4 +6,4 @@ description: Vasalja
 
 {% include settlementHTMLs/Vasalja.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vízvár
 
 {% include settlementHTMLs/Viizvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

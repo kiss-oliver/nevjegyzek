@@ -6,4 +6,4 @@ description: Farmos
 
 {% include settlementHTMLs/Farmos.html %}
 
-[Vissza](./)
+[Vissza](../)

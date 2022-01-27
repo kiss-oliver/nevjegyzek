@@ -6,4 +6,4 @@ description: Arló
 
 {% include settlementHTMLs/Arloo.html %}
 
-[Vissza](./)
+[Vissza](../)

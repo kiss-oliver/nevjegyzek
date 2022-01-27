@@ -6,4 +6,4 @@ description: Jásztelek
 
 {% include settlementHTMLs/Jaasztelek.html %}
 
-[Vissza](./)
+[Vissza](../)

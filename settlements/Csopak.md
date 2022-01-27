@@ -6,4 +6,4 @@ description: Csopak
 
 {% include settlementHTMLs/Csopak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagyrév
 
 {% include settlementHTMLs/Nagyreev.html %}
 
-[Vissza](./)
+[Vissza](../)

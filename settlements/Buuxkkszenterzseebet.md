@@ -6,4 +6,4 @@ description: Bükkszenterzsébet
 
 {% include settlementHTMLs/Buuxkkszenterzseebet.html %}
 
-[Vissza](./)
+[Vissza](../)

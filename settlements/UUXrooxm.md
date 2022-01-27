@@ -6,4 +6,4 @@ description: Üröm
 
 {% include settlementHTMLs/UUXrooxm.html %}
 
-[Vissza](./)
+[Vissza](../)

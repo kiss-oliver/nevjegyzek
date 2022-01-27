@@ -6,4 +6,4 @@ description: Nyékládháza
 
 {% include settlementHTMLs/Nyeeklaadhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

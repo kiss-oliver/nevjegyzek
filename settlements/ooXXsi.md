@@ -6,4 +6,4 @@ description: Ősi
 
 {% include settlementHTMLs/ooXXsi.html %}
 
-[Vissza](./)
+[Vissza](../)

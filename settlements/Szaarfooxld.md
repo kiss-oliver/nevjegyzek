@@ -6,4 +6,4 @@ description: Szárföld
 
 {% include settlementHTMLs/Szaarfooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

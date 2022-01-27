@@ -6,4 +6,4 @@ description: Égerszög
 
 {% include settlementHTMLs/EEgerszooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ballószög
 
 {% include settlementHTMLs/Ballooszooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

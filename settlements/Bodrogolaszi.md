@@ -6,4 +6,4 @@ description: Bodrogolaszi
 
 {% include settlementHTMLs/Bodrogolaszi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mezőtúr
 
 {% include settlementHTMLs/Mezooxxtuur.html %}
 
-[Vissza](./)
+[Vissza](../)

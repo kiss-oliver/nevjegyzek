@@ -6,4 +6,4 @@ description: Orci
 
 {% include settlementHTMLs/Orci.html %}
 
-[Vissza](./)
+[Vissza](../)

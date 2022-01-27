@@ -6,4 +6,4 @@ description: Birján
 
 {% include settlementHTMLs/Birjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

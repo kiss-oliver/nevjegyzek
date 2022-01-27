@@ -6,4 +6,4 @@ description: Vokány
 
 {% include settlementHTMLs/Vokaany.html %}
 
-[Vissza](./)
+[Vissza](../)

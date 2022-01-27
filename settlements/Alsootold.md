@@ -6,4 +6,4 @@ description: Alsótold
 
 {% include settlementHTMLs/Alsootold.html %}
 
-[Vissza](./)
+[Vissza](../)

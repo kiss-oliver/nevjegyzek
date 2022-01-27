@@ -6,4 +6,4 @@ description: Borzavár
 
 {% include settlementHTMLs/Borzavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

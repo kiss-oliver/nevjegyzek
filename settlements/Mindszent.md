@@ -6,4 +6,4 @@ description: Mindszent
 
 {% include settlementHTMLs/Mindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

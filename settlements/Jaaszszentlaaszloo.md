@@ -6,4 +6,4 @@ description: Jászszentlászló
 
 {% include settlementHTMLs/Jaaszszentlaaszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

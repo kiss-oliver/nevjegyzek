@@ -6,4 +6,4 @@ description: Ónod
 
 {% include settlementHTMLs/OOnod.html %}
 
-[Vissza](./)
+[Vissza](../)

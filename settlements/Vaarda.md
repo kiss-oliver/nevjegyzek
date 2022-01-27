@@ -6,4 +6,4 @@ description: Várda
 
 {% include settlementHTMLs/Vaarda.html %}
 
-[Vissza](./)
+[Vissza](../)

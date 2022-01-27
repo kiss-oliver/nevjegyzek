@@ -6,4 +6,4 @@ description: Pócspetri
 
 {% include settlementHTMLs/Poocspetri.html %}
 
-[Vissza](./)
+[Vissza](../)

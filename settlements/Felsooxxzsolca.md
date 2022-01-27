@@ -6,4 +6,4 @@ description: Felsőzsolca
 
 {% include settlementHTMLs/Felsooxxzsolca.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisszállás
 
 {% include settlementHTMLs/Kisszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

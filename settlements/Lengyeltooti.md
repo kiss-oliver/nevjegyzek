@@ -6,4 +6,4 @@ description: Lengyeltóti
 
 {% include settlementHTMLs/Lengyeltooti.html %}
 
-[Vissza](./)
+[Vissza](../)

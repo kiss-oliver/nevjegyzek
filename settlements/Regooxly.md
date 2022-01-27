@@ -6,4 +6,4 @@ description: Regöly
 
 {% include settlementHTMLs/Regooxly.html %}
 
-[Vissza](./)
+[Vissza](../)

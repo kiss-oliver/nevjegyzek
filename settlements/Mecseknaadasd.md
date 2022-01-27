@@ -6,4 +6,4 @@ description: Mecseknádasd
 
 {% include settlementHTMLs/Mecseknaadasd.html %}
 
-[Vissza](./)
+[Vissza](../)

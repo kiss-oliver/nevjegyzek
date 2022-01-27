@@ -6,4 +6,4 @@ description: Adorjánháza
 
 {% include settlementHTMLs/Adorjaanhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

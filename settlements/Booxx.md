@@ -6,4 +6,4 @@ description: Bő
 
 {% include settlementHTMLs/Booxx.html %}
 
-[Vissza](./)
+[Vissza](../)

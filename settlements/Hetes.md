@@ -6,4 +6,4 @@ description: Hetes
 
 {% include settlementHTMLs/Hetes.html %}
 
-[Vissza](./)
+[Vissza](../)

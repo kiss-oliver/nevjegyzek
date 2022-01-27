@@ -6,4 +6,4 @@ description: Csajág
 
 {% include settlementHTMLs/Csajaag.html %}
 
-[Vissza](./)
+[Vissza](../)

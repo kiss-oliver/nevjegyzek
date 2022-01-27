@@ -6,4 +6,4 @@ description: Füzérkomlós
 
 {% include settlementHTMLs/Fuuxzeerkomloos.html %}
 
-[Vissza](./)
+[Vissza](../)

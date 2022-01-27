@@ -6,4 +6,4 @@ description: Tibolddaróc
 
 {% include settlementHTMLs/Tibolddarooc.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rudabánya
 
 {% include settlementHTMLs/Rudabaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

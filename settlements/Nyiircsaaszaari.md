@@ -6,4 +6,4 @@ description: Nyírcsászári
 
 {% include settlementHTMLs/Nyiircsaaszaari.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Beremend
 
 {% include settlementHTMLs/Beremend.html %}
 
-[Vissza](./)
+[Vissza](../)

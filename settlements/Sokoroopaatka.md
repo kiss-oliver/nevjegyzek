@@ -6,4 +6,4 @@ description: Sokorópátka
 
 {% include settlementHTMLs/Sokoroopaatka.html %}
 
-[Vissza](./)
+[Vissza](../)

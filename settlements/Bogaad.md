@@ -6,4 +6,4 @@ description: Bogád
 
 {% include settlementHTMLs/Bogaad.html %}
 
-[Vissza](./)
+[Vissza](../)

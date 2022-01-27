@@ -6,4 +6,4 @@ description: Püspökhatvan
 
 {% include settlementHTMLs/Puuxspooxkhatvan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Börcs
 
 {% include settlementHTMLs/Booxrcs.html %}
 
-[Vissza](./)
+[Vissza](../)

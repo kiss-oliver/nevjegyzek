@@ -6,4 +6,4 @@ description: Bélavár
 
 {% include settlementHTMLs/Beelavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

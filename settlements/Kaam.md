@@ -6,4 +6,4 @@ description: Kám
 
 {% include settlementHTMLs/Kaam.html %}
 
-[Vissza](./)
+[Vissza](../)

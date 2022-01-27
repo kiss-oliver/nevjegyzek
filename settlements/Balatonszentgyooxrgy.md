@@ -6,4 +6,4 @@ description: Balatonszentgyörgy
 
 {% include settlementHTMLs/Balatonszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

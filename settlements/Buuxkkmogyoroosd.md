@@ -6,4 +6,4 @@ description: Bükkmogyorósd
 
 {% include settlementHTMLs/Buuxkkmogyoroosd.html %}
 
-[Vissza](./)
+[Vissza](../)

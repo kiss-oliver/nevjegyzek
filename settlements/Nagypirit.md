@@ -6,4 +6,4 @@ description: Nagypirit
 
 {% include settlementHTMLs/Nagypirit.html %}
 
-[Vissza](./)
+[Vissza](../)

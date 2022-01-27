@@ -6,4 +6,4 @@ description: Ipolytölgyes
 
 {% include settlementHTMLs/Ipolytooxlgyes.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kérsemjén
 
 {% include settlementHTMLs/Keersemjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

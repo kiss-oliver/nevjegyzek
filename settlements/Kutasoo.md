@@ -6,4 +6,4 @@ description: Kutasó
 
 {% include settlementHTMLs/Kutasoo.html %}
 
-[Vissza](./)
+[Vissza](../)

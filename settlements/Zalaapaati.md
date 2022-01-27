@@ -6,4 +6,4 @@ description: Zalaapáti
 
 {% include settlementHTMLs/Zalaapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

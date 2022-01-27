@@ -6,4 +6,4 @@ description: Szakadát
 
 {% include settlementHTMLs/Szakadaat.html %}
 
-[Vissza](./)
+[Vissza](../)

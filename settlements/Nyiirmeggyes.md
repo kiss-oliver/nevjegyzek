@@ -6,4 +6,4 @@ description: Nyírmeggyes
 
 {% include settlementHTMLs/Nyiirmeggyes.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kozmadombja
 
 {% include settlementHTMLs/Kozmadombja.html %}
 
-[Vissza](./)
+[Vissza](../)

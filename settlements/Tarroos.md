@@ -6,4 +6,4 @@ description: Tarrós
 
 {% include settlementHTMLs/Tarroos.html %}
 
-[Vissza](./)
+[Vissza](../)

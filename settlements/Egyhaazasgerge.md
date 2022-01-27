@@ -6,4 +6,4 @@ description: Egyházasgerge
 
 {% include settlementHTMLs/Egyhaazasgerge.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagycserkesz
 
 {% include settlementHTMLs/Nagycserkesz.html %}
 
-[Vissza](./)
+[Vissza](../)

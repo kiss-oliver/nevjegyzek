@@ -6,4 +6,4 @@ description: Rábagyarmat
 
 {% include settlementHTMLs/Raabagyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

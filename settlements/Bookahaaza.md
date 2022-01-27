@@ -6,4 +6,4 @@ description: Bókaháza
 
 {% include settlementHTMLs/Bookahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

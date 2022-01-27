@@ -6,4 +6,4 @@ description: Tiszavid
 
 {% include settlementHTMLs/Tiszavid.html %}
 
-[Vissza](./)
+[Vissza](../)

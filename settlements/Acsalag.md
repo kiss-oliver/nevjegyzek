@@ -6,4 +6,4 @@ description: Acsalag
 
 {% include settlementHTMLs/Acsalag.html %}
 
-[Vissza](./)
+[Vissza](../)

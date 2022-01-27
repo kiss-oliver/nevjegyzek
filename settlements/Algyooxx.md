@@ -6,4 +6,4 @@ description: Algyő
 
 {% include settlementHTMLs/Algyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

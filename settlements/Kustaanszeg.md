@@ -6,4 +6,4 @@ description: Kustánszeg
 
 {% include settlementHTMLs/Kustaanszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

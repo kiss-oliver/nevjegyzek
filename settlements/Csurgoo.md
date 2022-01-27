@@ -6,4 +6,4 @@ description: Csurgó
 
 {% include settlementHTMLs/Csurgoo.html %}
 
-[Vissza](./)
+[Vissza](../)

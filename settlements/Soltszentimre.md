@@ -6,4 +6,4 @@ description: Soltszentimre
 
 {% include settlementHTMLs/Soltszentimre.html %}
 
-[Vissza](./)
+[Vissza](../)

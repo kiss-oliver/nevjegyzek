@@ -6,4 +6,4 @@ description: Kisbajcs
 
 {% include settlementHTMLs/Kisbajcs.html %}
 
-[Vissza](./)
+[Vissza](../)

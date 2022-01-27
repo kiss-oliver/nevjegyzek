@@ -6,4 +6,4 @@ description: Somogydöröcske
 
 {% include settlementHTMLs/Somogydooxrooxcske.html %}
 
-[Vissza](./)
+[Vissza](../)

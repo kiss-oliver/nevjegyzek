@@ -6,4 +6,4 @@ description: Porcsalma
 
 {% include settlementHTMLs/Porcsalma.html %}
 
-[Vissza](./)
+[Vissza](../)

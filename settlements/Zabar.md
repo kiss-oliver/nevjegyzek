@@ -6,4 +6,4 @@ description: Zabar
 
 {% include settlementHTMLs/Zabar.html %}
 
-[Vissza](./)
+[Vissza](../)

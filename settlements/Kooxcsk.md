@@ -6,4 +6,4 @@ description: Köcsk
 
 {% include settlementHTMLs/Kooxcsk.html %}
 
-[Vissza](./)
+[Vissza](../)

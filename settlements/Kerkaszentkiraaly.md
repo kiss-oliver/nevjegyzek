@@ -6,4 +6,4 @@ description: Kerkaszentkirály
 
 {% include settlementHTMLs/Kerkaszentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

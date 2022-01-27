@@ -6,4 +6,4 @@ description: Péteri
 
 {% include settlementHTMLs/Peeteri.html %}
 
-[Vissza](./)
+[Vissza](../)

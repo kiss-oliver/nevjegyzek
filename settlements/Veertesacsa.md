@@ -6,4 +6,4 @@ description: Vértesacsa
 
 {% include settlementHTMLs/Veertesacsa.html %}
 
-[Vissza](./)
+[Vissza](../)

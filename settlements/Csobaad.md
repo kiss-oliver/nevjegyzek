@@ -6,4 +6,4 @@ description: Csobád
 
 {% include settlementHTMLs/Csobaad.html %}
 
-[Vissza](./)
+[Vissza](../)

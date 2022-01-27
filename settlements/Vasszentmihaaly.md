@@ -6,4 +6,4 @@ description: Vasszentmihály
 
 {% include settlementHTMLs/Vasszentmihaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

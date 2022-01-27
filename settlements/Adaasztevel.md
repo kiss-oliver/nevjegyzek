@@ -6,4 +6,4 @@ description: Adásztevel
 
 {% include settlementHTMLs/Adaasztevel.html %}
 
-[Vissza](./)
+[Vissza](../)

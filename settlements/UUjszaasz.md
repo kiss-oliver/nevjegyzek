@@ -6,4 +6,4 @@ description: Újszász
 
 {% include settlementHTMLs/UUjszaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

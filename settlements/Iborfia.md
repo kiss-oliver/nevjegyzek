@@ -6,4 +6,4 @@ description: Iborfia
 
 {% include settlementHTMLs/Iborfia.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Sarród
 
 {% include settlementHTMLs/Sarrood.html %}
 
-[Vissza](./)
+[Vissza](../)

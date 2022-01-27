@@ -6,4 +6,4 @@ description: Segesd
 
 {% include settlementHTMLs/Segesd.html %}
 
-[Vissza](./)
+[Vissza](../)

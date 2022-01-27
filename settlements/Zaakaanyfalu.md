@@ -6,4 +6,4 @@ description: Zákányfalu
 
 {% include settlementHTMLs/Zaakaanyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

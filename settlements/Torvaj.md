@@ -6,4 +6,4 @@ description: Torvaj
 
 {% include settlementHTMLs/Torvaj.html %}
 
-[Vissza](./)
+[Vissza](../)

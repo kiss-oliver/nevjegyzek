@@ -6,4 +6,4 @@ description: Jászdózsa
 
 {% include settlementHTMLs/Jaaszdoozsa.html %}
 
-[Vissza](./)
+[Vissza](../)

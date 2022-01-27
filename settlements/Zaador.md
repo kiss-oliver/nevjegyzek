@@ -6,4 +6,4 @@ description: Zádor
 
 {% include settlementHTMLs/Zaador.html %}
 
-[Vissza](./)
+[Vissza](../)

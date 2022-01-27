@@ -6,4 +6,4 @@ description: Leányvár
 
 {% include settlementHTMLs/Leaanyvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

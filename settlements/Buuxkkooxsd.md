@@ -6,4 +6,4 @@ description: Bükkösd
 
 {% include settlementHTMLs/Buuxkkooxsd.html %}
 
-[Vissza](./)
+[Vissza](../)

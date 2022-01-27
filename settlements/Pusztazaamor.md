@@ -6,4 +6,4 @@ description: Pusztazámor
 
 {% include settlementHTMLs/Pusztazaamor.html %}
 
-[Vissza](./)
+[Vissza](../)

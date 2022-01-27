@@ -6,4 +6,4 @@ description: Balatonalmádi
 
 {% include settlementHTMLs/Balatonalmaadi.html %}
 
-[Vissza](./)
+[Vissza](../)

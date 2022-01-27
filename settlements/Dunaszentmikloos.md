@@ -6,4 +6,4 @@ description: Dunaszentmiklós
 
 {% include settlementHTMLs/Dunaszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

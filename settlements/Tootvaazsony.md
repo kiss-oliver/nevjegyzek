@@ -6,4 +6,4 @@ description: Tótvázsony
 
 {% include settlementHTMLs/Tootvaazsony.html %}
 
-[Vissza](./)
+[Vissza](../)

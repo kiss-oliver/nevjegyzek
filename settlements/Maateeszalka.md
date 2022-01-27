@@ -6,4 +6,4 @@ description: Mátészalka
 
 {% include settlementHTMLs/Maateeszalka.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Háromfa
 
 {% include settlementHTMLs/Haaromfa.html %}
 
-[Vissza](./)
+[Vissza](../)

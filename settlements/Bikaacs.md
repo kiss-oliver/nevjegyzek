@@ -6,4 +6,4 @@ description: Bikács
 
 {% include settlementHTMLs/Bikaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gacsály
 
 {% include settlementHTMLs/Gacsaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

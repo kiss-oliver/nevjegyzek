@@ -6,4 +6,4 @@ description: Hont
 
 {% include settlementHTMLs/Hont.html %}
 
-[Vissza](./)
+[Vissza](../)

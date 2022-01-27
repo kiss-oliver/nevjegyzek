@@ -6,4 +6,4 @@ description: Sobor
 
 {% include settlementHTMLs/Sobor.html %}
 
-[Vissza](./)
+[Vissza](../)

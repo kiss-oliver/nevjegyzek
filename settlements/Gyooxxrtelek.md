@@ -6,4 +6,4 @@ description: Győrtelek
 
 {% include settlementHTMLs/Gyooxxrtelek.html %}
 
-[Vissza](./)
+[Vissza](../)

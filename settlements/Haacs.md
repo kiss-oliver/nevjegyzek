@@ -6,4 +6,4 @@ description: Hács
 
 {% include settlementHTMLs/Haacs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Muhi
 
 {% include settlementHTMLs/Muhi.html %}
 
-[Vissza](./)
+[Vissza](../)

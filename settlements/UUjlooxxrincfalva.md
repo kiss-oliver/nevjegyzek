@@ -6,4 +6,4 @@ description: Újlőrincfalva
 
 {% include settlementHTMLs/UUjlooxxrincfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

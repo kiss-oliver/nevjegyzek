@@ -6,4 +6,4 @@ description: Ispánk
 
 {% include settlementHTMLs/Ispaank.html %}
 
-[Vissza](./)
+[Vissza](../)

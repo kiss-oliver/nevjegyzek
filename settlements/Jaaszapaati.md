@@ -6,4 +6,4 @@ description: Jászapáti
 
 {% include settlementHTMLs/Jaaszapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

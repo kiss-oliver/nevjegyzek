@@ -6,4 +6,4 @@ description: Mezőcsát
 
 {% include settlementHTMLs/Mezooxxcsaat.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Patak
 
 {% include settlementHTMLs/Patak.html %}
 
-[Vissza](./)
+[Vissza](../)

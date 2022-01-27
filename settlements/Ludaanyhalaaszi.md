@@ -6,4 +6,4 @@ description: Ludányhalászi
 
 {% include settlementHTMLs/Ludaanyhalaaszi.html %}
 
-[Vissza](./)
+[Vissza](../)

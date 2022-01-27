@@ -6,4 +6,4 @@ description: Malomsok
 
 {% include settlementHTMLs/Malomsok.html %}
 
-[Vissza](./)
+[Vissza](../)

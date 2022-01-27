@@ -6,4 +6,4 @@ description: Kunadacs
 
 {% include settlementHTMLs/Kunadacs.html %}
 
-[Vissza](./)
+[Vissza](../)

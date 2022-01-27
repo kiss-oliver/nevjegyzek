@@ -6,4 +6,4 @@ description: Tiszatarján
 
 {% include settlementHTMLs/Tiszatarjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonvilágos
 
 {% include settlementHTMLs/Balatonvilaagos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mezőnagymihály
 
 {% include settlementHTMLs/Mezooxxnagymihaaly.html %}
 
-[Vissza](./)
+[Vissza](../)

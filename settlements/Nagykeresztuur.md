@@ -6,4 +6,4 @@ description: Nagykeresztúr
 
 {% include settlementHTMLs/Nagykeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Cirák
 
 {% include settlementHTMLs/Ciraak.html %}
 
-[Vissza](./)
+[Vissza](../)

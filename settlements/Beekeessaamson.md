@@ -6,4 +6,4 @@ description: Békéssámson
 
 {% include settlementHTMLs/Beekeessaamson.html %}
 
-[Vissza](./)
+[Vissza](../)

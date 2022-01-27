@@ -6,4 +6,4 @@ description: Káva
 
 {% include settlementHTMLs/Kaava.html %}
 
-[Vissza](./)
+[Vissza](../)

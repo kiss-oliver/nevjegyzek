@@ -6,4 +6,4 @@ description: Lónya
 
 {% include settlementHTMLs/Loonya.html %}
 
-[Vissza](./)
+[Vissza](../)

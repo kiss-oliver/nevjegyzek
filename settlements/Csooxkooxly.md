@@ -6,4 +6,4 @@ description: Csököly
 
 {% include settlementHTMLs/Csooxkooxly.html %}
 
-[Vissza](./)
+[Vissza](../)

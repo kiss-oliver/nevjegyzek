@@ -6,4 +6,4 @@ description: Barcs
 
 {% include settlementHTMLs/Barcs.html %}
 
-[Vissza](./)
+[Vissza](../)

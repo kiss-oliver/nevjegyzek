@@ -6,4 +6,4 @@ description: Sárpilis
 
 {% include settlementHTMLs/Saarpilis.html %}
 
-[Vissza](./)
+[Vissza](../)

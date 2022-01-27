@@ -6,4 +6,4 @@ description: Vál
 
 {% include settlementHTMLs/Vaal.html %}
 
-[Vissza](./)
+[Vissza](../)

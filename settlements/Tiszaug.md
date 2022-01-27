@@ -6,4 +6,4 @@ description: Tiszaug
 
 {% include settlementHTMLs/Tiszaug.html %}
 
-[Vissza](./)
+[Vissza](../)

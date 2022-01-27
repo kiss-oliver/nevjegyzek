@@ -6,4 +6,4 @@ description: Lajoskomárom
 
 {% include settlementHTMLs/Lajoskomaarom.html %}
 
-[Vissza](./)
+[Vissza](../)

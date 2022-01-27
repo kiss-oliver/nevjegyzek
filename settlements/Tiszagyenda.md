@@ -6,4 +6,4 @@ description: Tiszagyenda
 
 {% include settlementHTMLs/Tiszagyenda.html %}
 
-[Vissza](./)
+[Vissza](../)

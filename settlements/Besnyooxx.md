@@ -6,4 +6,4 @@ description: Besnyő
 
 {% include settlementHTMLs/Besnyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

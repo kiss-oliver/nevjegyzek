@@ -6,4 +6,4 @@ description: Adorjás
 
 {% include settlementHTMLs/Adorjaas.html %}
 
-[Vissza](./)
+[Vissza](../)

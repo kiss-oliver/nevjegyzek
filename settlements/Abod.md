@@ -6,4 +6,4 @@ description: Abod
 
 {% include settlementHTMLs/Abod.html %}
 
-[Vissza](./)
+[Vissza](../)

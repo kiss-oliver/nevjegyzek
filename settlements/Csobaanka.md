@@ -6,4 +6,4 @@ description: Csobánka
 
 {% include settlementHTMLs/Csobaanka.html %}
 
-[Vissza](./)
+[Vissza](../)

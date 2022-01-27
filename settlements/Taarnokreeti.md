@@ -6,4 +6,4 @@ description: Tárnokréti
 
 {% include settlementHTMLs/Taarnokreeti.html %}
 
-[Vissza](./)
+[Vissza](../)

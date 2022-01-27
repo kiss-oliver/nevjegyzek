@@ -6,4 +6,4 @@ description: Szemely
 
 {% include settlementHTMLs/Szemely.html %}
 
-[Vissza](./)
+[Vissza](../)

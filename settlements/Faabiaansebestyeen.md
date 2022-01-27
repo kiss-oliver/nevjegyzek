@@ -6,4 +6,4 @@ description: Fábiánsebestyén
 
 {% include settlementHTMLs/Faabiaansebestyeen.html %}
 
-[Vissza](./)
+[Vissza](../)

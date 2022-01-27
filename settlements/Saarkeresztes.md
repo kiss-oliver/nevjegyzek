@@ -6,4 +6,4 @@ description: Sárkeresztes
 
 {% include settlementHTMLs/Saarkeresztes.html %}
 
-[Vissza](./)
+[Vissza](../)

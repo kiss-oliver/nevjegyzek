@@ -6,4 +6,4 @@ description: Tépe
 
 {% include settlementHTMLs/Teepe.html %}
 
-[Vissza](./)
+[Vissza](../)

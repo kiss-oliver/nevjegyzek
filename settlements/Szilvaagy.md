@@ -6,4 +6,4 @@ description: Szilvágy
 
 {% include settlementHTMLs/Szilvaagy.html %}
 
-[Vissza](./)
+[Vissza](../)

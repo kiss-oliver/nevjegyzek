@@ -6,4 +6,4 @@ description: Alsógagy
 
 {% include settlementHTMLs/Alsoogagy.html %}
 
-[Vissza](./)
+[Vissza](../)

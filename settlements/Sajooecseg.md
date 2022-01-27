@@ -6,4 +6,4 @@ description: Sajóecseg
 
 {% include settlementHTMLs/Sajooecseg.html %}
 
-[Vissza](./)
+[Vissza](../)

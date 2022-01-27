@@ -6,4 +6,4 @@ description: Felsőtelekes
 
 {% include settlementHTMLs/Felsooxxtelekes.html %}
 
-[Vissza](./)
+[Vissza](../)

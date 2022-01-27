@@ -6,4 +6,4 @@ description: Újrónafő
 
 {% include settlementHTMLs/UUjroonafooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

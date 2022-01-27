@@ -6,4 +6,4 @@ description: Alsóörs
 
 {% include settlementHTMLs/Alsooooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

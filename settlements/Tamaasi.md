@@ -6,4 +6,4 @@ description: Tamási
 
 {% include settlementHTMLs/Tamaasi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Alsónemesapáti
 
 {% include settlementHTMLs/Alsoonemesapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

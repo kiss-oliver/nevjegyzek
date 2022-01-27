@@ -6,4 +6,4 @@ description: Töttös
 
 {% include settlementHTMLs/Tooxttooxs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Romonya
 
 {% include settlementHTMLs/Romonya.html %}
 
-[Vissza](./)
+[Vissza](../)

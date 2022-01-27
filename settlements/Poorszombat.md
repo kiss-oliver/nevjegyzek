@@ -6,4 +6,4 @@ description: Pórszombat
 
 {% include settlementHTMLs/Poorszombat.html %}
 
-[Vissza](./)
+[Vissza](../)

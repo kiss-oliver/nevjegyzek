@@ -6,4 +6,4 @@ description: Babosdöbréte
 
 {% include settlementHTMLs/Babosdooxbreete.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Homokkomárom
 
 {% include settlementHTMLs/Homokkomaarom.html %}
 
-[Vissza](./)
+[Vissza](../)

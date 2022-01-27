@@ -6,4 +6,4 @@ description: Csépa
 
 {% include settlementHTMLs/Cseepa.html %}
 
-[Vissza](./)
+[Vissza](../)

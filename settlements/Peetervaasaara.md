@@ -6,4 +6,4 @@ description: Pétervására
 
 {% include settlementHTMLs/Peetervaasaara.html %}
 
-[Vissza](./)
+[Vissza](../)

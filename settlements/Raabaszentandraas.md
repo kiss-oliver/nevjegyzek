@@ -6,4 +6,4 @@ description: Rábaszentandrás
 
 {% include settlementHTMLs/Raabaszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

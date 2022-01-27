@@ -6,4 +6,4 @@ description: Dámóc
 
 {% include settlementHTMLs/Daamooc.html %}
 
-[Vissza](./)
+[Vissza](../)

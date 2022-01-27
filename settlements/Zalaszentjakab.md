@@ -6,4 +6,4 @@ description: Zalaszentjakab
 
 {% include settlementHTMLs/Zalaszentjakab.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bicsérd
 
 {% include settlementHTMLs/Bicseerd.html %}
 
-[Vissza](./)
+[Vissza](../)

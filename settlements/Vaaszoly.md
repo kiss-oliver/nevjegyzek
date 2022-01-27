@@ -6,4 +6,4 @@ description: Vászoly
 
 {% include settlementHTMLs/Vaaszoly.html %}
 
-[Vissza](./)
+[Vissza](../)

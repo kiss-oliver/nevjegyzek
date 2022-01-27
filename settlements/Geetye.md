@@ -6,4 +6,4 @@ description: Gétye
 
 {% include settlementHTMLs/Geetye.html %}
 
-[Vissza](./)
+[Vissza](../)

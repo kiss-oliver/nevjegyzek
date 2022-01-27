@@ -6,4 +6,4 @@ description: Piliscsaba
 
 {% include settlementHTMLs/Piliscsaba.html %}
 
-[Vissza](./)
+[Vissza](../)

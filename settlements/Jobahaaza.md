@@ -6,4 +6,4 @@ description: Jobaháza
 
 {% include settlementHTMLs/Jobahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

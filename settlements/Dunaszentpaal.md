@@ -6,4 +6,4 @@ description: Dunaszentpál
 
 {% include settlementHTMLs/Dunaszentpaal.html %}
 
-[Vissza](./)
+[Vissza](../)

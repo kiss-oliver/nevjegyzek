@@ -6,4 +6,4 @@ description: Beloiannisz
 
 {% include settlementHTMLs/Beloiannisz.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Mezőpeterd
 
 {% include settlementHTMLs/Mezooxxpeterd.html %}
 
-[Vissza](./)
+[Vissza](../)

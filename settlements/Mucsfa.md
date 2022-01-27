@@ -6,4 +6,4 @@ description: Mucsfa
 
 {% include settlementHTMLs/Mucsfa.html %}
 
-[Vissza](./)
+[Vissza](../)

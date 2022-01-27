@@ -6,4 +6,4 @@ description: Hajdúszoboszló
 
 {% include settlementHTMLs/Hajduuszoboszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

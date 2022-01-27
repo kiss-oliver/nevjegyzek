@@ -6,4 +6,4 @@ description: Boldogasszonyfa
 
 {% include settlementHTMLs/Boldogasszonyfa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Udvar
 
 {% include settlementHTMLs/Udvar.html %}
 
-[Vissza](./)
+[Vissza](../)

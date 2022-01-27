@@ -6,4 +6,4 @@ description: Máza
 
 {% include settlementHTMLs/Maaza.html %}
 
-[Vissza](./)
+[Vissza](../)

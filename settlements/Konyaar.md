@@ -6,4 +6,4 @@ description: Konyár
 
 {% include settlementHTMLs/Konyaar.html %}
 
-[Vissza](./)
+[Vissza](../)

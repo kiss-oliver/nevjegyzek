@@ -6,4 +6,4 @@ description: Vác
 
 {% include settlementHTMLs/Vaac.html %}
 
-[Vissza](./)
+[Vissza](../)

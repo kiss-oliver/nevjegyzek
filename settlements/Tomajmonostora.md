@@ -6,4 +6,4 @@ description: Tomajmonostora
 
 {% include settlementHTMLs/Tomajmonostora.html %}
 
-[Vissza](./)
+[Vissza](../)

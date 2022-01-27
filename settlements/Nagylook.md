@@ -6,4 +6,4 @@ description: Nagylók
 
 {% include settlementHTMLs/Nagylook.html %}
 
-[Vissza](./)
+[Vissza](../)

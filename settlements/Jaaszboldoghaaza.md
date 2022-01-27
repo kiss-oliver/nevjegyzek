@@ -6,4 +6,4 @@ description: Jászboldogháza
 
 {% include settlementHTMLs/Jaaszboldoghaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

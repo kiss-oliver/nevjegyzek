@@ -6,4 +6,4 @@ description: Maroslele
 
 {% include settlementHTMLs/Maroslele.html %}
 
-[Vissza](./)
+[Vissza](../)

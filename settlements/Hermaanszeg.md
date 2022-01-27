@@ -6,4 +6,4 @@ description: Hermánszeg
 
 {% include settlementHTMLs/Hermaanszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Halmajugra
 
 {% include settlementHTMLs/Halmajugra.html %}
 
-[Vissza](./)
+[Vissza](../)

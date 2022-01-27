@@ -6,4 +6,4 @@ description: Nemesbük
 
 {% include settlementHTMLs/Nemesbuuxk.html %}
 
-[Vissza](./)
+[Vissza](../)

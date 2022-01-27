@@ -6,4 +6,4 @@ description: Tófej
 
 {% include settlementHTMLs/Toofej.html %}
 
-[Vissza](./)
+[Vissza](../)

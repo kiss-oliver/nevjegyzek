@@ -6,4 +6,4 @@ description: Okány
 
 {% include settlementHTMLs/Okaany.html %}
 
-[Vissza](./)
+[Vissza](../)

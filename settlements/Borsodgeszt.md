@@ -6,4 +6,4 @@ description: Borsodgeszt
 
 {% include settlementHTMLs/Borsodgeszt.html %}
 
-[Vissza](./)
+[Vissza](../)

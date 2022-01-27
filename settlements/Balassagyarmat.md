@@ -6,4 +6,4 @@ description: Balassagyarmat
 
 {% include settlementHTMLs/Balassagyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

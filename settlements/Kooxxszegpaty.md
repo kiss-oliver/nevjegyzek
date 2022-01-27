@@ -6,4 +6,4 @@ description: Kőszegpaty
 
 {% include settlementHTMLs/Kooxxszegpaty.html %}
 
-[Vissza](./)
+[Vissza](../)

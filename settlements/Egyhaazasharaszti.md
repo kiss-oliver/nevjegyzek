@@ -6,4 +6,4 @@ description: Egyházasharaszti
 
 {% include settlementHTMLs/Egyhaazasharaszti.html %}
 
-[Vissza](./)
+[Vissza](../)

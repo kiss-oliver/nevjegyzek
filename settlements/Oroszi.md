@@ -6,4 +6,4 @@ description: Oroszi
 
 {% include settlementHTMLs/Oroszi.html %}
 
-[Vissza](./)
+[Vissza](../)

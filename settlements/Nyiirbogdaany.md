@@ -6,4 +6,4 @@ description: Nyírbogdány
 
 {% include settlementHTMLs/Nyiirbogdaany.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Csörnyeföld
 
 {% include settlementHTMLs/Csooxrnyefooxld.html %}
 
-[Vissza](./)
+[Vissza](../)

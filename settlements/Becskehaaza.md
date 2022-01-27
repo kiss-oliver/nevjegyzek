@@ -6,4 +6,4 @@ description: Becskeháza
 
 {% include settlementHTMLs/Becskehaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

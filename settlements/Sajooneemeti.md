@@ -6,4 +6,4 @@ description: Sajónémeti
 
 {% include settlementHTMLs/Sajooneemeti.html %}
 
-[Vissza](./)
+[Vissza](../)

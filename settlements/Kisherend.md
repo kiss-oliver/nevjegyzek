@@ -6,4 +6,4 @@ description: Kisherend
 
 {% include settlementHTMLs/Kisherend.html %}
 
-[Vissza](./)
+[Vissza](../)

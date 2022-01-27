@@ -6,4 +6,4 @@ description: Dunabogdány
 
 {% include settlementHTMLs/Dunabogdaany.html %}
 
-[Vissza](./)
+[Vissza](../)

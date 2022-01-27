@@ -6,4 +6,4 @@ description: Arka
 
 {% include settlementHTMLs/Arka.html %}
 
-[Vissza](./)
+[Vissza](../)

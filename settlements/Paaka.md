@@ -6,4 +6,4 @@ description: Páka
 
 {% include settlementHTMLs/Paaka.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hódmezővásárhely
 
 {% include settlementHTMLs/Hoodmezooxxvaasaarhely.html %}
 
-[Vissza](./)
+[Vissza](../)

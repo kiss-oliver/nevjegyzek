@@ -6,4 +6,4 @@ description: Miske
 
 {% include settlementHTMLs/Miske.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Monoszló
 
 {% include settlementHTMLs/Monoszloo.html %}
 
-[Vissza](./)
+[Vissza](../)

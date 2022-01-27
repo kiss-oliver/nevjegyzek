@@ -6,4 +6,4 @@ description: Báta
 
 {% include settlementHTMLs/Baata.html %}
 
-[Vissza](./)
+[Vissza](../)

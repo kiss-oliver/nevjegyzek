@@ -6,4 +6,4 @@ description: Kálócfa
 
 {% include settlementHTMLs/Kaaloocfa.html %}
 
-[Vissza](./)
+[Vissza](../)

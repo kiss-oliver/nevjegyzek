@@ -6,4 +6,4 @@ description: Kunszentmiklós
 
 {% include settlementHTMLs/Kunszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

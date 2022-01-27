@@ -6,4 +6,4 @@ description: Litér
 
 {% include settlementHTMLs/Liteer.html %}
 
-[Vissza](./)
+[Vissza](../)

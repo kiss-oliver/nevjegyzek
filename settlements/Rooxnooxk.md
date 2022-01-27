@@ -6,4 +6,4 @@ description: Rönök
 
 {% include settlementHTMLs/Rooxnooxk.html %}
 
-[Vissza](./)
+[Vissza](../)

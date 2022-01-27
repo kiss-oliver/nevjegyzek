@@ -6,4 +6,4 @@ description: Pusztaapáti
 
 {% include settlementHTMLs/Pusztaapaati.html %}
 
-[Vissza](./)
+[Vissza](../)

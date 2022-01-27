@@ -6,4 +6,4 @@ description: Pásztori
 
 {% include settlementHTMLs/Paasztori.html %}
 
-[Vissza](./)
+[Vissza](../)

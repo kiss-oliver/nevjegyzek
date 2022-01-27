@@ -6,4 +6,4 @@ description: Medina
 
 {% include settlementHTMLs/Medina.html %}
 
-[Vissza](./)
+[Vissza](../)

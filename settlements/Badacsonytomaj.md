@@ -6,4 +6,4 @@ description: Badacsonytomaj
 
 {% include settlementHTMLs/Badacsonytomaj.html %}
 
-[Vissza](./)
+[Vissza](../)

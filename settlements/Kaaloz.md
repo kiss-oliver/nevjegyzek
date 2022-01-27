@@ -6,4 +6,4 @@ description: Káloz
 
 {% include settlementHTMLs/Kaaloz.html %}
 
-[Vissza](./)
+[Vissza](../)

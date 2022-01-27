@@ -6,4 +6,4 @@ description: Újszentmargita
 
 {% include settlementHTMLs/UUjszentmargita.html %}
 
-[Vissza](./)
+[Vissza](../)

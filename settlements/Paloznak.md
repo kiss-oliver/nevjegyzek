@@ -6,4 +6,4 @@ description: Paloznak
 
 {% include settlementHTMLs/Paloznak.html %}
 
-[Vissza](./)
+[Vissza](../)

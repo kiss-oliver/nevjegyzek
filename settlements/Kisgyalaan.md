@@ -6,4 +6,4 @@ description: Kisgyalán
 
 {% include settlementHTMLs/Kisgyalaan.html %}
 
-[Vissza](./)
+[Vissza](../)

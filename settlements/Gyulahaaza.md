@@ -6,4 +6,4 @@ description: Gyulaháza
 
 {% include settlementHTMLs/Gyulahaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

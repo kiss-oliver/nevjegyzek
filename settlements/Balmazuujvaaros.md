@@ -6,4 +6,4 @@ description: Balmazújváros
 
 {% include settlementHTMLs/Balmazuujvaaros.html %}
 
-[Vissza](./)
+[Vissza](../)

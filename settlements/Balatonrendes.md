@@ -6,4 +6,4 @@ description: Balatonrendes
 
 {% include settlementHTMLs/Balatonrendes.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kistelek
 
 {% include settlementHTMLs/Kistelek.html %}
 
-[Vissza](./)
+[Vissza](../)

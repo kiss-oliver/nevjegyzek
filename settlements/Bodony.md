@@ -6,4 +6,4 @@ description: Bodony
 
 {% include settlementHTMLs/Bodony.html %}
 
-[Vissza](./)
+[Vissza](../)

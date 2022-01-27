@@ -6,4 +6,4 @@ description: Sáta
 
 {% include settlementHTMLs/Saata.html %}
 
-[Vissza](./)
+[Vissza](../)

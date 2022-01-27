@@ -6,4 +6,4 @@ description: Kapospula
 
 {% include settlementHTMLs/Kapospula.html %}
 
-[Vissza](./)
+[Vissza](../)

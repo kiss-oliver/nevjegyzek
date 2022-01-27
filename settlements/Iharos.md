@@ -6,4 +6,4 @@ description: Iharos
 
 {% include settlementHTMLs/Iharos.html %}
 
-[Vissza](./)
+[Vissza](../)

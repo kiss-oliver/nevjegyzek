@@ -6,4 +6,4 @@ description: Váncsod
 
 {% include settlementHTMLs/Vaancsod.html %}
 
-[Vissza](./)
+[Vissza](../)

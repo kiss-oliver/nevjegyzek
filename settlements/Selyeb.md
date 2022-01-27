@@ -6,4 +6,4 @@ description: Selyeb
 
 {% include settlementHTMLs/Selyeb.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bezi
 
 {% include settlementHTMLs/Bezi.html %}
 
-[Vissza](./)
+[Vissza](../)

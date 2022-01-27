@@ -6,4 +6,4 @@ description: Nyírvasvári
 
 {% include settlementHTMLs/Nyiirvasvaari.html %}
 
-[Vissza](./)
+[Vissza](../)

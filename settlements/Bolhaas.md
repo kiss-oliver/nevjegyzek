@@ -6,4 +6,4 @@ description: Bolhás
 
 {% include settlementHTMLs/Bolhaas.html %}
 
-[Vissza](./)
+[Vissza](../)

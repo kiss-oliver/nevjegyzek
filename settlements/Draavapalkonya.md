@@ -6,4 +6,4 @@ description: Drávapalkonya
 
 {% include settlementHTMLs/Draavapalkonya.html %}
 
-[Vissza](./)
+[Vissza](../)

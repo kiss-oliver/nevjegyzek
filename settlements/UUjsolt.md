@@ -6,4 +6,4 @@ description: Újsolt
 
 {% include settlementHTMLs/UUjsolt.html %}
 
-[Vissza](./)
+[Vissza](../)

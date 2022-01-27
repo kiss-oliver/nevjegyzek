@@ -6,4 +6,4 @@ description: Nábrád
 
 {% include settlementHTMLs/Naabraad.html %}
 
-[Vissza](./)
+[Vissza](../)

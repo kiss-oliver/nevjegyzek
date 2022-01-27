@@ -6,4 +6,4 @@ description: Szajla
 
 {% include settlementHTMLs/Szajla.html %}
 
-[Vissza](./)
+[Vissza](../)

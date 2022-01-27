@@ -6,4 +6,4 @@ description: Sand
 
 {% include settlementHTMLs/Sand.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagybárkány
 
 {% include settlementHTMLs/Nagybaarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

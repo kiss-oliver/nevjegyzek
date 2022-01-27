@@ -6,4 +6,4 @@ description: Kuncsorba
 
 {% include settlementHTMLs/Kuncsorba.html %}
 
-[Vissza](./)
+[Vissza](../)

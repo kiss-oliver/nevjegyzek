@@ -6,4 +6,4 @@ description: Tiszaadony
 
 {% include settlementHTMLs/Tiszaadony.html %}
 
-[Vissza](./)
+[Vissza](../)

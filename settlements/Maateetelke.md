@@ -6,4 +6,4 @@ description: Mátételke
 
 {% include settlementHTMLs/Maateetelke.html %}
 
-[Vissza](./)
+[Vissza](../)

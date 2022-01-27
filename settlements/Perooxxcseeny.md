@@ -6,4 +6,4 @@ description: Perőcsény
 
 {% include settlementHTMLs/Perooxxcseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szegilong
 
 {% include settlementHTMLs/Szegilong.html %}
 
-[Vissza](./)
+[Vissza](../)

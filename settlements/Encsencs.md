@@ -6,4 +6,4 @@ description: Encsencs
 
 {% include settlementHTMLs/Encsencs.html %}
 
-[Vissza](./)
+[Vissza](../)

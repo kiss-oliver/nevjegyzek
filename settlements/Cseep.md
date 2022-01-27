@@ -6,4 +6,4 @@ description: Csép
 
 {% include settlementHTMLs/Cseep.html %}
 
-[Vissza](./)
+[Vissza](../)

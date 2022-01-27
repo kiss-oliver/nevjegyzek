@@ -6,4 +6,4 @@ description: Értény
 
 {% include settlementHTMLs/EErteeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ságújfalu
 
 {% include settlementHTMLs/Saaguujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

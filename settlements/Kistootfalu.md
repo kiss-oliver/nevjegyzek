@@ -6,4 +6,4 @@ description: Kistótfalu
 
 {% include settlementHTMLs/Kistootfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

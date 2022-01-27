@@ -6,4 +6,4 @@ description: Szántód
 
 {% include settlementHTMLs/Szaantood.html %}
 
-[Vissza](./)
+[Vissza](../)

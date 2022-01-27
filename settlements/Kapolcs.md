@@ -6,4 +6,4 @@ description: Kapolcs
 
 {% include settlementHTMLs/Kapolcs.html %}
 
-[Vissza](./)
+[Vissza](../)

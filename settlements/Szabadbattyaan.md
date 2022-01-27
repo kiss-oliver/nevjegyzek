@@ -6,4 +6,4 @@ description: Szabadbattyán
 
 {% include settlementHTMLs/Szabadbattyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

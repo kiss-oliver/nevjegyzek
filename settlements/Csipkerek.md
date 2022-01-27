@@ -6,4 +6,4 @@ description: Csipkerek
 
 {% include settlementHTMLs/Csipkerek.html %}
 
-[Vissza](./)
+[Vissza](../)

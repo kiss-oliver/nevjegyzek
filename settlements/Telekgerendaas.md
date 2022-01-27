@@ -6,4 +6,4 @@ description: Telekgerendás
 
 {% include settlementHTMLs/Telekgerendaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Becsehely
 
 {% include settlementHTMLs/Becsehely.html %}
 
-[Vissza](./)
+[Vissza](../)

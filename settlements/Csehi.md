@@ -6,4 +6,4 @@ description: Csehi
 
 {% include settlementHTMLs/Csehi.html %}
 
-[Vissza](./)
+[Vissza](../)

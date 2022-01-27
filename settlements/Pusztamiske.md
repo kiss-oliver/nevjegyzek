@@ -6,4 +6,4 @@ description: Pusztamiske
 
 {% include settlementHTMLs/Pusztamiske.html %}
 
-[Vissza](./)
+[Vissza](../)

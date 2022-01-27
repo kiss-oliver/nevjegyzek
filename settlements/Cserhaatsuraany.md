@@ -6,4 +6,4 @@ description: Cserhátsurány
 
 {% include settlementHTMLs/Cserhaatsuraany.html %}
 
-[Vissza](./)
+[Vissza](../)

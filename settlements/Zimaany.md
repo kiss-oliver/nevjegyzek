@@ -6,4 +6,4 @@ description: Zimány
 
 {% include settlementHTMLs/Zimaany.html %}
 
-[Vissza](./)
+[Vissza](../)

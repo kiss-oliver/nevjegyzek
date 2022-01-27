@@ -6,4 +6,4 @@ description: Baglad
 
 {% include settlementHTMLs/Baglad.html %}
 
-[Vissza](./)
+[Vissza](../)

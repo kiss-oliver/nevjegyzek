@@ -6,4 +6,4 @@ description: Csörötnek
 
 {% include settlementHTMLs/Csooxrooxtnek.html %}
 
-[Vissza](./)
+[Vissza](../)

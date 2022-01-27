@@ -6,4 +6,4 @@ description: Rinyabesenyő
 
 {% include settlementHTMLs/Rinyabesenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Dozmat
 
 {% include settlementHTMLs/Dozmat.html %}
 
-[Vissza](./)
+[Vissza](../)

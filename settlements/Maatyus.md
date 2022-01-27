@@ -6,4 +6,4 @@ description: Mátyus
 
 {% include settlementHTMLs/Maatyus.html %}
 
-[Vissza](./)
+[Vissza](../)

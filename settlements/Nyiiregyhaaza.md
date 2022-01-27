@@ -6,4 +6,4 @@ description: Nyíregyháza
 
 {% include settlementHTMLs/Nyiiregyhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

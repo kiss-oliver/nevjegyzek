@@ -6,4 +6,4 @@ description: Rádfalva
 
 {% include settlementHTMLs/Raadfalva.html %}
 
-[Vissza](./)
+[Vissza](../)

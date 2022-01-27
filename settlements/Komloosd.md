@@ -6,4 +6,4 @@ description: Komlósd
 
 {% include settlementHTMLs/Komloosd.html %}
 
-[Vissza](./)
+[Vissza](../)

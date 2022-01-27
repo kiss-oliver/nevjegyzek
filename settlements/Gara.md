@@ -6,4 +6,4 @@ description: Gara
 
 {% include settlementHTMLs/Gara.html %}
 
-[Vissza](./)
+[Vissza](../)

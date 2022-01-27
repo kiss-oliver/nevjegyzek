@@ -6,4 +6,4 @@ description: Kéthely
 
 {% include settlementHTMLs/Keethely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szentlőrinckáta
 
 {% include settlementHTMLs/Szentlooxxrinckaata.html %}
 
-[Vissza](./)
+[Vissza](../)

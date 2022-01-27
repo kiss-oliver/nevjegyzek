@@ -6,4 +6,4 @@ description: Irota
 
 {% include settlementHTMLs/Irota.html %}
 
-[Vissza](./)
+[Vissza](../)

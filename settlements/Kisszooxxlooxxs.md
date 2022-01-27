@@ -6,4 +6,4 @@ description: Kisszőlős
 
 {% include settlementHTMLs/Kisszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

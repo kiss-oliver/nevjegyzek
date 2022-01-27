@@ -6,4 +6,4 @@ description: Ácsteszér
 
 {% include settlementHTMLs/AAcsteszeer.html %}
 
-[Vissza](./)
+[Vissza](../)

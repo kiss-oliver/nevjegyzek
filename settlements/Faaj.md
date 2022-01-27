@@ -6,4 +6,4 @@ description: Fáj
 
 {% include settlementHTMLs/Faaj.html %}
 
-[Vissza](./)
+[Vissza](../)

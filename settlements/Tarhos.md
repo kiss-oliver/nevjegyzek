@@ -6,4 +6,4 @@ description: Tarhos
 
 {% include settlementHTMLs/Tarhos.html %}
 
-[Vissza](./)
+[Vissza](../)

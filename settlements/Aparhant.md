@@ -6,4 +6,4 @@ description: Aparhant
 
 {% include settlementHTMLs/Aparhant.html %}
 
-[Vissza](./)
+[Vissza](../)

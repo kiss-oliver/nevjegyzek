@@ -6,4 +6,4 @@ description: Felsőjánosfa
 
 {% include settlementHTMLs/Felsooxxjaanosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

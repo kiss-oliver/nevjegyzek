@@ -6,4 +6,4 @@ description: Liget
 
 {% include settlementHTMLs/Liget.html %}
 
-[Vissza](./)
+[Vissza](../)

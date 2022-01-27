@@ -6,4 +6,4 @@ description: Újszalonta
 
 {% include settlementHTMLs/UUjszalonta.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Piskó
 
 {% include settlementHTMLs/Piskoo.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Trizs
 
 {% include settlementHTMLs/Trizs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Aszaló
 
 {% include settlementHTMLs/Aszaloo.html %}
 
-[Vissza](./)
+[Vissza](../)

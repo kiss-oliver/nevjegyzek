@@ -6,4 +6,4 @@ description: Magyarnándor
 
 {% include settlementHTMLs/Magyarnaandor.html %}
 
-[Vissza](./)
+[Vissza](../)

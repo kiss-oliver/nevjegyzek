@@ -6,4 +6,4 @@ description: Halászi
 
 {% include settlementHTMLs/Halaaszi.html %}
 
-[Vissza](./)
+[Vissza](../)

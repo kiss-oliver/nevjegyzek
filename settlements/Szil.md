@@ -6,4 +6,4 @@ description: Szil
 
 {% include settlementHTMLs/Szil.html %}
 
-[Vissza](./)
+[Vissza](../)

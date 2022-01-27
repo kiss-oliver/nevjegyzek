@@ -6,4 +6,4 @@ description: Szin
 
 {% include settlementHTMLs/Szin.html %}
 
-[Vissza](./)
+[Vissza](../)

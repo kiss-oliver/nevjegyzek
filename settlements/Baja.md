@@ -6,4 +6,4 @@ description: Baja
 
 {% include settlementHTMLs/Baja.html %}
 
-[Vissza](./)
+[Vissza](../)

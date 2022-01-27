@@ -6,4 +6,4 @@ description: Abaújszántó
 
 {% include settlementHTMLs/Abauujszaantoo.html %}
 
-[Vissza](./)
+[Vissza](../)

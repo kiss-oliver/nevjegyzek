@@ -6,4 +6,4 @@ description: Uzsa
 
 {% include settlementHTMLs/Uzsa.html %}
 
-[Vissza](./)
+[Vissza](../)

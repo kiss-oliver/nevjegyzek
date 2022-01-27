@@ -6,4 +6,4 @@ description: Bikal
 
 {% include settlementHTMLs/Bikal.html %}
 
-[Vissza](./)
+[Vissza](../)

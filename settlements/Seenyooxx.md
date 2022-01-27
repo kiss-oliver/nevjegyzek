@@ -6,4 +6,4 @@ description: Sényő
 
 {% include settlementHTMLs/Seenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

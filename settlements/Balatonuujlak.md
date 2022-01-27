@@ -6,4 +6,4 @@ description: Balatonújlak
 
 {% include settlementHTMLs/Balatonuujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hidegkút
 
 {% include settlementHTMLs/Hidegkuut.html %}
 
-[Vissza](./)
+[Vissza](../)

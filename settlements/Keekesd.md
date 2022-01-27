@@ -6,4 +6,4 @@ description: Kékesd
 
 {% include settlementHTMLs/Keekesd.html %}
 
-[Vissza](./)
+[Vissza](../)

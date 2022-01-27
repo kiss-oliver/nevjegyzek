@@ -6,4 +6,4 @@ description: Sarkadkeresztúr
 
 {% include settlementHTMLs/Sarkadkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

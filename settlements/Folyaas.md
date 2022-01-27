@@ -6,4 +6,4 @@ description: Folyás
 
 {% include settlementHTMLs/Folyaas.html %}
 
-[Vissza](./)
+[Vissza](../)

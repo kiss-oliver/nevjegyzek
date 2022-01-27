@@ -6,4 +6,4 @@ description: Hidas
 
 {% include settlementHTMLs/Hidas.html %}
 
-[Vissza](./)
+[Vissza](../)

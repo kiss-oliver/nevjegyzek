@@ -6,4 +6,4 @@ description: Répáshuta
 
 {% include settlementHTMLs/Reepaashuta.html %}
 
-[Vissza](./)
+[Vissza](../)

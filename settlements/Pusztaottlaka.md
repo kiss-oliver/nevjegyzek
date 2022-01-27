@@ -6,4 +6,4 @@ description: Pusztaottlaka
 
 {% include settlementHTMLs/Pusztaottlaka.html %}
 
-[Vissza](./)
+[Vissza](../)

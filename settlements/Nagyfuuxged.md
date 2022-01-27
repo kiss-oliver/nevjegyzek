@@ -6,4 +6,4 @@ description: Nagyfüged
 
 {% include settlementHTMLs/Nagyfuuxged.html %}
 
-[Vissza](./)
+[Vissza](../)

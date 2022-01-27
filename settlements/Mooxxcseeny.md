@@ -6,4 +6,4 @@ description: Mőcsény
 
 {% include settlementHTMLs/Mooxxcseeny.html %}
 
-[Vissza](./)
+[Vissza](../)

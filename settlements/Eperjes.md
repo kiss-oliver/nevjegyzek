@@ -6,4 +6,4 @@ description: Eperjes
 
 {% include settlementHTMLs/Eperjes.html %}
 
-[Vissza](./)
+[Vissza](../)

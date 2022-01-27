@@ -6,4 +6,4 @@ description: Ivád
 
 {% include settlementHTMLs/Ivaad.html %}
 
-[Vissza](./)
+[Vissza](../)

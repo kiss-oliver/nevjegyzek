@@ -6,4 +6,4 @@ description: Lőkösháza
 
 {% include settlementHTMLs/Looxxkooxshaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

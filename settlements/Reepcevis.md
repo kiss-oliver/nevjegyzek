@@ -6,4 +6,4 @@ description: Répcevis
 
 {% include settlementHTMLs/Reepcevis.html %}
 
-[Vissza](./)
+[Vissza](../)

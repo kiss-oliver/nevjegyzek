@@ -6,4 +6,4 @@ description: Nagyút
 
 {% include settlementHTMLs/Nagyuut.html %}
 
-[Vissza](./)
+[Vissza](../)

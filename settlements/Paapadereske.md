@@ -6,4 +6,4 @@ description: Pápadereske
 
 {% include settlementHTMLs/Paapadereske.html %}
 
-[Vissza](./)
+[Vissza](../)

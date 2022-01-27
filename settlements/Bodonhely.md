@@ -6,4 +6,4 @@ description: Bodonhely
 
 {% include settlementHTMLs/Bodonhely.html %}
 
-[Vissza](./)
+[Vissza](../)

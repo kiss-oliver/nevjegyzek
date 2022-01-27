@@ -6,4 +6,4 @@ description: Sitke
 
 {% include settlementHTMLs/Sitke.html %}
 
-[Vissza](./)
+[Vissza](../)

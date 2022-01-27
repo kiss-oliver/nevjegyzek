@@ -6,4 +6,4 @@ description: Panyola
 
 {% include settlementHTMLs/Panyola.html %}
 
-[Vissza](./)
+[Vissza](../)

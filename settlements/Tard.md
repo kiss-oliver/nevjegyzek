@@ -6,4 +6,4 @@ description: Tard
 
 {% include settlementHTMLs/Tard.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Cserkeszőlő
 
 {% include settlementHTMLs/Cserkeszooxxlooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

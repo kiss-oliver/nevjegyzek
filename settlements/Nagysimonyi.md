@@ -6,4 +6,4 @@ description: Nagysimonyi
 
 {% include settlementHTMLs/Nagysimonyi.html %}
 
-[Vissza](./)
+[Vissza](../)

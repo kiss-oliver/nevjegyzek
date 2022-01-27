@@ -6,4 +6,4 @@ description: Pázmánd
 
 {% include settlementHTMLs/Paazmaand.html %}
 
-[Vissza](./)
+[Vissza](../)

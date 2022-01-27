@@ -6,4 +6,4 @@ description: Telekes
 
 {% include settlementHTMLs/Telekes.html %}
 
-[Vissza](./)
+[Vissza](../)

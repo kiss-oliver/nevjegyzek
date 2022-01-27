@@ -6,4 +6,4 @@ description: Chernelházadamonya
 
 {% include settlementHTMLs/Chernelhaazadamonya.html %}
 
-[Vissza](./)
+[Vissza](../)

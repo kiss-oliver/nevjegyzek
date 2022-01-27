@@ -6,4 +6,4 @@ description: Tomor
 
 {% include settlementHTMLs/Tomor.html %}
 
-[Vissza](./)
+[Vissza](../)

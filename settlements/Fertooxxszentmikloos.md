@@ -6,4 +6,4 @@ description: Fertőszentmiklós
 
 {% include settlementHTMLs/Fertooxxszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lórév
 
 {% include settlementHTMLs/Looreev.html %}
 
-[Vissza](./)
+[Vissza](../)

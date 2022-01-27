@@ -6,4 +6,4 @@ description: Bükkszentmárton
 
 {% include settlementHTMLs/Buuxkkszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

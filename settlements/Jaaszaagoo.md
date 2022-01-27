@@ -6,4 +6,4 @@ description: Jászágó
 
 {% include settlementHTMLs/Jaaszaagoo.html %}
 
-[Vissza](./)
+[Vissza](../)

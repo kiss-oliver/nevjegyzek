@@ -6,4 +6,4 @@ description: Mezőzombor
 
 {% include settlementHTMLs/Mezooxxzombor.html %}
 
-[Vissza](./)
+[Vissza](../)

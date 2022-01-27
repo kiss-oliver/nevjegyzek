@@ -6,4 +6,4 @@ description: Monok
 
 {% include settlementHTMLs/Monok.html %}
 
-[Vissza](./)
+[Vissza](../)

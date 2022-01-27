@@ -6,4 +6,4 @@ description: Tófű
 
 {% include settlementHTMLs/Toofuuxx.html %}
 
-[Vissza](./)
+[Vissza](../)

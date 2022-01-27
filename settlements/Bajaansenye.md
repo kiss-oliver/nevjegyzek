@@ -6,4 +6,4 @@ description: Bajánsenye
 
 {% include settlementHTMLs/Bajaansenye.html %}
 
-[Vissza](./)
+[Vissza](../)

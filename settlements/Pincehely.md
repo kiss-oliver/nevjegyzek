@@ -6,4 +6,4 @@ description: Pincehely
 
 {% include settlementHTMLs/Pincehely.html %}
 
-[Vissza](./)
+[Vissza](../)

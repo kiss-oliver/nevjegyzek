@@ -6,4 +6,4 @@ description: Kőröstetétlen
 
 {% include settlementHTMLs/Kooxxrooxsteteetlen.html %}
 
-[Vissza](./)
+[Vissza](../)

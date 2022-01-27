@@ -6,4 +6,4 @@ description: Nagyhajmás
 
 {% include settlementHTMLs/Nagyhajmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

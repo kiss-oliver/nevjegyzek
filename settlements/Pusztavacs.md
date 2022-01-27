@@ -6,4 +6,4 @@ description: Pusztavacs
 
 {% include settlementHTMLs/Pusztavacs.html %}
 
-[Vissza](./)
+[Vissza](../)

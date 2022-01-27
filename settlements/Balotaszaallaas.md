@@ -6,4 +6,4 @@ description: Balotaszállás
 
 {% include settlementHTMLs/Balotaszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

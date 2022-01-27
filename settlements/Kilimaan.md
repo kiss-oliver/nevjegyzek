@@ -6,4 +6,4 @@ description: Kilimán
 
 {% include settlementHTMLs/Kilimaan.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Sárkeszi
 
 {% include settlementHTMLs/Saarkeszi.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Budapest X. kerület
 
 {% include settlementHTMLs/BudapestXkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

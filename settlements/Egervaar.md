@@ -6,4 +6,4 @@ description: Egervár
 
 {% include settlementHTMLs/Egervaar.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Buzsák
 
 {% include settlementHTMLs/Buzsaak.html %}
 
-[Vissza](./)
+[Vissza](../)

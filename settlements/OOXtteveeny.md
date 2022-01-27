@@ -6,4 +6,4 @@ description: Öttevény
 
 {% include settlementHTMLs/OOXtteveeny.html %}
 
-[Vissza](./)
+[Vissza](../)

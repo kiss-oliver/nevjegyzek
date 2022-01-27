@@ -6,4 +6,4 @@ description: Pilisvörösvár
 
 {% include settlementHTMLs/Pilisvooxrooxsvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

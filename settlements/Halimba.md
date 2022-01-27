@@ -6,4 +6,4 @@ description: Halimba
 
 {% include settlementHTMLs/Halimba.html %}
 
-[Vissza](./)
+[Vissza](../)

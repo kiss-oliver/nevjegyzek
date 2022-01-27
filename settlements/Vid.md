@@ -6,4 +6,4 @@ description: Vid
 
 {% include settlementHTMLs/Vid.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Véménd
 
 {% include settlementHTMLs/Veemeend.html %}
 
-[Vissza](./)
+[Vissza](../)

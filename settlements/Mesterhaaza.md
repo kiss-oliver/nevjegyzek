@@ -6,4 +6,4 @@ description: Mesterháza
 
 {% include settlementHTMLs/Mesterhaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

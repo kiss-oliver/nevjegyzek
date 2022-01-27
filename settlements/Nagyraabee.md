@@ -6,4 +6,4 @@ description: Nagyrábé
 
 {% include settlementHTMLs/Nagyraabee.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Rád
 
 {% include settlementHTMLs/Raad.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kozármisleny
 
 {% include settlementHTMLs/Kozaarmisleny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszadorogma
 
 {% include settlementHTMLs/Tiszadorogma.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Vaskeresztes
 
 {% include settlementHTMLs/Vaskeresztes.html %}
 
-[Vissza](./)
+[Vissza](../)

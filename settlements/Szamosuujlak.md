@@ -6,4 +6,4 @@ description: Szamosújlak
 
 {% include settlementHTMLs/Szamosuujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

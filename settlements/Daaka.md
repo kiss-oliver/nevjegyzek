@@ -6,4 +6,4 @@ description: Dáka
 
 {% include settlementHTMLs/Daaka.html %}
 
-[Vissza](./)
+[Vissza](../)

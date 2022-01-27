@@ -6,4 +6,4 @@ description: Felsőtold
 
 {% include settlementHTMLs/Felsooxxtold.html %}
 
-[Vissza](./)
+[Vissza](../)

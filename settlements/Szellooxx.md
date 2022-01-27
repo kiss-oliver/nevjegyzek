@@ -6,4 +6,4 @@ description: Szellő
 
 {% include settlementHTMLs/Szellooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

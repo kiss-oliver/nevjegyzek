@@ -6,4 +6,4 @@ description: Rákócziújfalu
 
 {% include settlementHTMLs/Raakoocziuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

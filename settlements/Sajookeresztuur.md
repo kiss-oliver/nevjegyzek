@@ -6,4 +6,4 @@ description: Sajókeresztúr
 
 {% include settlementHTMLs/Sajookeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

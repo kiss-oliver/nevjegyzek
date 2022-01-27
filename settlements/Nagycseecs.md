@@ -6,4 +6,4 @@ description: Nagycsécs
 
 {% include settlementHTMLs/Nagycseecs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Heréd
 
 {% include settlementHTMLs/Hereed.html %}
 
-[Vissza](./)
+[Vissza](../)

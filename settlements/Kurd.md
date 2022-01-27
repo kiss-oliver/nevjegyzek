@@ -6,4 +6,4 @@ description: Kurd
 
 {% include settlementHTMLs/Kurd.html %}
 
-[Vissza](./)
+[Vissza](../)

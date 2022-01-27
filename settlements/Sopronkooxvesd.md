@@ -6,4 +6,4 @@ description: Sopronkövesd
 
 {% include settlementHTMLs/Sopronkooxvesd.html %}
 
-[Vissza](./)
+[Vissza](../)

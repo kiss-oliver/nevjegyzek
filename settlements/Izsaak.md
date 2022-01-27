@@ -6,4 +6,4 @@ description: Izsák
 
 {% include settlementHTMLs/Izsaak.html %}
 
-[Vissza](./)
+[Vissza](../)

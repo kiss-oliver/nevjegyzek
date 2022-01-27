@@ -6,4 +6,4 @@ description: Mátramindszent
 
 {% include settlementHTMLs/Maatramindszent.html %}
 
-[Vissza](./)
+[Vissza](../)

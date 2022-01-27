@@ -6,4 +6,4 @@ description: Hangács
 
 {% include settlementHTMLs/Hangaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

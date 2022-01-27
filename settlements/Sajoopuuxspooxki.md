@@ -6,4 +6,4 @@ description: Sajópüspöki
 
 {% include settlementHTMLs/Sajoopuuxspooxki.html %}
 
-[Vissza](./)
+[Vissza](../)

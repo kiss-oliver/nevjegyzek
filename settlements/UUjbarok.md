@@ -6,4 +6,4 @@ description: Újbarok
 
 {% include settlementHTMLs/UUjbarok.html %}
 
-[Vissza](./)
+[Vissza](../)

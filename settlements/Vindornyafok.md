@@ -6,4 +6,4 @@ description: Vindornyafok
 
 {% include settlementHTMLs/Vindornyafok.html %}
 
-[Vissza](./)
+[Vissza](../)

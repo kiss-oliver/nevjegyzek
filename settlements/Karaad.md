@@ -6,4 +6,4 @@ description: Karád
 
 {% include settlementHTMLs/Karaad.html %}
 
-[Vissza](./)
+[Vissza](../)

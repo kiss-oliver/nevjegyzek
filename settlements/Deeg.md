@@ -6,4 +6,4 @@ description: Dég
 
 {% include settlementHTMLs/Deeg.html %}
 
-[Vissza](./)
+[Vissza](../)

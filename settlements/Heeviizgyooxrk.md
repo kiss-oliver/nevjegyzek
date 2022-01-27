@@ -6,4 +6,4 @@ description: Hévízgyörk
 
 {% include settlementHTMLs/Heeviizgyooxrk.html %}
 
-[Vissza](./)
+[Vissza](../)

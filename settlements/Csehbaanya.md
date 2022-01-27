@@ -6,4 +6,4 @@ description: Csehbánya
 
 {% include settlementHTMLs/Csehbaanya.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisbajom
 
 {% include settlementHTMLs/Kisbajom.html %}
 
-[Vissza](./)
+[Vissza](../)

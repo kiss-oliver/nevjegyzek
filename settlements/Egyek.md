@@ -6,4 +6,4 @@ description: Egyek
 
 {% include settlementHTMLs/Egyek.html %}
 
-[Vissza](./)
+[Vissza](../)

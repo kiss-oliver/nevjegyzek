@@ -6,4 +6,4 @@ description: Somogyaracs
 
 {% include settlementHTMLs/Somogyaracs.html %}
 
-[Vissza](./)
+[Vissza](../)

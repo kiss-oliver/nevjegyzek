@@ -6,4 +6,4 @@ description: Zánka
 
 {% include settlementHTMLs/Zaanka.html %}
 
-[Vissza](./)
+[Vissza](../)

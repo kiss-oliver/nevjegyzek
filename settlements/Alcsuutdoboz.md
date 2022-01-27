@@ -6,4 +6,4 @@ description: Alcsútdoboz
 
 {% include settlementHTMLs/Alcsuutdoboz.html %}
 
-[Vissza](./)
+[Vissza](../)

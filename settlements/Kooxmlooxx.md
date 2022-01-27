@@ -6,4 +6,4 @@ description: Kömlő
 
 {% include settlementHTMLs/Kooxmlooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

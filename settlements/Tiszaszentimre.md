@@ -6,4 +6,4 @@ description: Tiszaszentimre
 
 {% include settlementHTMLs/Tiszaszentimre.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pénzesgyőr
 
 {% include settlementHTMLs/Peenzesgyooxxr.html %}
 
-[Vissza](./)
+[Vissza](../)

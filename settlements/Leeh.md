@@ -6,4 +6,4 @@ description: Léh
 
 {% include settlementHTMLs/Leeh.html %}
 
-[Vissza](./)
+[Vissza](../)

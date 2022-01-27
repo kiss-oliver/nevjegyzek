@@ -6,4 +6,4 @@ description: Bugac
 
 {% include settlementHTMLs/Bugac.html %}
 
-[Vissza](./)
+[Vissza](../)

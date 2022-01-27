@@ -6,4 +6,4 @@ description: Boncodfölde
 
 {% include settlementHTMLs/Boncodfooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

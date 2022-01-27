@@ -6,4 +6,4 @@ description: Apostag
 
 {% include settlementHTMLs/Apostag.html %}
 
-[Vissza](./)
+[Vissza](../)

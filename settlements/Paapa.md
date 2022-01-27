@@ -6,4 +6,4 @@ description: Pápa
 
 {% include settlementHTMLs/Paapa.html %}
 
-[Vissza](./)
+[Vissza](../)

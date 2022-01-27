@@ -6,4 +6,4 @@ description: Rábapatona
 
 {% include settlementHTMLs/Raabapatona.html %}
 
-[Vissza](./)
+[Vissza](../)

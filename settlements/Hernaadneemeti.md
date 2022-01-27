@@ -6,4 +6,4 @@ description: Hernádnémeti
 
 {% include settlementHTMLs/Hernaadneemeti.html %}
 
-[Vissza](./)
+[Vissza](../)

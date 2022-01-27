@@ -6,4 +6,4 @@ description: Mindszentgodisa
 
 {% include settlementHTMLs/Mindszentgodisa.html %}
 
-[Vissza](./)
+[Vissza](../)

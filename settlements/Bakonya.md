@@ -6,4 +6,4 @@ description: Bakonya
 
 {% include settlementHTMLs/Bakonya.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Bocfölde
 
 {% include settlementHTMLs/Bocfooxlde.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Derekegyház
 
 {% include settlementHTMLs/Derekegyhaaz.html %}
 
-[Vissza](./)
+[Vissza](../)

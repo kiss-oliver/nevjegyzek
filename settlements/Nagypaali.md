@@ -6,4 +6,4 @@ description: Nagypáli
 
 {% include settlementHTMLs/Nagypaali.html %}
 
-[Vissza](./)
+[Vissza](../)

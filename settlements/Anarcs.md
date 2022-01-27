@@ -6,4 +6,4 @@ description: Anarcs
 
 {% include settlementHTMLs/Anarcs.html %}
 
-[Vissza](./)
+[Vissza](../)

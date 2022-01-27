@@ -6,4 +6,4 @@ description: Mezőcsokonya
 
 {% include settlementHTMLs/Mezooxxcsokonya.html %}
 
-[Vissza](./)
+[Vissza](../)

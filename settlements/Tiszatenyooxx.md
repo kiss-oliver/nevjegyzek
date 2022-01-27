@@ -6,4 +6,4 @@ description: Tiszatenyő
 
 {% include settlementHTMLs/Tiszatenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

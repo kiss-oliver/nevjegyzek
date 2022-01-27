@@ -6,4 +6,4 @@ description: Lispeszentadorján
 
 {% include settlementHTMLs/Lispeszentadorjaan.html %}
 
-[Vissza](./)
+[Vissza](../)

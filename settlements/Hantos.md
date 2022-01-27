@@ -6,4 +6,4 @@ description: Hantos
 
 {% include settlementHTMLs/Hantos.html %}
 
-[Vissza](./)
+[Vissza](../)

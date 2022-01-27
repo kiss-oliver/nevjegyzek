@@ -6,4 +6,4 @@ description: Domaszék
 
 {% include settlementHTMLs/Domaszeek.html %}
 
-[Vissza](./)
+[Vissza](../)

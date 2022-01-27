@@ -6,4 +6,4 @@ description: Sárfimizdó
 
 {% include settlementHTMLs/Saarfimizdoo.html %}
 
-[Vissza](./)
+[Vissza](../)

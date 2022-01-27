@@ -6,4 +6,4 @@ description: Pusztaszemes
 
 {% include settlementHTMLs/Pusztaszemes.html %}
 
-[Vissza](./)
+[Vissza](../)

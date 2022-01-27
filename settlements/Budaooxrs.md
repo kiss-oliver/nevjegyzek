@@ -6,4 +6,4 @@ description: Budaörs
 
 {% include settlementHTMLs/Budaooxrs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kenéz
 
 {% include settlementHTMLs/Keneez.html %}
 
-[Vissza](./)
+[Vissza](../)

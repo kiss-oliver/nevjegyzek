@@ -6,4 +6,4 @@ description: Bánk
 
 {% include settlementHTMLs/Baank.html %}
 
-[Vissza](./)
+[Vissza](../)

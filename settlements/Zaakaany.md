@@ -6,4 +6,4 @@ description: Zákány
 
 {% include settlementHTMLs/Zaakaany.html %}
 
-[Vissza](./)
+[Vissza](../)

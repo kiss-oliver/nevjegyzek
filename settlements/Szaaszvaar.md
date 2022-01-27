@@ -6,4 +6,4 @@ description: Szászvár
 
 {% include settlementHTMLs/Szaaszvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

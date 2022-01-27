@@ -6,4 +6,4 @@ description: Füle
 
 {% include settlementHTMLs/Fuuxle.html %}
 
-[Vissza](./)
+[Vissza](../)

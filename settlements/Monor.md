@@ -6,4 +6,4 @@ description: Monor
 
 {% include settlementHTMLs/Monor.html %}
 
-[Vissza](./)
+[Vissza](../)

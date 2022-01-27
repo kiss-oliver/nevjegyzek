@@ -6,4 +6,4 @@ description: Bana
 
 {% include settlementHTMLs/Bana.html %}
 
-[Vissza](./)
+[Vissza](../)

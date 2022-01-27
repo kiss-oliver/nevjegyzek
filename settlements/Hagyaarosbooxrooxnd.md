@@ -6,4 +6,4 @@ description: Hagyárosbörönd
 
 {% include settlementHTMLs/Hagyaarosbooxrooxnd.html %}
 
-[Vissza](./)
+[Vissza](../)

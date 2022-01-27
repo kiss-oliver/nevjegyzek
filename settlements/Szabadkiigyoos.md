@@ -6,4 +6,4 @@ description: Szabadkígyós
 
 {% include settlementHTMLs/Szabadkiigyoos.html %}
 
-[Vissza](./)
+[Vissza](../)

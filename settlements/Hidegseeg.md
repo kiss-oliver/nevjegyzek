@@ -6,4 +6,4 @@ description: Hidegség
 
 {% include settlementHTMLs/Hidegseeg.html %}
 
-[Vissza](./)
+[Vissza](../)

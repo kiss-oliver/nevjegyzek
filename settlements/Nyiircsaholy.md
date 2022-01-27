@@ -6,4 +6,4 @@ description: Nyírcsaholy
 
 {% include settlementHTMLs/Nyiircsaholy.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tivadar
 
 {% include settlementHTMLs/Tivadar.html %}
 
-[Vissza](./)
+[Vissza](../)

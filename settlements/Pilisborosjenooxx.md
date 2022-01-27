@@ -6,4 +6,4 @@ description: Pilisborosjenő
 
 {% include settlementHTMLs/Pilisborosjenooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

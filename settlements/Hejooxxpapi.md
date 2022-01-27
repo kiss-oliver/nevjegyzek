@@ -6,4 +6,4 @@ description: Hejőpapi
 
 {% include settlementHTMLs/Hejooxxpapi.html %}
 
-[Vissza](./)
+[Vissza](../)

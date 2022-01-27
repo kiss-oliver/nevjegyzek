@@ -6,4 +6,4 @@ description: Tornaszentandrás
 
 {% include settlementHTMLs/Tornaszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

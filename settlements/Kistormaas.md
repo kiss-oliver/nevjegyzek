@@ -6,4 +6,4 @@ description: Kistormás
 
 {% include settlementHTMLs/Kistormaas.html %}
 
-[Vissza](./)
+[Vissza](../)

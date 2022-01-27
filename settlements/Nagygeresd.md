@@ -6,4 +6,4 @@ description: Nagygeresd
 
 {% include settlementHTMLs/Nagygeresd.html %}
 
-[Vissza](./)
+[Vissza](../)

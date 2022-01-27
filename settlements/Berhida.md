@@ -6,4 +6,4 @@ description: Berhida
 
 {% include settlementHTMLs/Berhida.html %}
 
-[Vissza](./)
+[Vissza](../)

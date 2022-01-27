@@ -6,4 +6,4 @@ description: Vashosszúfalu
 
 {% include settlementHTMLs/Vashosszuufalu.html %}
 
-[Vissza](./)
+[Vissza](../)

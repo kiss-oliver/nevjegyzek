@@ -6,4 +6,4 @@ description: Kajárpéc
 
 {% include settlementHTMLs/Kajaarpeec.html %}
 
-[Vissza](./)
+[Vissza](../)

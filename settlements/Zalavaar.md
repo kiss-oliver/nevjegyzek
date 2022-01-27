@@ -6,4 +6,4 @@ description: Zalavár
 
 {% include settlementHTMLs/Zalavaar.html %}
 
-[Vissza](./)
+[Vissza](../)

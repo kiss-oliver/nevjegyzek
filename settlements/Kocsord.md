@@ -6,4 +6,4 @@ description: Kocsord
 
 {% include settlementHTMLs/Kocsord.html %}
 
-[Vissza](./)
+[Vissza](../)

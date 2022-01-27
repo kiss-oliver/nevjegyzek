@@ -6,4 +6,4 @@ description: Parasznya
 
 {% include settlementHTMLs/Parasznya.html %}
 
-[Vissza](./)
+[Vissza](../)

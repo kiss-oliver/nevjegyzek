@@ -6,4 +6,4 @@ description: Pázmándfalu
 
 {% include settlementHTMLs/Paazmaandfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

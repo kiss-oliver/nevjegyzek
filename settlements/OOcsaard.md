@@ -6,4 +6,4 @@ description: Ócsárd
 
 {% include settlementHTMLs/OOcsaard.html %}
 
-[Vissza](./)
+[Vissza](../)

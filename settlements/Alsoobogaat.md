@@ -6,4 +6,4 @@ description: Alsóbogát
 
 {% include settlementHTMLs/Alsoobogaat.html %}
 
-[Vissza](./)
+[Vissza](../)

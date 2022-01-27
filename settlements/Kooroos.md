@@ -6,4 +6,4 @@ description: Kórós
 
 {% include settlementHTMLs/Kooroos.html %}
 
-[Vissza](./)
+[Vissza](../)

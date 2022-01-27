@@ -6,4 +6,4 @@ description: Felsőszentiván
 
 {% include settlementHTMLs/Felsooxxszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

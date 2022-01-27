@@ -6,4 +6,4 @@ description: Isaszeg
 
 {% include settlementHTMLs/Isaszeg.html %}
 
-[Vissza](./)
+[Vissza](../)

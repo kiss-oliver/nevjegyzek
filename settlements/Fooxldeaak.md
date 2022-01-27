@@ -6,4 +6,4 @@ description: Földeák
 
 {% include settlementHTMLs/Fooxldeaak.html %}
 
-[Vissza](./)
+[Vissza](../)

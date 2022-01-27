@@ -6,4 +6,4 @@ description: Mikófalva
 
 {% include settlementHTMLs/Mikoofalva.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Máriakálnok
 
 {% include settlementHTMLs/Maariakaalnok.html %}
 
-[Vissza](./)
+[Vissza](../)

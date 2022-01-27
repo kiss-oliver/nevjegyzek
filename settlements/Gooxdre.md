@@ -6,4 +6,4 @@ description: Gödre
 
 {% include settlementHTMLs/Gooxdre.html %}
 
-[Vissza](./)
+[Vissza](../)

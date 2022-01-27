@@ -6,4 +6,4 @@ description: Nagybajcs
 
 {% include settlementHTMLs/Nagybajcs.html %}
 
-[Vissza](./)
+[Vissza](../)

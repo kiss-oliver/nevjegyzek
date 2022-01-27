@@ -6,4 +6,4 @@ description: Törökbálint
 
 {% include settlementHTMLs/Tooxrooxkbaalint.html %}
 
-[Vissza](./)
+[Vissza](../)

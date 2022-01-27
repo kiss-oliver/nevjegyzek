@@ -6,4 +6,4 @@ description: Bácsszőlős
 
 {% include settlementHTMLs/Baacsszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

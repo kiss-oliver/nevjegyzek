@@ -6,4 +6,4 @@ description: Lulla
 
 {% include settlementHTMLs/Lulla.html %}
 
-[Vissza](./)
+[Vissza](../)

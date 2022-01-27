@@ -6,4 +6,4 @@ description: Varbóc
 
 {% include settlementHTMLs/Varbooc.html %}
 
-[Vissza](./)
+[Vissza](../)

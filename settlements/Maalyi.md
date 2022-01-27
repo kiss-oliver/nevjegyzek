@@ -6,4 +6,4 @@ description: Mályi
 
 {% include settlementHTMLs/Maalyi.html %}
 
-[Vissza](./)
+[Vissza](../)

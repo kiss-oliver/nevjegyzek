@@ -6,4 +6,4 @@ description: Egeralja
 
 {% include settlementHTMLs/Egeralja.html %}
 
-[Vissza](./)
+[Vissza](../)

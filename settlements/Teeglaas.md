@@ -6,4 +6,4 @@ description: Téglás
 
 {% include settlementHTMLs/Teeglaas.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kardos
 
 {% include settlementHTMLs/Kardos.html %}
 
-[Vissza](./)
+[Vissza](../)

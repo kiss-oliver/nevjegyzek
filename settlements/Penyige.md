@@ -6,4 +6,4 @@ description: Penyige
 
 {% include settlementHTMLs/Penyige.html %}
 
-[Vissza](./)
+[Vissza](../)

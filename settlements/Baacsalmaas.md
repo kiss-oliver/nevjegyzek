@@ -6,4 +6,4 @@ description: Bácsalmás
 
 {% include settlementHTMLs/Baacsalmaas.html %}
 
-[Vissza](./)
+[Vissza](../)

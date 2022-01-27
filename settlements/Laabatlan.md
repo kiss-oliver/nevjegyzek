@@ -6,4 +6,4 @@ description: Lábatlan
 
 {% include settlementHTMLs/Laabatlan.html %}
 
-[Vissza](./)
+[Vissza](../)

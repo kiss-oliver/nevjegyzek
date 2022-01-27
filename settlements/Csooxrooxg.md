@@ -6,4 +6,4 @@ description: Csörög
 
 {% include settlementHTMLs/Csooxrooxg.html %}
 
-[Vissza](./)
+[Vissza](../)

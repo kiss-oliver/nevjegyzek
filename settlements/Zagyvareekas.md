@@ -6,4 +6,4 @@ description: Zagyvarékas
 
 {% include settlementHTMLs/Zagyvareekas.html %}
 
-[Vissza](./)
+[Vissza](../)

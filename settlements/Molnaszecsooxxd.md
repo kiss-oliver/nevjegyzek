@@ -6,4 +6,4 @@ description: Molnaszecsőd
 
 {% include settlementHTMLs/Molnaszecsooxxd.html %}
 
-[Vissza](./)
+[Vissza](../)

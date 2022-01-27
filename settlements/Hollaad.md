@@ -6,4 +6,4 @@ description: Hollád
 
 {% include settlementHTMLs/Hollaad.html %}
 
-[Vissza](./)
+[Vissza](../)

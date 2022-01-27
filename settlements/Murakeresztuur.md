@@ -6,4 +6,4 @@ description: Murakeresztúr
 
 {% include settlementHTMLs/Murakeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

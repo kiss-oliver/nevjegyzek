@@ -6,4 +6,4 @@ description: Szabadi
 
 {% include settlementHTMLs/Szabadi.html %}
 
-[Vissza](./)
+[Vissza](../)

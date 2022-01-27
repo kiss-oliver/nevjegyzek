@@ -6,4 +6,4 @@ description: Füzérkajata
 
 {% include settlementHTMLs/Fuuxzeerkajata.html %}
 
-[Vissza](./)
+[Vissza](../)

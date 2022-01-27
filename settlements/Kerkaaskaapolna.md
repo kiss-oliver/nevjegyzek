@@ -6,4 +6,4 @@ description: Kerkáskápolna
 
 {% include settlementHTMLs/Kerkaaskaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

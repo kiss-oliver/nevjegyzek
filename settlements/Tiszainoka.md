@@ -6,4 +6,4 @@ description: Tiszainoka
 
 {% include settlementHTMLs/Tiszainoka.html %}
 
-[Vissza](./)
+[Vissza](../)

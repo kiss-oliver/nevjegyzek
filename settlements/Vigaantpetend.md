@@ -6,4 +6,4 @@ description: Vigántpetend
 
 {% include settlementHTMLs/Vigaantpetend.html %}
 
-[Vissza](./)
+[Vissza](../)

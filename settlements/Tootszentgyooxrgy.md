@@ -6,4 +6,4 @@ description: Tótszentgyörgy
 
 {% include settlementHTMLs/Tootszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

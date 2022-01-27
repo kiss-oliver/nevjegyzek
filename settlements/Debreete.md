@@ -6,4 +6,4 @@ description: Debréte
 
 {% include settlementHTMLs/Debreete.html %}
 
-[Vissza](./)
+[Vissza](../)

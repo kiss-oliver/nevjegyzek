@@ -6,4 +6,4 @@ description: Tyukod
 
 {% include settlementHTMLs/Tyukod.html %}
 
-[Vissza](./)
+[Vissza](../)

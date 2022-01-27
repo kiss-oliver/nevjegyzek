@@ -6,4 +6,4 @@ description: Elek
 
 {% include settlementHTMLs/Elek.html %}
 
-[Vissza](./)
+[Vissza](../)

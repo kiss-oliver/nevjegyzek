@@ -6,4 +6,4 @@ description: Kajdacs
 
 {% include settlementHTMLs/Kajdacs.html %}
 
-[Vissza](./)
+[Vissza](../)

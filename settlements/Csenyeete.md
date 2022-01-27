@@ -6,4 +6,4 @@ description: Csenyéte
 
 {% include settlementHTMLs/Csenyeete.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Méra
 
 {% include settlementHTMLs/Meera.html %}
 
-[Vissza](./)
+[Vissza](../)

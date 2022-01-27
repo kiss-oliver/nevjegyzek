@@ -6,4 +6,4 @@ description: Siklós
 
 {% include settlementHTMLs/Sikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pereszteg
 
 {% include settlementHTMLs/Pereszteg.html %}
 
-[Vissza](./)
+[Vissza](../)

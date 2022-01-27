@@ -6,4 +6,4 @@ description: Tolnanémedi
 
 {% include settlementHTMLs/Tolnaneemedi.html %}
 
-[Vissza](./)
+[Vissza](../)

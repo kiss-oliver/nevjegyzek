@@ -6,4 +6,4 @@ description: Répceszentgyörgy
 
 {% include settlementHTMLs/Reepceszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

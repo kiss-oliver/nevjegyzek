@@ -6,4 +6,4 @@ description: Nak
 
 {% include settlementHTMLs/Nak.html %}
 
-[Vissza](./)
+[Vissza](../)

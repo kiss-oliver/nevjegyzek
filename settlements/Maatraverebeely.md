@@ -6,4 +6,4 @@ description: Mátraverebély
 
 {% include settlementHTMLs/Maatraverebeely.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szamosbecs
 
 {% include settlementHTMLs/Szamosbecs.html %}
 
-[Vissza](./)
+[Vissza](../)

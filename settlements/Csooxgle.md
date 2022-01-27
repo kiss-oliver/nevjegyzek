@@ -6,4 +6,4 @@ description: Csögle
 
 {% include settlementHTMLs/Csooxgle.html %}
 
-[Vissza](./)
+[Vissza](../)

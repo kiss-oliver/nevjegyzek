@@ -6,4 +6,4 @@ description: Csempeszkopács
 
 {% include settlementHTMLs/Csempeszkopaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

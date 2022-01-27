@@ -6,4 +6,4 @@ description: Bozsok
 
 {% include settlementHTMLs/Bozsok.html %}
 
-[Vissza](./)
+[Vissza](../)

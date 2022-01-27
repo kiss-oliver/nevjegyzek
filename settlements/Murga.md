@@ -6,4 +6,4 @@ description: Murga
 
 {% include settlementHTMLs/Murga.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Gálosfa
 
 {% include settlementHTMLs/Gaalosfa.html %}
 
-[Vissza](./)
+[Vissza](../)

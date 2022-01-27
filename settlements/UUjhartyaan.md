@@ -6,4 +6,4 @@ description: Újhartyán
 
 {% include settlementHTMLs/UUjhartyaan.html %}
 
-[Vissza](./)
+[Vissza](../)

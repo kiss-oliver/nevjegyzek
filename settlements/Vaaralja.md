@@ -6,4 +6,4 @@ description: Váralja
 
 {% include settlementHTMLs/Vaaralja.html %}
 
-[Vissza](./)
+[Vissza](../)

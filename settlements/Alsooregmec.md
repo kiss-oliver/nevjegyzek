@@ -6,4 +6,4 @@ description: Alsóregmec
 
 {% include settlementHTMLs/Alsooregmec.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Kisgyőr
 
 {% include settlementHTMLs/Kisgyooxxr.html %}
 
-[Vissza](./)
+[Vissza](../)

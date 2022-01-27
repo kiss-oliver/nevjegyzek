@@ -6,4 +6,4 @@ description: Somlóvecse
 
 {% include settlementHTMLs/Somloovecse.html %}
 
-[Vissza](./)
+[Vissza](../)

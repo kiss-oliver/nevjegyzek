@@ -6,4 +6,4 @@ description: Szabadszállás
 
 {% include settlementHTMLs/Szabadszaallaas.html %}
 
-[Vissza](./)
+[Vissza](../)

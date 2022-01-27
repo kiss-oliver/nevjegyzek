@@ -6,4 +6,4 @@ description: Surd
 
 {% include settlementHTMLs/Surd.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Nagylak
 
 {% include settlementHTMLs/Nagylak.html %}
 
-[Vissza](./)
+[Vissza](../)

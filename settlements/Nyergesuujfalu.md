@@ -6,4 +6,4 @@ description: Nyergesújfalu
 
 {% include settlementHTMLs/Nyergesuujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Örkény
 
 {% include settlementHTMLs/OOXrkeeny.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Körösladány
 
 {% include settlementHTMLs/Kooxrooxsladaany.html %}
 
-[Vissza](./)
+[Vissza](../)

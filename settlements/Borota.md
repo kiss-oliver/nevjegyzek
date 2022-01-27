@@ -6,4 +6,4 @@ description: Borota
 
 {% include settlementHTMLs/Borota.html %}
 
-[Vissza](./)
+[Vissza](../)

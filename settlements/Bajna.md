@@ -6,4 +6,4 @@ description: Bajna
 
 {% include settlementHTMLs/Bajna.html %}
 
-[Vissza](./)
+[Vissza](../)

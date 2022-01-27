@@ -6,4 +6,4 @@ description: Öreglak
 
 {% include settlementHTMLs/OOXreglak.html %}
 
-[Vissza](./)
+[Vissza](../)

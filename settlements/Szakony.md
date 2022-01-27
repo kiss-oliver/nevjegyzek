@@ -6,4 +6,4 @@ description: Szakony
 
 {% include settlementHTMLs/Szakony.html %}
 
-[Vissza](./)
+[Vissza](../)

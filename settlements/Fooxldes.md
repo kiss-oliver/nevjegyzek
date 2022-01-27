@@ -6,4 +6,4 @@ description: Földes
 
 {% include settlementHTMLs/Fooxldes.html %}
 
-[Vissza](./)
+[Vissza](../)

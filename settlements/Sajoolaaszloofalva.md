@@ -6,4 +6,4 @@ description: Sajólászlófalva
 
 {% include settlementHTMLs/Sajoolaaszloofalva.html %}
 
-[Vissza](./)
+[Vissza](../)

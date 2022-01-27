@@ -6,4 +6,4 @@ description: Abádszalók
 
 {% include settlementHTMLs/Abaadszalook.html %}
 
-[Vissza](./)
+[Vissza](../)

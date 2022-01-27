@@ -6,4 +6,4 @@ description: Mátranovák
 
 {% include settlementHTMLs/Maatranovaak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Patalom
 
 {% include settlementHTMLs/Patalom.html %}
 
-[Vissza](./)
+[Vissza](../)

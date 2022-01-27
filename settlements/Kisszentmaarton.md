@@ -6,4 +6,4 @@ description: Kisszentmárton
 
 {% include settlementHTMLs/Kisszentmaarton.html %}
 
-[Vissza](./)
+[Vissza](../)

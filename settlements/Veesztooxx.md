@@ -6,4 +6,4 @@ description: Vésztő
 
 {% include settlementHTMLs/Veesztooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

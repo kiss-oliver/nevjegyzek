@@ -6,4 +6,4 @@ description: Paks
 
 {% include settlementHTMLs/Paks.html %}
 
-[Vissza](./)
+[Vissza](../)

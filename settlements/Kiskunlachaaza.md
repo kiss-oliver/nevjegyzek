@@ -6,4 +6,4 @@ description: Kiskunlacháza
 
 {% include settlementHTMLs/Kiskunlachaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

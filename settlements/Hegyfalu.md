@@ -6,4 +6,4 @@ description: Hegyfalu
 
 {% include settlementHTMLs/Hegyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

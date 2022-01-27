@@ -6,4 +6,4 @@ description: Rakaca
 
 {% include settlementHTMLs/Rakaca.html %}
 
-[Vissza](./)
+[Vissza](../)

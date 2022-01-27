@@ -6,4 +6,4 @@ description: Leányfalu
 
 {% include settlementHTMLs/Leaanyfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

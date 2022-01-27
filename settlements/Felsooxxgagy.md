@@ -6,4 +6,4 @@ description: Felsőgagy
 
 {% include settlementHTMLs/Felsooxxgagy.html %}
 
-[Vissza](./)
+[Vissza](../)

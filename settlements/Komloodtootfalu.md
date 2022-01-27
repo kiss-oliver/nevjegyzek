@@ -6,4 +6,4 @@ description: Komlódtótfalu
 
 {% include settlementHTMLs/Komloodtootfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

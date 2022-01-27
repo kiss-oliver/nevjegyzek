@@ -6,4 +6,4 @@ description: Békésszentandrás
 
 {% include settlementHTMLs/Beekeesszentandraas.html %}
 
-[Vissza](./)
+[Vissza](../)

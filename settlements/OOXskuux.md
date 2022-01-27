@@ -6,4 +6,4 @@ description: Öskü
 
 {% include settlementHTMLs/OOXskuux.html %}
 
-[Vissza](./)
+[Vissza](../)

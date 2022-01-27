@@ -6,4 +6,4 @@ description: Tihany
 
 {% include settlementHTMLs/Tihany.html %}
 
-[Vissza](./)
+[Vissza](../)

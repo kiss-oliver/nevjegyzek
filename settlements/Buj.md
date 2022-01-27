@@ -6,4 +6,4 @@ description: Buj
 
 {% include settlementHTMLs/Buj.html %}
 
-[Vissza](./)
+[Vissza](../)

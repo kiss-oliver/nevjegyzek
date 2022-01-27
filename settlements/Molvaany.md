@@ -6,4 +6,4 @@ description: Molvány
 
 {% include settlementHTMLs/Molvaany.html %}
 
-[Vissza](./)
+[Vissza](../)

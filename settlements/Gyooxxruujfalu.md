@@ -6,4 +6,4 @@ description: Győrújfalu
 
 {% include settlementHTMLs/Gyooxxruujfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

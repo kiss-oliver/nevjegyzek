@@ -6,4 +6,4 @@ description: Daruszentmiklós
 
 {% include settlementHTMLs/Daruszentmikloos.html %}
 
-[Vissza](./)
+[Vissza](../)

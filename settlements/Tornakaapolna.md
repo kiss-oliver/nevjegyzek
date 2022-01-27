@@ -6,4 +6,4 @@ description: Tornakápolna
 
 {% include settlementHTMLs/Tornakaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

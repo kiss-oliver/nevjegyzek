@@ -6,4 +6,4 @@ description: Mecsekpölöske
 
 {% include settlementHTMLs/Mecsekpooxlooxske.html %}
 
-[Vissza](./)
+[Vissza](../)

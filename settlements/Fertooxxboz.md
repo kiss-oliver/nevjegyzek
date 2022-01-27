@@ -6,4 +6,4 @@ description: Fertőboz
 
 {% include settlementHTMLs/Fertooxxboz.html %}
 
-[Vissza](./)
+[Vissza](../)

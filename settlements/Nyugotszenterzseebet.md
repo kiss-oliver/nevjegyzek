@@ -6,4 +6,4 @@ description: Nyugotszenterzsébet
 
 {% include settlementHTMLs/Nyugotszenterzseebet.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Tiszaszőlős
 
 {% include settlementHTMLs/Tiszaszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

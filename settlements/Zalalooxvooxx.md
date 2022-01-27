@@ -6,4 +6,4 @@ description: Zalalövő
 
 {% include settlementHTMLs/Zalalooxvooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

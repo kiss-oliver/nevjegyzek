@@ -6,4 +6,4 @@ description: Pusztamonostor
 
 {% include settlementHTMLs/Pusztamonostor.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Pusztacsó
 
 {% include settlementHTMLs/Pusztacsoo.html %}
 
-[Vissza](./)
+[Vissza](../)

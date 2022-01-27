@@ -6,4 +6,4 @@ description: Bakóca
 
 {% include settlementHTMLs/Bakooca.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Damak
 
 {% include settlementHTMLs/Damak.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Onga
 
 {% include settlementHTMLs/Onga.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Lovászpatona
 
 {% include settlementHTMLs/Lovaaszpatona.html %}
 
-[Vissza](./)
+[Vissza](../)

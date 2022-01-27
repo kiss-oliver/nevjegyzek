@@ -6,4 +6,4 @@ description: Mezőberény
 
 {% include settlementHTMLs/Mezooxxbereeny.html %}
 
-[Vissza](./)
+[Vissza](../)

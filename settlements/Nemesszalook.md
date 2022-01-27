@@ -6,4 +6,4 @@ description: Nemesszalók
 
 {% include settlementHTMLs/Nemesszalook.html %}
 
-[Vissza](./)
+[Vissza](../)

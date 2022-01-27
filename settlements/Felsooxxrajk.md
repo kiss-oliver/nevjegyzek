@@ -6,4 +6,4 @@ description: Felsőrajk
 
 {% include settlementHTMLs/Felsooxxrajk.html %}
 
-[Vissza](./)
+[Vissza](../)

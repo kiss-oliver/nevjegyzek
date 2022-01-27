@@ -6,4 +6,4 @@ description: Gávavencsellő
 
 {% include settlementHTMLs/Gaavavencsellooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

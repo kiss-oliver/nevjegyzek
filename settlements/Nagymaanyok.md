@@ -6,4 +6,4 @@ description: Nagymányok
 
 {% include settlementHTMLs/Nagymaanyok.html %}
 
-[Vissza](./)
+[Vissza](../)

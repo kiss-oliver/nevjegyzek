@@ -6,4 +6,4 @@ description: Kéked
 
 {% include settlementHTMLs/Keeked.html %}
 
-[Vissza](./)
+[Vissza](../)

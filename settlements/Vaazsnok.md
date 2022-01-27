@@ -6,4 +6,4 @@ description: Vázsnok
 
 {% include settlementHTMLs/Vaazsnok.html %}
 
-[Vissza](./)
+[Vissza](../)

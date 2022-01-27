@@ -6,4 +6,4 @@ description: Petrikeresztúr
 
 {% include settlementHTMLs/Petrikeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

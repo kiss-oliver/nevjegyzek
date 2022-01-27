@@ -6,4 +6,4 @@ description: Nagyveleg
 
 {% include settlementHTMLs/Nagyveleg.html %}
 
-[Vissza](./)
+[Vissza](../)

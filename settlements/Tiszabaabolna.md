@@ -6,4 +6,4 @@ description: Tiszabábolna
 
 {% include settlementHTMLs/Tiszabaabolna.html %}
 
-[Vissza](./)
+[Vissza](../)

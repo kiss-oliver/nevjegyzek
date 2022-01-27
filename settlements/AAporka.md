@@ -6,4 +6,4 @@ description: Áporka
 
 {% include settlementHTMLs/AAporka.html %}
 
-[Vissza](./)
+[Vissza](../)

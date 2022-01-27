@@ -6,4 +6,4 @@ description: Túrricse
 
 {% include settlementHTMLs/Tuurricse.html %}
 
-[Vissza](./)
+[Vissza](../)

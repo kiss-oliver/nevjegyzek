@@ -6,4 +6,4 @@ description: Sajókápolna
 
 {% include settlementHTMLs/Sajookaapolna.html %}
 
-[Vissza](./)
+[Vissza](../)

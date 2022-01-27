@@ -6,4 +6,4 @@ description: Sárhida
 
 {% include settlementHTMLs/Saarhida.html %}
 
-[Vissza](./)
+[Vissza](../)

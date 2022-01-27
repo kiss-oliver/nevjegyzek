@@ -6,4 +6,4 @@ description: Kesznyéten
 
 {% include settlementHTMLs/Kesznyeeten.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Timár
 
 {% include settlementHTMLs/Timaar.html %}
 
-[Vissza](./)
+[Vissza](../)

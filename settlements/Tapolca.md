@@ -6,4 +6,4 @@ description: Tapolca
 
 {% include settlementHTMLs/Tapolca.html %}
 
-[Vissza](./)
+[Vissza](../)

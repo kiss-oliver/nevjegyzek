@@ -6,4 +6,4 @@ description: Sikátor
 
 {% include settlementHTMLs/Sikaator.html %}
 
-[Vissza](./)
+[Vissza](../)

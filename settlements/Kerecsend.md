@@ -6,4 +6,4 @@ description: Kerecsend
 
 {% include settlementHTMLs/Kerecsend.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Cserhátszentiván
 
 {% include settlementHTMLs/Cserhaatszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

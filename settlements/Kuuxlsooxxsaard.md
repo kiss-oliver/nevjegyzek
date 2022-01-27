@@ -6,4 +6,4 @@ description: Külsősárd
 
 {% include settlementHTMLs/Kuuxlsooxxsaard.html %}
 
-[Vissza](./)
+[Vissza](../)

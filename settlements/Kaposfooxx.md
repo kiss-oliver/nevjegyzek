@@ -6,4 +6,4 @@ description: Kaposfő
 
 {% include settlementHTMLs/Kaposfooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

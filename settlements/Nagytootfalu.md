@@ -6,4 +6,4 @@ description: Nagytótfalu
 
 {% include settlementHTMLs/Nagytootfalu.html %}
 
-[Vissza](./)
+[Vissza](../)

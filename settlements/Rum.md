@@ -6,4 +6,4 @@ description: Rum
 
 {% include settlementHTMLs/Rum.html %}
 
-[Vissza](./)
+[Vissza](../)

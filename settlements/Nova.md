@@ -6,4 +6,4 @@ description: Nova
 
 {% include settlementHTMLs/Nova.html %}
 
-[Vissza](./)
+[Vissza](../)

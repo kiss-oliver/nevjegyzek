@@ -6,4 +6,4 @@ description: Mátraballa
 
 {% include settlementHTMLs/Maatraballa.html %}
 
-[Vissza](./)
+[Vissza](../)

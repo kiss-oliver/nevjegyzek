@@ -6,4 +6,4 @@ description: Abony
 
 {% include settlementHTMLs/Abony.html %}
 
-[Vissza](./)
+[Vissza](../)

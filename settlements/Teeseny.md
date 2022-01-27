@@ -6,4 +6,4 @@ description: Téseny
 
 {% include settlementHTMLs/Teeseny.html %}
 
-[Vissza](./)
+[Vissza](../)

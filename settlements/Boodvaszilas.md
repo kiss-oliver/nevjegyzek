@@ -6,4 +6,4 @@ description: Bódvaszilas
 
 {% include settlementHTMLs/Boodvaszilas.html %}
 
-[Vissza](./)
+[Vissza](../)

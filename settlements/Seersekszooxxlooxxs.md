@@ -6,4 +6,4 @@ description: Sérsekszőlős
 
 {% include settlementHTMLs/Seersekszooxxlooxxs.html %}
 
-[Vissza](./)
+[Vissza](../)

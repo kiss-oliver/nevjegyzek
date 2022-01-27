@@ -6,4 +6,4 @@ description: Andocs
 
 {% include settlementHTMLs/Andocs.html %}
 
-[Vissza](./)
+[Vissza](../)

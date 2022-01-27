@@ -6,4 +6,4 @@ description: Fiad
 
 {% include settlementHTMLs/Fiad.html %}
 
-[Vissza](./)
+[Vissza](../)

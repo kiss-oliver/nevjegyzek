@@ -6,4 +6,4 @@ description: Pusztafalu
 
 {% include settlementHTMLs/Pusztafalu.html %}
 
-[Vissza](./)
+[Vissza](../)

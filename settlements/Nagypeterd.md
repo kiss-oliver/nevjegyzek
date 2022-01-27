@@ -6,4 +6,4 @@ description: Nagypeterd
 
 {% include settlementHTMLs/Nagypeterd.html %}
 
-[Vissza](./)
+[Vissza](../)

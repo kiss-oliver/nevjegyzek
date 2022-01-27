@@ -6,4 +6,4 @@ description: Nézsa
 
 {% include settlementHTMLs/Neezsa.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Hegyháthodász
 
 {% include settlementHTMLs/Hegyhaathodaasz.html %}
 
-[Vissza](./)
+[Vissza](../)

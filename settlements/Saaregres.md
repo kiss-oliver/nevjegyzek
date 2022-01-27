@@ -6,4 +6,4 @@ description: Sáregres
 
 {% include settlementHTMLs/Saaregres.html %}
 
-[Vissza](./)
+[Vissza](../)

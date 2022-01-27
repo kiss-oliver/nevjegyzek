@@ -6,4 +6,4 @@ description: Bakonyszentiván
 
 {% include settlementHTMLs/Bakonyszentivaan.html %}
 
-[Vissza](./)
+[Vissza](../)

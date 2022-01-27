@@ -6,4 +6,4 @@ description: Kaszaper
 
 {% include settlementHTMLs/Kaszaper.html %}
 
-[Vissza](./)
+[Vissza](../)

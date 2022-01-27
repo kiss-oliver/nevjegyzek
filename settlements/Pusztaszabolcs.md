@@ -6,4 +6,4 @@ description: Pusztaszabolcs
 
 {% include settlementHTMLs/Pusztaszabolcs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Balatonfűzfő
 
 {% include settlementHTMLs/Balatonfuuxxzfooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

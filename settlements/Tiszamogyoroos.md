@@ -6,4 +6,4 @@ description: Tiszamogyorós
 
 {% include settlementHTMLs/Tiszamogyoroos.html %}
 
-[Vissza](./)
+[Vissza](../)

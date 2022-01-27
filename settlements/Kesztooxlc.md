@@ -6,4 +6,4 @@ description: Kesztölc
 
 {% include settlementHTMLs/Kesztooxlc.html %}
 
-[Vissza](./)
+[Vissza](../)

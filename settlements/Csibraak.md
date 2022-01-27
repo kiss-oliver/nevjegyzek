@@ -6,4 +6,4 @@ description: Csibrák
 
 {% include settlementHTMLs/Csibraak.html %}
 
-[Vissza](./)
+[Vissza](../)

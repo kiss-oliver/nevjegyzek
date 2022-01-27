@@ -6,4 +6,4 @@ description: Garadna
 
 {% include settlementHTMLs/Garadna.html %}
 
-[Vissza](./)
+[Vissza](../)

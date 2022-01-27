@@ -6,4 +6,4 @@ description: Szákszend
 
 {% include settlementHTMLs/Szaakszend.html %}
 
-[Vissza](./)
+[Vissza](../)

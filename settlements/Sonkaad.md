@@ -6,4 +6,4 @@ description: Sonkád
 
 {% include settlementHTMLs/Sonkaad.html %}
 
-[Vissza](./)
+[Vissza](../)

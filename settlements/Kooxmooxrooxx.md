@@ -6,4 +6,4 @@ description: Kömörő
 
 {% include settlementHTMLs/Kooxmooxrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

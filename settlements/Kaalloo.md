@@ -6,4 +6,4 @@ description: Kálló
 
 {% include settlementHTMLs/Kaalloo.html %}
 
-[Vissza](./)
+[Vissza](../)

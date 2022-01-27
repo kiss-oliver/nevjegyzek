@@ -6,4 +6,4 @@ description: Aldebrő
 
 {% include settlementHTMLs/Aldebrooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

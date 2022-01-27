@@ -6,4 +6,4 @@ description: Karcag
 
 {% include settlementHTMLs/Karcag.html %}
 
-[Vissza](./)
+[Vissza](../)

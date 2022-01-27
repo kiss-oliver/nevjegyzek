@@ -6,4 +6,4 @@ description: Tényő
 
 {% include settlementHTMLs/Teenyooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

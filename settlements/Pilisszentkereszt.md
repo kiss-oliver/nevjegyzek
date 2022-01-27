@@ -6,4 +6,4 @@ description: Pilisszentkereszt
 
 {% include settlementHTMLs/Pilisszentkereszt.html %}
 
-[Vissza](./)
+[Vissza](../)

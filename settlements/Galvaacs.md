@@ -6,4 +6,4 @@ description: Galvács
 
 {% include settlementHTMLs/Galvaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ramocsa
 
 {% include settlementHTMLs/Ramocsa.html %}
 
-[Vissza](./)
+[Vissza](../)

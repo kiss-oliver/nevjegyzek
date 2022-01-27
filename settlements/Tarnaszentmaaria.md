@@ -6,4 +6,4 @@ description: Tarnaszentmária
 
 {% include settlementHTMLs/Tarnaszentmaaria.html %}
 
-[Vissza](./)
+[Vissza](../)

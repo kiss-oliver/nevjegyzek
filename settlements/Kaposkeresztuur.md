@@ -6,4 +6,4 @@ description: Kaposkeresztúr
 
 {% include settlementHTMLs/Kaposkeresztuur.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Füzesgyarmat
 
 {% include settlementHTMLs/Fuuxzesgyarmat.html %}
 
-[Vissza](./)
+[Vissza](../)

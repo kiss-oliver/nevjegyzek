@@ -6,4 +6,4 @@ description: Budapest XIII. kerület
 
 {% include settlementHTMLs/BudapestXIIIkeruuxlet.html %}
 
-[Vissza](./)
+[Vissza](../)

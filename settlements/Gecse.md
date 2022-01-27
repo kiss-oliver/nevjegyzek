@@ -6,4 +6,4 @@ description: Gecse
 
 {% include settlementHTMLs/Gecse.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Ártánd
 
 {% include settlementHTMLs/AArtaand.html %}
 
-[Vissza](./)
+[Vissza](../)

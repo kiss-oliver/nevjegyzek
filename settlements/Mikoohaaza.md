@@ -6,4 +6,4 @@ description: Mikóháza
 
 {% include settlementHTMLs/Mikoohaaza.html %}
 
-[Vissza](./)
+[Vissza](../)

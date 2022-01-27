@@ -6,4 +6,4 @@ description: Zirc
 
 {% include settlementHTMLs/Zirc.html %}
 
-[Vissza](./)
+[Vissza](../)

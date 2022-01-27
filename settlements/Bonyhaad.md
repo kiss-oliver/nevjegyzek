@@ -6,4 +6,4 @@ description: Bonyhád
 
 {% include settlementHTMLs/Bonyhaad.html %}
 
-[Vissza](./)
+[Vissza](../)

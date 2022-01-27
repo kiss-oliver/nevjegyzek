@@ -6,4 +6,4 @@ description: Csanytelek
 
 {% include settlementHTMLs/Csanytelek.html %}
 
-[Vissza](./)
+[Vissza](../)

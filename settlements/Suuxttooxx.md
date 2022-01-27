@@ -6,4 +6,4 @@ description: Süttő
 
 {% include settlementHTMLs/Suuxttooxx.html %}
 
-[Vissza](./)
+[Vissza](../)

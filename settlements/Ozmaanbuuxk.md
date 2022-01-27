@@ -6,4 +6,4 @@ description: Ozmánbük
 
 {% include settlementHTMLs/Ozmaanbuuxk.html %}
 
-[Vissza](./)
+[Vissza](../)

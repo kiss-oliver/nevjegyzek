@@ -6,4 +6,4 @@ description: Nyírbogát
 
 {% include settlementHTMLs/Nyiirbogaat.html %}
 
-[Vissza](./)
+[Vissza](../)

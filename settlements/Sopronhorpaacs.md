@@ -6,4 +6,4 @@ description: Sopronhorpács
 
 {% include settlementHTMLs/Sopronhorpaacs.html %}
 
-[Vissza](./)
+[Vissza](../)

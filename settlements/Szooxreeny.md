@@ -6,4 +6,4 @@ description: Szörény
 
 {% include settlementHTMLs/Szooxreeny.html %}
 
-[Vissza](./)
+[Vissza](../)

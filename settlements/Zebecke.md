@@ -6,4 +6,4 @@ description: Zebecke
 
 {% include settlementHTMLs/Zebecke.html %}
 
-[Vissza](./)
+[Vissza](../)

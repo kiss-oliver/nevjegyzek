@@ -6,4 +6,4 @@ description: Perenye
 
 {% include settlementHTMLs/Perenye.html %}
 
-[Vissza](./)
+[Vissza](../)

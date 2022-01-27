@@ -6,4 +6,4 @@ description: Iklódbördőce
 
 {% include settlementHTMLs/Ikloodbooxrdooxxce.html %}
 
-[Vissza](./)
+[Vissza](../)

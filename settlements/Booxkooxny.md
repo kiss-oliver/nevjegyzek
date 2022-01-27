@@ -6,4 +6,4 @@ description: Bököny
 
 {% include settlementHTMLs/Booxkooxny.html %}
 
-[Vissza](./)
+[Vissza](../)

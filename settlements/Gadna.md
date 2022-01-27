@@ -6,4 +6,4 @@ description: Gadna
 
 {% include settlementHTMLs/Gadna.html %}
 
-[Vissza](./)
+[Vissza](../)

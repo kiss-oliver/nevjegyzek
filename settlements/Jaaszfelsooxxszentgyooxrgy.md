@@ -6,4 +6,4 @@ description: Jászfelsőszentgyörgy
 
 {% include settlementHTMLs/Jaaszfelsooxxszentgyooxrgy.html %}
 
-[Vissza](./)
+[Vissza](../)

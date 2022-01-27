@@ -6,4 +6,4 @@ description: Hosszúvíz
 
 {% include settlementHTMLs/Hosszuuviiz.html %}
 
-[Vissza](./)
+[Vissza](../)

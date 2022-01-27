@@ -6,4 +6,4 @@ description: Újiráz
 
 {% include settlementHTMLs/UUjiraaz.html %}
 
-[Vissza](./)
+[Vissza](../)

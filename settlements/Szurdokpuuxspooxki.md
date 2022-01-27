@@ -6,4 +6,4 @@ description: Szurdokpüspöki
 
 {% include settlementHTMLs/Szurdokpuuxspooxki.html %}
 
-[Vissza](./)
+[Vissza](../)

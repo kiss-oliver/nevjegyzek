@@ -6,4 +6,4 @@ description: Tárkány
 
 {% include settlementHTMLs/Taarkaany.html %}
 
-[Vissza](./)
+[Vissza](../)

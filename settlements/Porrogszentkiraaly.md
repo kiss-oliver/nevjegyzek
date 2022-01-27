@@ -6,4 +6,4 @@ description: Porrogszentkirály
 
 {% include settlementHTMLs/Porrogszentkiraaly.html %}
 
-[Vissza](./)
+[Vissza](../)

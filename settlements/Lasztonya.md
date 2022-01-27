@@ -6,4 +6,4 @@ description: Lasztonya
 
 {% include settlementHTMLs/Lasztonya.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Erdőbénye
 
 {% include settlementHTMLs/Erdooxxbeenye.html %}
 
-[Vissza](./)
+[Vissza](../)

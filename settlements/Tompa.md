@@ -6,4 +6,4 @@ description: Tompa
 
 {% include settlementHTMLs/Tompa.html %}
 
-[Vissza](./)
+[Vissza](../)

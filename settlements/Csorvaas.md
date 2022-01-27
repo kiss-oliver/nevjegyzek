@@ -6,4 +6,4 @@ description: Csorvás
 
 {% include settlementHTMLs/Csorvaas.html %}
 
-[Vissza](./)
+[Vissza](../)

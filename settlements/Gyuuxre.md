@@ -6,4 +6,4 @@ description: Gyüre
 
 {% include settlementHTMLs/Gyuuxre.html %}
 
-[Vissza](./)
+[Vissza](../)

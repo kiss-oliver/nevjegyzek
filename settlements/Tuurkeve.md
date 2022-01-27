@@ -6,4 +6,4 @@ description: Túrkeve
 
 {% include settlementHTMLs/Tuurkeve.html %}
 
-[Vissza](./)
+[Vissza](../)

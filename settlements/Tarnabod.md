@@ -6,4 +6,4 @@ description: Tarnabod
 
 {% include settlementHTMLs/Tarnabod.html %}
 
-[Vissza](./)
+[Vissza](../)

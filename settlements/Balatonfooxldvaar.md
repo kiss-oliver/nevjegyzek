@@ -6,4 +6,4 @@ description: Balatonföldvár
 
 {% include settlementHTMLs/Balatonfooxldvaar.html %}
 
-[Vissza](./)
+[Vissza](../)

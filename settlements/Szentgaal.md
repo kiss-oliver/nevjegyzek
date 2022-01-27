@@ -6,4 +6,4 @@ description: Szentgál
 
 {% include settlementHTMLs/Szentgaal.html %}
 
-[Vissza](./)
+[Vissza](../)

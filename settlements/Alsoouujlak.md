@@ -6,4 +6,4 @@ description: Alsóújlak
 
 {% include settlementHTMLs/Alsoouujlak.html %}
 
-[Vissza](./)
+[Vissza](../)

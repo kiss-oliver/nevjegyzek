@@ -6,4 +6,4 @@ description: Bodajk
 
 {% include settlementHTMLs/Bodajk.html %}
 
-[Vissza](./)
+[Vissza](../)

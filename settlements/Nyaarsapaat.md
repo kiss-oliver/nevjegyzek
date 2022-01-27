@@ -6,4 +6,4 @@ description: Nyársapát
 
 {% include settlementHTMLs/Nyaarsapaat.html %}
 
-[Vissza](./)
+[Vissza](../)

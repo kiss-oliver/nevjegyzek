@@ -6,4 +6,4 @@ description: Csapod
 
 {% include settlementHTMLs/Csapod.html %}
 
-[Vissza](./)
+[Vissza](../)

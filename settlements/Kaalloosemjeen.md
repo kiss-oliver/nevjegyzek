@@ -6,4 +6,4 @@ description: Kállósemjén
 
 {% include settlementHTMLs/Kaalloosemjeen.html %}
 
-[Vissza](./)
+[Vissza](../)

@@ -6,4 +6,4 @@ description: Szászberek
 
 {% include settlementHTMLs/Szaaszberek.html %}
 
-[Vissza](./)
+[Vissza](../)

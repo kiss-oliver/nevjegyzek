@@ -6,4 +6,4 @@ description: Mikepércs
 
 {% include settlementHTMLs/Mikepeercs.html %}
 
-[Vissza](./)
+[Vissza](../)

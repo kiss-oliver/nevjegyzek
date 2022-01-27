@@ -6,4 +6,4 @@ description: Várong
 
 {% include settlementHTMLs/Vaarong.html %}
 
-[Vissza](./)
+[Vissza](../)

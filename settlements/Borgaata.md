@@ -6,4 +6,4 @@ description: Borgáta
 
 {% include settlementHTMLs/Borgaata.html %}
 
-[Vissza](./)
+[Vissza](../)

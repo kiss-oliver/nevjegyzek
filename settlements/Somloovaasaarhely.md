@@ -6,4 +6,4 @@ description: Somlóvásárhely
 
 {% include settlementHTMLs/Somloovaasaarhely.html %}
 
-[Vissza](./)
+[Vissza](../)

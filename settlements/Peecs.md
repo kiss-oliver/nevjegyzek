@@ -6,4 +6,4 @@ description: Pécs
 
 {% include settlementHTMLs/Peecs.html %}
 
-[Vissza](./)
+[Vissza](../)

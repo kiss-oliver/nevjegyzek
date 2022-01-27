@@ -6,4 +6,4 @@ description: Sárisáp
 
 {% include settlementHTMLs/Saarisaap.html %}
 
-[Vissza](./)
+[Vissza](../)

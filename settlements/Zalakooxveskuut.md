@@ -6,4 +6,4 @@ description: Zalaköveskút
 
 {% include settlementHTMLs/Zalakooxveskuut.html %}
 
-[Vissza](./)
+[Vissza](../)
