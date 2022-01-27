@@ -4,6 +4,6 @@ title: Választási névjegyzék 2022
 description: Tolna
 ---
 
-{% include Tolna.html %}
+{% include settlementHTMLs/Tolna.html %}
 
 [Vissza](./)
