@@ -169,10 +169,7 @@ data['Változás (fő)'] = data['honos']-data['indulo']
 data=data.merge(data2, how='left')
 source = data[data.version==data.version.max()].drop_duplicates(subset=['megnev'])
 source = source.rename(columns={'megnev':'Település','honos':'Pillanatnyi','indulo':'Kiinduló'})
-import altair as alt
-from vega_datasets import data
 
-#source = data.movies.url
 
 stripplot =  alt.Chart(source, width=30).mark_circle(size=10).encode(
     x=alt.X(
