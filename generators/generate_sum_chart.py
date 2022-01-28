@@ -120,3 +120,87 @@ for stat in tr.keys():
     )
     
     ch.save('../_includes/SumFigures/{}.json'.format(unidecode.unidecode(stat)))
+
+    
+data = pd.read_csv('../106/data/telepules.csv')
+data2 = pd.read_csv('../106/data/oevk.csv').drop_duplicates(subset=['maz','maz_nev'])[['maz','maz_nev']]
+data2['maz'] = data2['maz'].astype(int)
+data['Változás (százalék)'] = (data['honos']/data['indulo']-1)*100
+data=data.merge(data2, how='left')
+source = data[data.version==data.version.max()].drop_duplicates(subset=['megnev'])
+source = source.rename(columns={'megnev':'Település','honos':'Pillanatnyi','indulo':'Kiinduló'})
+
+
+stripplot =  alt.Chart(source, width=30).mark_circle(size=10).encode(
+    x=alt.X(
+        'jitter:Q',
+        title=None,
+        axis=alt.Axis(values=[0], title=None, ticks=True, grid=False, labels=False),
+        scale=alt.Scale(),
+    ),
+    y=alt.Y('Változás (százalék):Q'),
+    color=alt.Color('maz_nev:N', legend=None),
+    tooltip=['Település', 'Változás (százalék)','Pillanatnyi','Kiinduló'],
+    column=alt.Column(
+        'maz_nev:N', title=None,
+        header=alt.Header(
+            labelAngle=-90,
+            titleOrient='top',
+            labelOrient='bottom',
+            labelAlign='left',
+            labelPadding=-10,
+        ),
+    ),
+).transform_calculate(
+    # Generate Gaussian jitter with a Box-Muller transform
+    jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
+).configure_facet(
+    spacing=0
+).configure_view(
+    stroke=None
+).interactive()
+
+stripplot.save('../_includes/SumFigures/stripplot_percentage.json')
+
+data = pd.read_csv('../106/data/telepules.csv')
+data2 = pd.read_csv('../106/data/oevk.csv').drop_duplicates(subset=['maz','maz_nev'])[['maz','maz_nev']]
+data2['maz'] = data2['maz'].astype(int)
+data['Változás (fő)'] = data['honos']-data['indulo']
+data=data.merge(data2, how='left')
+source = data[data.version==data.version.max()].drop_duplicates(subset=['megnev'])
+source = source.rename(columns={'megnev':'Település','honos':'Pillanatnyi','indulo':'Kiinduló'})
+import altair as alt
+from vega_datasets import data
+
+#source = data.movies.url
+
+stripplot =  alt.Chart(source, width=30).mark_circle(size=10).encode(
+    x=alt.X(
+        'jitter:Q',
+        title=None,
+        axis=alt.Axis(values=[0], title=None, ticks=True, grid=False, labels=False),
+        scale=alt.Scale(),
+    ),
+    y=alt.Y('Változás (fő):Q', scale=alt.Scale(type='symlog')),
+    color=alt.Color('maz_nev:N', legend=None),
+    tooltip=['Település', 'Változás (fő)','Pillanatnyi','Kiinduló'],
+    column=alt.Column(
+        'maz_nev:N', title=None,
+        header=alt.Header(
+            labelAngle=-90,
+            titleOrient='top',
+            labelOrient='bottom',
+            labelAlign='left',
+            labelPadding=-10,
+        ),
+    ),
+).transform_calculate(
+    # Generate Gaussian jitter with a Box-Muller transform
+    jitter='sqrt(-2*log(random()))*cos(2*PI*random())'
+).configure_facet(
+    spacing=0
+).configure_view(
+    stroke=None
+).interactive()
+
+stripplot.save('../_includes/SumFigures/stripplot_absolute.json')
