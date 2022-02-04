@@ -3,6 +3,7 @@
   <button class="Typetablinks" id="defaultTypeOpen" onclick="openType(event, 'OEVK')" style="font-size:20px;height:50px;width:250px">OEVK adatok</button>
   <button class="Typetablinks" onclick="openType(event, 'Orszagos')" style="font-size:20px;height:50px;width:250px">Országos adatok</button>
   <button class="Typetablinks" onclick="openType(event, 'Telepules')" style="font-size:20px;height:50px;width:250px">Települési adatok</button>
+  <button class="Typetablinks" onclick="openType(event, 'elemzesek')" style="font-size:20px;height:50px;width:250px">Összefoglaló ábrák</button>
   </div>
 
 </center>
@@ -41,5 +42,15 @@
 {% include county_graphs.html %}
 
 {% include initial_tab.html %}
+
+</div>
+
+<div id="elemzesek" class="Typetabcontent">
+
+<div style="text-align:center">
+  
+  {% include infographs.html %}
+
+</div>
 
 </div>
