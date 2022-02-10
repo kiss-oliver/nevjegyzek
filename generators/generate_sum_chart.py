@@ -8,9 +8,9 @@ df['Datum'] = pd.to_datetime(df['version'].map(lambda x: '20220'+str(x)))
 with open('../_includes/latestdata.txt', 'w') as f:
     f.write(str(df.Datum.max()))
 
-df = df.rename(columns={'nemzreSzavaz':'Nemzetiségi listára szavaz','partlistara':'Pártlistára szavaz','levelben':'Levélben szavaz','magyarLakc':'Magyarországi lakcímmel rendelkezik','lakcSzavkorSzavaz':'Lakcíme szerinti szavazókörben szavaz'})
+df = df.rename(columns={'nemzreSzavaz':'Nemzetiségi listára szavaz','atjelKuvi':'Külképviseleten szavaz','atjelBelf':'Lakcímétől eltérő belföldi szavazókörben szavaz','partlistara':'Pártlistára szavaz','levelben':'Levélben szavaz','magyarLakc':'Magyarországi lakcímmel rendelkezik','lakcSzavkorSzavaz':'Lakcíme szerinti szavazókörben szavaz'})
 
-for stat in ['Nemzetiségi listára szavaz', 'Pártlistára szavaz','Levélben szavaz','Magyarországi lakcímmel rendelkezik','Lakcíme szerinti szavazókörben szavaz']:
+for stat in ['Nemzetiségi listára szavaz', 'Pártlistára szavaz','Levélben szavaz','Lakcímétől eltérő belföldi szavazókörben szavaz','Külképviseleten szavaz','Magyarországi lakcímmel rendelkezik','Lakcíme szerinti szavazókörben szavaz']:
     source = df
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='single', nearest=True, on='mouseover',
