@@ -7,6 +7,8 @@
 
 <div id="vis1"></div>
 <div id="vis2"></div>
+<div id="vis2a"></div>
+<div id="vis2b"></div>
 <div id="vis3"></div>
 <div id="vis4"></div>
 <div id="vis5"></div>
@@ -30,6 +32,8 @@
 <script type="text/javascript">
   vegaEmbed('#vis1', {% include SumFigures/Magyarorszagilakcimmelrendelkezik.json %}).catch(console.error);
   vegaEmbed('#vis2', {% include SumFigures/Lakcimeszerintiszavazokorbenszavaz.json %}).catch(console.error);
+  vegaEmbed('#vis2a', {% include SumFigures/Lakcimetolelterobelfoldiszavazokorbenszavaz.json %}).catch(console.error);
+  vegaEmbed('#vis2b', {% include SumFigures/Kulkepviseletenszavaz.json %}).catch(console.error);
   vegaEmbed('#vis3', {% include SumFigures/Levelbenszavaz.json %}).catch(console.error);
   vegaEmbed('#vis4', {% include SumFigures/Partlistaraszavaz.json %}).catch(console.error);
   vegaEmbed('#vis5', {% include SumFigures/Nemzetisegilistaraszavaz.json %}).catch(console.error);
